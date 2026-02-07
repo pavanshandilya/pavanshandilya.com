@@ -30,7 +30,7 @@ concurrency:
 
 jobs:
   build:
-    if: github.event_name == 'pull_request' || vars.USER_SITE_REPOSITORY == ''
+    if: github.event_name == 'pull_request' || (vars.USER_SITE_REPOSITORY == '' && endsWith(github.event.repository.name, '.github.io'))
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -67,7 +67,7 @@ jobs:
           path: ./public
 
   deploy:
-    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main' && vars.USER_SITE_REPOSITORY == ''
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main' && vars.USER_SITE_REPOSITORY == '' && endsWith(github.event.repository.name, '.github.io')
     needs: build
     runs-on: ubuntu-latest
     environment:
@@ -79,7 +79,7 @@ jobs:
         uses: actions/deploy-pages@v4
 
   deploy-user-site:
-    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main' && vars.USER_SITE_REPOSITORY != ''
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main' && (vars.USER_SITE_REPOSITORY != '' || !endsWith(github.event.repository.name, '.github.io'))
     runs-on: ubuntu-latest
     permissions:
       contents: read
@@ -121,6 +121,10 @@ jobs:
             echo "BASE_URL=${{ vars.USER_SITE_BASE_URL }}" >> "$GITHUB_OUTPUT"
           else
             repo="${{ vars.USER_SITE_REPOSITORY }}"
+            if [ -z "$repo" ]; then
+              owner="${{ github.repository_owner }}"
+              repo="${owner}/${owner}.github.io"
+            fi
             user_site_repo="${repo##*/}"
             echo "BASE_URL=https://${user_site_repo}/" >> "$GITHUB_OUTPUT"
           fi
@@ -132,6 +136,6 @@ jobs:
         uses: peaceiris/actions-gh-pages@v4
         with:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
-          external_repository: ${{ vars.USER_SITE_REPOSITORY }}
+          external_repository: ${{ vars.USER_SITE_REPOSITORY != '' && vars.USER_SITE_REPOSITORY || format('{0}/{0}.github.io', github.repository_owner) }}
           publish_branch: gh-pages
           publish_dir: ./public
