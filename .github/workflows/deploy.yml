@@ -106,10 +106,17 @@ jobs:
             echo "Add PERSONAL_TOKEN in source repo -> Settings -> Secrets and variables -> Actions."
             exit 1
           fi
-          code="$(curl -sS -o /dev/null -w '%{http_code}' -H "Authorization: token ${PERSONAL_TOKEN}" "https://api.github.com/repos/${TARGET_REPO}")"
+          repo_json="$(curl -sS -H "Authorization: token ${PERSONAL_TOKEN}" "https://api.github.com/repos/${TARGET_REPO}")"
+          code="$(printf '%s' "$repo_json" | python3 -c 'import sys,json; d=json.load(sys.stdin); print("200" if d.get("full_name") else str(d.get("status", "")))')"
           if [ "$code" != "200" ]; then
             echo "PERSONAL_TOKEN cannot access target repo: ${TARGET_REPO} (HTTP ${code})"
             echo "Update token scope/repository access to include ${TARGET_REPO} with contents write permission."
+            exit 1
+          fi
+          can_push="$(printf '%s' "$repo_json" | python3 -c 'import sys,json; d=json.load(sys.stdin); p=d.get("permissions") or {}; print("true" if p.get("push") else "false")')"
+          if [ "$can_push" != "true" ]; then
+            echo "PERSONAL_TOKEN can read but cannot push to ${TARGET_REPO}."
+            echo "Grant write access (Contents: Read and write) for ${TARGET_REPO} and retry."
             exit 1
           fi
 
