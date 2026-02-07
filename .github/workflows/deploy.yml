@@ -91,7 +91,7 @@ jobs:
           owner="${{ github.repository_owner }}"
           target_repo="${{ vars.USER_SITE_REPOSITORY }}"
           if [ -z "$target_repo" ]; then
-            target_repo="${owner}/${owner}.github.io"
+            target_repo="${owner}/${owner}"
           fi
           echo "TARGET_REPO=${target_repo}" >> "$GITHUB_OUTPUT"
 
