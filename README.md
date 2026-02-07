@@ -80,12 +80,12 @@ Then run:
 Deploy workflow is fixed to this target:
 
 - Source repo: `pavanshandilya/pavanshandilya.com`
-- Hosting repo: `pavanshandilya/pavanshandilya` (branch `gh-pages`)
-- Site URL: `https://pavanshandilya.github.io/pavanshandilya/`
+- Hosting repo: `pavanshandilya/pavanshandilya.github.io` (branch `gh-pages`)
+- Site URL: `https://pavanshandilya.github.io/`
 - Required secret in source repo: `PERSONAL_TOKEN` (PAT with contents write on target repo)
 
 ## Base URL behavior
 
 - `hugo.toml` keeps a canonical placeholder: `https://example.org/`
 - Local dev uses `http://localhost:1313/` via `npm run dev`
-- CI deploy always builds with: `https://pavanshandilya.github.io/pavanshandilya/`
+- CI deploy always builds with: `https://pavanshandilya.github.io/`

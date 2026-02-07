@@ -316,15 +316,15 @@ This setup uses one fixed source repo and one fixed hosting repo.
 Fixed repos:
 
 - Source repo: `pavanshandilya/pavanshandilya.com`
-- Hosting repo: `pavanshandilya/pavanshandilya`
-- Published URL: `https://pavanshandilya.github.io/pavanshandilya/`
+- Hosting repo: `pavanshandilya/pavanshandilya.github.io`
+- Published URL: `https://pavanshandilya.github.io/`
 
 ### Repos in this model
 
 | Purpose                      | Repository                        |
 |------------------------------|-----------------------------------|
 | Source code (this Hugo repo) | `<username>/<source-repo>`        |
-| Public hosting target        | `pavanshandilya/pavanshandilya` |
+| Public hosting target        | `pavanshandilya/pavanshandilya.github.io` |
 
 ### End-to-end flow
 
@@ -346,7 +346,7 @@ sequenceDiagram
 
 ### Step-by-step setup
 
-1. Keep target repo as public: `pavanshandilya/pavanshandilya`.
+1. Keep target repo as public: `pavanshandilya/pavanshandilya.github.io`.
 2. In target repo, open `Settings -> Pages`.
 3. Under Build and deployment, set:
     - Source: `Deploy from a branch`
@@ -356,9 +356,9 @@ sequenceDiagram
     - Recommended: fine-grained PAT with `Contents: Read and write` for target repo
     - Alternative: deploy key with write access on target repo
 5. Add secret in source repo:
-    - `PERSONAL_TOKEN` (PAT with `Contents: Read and write` on `pavanshandilya/pavanshandilya`)
+    - `PERSONAL_TOKEN` (PAT with `Contents: Read and write` on `pavanshandilya/pavanshandilya.github.io`)
 6. Run workflow manually once, then push a small content change to verify automatic deploy.
-7. Confirm site at `https://pavanshandilya.github.io/pavanshandilya/`.
+7. Confirm site at `https://pavanshandilya.github.io/`.
 
 ### Example workflow snippet (source repo)
 
@@ -380,11 +380,11 @@ jobs:
         with:
           hugo-version: '0.155.2'
           extended: true
-      - run: hugo --minify --gc --baseURL "https://pavanshandilya.github.io/pavanshandilya/"
+      - run: hugo --minify --gc --baseURL "https://pavanshandilya.github.io/"
       - uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
-          external_repository: pavanshandilya/pavanshandilya
+          external_repository: pavanshandilya/pavanshandilya.github.io
           publish_branch: gh-pages
           publish_dir: ./public
 ```
@@ -393,7 +393,7 @@ jobs:
 
 - `GITHUB_TOKEN` from source repo cannot push to external repo.
 - Use PAT or deploy key for cross-repo publish.
-- Keep `baseURL` as `https://pavanshandilya.github.io/pavanshandilya/` for project Pages.
+- Keep `baseURL` as `https://pavanshandilya.github.io/` for user-site Pages.
 
 ### Official references
 

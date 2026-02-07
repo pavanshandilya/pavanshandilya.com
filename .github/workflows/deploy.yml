@@ -51,14 +51,14 @@ jobs:
           extended: true
 
       - name: Build Hugo site
-        run: hugo --gc --minify --cleanDestinationDir --baseURL "https://pavanshandilya.github.io/pavanshandilya/"
+        run: hugo --gc --minify --cleanDestinationDir --baseURL "https://pavanshandilya.github.io/"
 
       - name: Deploy to GitHub Pages branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
           publish_dir: ./public
-          external_repository: pavanshandilya/pavanshandilya
+          external_repository: pavanshandilya/pavanshandilya.github.io
           publish_branch: gh-pages
           force_orphan: true
 
@@ -67,4 +67,4 @@ jobs:
         run: |
           echo "### Deployment completed successfully" >> "$GITHUB_STEP_SUMMARY"
           echo "" >> "$GITHUB_STEP_SUMMARY"
-          echo "Published to https://pavanshandilya.github.io/pavanshandilya/" >> "$GITHUB_STEP_SUMMARY"
+          echo "Published to https://pavanshandilya.github.io/" >> "$GITHUB_STEP_SUMMARY"
