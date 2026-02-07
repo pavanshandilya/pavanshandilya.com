@@ -30,7 +30,7 @@ concurrency:
 
 jobs:
   build:
-    if: vars.USER_SITE_REPOSITORY == ''
+    if: github.event_name == 'pull_request' || vars.USER_SITE_REPOSITORY == ''
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -84,6 +84,17 @@ jobs:
     permissions:
       contents: read
     steps:
+      - name: Validate external deploy secrets
+        env:
+          PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+        run: |
+          set -euo pipefail
+          if [ -z "${PERSONAL_TOKEN}" ]; then
+            echo "Missing required secret: PERSONAL_TOKEN"
+            echo "Add PERSONAL_TOKEN in source repo -> Settings -> Secrets and variables -> Actions."
+            exit 1
+          fi
+
       - name: Checkout
         uses: actions/checkout@v4
         with:
