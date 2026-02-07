@@ -117,16 +117,23 @@ jobs:
         id: external-baseurl
         run: |
           set -euo pipefail
+          owner="${{ github.repository_owner }}"
+          target_repo="${{ vars.USER_SITE_REPOSITORY }}"
+          if [ -z "$target_repo" ]; then
+            target_repo="${owner}/${owner}"
+          fi
+          target_repo_name="${target_repo##*/}"
+          target_repo_owner="${target_repo%/*}"
+          echo "TARGET_REPO=${target_repo}" >> "$GITHUB_OUTPUT"
+
           if [ -n "${{ vars.USER_SITE_BASE_URL }}" ]; then
             echo "BASE_URL=${{ vars.USER_SITE_BASE_URL }}" >> "$GITHUB_OUTPUT"
           else
-            repo="${{ vars.USER_SITE_REPOSITORY }}"
-            if [ -z "$repo" ]; then
-              owner="${{ github.repository_owner }}"
-              repo="${owner}/${owner}.github.io"
+            if [[ "$target_repo_name" == *.github.io ]]; then
+              echo "BASE_URL=https://${target_repo_name}/" >> "$GITHUB_OUTPUT"
+            else
+              echo "BASE_URL=https://${target_repo_owner}.github.io/${target_repo_name}/" >> "$GITHUB_OUTPUT"
             fi
-            user_site_repo="${repo##*/}"
-            echo "BASE_URL=https://${user_site_repo}/" >> "$GITHUB_OUTPUT"
           fi
 
       - name: Build site for external repo
@@ -136,6 +143,6 @@ jobs:
         uses: peaceiris/actions-gh-pages@v4
         with:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
-          external_repository: ${{ vars.USER_SITE_REPOSITORY != '' && vars.USER_SITE_REPOSITORY || format('{0}/{0}.github.io', github.repository_owner) }}
+          external_repository: ${{ steps.external-baseurl.outputs.TARGET_REPO }}
           publish_branch: gh-pages
           publish_dir: ./public

@@ -83,9 +83,9 @@ Deploy workflow supports two modes:
 - Set optional repo variable: `SITE_BASE_URL`
 - If not set, URL is auto-derived.
 
-2. Separate user-site repo (`<username>.github.io`)
-- Set repo variable: `USER_SITE_REPOSITORY` (for you: `pavanshandilya/pavanshandilya.github.io`)
-- Optional repo variable: `USER_SITE_BASE_URL` (for you: `https://pavanshandilya.github.io/`)
+2. Separate hosting repo (project Pages or user-site)
+- Set repo variable: `USER_SITE_REPOSITORY` (for you: `pavanshandilya/pavanshandilya`)
+- Optional repo variable: `USER_SITE_BASE_URL` (for you: `https://pavanshandilya.github.io/pavanshandilya/`)
 - Add secret: `PERSONAL_TOKEN` (PAT with contents write on target repo)
 
 When `USER_SITE_REPOSITORY` is set, workflow auto-publishes built `public/` to that external repo `gh-pages` branch.
@@ -96,4 +96,6 @@ When `USER_SITE_REPOSITORY` is set, workflow auto-publishes built `public/` to t
 - Local dev uses `http://localhost:1313/` via `npm run dev`
 - CI deploy always injects the final URL dynamically in `.github/workflows/deploy.yml`
   - same-repo mode: `SITE_BASE_URL` or computed fallback (`https://<owner>.github.io/<repo>/`)
-  - separate user-site mode: `USER_SITE_BASE_URL` or `https://<username>.github.io/` from `USER_SITE_REPOSITORY`
+  - separate repo mode:
+    - if target repo is `<username>.github.io`: `https://<username>.github.io/`
+    - if target repo is normal repo `<username>/<repo>`: `https://<username>.github.io/<repo>/`

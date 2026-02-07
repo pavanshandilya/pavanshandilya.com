@@ -309,20 +309,21 @@ flowchart LR
     F --> H[data/roles and archive]
 ```
 
-## Hosting with separate GitHub user site repo
+## Hosting with separate GitHub Pages repo
 
-This is the exact model when your source code is in one repo, but hosting is on your GitHub user site repo.
+This is the exact model when your source code is in one repo, but hosting is on another GitHub repo.
 
-Important rule:
+Supported target repos:
 
-- For a user site, GitHub requires repo name: `<username>.github.io`.
+- User-site repo: `<username>.github.io`
+- Project Pages repo: `<username>/<repo>` (for this setup: `pavanshandilya/pavanshandilya`)
 
 ### Repos in this model
 
 | Purpose                      | Repository                        |
 |------------------------------|-----------------------------------|
 | Source code (this Hugo repo) | `<username>/<source-repo>`        |
-| Public hosting target        | `<username>/<username>.github.io` |
+| Public hosting target        | `<username>/<repo>` or `<username>/<username>.github.io` |
 
 ### End-to-end flow
 
@@ -331,7 +332,7 @@ sequenceDiagram
     participant Dev as "You"
     participant Src as "Source repo"
     participant Act as "GitHub Actions (source repo)"
-    participant UserRepo as "USERNAME.github.io repo"
+    participant UserRepo as "Target Pages repo"
     participant Pages as "GitHub Pages"
     participant Browser as "Visitors"
     Dev ->> Src: Push content/code changes
@@ -339,30 +340,30 @@ sequenceDiagram
     Act ->> Act: Build Hugo static files
     Act ->> UserRepo: Push /public to gh-pages (PAT/deploy key)
     UserRepo ->> Pages: Pages publishes branch
-    Pages -->> Browser: "Serve https://USERNAME.github.io"
+    Pages -->> Browser: "Serve GitHub Pages URL"
 ```
 
 ### Step-by-step setup
 
-1. Create the target repo as public: `<username>.github.io` (lowercase username).
+1. Create the target repo as public (for this setup: `pavanshandilya/pavanshandilya`).
 2. In target repo, open `Settings -> Pages`.
 3. Under Build and deployment, set:
     - Source: `Deploy from a branch`
     - Branch: `gh-pages`
     - Folder: `/(root)`
 4. In source repo, choose cross-repo auth method:
-    - Recommended: fine-grained PAT with `Contents: Read and write` for `<username>.github.io`
-    - Alternative: deploy key with write access on `<username>.github.io`
+    - Recommended: fine-grained PAT with `Contents: Read and write` for target repo
+    - Alternative: deploy key with write access on target repo
 5. Add secret in source repo:
     - `PERSONAL_TOKEN` (if PAT method)
 6. Add source repo variables:
-    - `USER_SITE_REPOSITORY=<username>/<username>.github.io`
-    - optional: `USER_SITE_BASE_URL=https://<username>.github.io/`
-   - for this repo use: `USER_SITE_REPOSITORY=pavanshandilya/pavanshandilya.github.io`
-   - for this repo use: `USER_SITE_BASE_URL=https://pavanshandilya.github.io/`
+    - `USER_SITE_REPOSITORY=<username>/<repo>`
+    - optional: `USER_SITE_BASE_URL=<final-pages-url>`
+   - for this repo use: `USER_SITE_REPOSITORY=pavanshandilya/pavanshandilya`
+   - for this repo use: `USER_SITE_BASE_URL=https://pavanshandilya.github.io/pavanshandilya/`
 7. The existing deploy workflow in this repo now auto-switches to external publish mode when `USER_SITE_REPOSITORY` is set.
 8. Run workflow manually once, then push a small content change to verify automatic deploy.
-9. Confirm site at `https://<username>.github.io`.
+9. Confirm site at your target Pages URL.
 
 ### Example workflow snippet (source repo)
 
