@@ -56,7 +56,9 @@ locations:
     - berlin
     - munich
     - bengaluru
+    - bangalore
     - mumbai
+    - chennai
   # Countries to exclude from search results.
   exclude_countries: []
   # Cities to exclude from search results.

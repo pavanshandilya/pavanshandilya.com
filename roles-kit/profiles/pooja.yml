@@ -53,7 +53,10 @@ locations:
     - berlin
     - munich
     - bengaluru
+    - bangalore
     - mumbai
+    - hyderabad
+    - chennai
   # Countries to exclude from search results.
   exclude_countries: []
   # Cities to exclude from search results.
