@@ -1,0 +1,126 @@
+name: build-and-deploy-hugo
+
+on:
+  push:
+    branches: ["main"]
+    paths:
+      - "content/**"
+      - "layouts/**"
+      - "assets/**"
+      - "static/**"
+      - "data/**"
+      - "roles-kit/**"
+      - "themes/**"
+      - "hugo.toml"
+      - "package.json"
+      - ".github/hugo.env"
+      - ".github/workflows/deploy.yml"
+  pull_request:
+    branches: ["main"]
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    if: vars.USER_SITE_REPOSITORY == ''
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+
+      - name: Resolve Hugo version
+        id: hugo-version
+        run: |
+          set -euo pipefail
+          . ./.github/hugo.env
+          echo "HUGO_VERSION=${HUGO_VERSION}" >> "$GITHUB_OUTPUT"
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: ${{ steps.hugo-version.outputs.HUGO_VERSION }}
+          extended: true
+
+      - name: Build site
+        env:
+          HUGO_BASEURL: ${{ vars.SITE_BASE_URL != '' && vars.SITE_BASE_URL || (endsWith(github.event.repository.name, '.github.io') && format('https://{0}/', github.event.repository.name) || format('https://{0}.github.io/{1}/', github.repository_owner, github.event.repository.name)) }}
+        run: hugo --gc --minify --cleanDestinationDir --baseURL "$HUGO_BASEURL"
+
+      - name: Setup Pages
+        if: github.event_name != 'pull_request'
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        if: github.event_name != 'pull_request'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
+
+  deploy:
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main' && vars.USER_SITE_REPOSITORY == ''
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+  deploy-user-site:
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main' && vars.USER_SITE_REPOSITORY != ''
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+
+      - name: Resolve Hugo version
+        id: hugo-version
+        run: |
+          set -euo pipefail
+          . ./.github/hugo.env
+          echo "HUGO_VERSION=${HUGO_VERSION}" >> "$GITHUB_OUTPUT"
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: ${{ steps.hugo-version.outputs.HUGO_VERSION }}
+          extended: true
+
+      - name: Resolve external base URL
+        id: external-baseurl
+        run: |
+          set -euo pipefail
+          if [ -n "${{ vars.USER_SITE_BASE_URL }}" ]; then
+            echo "BASE_URL=${{ vars.USER_SITE_BASE_URL }}" >> "$GITHUB_OUTPUT"
+          else
+            repo="${{ vars.USER_SITE_REPOSITORY }}"
+            user_site_repo="${repo##*/}"
+            echo "BASE_URL=https://${user_site_repo}/" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Build site for external repo
+        run: hugo --gc --minify --cleanDestinationDir --baseURL "${{ steps.external-baseurl.outputs.BASE_URL }}"
+
+      - name: Deploy to external user-site repo
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          personal_token: ${{ secrets.PERSONAL_TOKEN }}
+          external_repository: ${{ vars.USER_SITE_REPOSITORY }}
+          publish_branch: gh-pages
+          publish_dir: ./public

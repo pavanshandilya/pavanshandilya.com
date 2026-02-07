@@ -1,0 +1,183 @@
+# Unique profile id used by config profile_id.
+id: pooja
+# Friendly name shown on the live roles page.
+display_name: Pooja - product/scrum now, EM later
+# Bucket ids that are active now, so only these role groups are shown.
+active_bucket_ids:
+  - pm_product
+  - scrum_agile
+  - program_management
+# Skills used for relevance scoring of each job.
+skills:
+  - product strategy
+  - roadmap
+  - stakeholder management
+  - agile
+  - scrum
+  - jira
+  - delivery
+  - program management
+  - cross functional coordination
+# Simple country/city controls for non-tech users.
+locations:
+  # Countries to include in search results.
+  countries:
+    - germany
+    - india
+  # Cities to include in search results.
+  cities:
+    - berlin
+    - munich
+    - munchen
+    - hamburg
+    - frankfurt
+    - cologne
+    - stuttgart
+    - dusseldorf
+    - leipzig
+    - bengaluru
+    - bangalore
+    - mumbai
+    - pune
+    - hyderabad
+    - chennai
+    - gurugram
+    - noida
+    - delhi
+  # Countries to score higher when ranking jobs.
+  priority_countries:
+    - germany
+    - india
+  # Cities to score higher when ranking jobs.
+  priority_cities:
+    - berlin
+    - munich
+    - bengaluru
+    - mumbai
+  # Countries to exclude from search results.
+  exclude_countries: []
+  # Cities to exclude from search results.
+  exclude_cities: []
+# Global keyword controls for all buckets.
+keywords:
+  # Every listed keyword must be present in job text.
+  must_have: []
+  # These keywords add extra score if found in job text.
+  nice_to_have:
+    - product strategy
+    - stakeholder management
+    - agile delivery
+    - program management
+  # Any listed keyword will remove the job.
+  exclude: []
+# Advanced location patterns for power users (optional).
+geo_allow_patterns:
+  - germany|deutschland|berlin|munich|münchen|hamburg|frankfurt|cologne|köln|stuttgart|düsseldorf|leipzig
+  - india|bharat|bengaluru|bangalore|mumbai|pune|hyderabad|chennai|gurugram|noida|delhi
+# Advanced priority location patterns for power users (optional).
+geo_priority_patterns:
+  - germany|deutschland|berlin|munich|münchen|hamburg|frankfurt
+  - india|bengaluru|bangalore|mumbai|pune
+# Advanced exclude patterns for power users (optional).
+geo_exclude_patterns: []
+# Employer names preferred for this profile.
+employer_allowlist:
+  - SAP
+  - Siemens
+  - Deutsche Telekom
+  - Zalando
+  - HelloFresh
+  - Delivery Hero
+  - N26
+  - Trade Republic
+  - Celonis
+  - Booking.com
+  - Adyen
+  - Flipkart
+  - Swiggy
+  - Zomato
+  - Razorpay
+  - PhonePe
+  - Freshworks
+# Role groups with filters and thresholds.
+buckets:
+  # Bucket id used in active_bucket_ids and output grouping.
+  - id: pm_product
+    # Human label for this role group.
+    label: Product manager
+    # Regex title patterns for advanced matching.
+    include_title_patterns:
+      - product\s*manager
+      - senior\s*product\s*manager
+      - group\s*product\s*manager
+      - technical\s*product\s*manager
+    # Simple title keywords for non-tech matching.
+    include_title_keywords:
+      - product manager
+      - technical product manager
+      - group product manager
+    # Simple text keywords for non-tech matching in title/description.
+    include_text_keywords:
+      - roadmap
+      - product strategy
+      - stakeholder management
+    # Minimum score required after ranking logic.
+    min_score: 65
+    # Minimum number of skill matches required.
+    min_skill_hits: 1
+    # Maximum jobs kept in this bucket.
+    max_results: 160
+  - id: scrum_agile
+    label: Scrum/agile
+    include_title_patterns:
+      - scrum\s*master
+      - agile\s*coach
+      - delivery\s*manager
+      - program\s*manager
+    include_title_keywords:
+      - scrum master
+      - agile coach
+      - delivery manager
+      - program manager
+    include_text_keywords:
+      - scrum
+      - agile
+      - jira
+      - ceremonies
+    min_score: 60
+    min_skill_hits: 0
+    max_results: 160
+  - id: program_management
+    label: Program manager
+    include_title_patterns:
+      - program\s*manager
+      - technical\s*program\s*manager
+      - delivery\s*program\s*manager
+      - transformation\s*program\s*manager
+    include_title_keywords:
+      - program manager
+      - technical program manager
+      - delivery program manager
+    include_text_keywords:
+      - program planning
+      - cross functional
+      - stakeholder alignment
+      - execution
+    min_score: 65
+    min_skill_hits: 0
+    max_results: 160
+  - id: em_tech
+    label: Engineering manager (switch-on when needed)
+    include_title_patterns:
+      - engineering\s*manager
+      - head\s*of\s*engineering
+      - data\s*engineering\s*manager
+    include_title_keywords:
+      - engineering manager
+      - head of engineering
+    include_text_keywords:
+      - people leadership
+      - team management
+    min_score: 65
+    min_skill_hits: 0
+    max_results: 120

@@ -1,0 +1,22 @@
+{{- /* Load Mermaid only on pages that have mermaid diagrams */ -}}
+{{- /* Render hooks set hasMermaid; shortcode sets usesMermaid. Support both. */ -}}
+{{- if or (.Page.Store.Get "hasMermaid") (.Page.Scratch.Get "hasMermaid") (.Page.Scratch.Get "usesMermaid") -}}
+  {{- /* Prefer vendored Mermaid if present; fallback to CDN for runtime load */ -}}
+  {{- $vendored := resources.Get "js/vendor/mermaid.min.js" -}}
+  {{- with $vendored -}}
+    {{- $merm := . | resources.Fingerprint -}}
+    <script data-cfasync="false" src="{{ $merm.RelPermalink }}" integrity="{{ $merm.Data.Integrity }}" defer></script>
+  {{- else -}}
+    <script data-cfasync="false" src="https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.min.js" defer crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  {{- end -}}
+
+  {{- /* External init script to avoid inline JS blocked by CSP */ -}}
+  {{- $mermaidInit := resources.Get "js/mermaid-init.js" -}}
+  {{- if $mermaidInit -}}
+    {{- $mermaidInitBuilt := $mermaidInit | resources.Minify | resources.Fingerprint -}}
+    <script data-cfasync="false" src="{{ $mermaidInitBuilt.RelPermalink }}" integrity="{{ $mermaidInitBuilt.Data.Integrity }}" defer></script>
+  {{- end -}}
+{{- end -}}
+
+{{- /* PDF.js is loaded via iframe src, no additional script needed */ -}}
+{{- /* The 9MB pdfjs folder in static/ is only accessed when PDF shortcode is used */ -}}

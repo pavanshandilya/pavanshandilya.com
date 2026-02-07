@@ -1,0 +1,187 @@
+# Unique profile id used by config profile_id.
+id: pavan
+# Friendly name shown on the live roles page.
+display_name: Pavan - marketing, digital marketing, video editing
+# Bucket ids that are active now, so only these role groups are shown.
+active_bucket_ids:
+  - marketing_general
+  - digital_marketing
+  - video_editing
+# Skills used for relevance scoring of each job.
+skills:
+  - marketing strategy
+  - brand marketing
+  - digital marketing
+  - performance marketing
+  - seo
+  - sem
+  - social media
+  - campaign management
+  - content creation
+  - video editing
+  - adobe premiere pro
+  - davinci resolve
+# Simple country/city controls for non-tech users.
+locations:
+  # Countries to include in search results.
+  countries:
+    - germany
+    - india
+  # Cities to include in search results.
+  cities:
+    - berlin
+    - munich
+    - munchen
+    - hamburg
+    - frankfurt
+    - cologne
+    - stuttgart
+    - dusseldorf
+    - leipzig
+    - bengaluru
+    - bangalore
+    - mumbai
+    - pune
+    - hyderabad
+    - chennai
+    - gurugram
+    - noida
+    - delhi
+  # Countries to score higher when ranking jobs.
+  priority_countries:
+    - germany
+    - india
+  # Cities to score higher when ranking jobs.
+  priority_cities:
+    - berlin
+    - munich
+    - bengaluru
+    - mumbai
+  # Countries to exclude from search results.
+  exclude_countries: []
+  # Cities to exclude from search results.
+  exclude_cities: []
+# Global keyword controls for all buckets.
+keywords:
+  # Every listed keyword must be present in job text.
+  must_have: []
+  # These keywords add extra score if found in job text.
+  nice_to_have:
+    - campaign strategy
+    - performance marketing
+    - growth
+    - creative storytelling
+    - short-form video
+  # Any listed keyword will remove the job.
+  exclude: []
+# Advanced location patterns for power users (optional).
+geo_allow_patterns:
+  - germany|deutschland|berlin|munich|münchen|hamburg|frankfurt|cologne|köln|stuttgart|düsseldorf|leipzig
+  - india|bharat|bengaluru|bangalore|mumbai|pune|hyderabad|chennai|gurugram|noida|delhi
+# Advanced priority location patterns for power users (optional).
+geo_priority_patterns:
+  - germany|deutschland|berlin|munich|münchen|hamburg|frankfurt
+  - india|bengaluru|bangalore|mumbai|pune
+# Advanced exclude patterns for power users (optional).
+geo_exclude_patterns: []
+# Employer names preferred for this profile.
+employer_allowlist:
+  - Unilever
+  - P&G
+  - L'Oréal
+  - Nestlé
+  - Adidas
+  - Zalando
+  - HelloFresh
+  - Delivery Hero
+  - Flipkart
+  - Swiggy
+  - Zomato
+  - Myntra
+  - Nykaa
+  - Zepto
+  - Meesho
+  - Reliance Retail
+  - MediaMonks
+  - WPP
+  - Publicis
+  - Dentsu
+# Role groups with filters and thresholds.
+buckets:
+  # Bucket id used in active_bucket_ids and output grouping.
+  - id: marketing_general
+    # Human label for this role group.
+    label: Marketing manager / brand marketing
+    # Regex title patterns for advanced matching.
+    include_title_patterns:
+      - marketing\s*manager
+      - brand\s*manager
+      - marketing\s*specialist
+      - growth\s*manager
+      - content\s*marketing
+    # Simple title keywords for non-tech matching.
+    include_title_keywords:
+      - marketing manager
+      - brand manager
+      - marketing specialist
+      - growth manager
+    # Simple text keywords for non-tech matching in title/description.
+    include_text_keywords:
+      - campaign
+      - brand
+      - content
+      - growth
+    # Minimum score required after ranking logic.
+    min_score: 60
+    # Minimum number of skill matches required.
+    min_skill_hits: 1
+    # Maximum jobs kept in this bucket.
+    max_results: 200
+  - id: digital_marketing
+    label: Digital marketing / performance marketing
+    include_title_patterns:
+      - digital\s*marketing
+      - performance\s*marketing
+      - growth\s*marketing
+      - paid\s*media
+      - seo
+      - sem
+    include_title_keywords:
+      - digital marketing manager
+      - performance marketing manager
+      - growth marketing manager
+      - seo specialist
+      - sem specialist
+    include_text_keywords:
+      - google ads
+      - meta ads
+      - paid campaigns
+      - seo
+      - sem
+      - analytics
+    min_score: 60
+    min_skill_hits: 1
+    max_results: 150
+  - id: video_editing
+    label: Video editor / motion content
+    include_title_patterns:
+      - video\s*editor
+      - motion\s*graphics
+      - multimedia\s*editor
+      - content\s*producer
+      - social\s*media\s*editor
+    include_title_keywords:
+      - video editor
+      - motion graphics editor
+      - content creator
+      - social media editor
+    include_text_keywords:
+      - adobe premiere
+      - after effects
+      - davinci resolve
+      - reels
+      - shorts
+      - storytelling
+    min_score: 60
+    min_skill_hits: 0
+    max_results: 160

@@ -1,0 +1,122 @@
+generated_at: 2026-02-07T17:16:11.277Z
+explicit:
+  company_names:
+    - SAP
+    - Siemens
+    - Deutsche Telekom
+    - BMW
+    - Mercedes-Benz
+    - Volkswagen
+    - Zalando
+    - HelloFresh
+    - Delivery Hero
+    - N26
+    - Trade Republic
+    - Celonis
+    - Personio
+    - Flix
+    - Adyen
+    - Booking.com
+  personio_xml_feeds: []
+  smartrecruiters_companies: []
+  teamtailor_companies: []
+  recruitee_companies: []
+  ashby_organizations: []
+  stepstone_feeds: []
+  official_career_pages: []
+  search_queries: []
+discovered:
+  company_names:
+    - dataiku
+    - sendcloud
+    - parte-verwaltung-gmbh
+    - telus-digital
+    - a-team
+    - jump
+    - hubstaff
+    - nivoda
+  personio_xml_feeds:
+    - https://parte-verwaltung-gmbh.jobs.personio.de/xml
+    - https://parte-verwaltung-gmbh.jobs.personio.com/xml
+  smartrecruiters_companies:
+    - dataiku
+  teamtailor_companies: []
+  recruitee_companies:
+    - sendcloud
+    - jump
+  ashby_organizations:
+    - telus-digital
+    - a-team
+    - jump
+    - hubstaff
+    - nivoda
+  stepstone_feeds: []
+  official_career_pages:
+    - https://sap.com/careers
+    - https://careers.sap.com
+    - https://jobs.sap.com
+    - https://sap.io/careers
+    - https://careers.sap.io
+    - https://siemens.com/careers
+    - https://careers.siemens.com
+    - https://jobs.siemens.com
+    - https://siemens.io/careers
+    - https://careers.siemens.io
+    - https://deutsche-telekom.com/careers
+    - https://careers.deutsche-telekom.com
+    - https://jobs.deutsche-telekom.com
+    - https://deutsche-telekom.io/careers
+    - https://careers.deutsche-telekom.io
+    - https://bmw.com/careers
+    - https://careers.bmw.com
+    - https://jobs.bmw.com
+    - https://bmw.io/careers
+    - https://careers.bmw.io
+    - https://mercedes-benz.com/careers
+    - https://careers.mercedes-benz.com
+    - https://jobs.mercedes-benz.com
+    - https://mercedes-benz.io/careers
+    - https://careers.mercedes-benz.io
+    - https://volkswagen.com/careers
+    - https://careers.volkswagen.com
+    - https://jobs.volkswagen.com
+    - https://volkswagen.io/careers
+    - https://careers.volkswagen.io
+    - https://zalando.com/careers
+    - https://careers.zalando.com
+    - https://jobs.zalando.com
+    - https://zalando.io/careers
+    - https://careers.zalando.io
+    - https://hellofresh.com/careers
+    - https://careers.hellofresh.com
+    - https://jobs.hellofresh.com
+    - https://hellofresh.io/careers
+    - https://careers.hellofresh.io
+  search_queries:
+    - marketing manager germany jobs
+    - marketing manager india jobs
+    - marketing manager berlin jobs
+    - marketing manager munich jobs
+    - marketing manager bengaluru jobs
+    - marketing manager mumbai jobs
+    - brand manager germany jobs
+    - brand manager india jobs
+    - brand manager berlin jobs
+    - brand manager munich jobs
+    - brand manager bengaluru jobs
+    - brand manager mumbai jobs
+    - marketing specialist germany jobs
+    - marketing specialist india jobs
+    - marketing specialist berlin jobs
+    - marketing specialist munich jobs
+    - marketing specialist bengaluru jobs
+    - marketing specialist mumbai jobs
+    - growth manager germany jobs
+    - growth manager india jobs
+    - growth manager berlin jobs
+    - growth manager munich jobs
+    - growth manager bengaluru jobs
+    - growth manager mumbai jobs
+meta:
+  discovery_enabled: true
+  max_probe_candidates: 80

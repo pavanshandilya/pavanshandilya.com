@@ -1,0 +1,11 @@
+{{ $x := .Get "x" | default site.Params.socialLinks.x }}
+{{ $linkedin := .Get "linkedin" | default site.Params.socialLinks.linkedin }}
+{{ $github := .Get "github" | default site.Params.socialLinks.github }}
+{{ $email := .Get "email" | default site.Params.socialLinks.email }}
+
+<div class="social-kit" style="display:flex;gap:0.75rem;flex-wrap:wrap;margin:1rem 0;">
+  {{ with $x }}<a href="{{ . }}" target="_blank" rel="noopener noreferrer" style="padding:0.45rem 0.75rem;border:1px solid #ddd;border-radius:8px;text-decoration:none;">X</a>{{ end }}
+  {{ with $linkedin }}<a href="{{ . }}" target="_blank" rel="noopener noreferrer" style="padding:0.45rem 0.75rem;border:1px solid #ddd;border-radius:8px;text-decoration:none;">LinkedIn</a>{{ end }}
+  {{ with $github }}<a href="{{ . }}" target="_blank" rel="noopener noreferrer" style="padding:0.45rem 0.75rem;border:1px solid #ddd;border-radius:8px;text-decoration:none;">GitHub</a>{{ end }}
+  {{ with $email }}<a href="mailto:{{ . }}" style="padding:0.45rem 0.75rem;border:1px solid #ddd;border-radius:8px;text-decoration:none;">Email</a>{{ end }}
+</div>

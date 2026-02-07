@@ -1,0 +1,91 @@
+generated_at: 2026-02-07T17:04:01.845Z
+explicit:
+  company_names:
+    - SAP
+    - Siemens
+    - Deutsche Telekom
+    - Zalando
+    - HelloFresh
+    - Delivery Hero
+    - N26
+    - Trade Republic
+    - Celonis
+    - Booking.com
+    - Adyen
+  personio_xml_feeds: []
+  smartrecruiters_companies: []
+  teamtailor_companies: []
+  recruitee_companies: []
+  ashby_organizations: []
+  stepstone_feeds: []
+  official_career_pages: []
+  search_queries: []
+discovered:
+  company_names:
+    - dataiku
+    - sendcloud
+    - parte-verwaltung-gmbh
+    - telus-digital
+    - a-team
+    - jump
+    - hubstaff
+  personio_xml_feeds:
+    - https://parte-verwaltung-gmbh.jobs.personio.de/xml
+    - https://parte-verwaltung-gmbh.jobs.personio.com/xml
+  smartrecruiters_companies:
+    - dataiku
+  teamtailor_companies: []
+  recruitee_companies:
+    - sendcloud
+    - jump
+  ashby_organizations:
+    - telus-digital
+    - a-team
+    - jump
+    - hubstaff
+  stepstone_feeds: []
+  official_career_pages:
+    - https://sap.com/careers
+    - https://careers.sap.com
+    - https://jobs.sap.com
+    - https://sap.io/careers
+    - https://careers.sap.io
+    - https://siemens.com/careers
+    - https://careers.siemens.com
+    - https://jobs.siemens.com
+    - https://siemens.io/careers
+    - https://careers.siemens.io
+    - https://deutsche-telekom.com/careers
+    - https://careers.deutsche-telekom.com
+    - https://jobs.deutsche-telekom.com
+    - https://deutsche-telekom.io/careers
+    - https://careers.deutsche-telekom.io
+    - https://zalando.com/careers
+    - https://careers.zalando.com
+    - https://jobs.zalando.com
+    - https://zalando.io/careers
+    - https://careers.zalando.io
+  search_queries:
+    - product manager germany jobs
+    - product manager india jobs
+    - product manager berlin jobs
+    - product manager munich jobs
+    - product manager bengaluru jobs
+    - product manager mumbai jobs
+    - technical product manager germany jobs
+    - technical product manager india jobs
+    - technical product manager berlin jobs
+    - technical product manager munich jobs
+    - technical product manager bengaluru jobs
+    - technical product manager mumbai jobs
+    - group product manager germany jobs
+    - group product manager india jobs
+    - group product manager berlin jobs
+    - group product manager munich jobs
+    - group product manager bengaluru jobs
+    - group product manager mumbai jobs
+    - roadmap germany jobs
+    - roadmap india jobs
+meta:
+  discovery_enabled: true
+  max_probe_candidates: 80

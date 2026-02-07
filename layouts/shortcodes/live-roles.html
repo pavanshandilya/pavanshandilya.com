@@ -1,0 +1,36 @@
+{{ $profile := .Get "profile" | default "pavan" }}
+{{ $rolesData := index site.Data.roles $profile }}
+{{ if not $rolesData }}
+<p>No live roles found for profile <code>{{ $profile }}</code>. Run roles fetch pipeline.</p>
+{{ else }}
+<div class="live-roles">
+  <h3>Live roles: {{ $rolesData.profile_name }}</h3>
+  <p style="font-size:0.9rem;color:#666;">Last updated: {{ $rolesData.generated_at }}</p>
+  {{ if and $rolesData.meta $rolesData.meta.stale_after_days }}
+  <p style="font-size:0.85rem;color:#777;">Stale after {{ $rolesData.meta.stale_after_days }} days. Inactive after {{ $rolesData.meta.inactive_after_days }} days ({{ $rolesData.meta.inactive_action }}).</p>
+  {{ end }}
+
+  {{ range $bucketId, $rows := $rolesData.buckets }}
+  <h4>{{ $bucketId }}</h4>
+  <div class="table-wrap" role="region" aria-label="Scrollable live roles table">
+    <table>
+      <thead><tr><th>Company</th><th>Title</th><th>Location</th><th>Source</th><th>Fetched at</th><th>Source updated</th><th>Freshness</th><th>Link</th></tr></thead>
+      <tbody>
+        {{ range first 40 $rows }}
+        <tr>
+          <td>{{ .company }}</td>
+          <td>{{ .title }}</td>
+          <td>{{ .location }}</td>
+          <td>{{ .source }}</td>
+          <td>{{ if .fetched_at }}{{ dateFormat "2006-01-02 15:04 MST" .fetched_at }}{{ else }}—{{ end }}</td>
+          <td>{{ if .updated_at }}{{ .updated_at }}{{ else }}—{{ end }}</td>
+          <td>{{ if .is_stale }}stale ({{ .stale_days }}d){{ else }}fresh{{ end }}</td>
+          <td><a href="{{ .url }}" rel="noopener nofollow" target="_blank">Apply</a></td>
+        </tr>
+        {{ end }}
+      </tbody>
+    </table>
+  </div>
+  {{ end }}
+</div>
+{{ end }}

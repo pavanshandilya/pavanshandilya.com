@@ -1,0 +1,107 @@
+# Best-practice canonical base URL in config (replace with final production URL later).
+# Local and CI still override this dynamically:
+# - local dev/build: package.json commands
+# - CI deploy: .github/workflows/deploy.yml (auto GitHub Pages URL or vars.SITE_BASE_URL)
+baseURL = "https://example.org/"
+languageCode = "en-us"
+title = "Pavan Shandilya & Pooja G"
+theme = "ink-free"
+enableRobotsTXT = true
+defaultContentLanguage = "en-us"
+summaryLength = 70
+enableGitInfo = true
+
+[frontmatter]
+  lastmod = ["lastmod", ":git", "date", "publishDate"]
+  date = ["date", "publishDate", "lastmod"]
+  publishDate = ["publishDate", "date"]
+  expiryDate = ["expiryDate"]
+
+[build]
+  buildDrafts = false
+  buildExpired = false
+  buildFuture = false
+
+[minify]
+  minifyOutput = true
+
+[pagination]
+  pagerSize = 10
+
+[permalinks]
+  posts = "/:year/:month/:title"
+
+[services]
+  [services.rss]
+    limit = 50
+
+[outputs]
+  home = ["html", "rss"]
+  taxonomy = ["html", "rss"]
+  term = ["html", "rss"]
+
+[security]
+  enableInlineShortcodes = false
+
+[params]
+  subtitle = "Marketing head, Product management, Program management"
+  description = "Personal site"
+  author = { name = "Pavan Shandilya" }
+  socialLinks = { x = "https://x.com/__HANDLE__", linkedin = "https://www.linkedin.com/in/__PROFILE__/", github = "https://github.com/__USERNAME__", email = "hello@example.com" }
+  favicon = "favicon.ico"
+  hideReadingTime = false
+  mainSections = ["posts", "notes"]
+  mode = "auto"
+  toc = "floating"
+  maxTags = 12
+  wpm = 250
+
+  [[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+  [[menu.main]]
+  name = "Posts"
+  url = "/posts/"
+  weight = 2
+
+  [[menu.main]]
+  name = "Notes"
+  url = "/notes/"
+  weight = 3
+
+  [[menu.main]]
+  name = "Pavan LIVE roles"
+  url = "/live-roles/pavan/"
+  weight = 4
+
+  [[menu.main]]
+  name = "Pooja LIVE roles"
+  url = "/live-roles/pooja/"
+  weight = 5
+
+  [[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 6
+
+  [[menu.main]]
+  name = "Playbook"
+  url = "/playbook/"
+  weight = 7
+
+  [[params.social]]
+  name = "X"
+  icon = "twitter"
+  url = "https://x.com/__HANDLE__"
+
+  [[params.social]]
+  name = "LinkedIn"
+  icon = "linkedin"
+  url = "https://www.linkedin.com/in/__PROFILE__/"
+
+  [[params.social]]
+  name = "GitHub"
+  icon = "github"
+  url = "https://github.com/__USERNAME__"

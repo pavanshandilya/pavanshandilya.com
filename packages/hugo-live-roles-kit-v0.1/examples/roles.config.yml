@@ -1,0 +1,75 @@
+# File format version used by the roles kit.
+schema_version: hugo-live-roles-kit.v0.1
+# Profile file id to load for this example setup.
+profile_id: data-engineer-de-eu
+paths:
+  # Output file where final live roles are saved for Hugo to render.
+  output_file: ../data/roles.yml
+  # Source registry file where manual and discovered sources are stored.
+  source_registry_file: roles-sources.yml
+knobs:
+  # Mark role as stale after these many days without refresh.
+  stale_after_days: 21
+  # Move role to inactive bucket after these many stale days.
+  inactive_after_days: 30
+  # What to do with inactive roles: keep in archive or delete forever.
+  inactive_action: archive
+  # Maximum total runtime allowed for one full fetch run.
+  max_runtime_ms: 240000
+  # Maximum wait time per HTTP request before timeout.
+  request_timeout_ms: 15000
+  # Small delay between requests to avoid hitting APIs too hard.
+  request_delay_ms: 250
+  # How many requests can run in parallel for faster fetch.
+  max_concurrency: 6
+  # Max new discovered sources added per source type per run.
+  max_discovery_adds_per_source: 20
+  # Max company candidates to probe for discovery in one run.
+  max_probe_candidates: 80
+  # Max smart search queries to run in one cycle for SerpAPI engines.
+  max_serpapi_queries_per_run: 24
+discovery:
+  # Turn on automatic source discovery from observed company names.
+  enabled: true
+sources:
+  # Greenhouse company slugs to fetch from directly.
+  greenhouse_companies:
+    - zalando
+    - hellofresh
+    - deliveryhero
+    - commercetools
+    - typeform
+    - qonto
+    - dataiku
+  # Lever company slugs to fetch from directly.
+  lever_companies:
+    - n26
+    - sumup
+  # Personio XML feed URLs to fetch from directly.
+  personio_xml_feeds: []
+  # SmartRecruiters company slugs to fetch from directly.
+  smartrecruiters_companies: []
+  # Teamtailor company slugs to fetch from directly.
+  teamtailor_companies: []
+  # Recruitee company slugs to fetch from directly.
+  recruitee_companies: []
+  # Ashby organization slugs to fetch from directly.
+  ashby_organizations: []
+  # Stepstone feed URLs to fetch from directly.
+  stepstone_feeds: []
+  # Include Arbeitnow public API feed in the fetch run.
+  arbeitnow_enabled: true
+  # Include Remotive public API feed in the fetch run.
+  remotive_enabled: true
+  # Include Jobicy public API feed in the fetch run.
+  jobicy_enabled: true
+  # Include Adzuna API feed in the fetch run (needs API keys).
+  adzuna_enabled: true
+  # Include Jooble API feed in the fetch run (needs API key).
+  jooble_enabled: true
+  # Include SerpAPI Google Jobs engine in the fetch run (needs API key).
+  serpapi_google_jobs_enabled: true
+  # Include SerpAPI Google organic searches for job-board links.
+  serpapi_job_board_search_enabled: true
+  # Include SerpAPI Google organic searches for official career pages.
+  serpapi_official_sites_search_enabled: true

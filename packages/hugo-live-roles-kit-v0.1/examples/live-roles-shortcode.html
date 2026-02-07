@@ -1,0 +1,34 @@
+{{ $data := site.Data.roles }}
+{{ if not $data }}
+<p>No live roles fetched yet.</p>
+{{ else }}
+<div class="live-roles">
+  <p style="font-size:0.9rem;color:#666;">Last updated: {{ $data.generated_at }} (profile: {{ $data.profile_name }})</p>
+  {{ if and $data.meta $data.meta.stale_after_days }}
+  <p style="font-size:0.85rem;color:#777;">Stale after {{ $data.meta.stale_after_days }} days. Inactive after {{ $data.meta.inactive_after_days }} days ({{ $data.meta.inactive_action }}).</p>
+  {{ end }}
+
+  {{ range $bucketId, $rows := $data.buckets }}
+  <h3>{{ $bucketId }}</h3>
+  <div class="table-wrap" role="region" aria-label="Scrollable live roles table">
+    <table>
+      <thead><tr><th>Company</th><th>Title</th><th>Location</th><th>Source</th><th>Fetched at</th><th>Source updated</th><th>Freshness</th><th>Link</th></tr></thead>
+      <tbody>
+        {{ range first 40 $rows }}
+        <tr>
+          <td>{{ .company }}</td>
+          <td>{{ .title }}</td>
+          <td>{{ .location }}</td>
+          <td>{{ .source }}</td>
+          <td>{{ if .fetched_at }}{{ dateFormat "2006-01-02 15:04 MST" .fetched_at }}{{ else }}—{{ end }}</td>
+          <td>{{ if .updated_at }}{{ .updated_at }}{{ else }}—{{ end }}</td>
+          <td>{{ if .is_stale }}stale ({{ .stale_days }}d){{ else }}fresh{{ end }}</td>
+          <td><a href="{{ .url }}" rel="noopener nofollow" target="_blank">Apply</a></td>
+        </tr>
+        {{ end }}
+      </tbody>
+    </table>
+  </div>
+  {{ end }}
+</div>
+{{ end }}

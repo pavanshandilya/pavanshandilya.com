@@ -1,0 +1,17 @@
+{
+  "name": "pavanshandilya.com",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Personal website powered by Hugo",
+  "scripts": {
+    "build": "hugo --minify --gc --cleanDestinationDir --baseURL \"${HUGO_BASEURL:-https://example.org/}\"",
+    "build:hugo": "hugo --minify --gc --cleanDestinationDir --baseURL \"${HUGO_BASEURL:-https://example.org/}\"",
+    "dev": "hugo server -D --baseURL \"${HUGO_BASEURL:-http://localhost:1313/}\" --bind \"127.0.0.1\" --appendPort=true",
+    "roles:check:pavan": "npm --prefix packages/hugo-live-roles-kit-v0.1 run check -- --config ../../roles-kit/configs/pavan.roles.config.yml --profiles ../../roles-kit/profiles",
+    "roles:check:pooja": "npm --prefix packages/hugo-live-roles-kit-v0.1 run check -- --config ../../roles-kit/configs/pooja.roles.config.yml --profiles ../../roles-kit/profiles",
+    "roles:check": "npm run roles:check:pavan && npm run roles:check:pooja",
+    "fetch:roles:pavan": "npm --prefix packages/hugo-live-roles-kit-v0.1 run fetch -- --config ../../roles-kit/configs/pavan.roles.config.yml --profiles ../../roles-kit/profiles",
+    "fetch:roles:pooja": "npm --prefix packages/hugo-live-roles-kit-v0.1 run fetch -- --config ../../roles-kit/configs/pooja.roles.config.yml --profiles ../../roles-kit/profiles",
+    "fetch:roles": "npm run fetch:roles:pavan && npm run fetch:roles:pooja"
+  }
+}

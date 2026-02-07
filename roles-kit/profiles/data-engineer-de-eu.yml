@@ -1,0 +1,28 @@
+# Unique profile id used by config profile_id.
+id: data-engineer-de-eu
+# Friendly name shown on the live roles page.
+display_name: Legacy profile alias - use pavan.yml or pooja.yml
+# Bucket ids that are active now, so only these role groups are shown.
+active_bucket_ids:
+  - ic_data
+# Skills used for relevance scoring of each job.
+skills:
+  - data engineering
+# Location patterns allowed for this profile search.
+geo_allow_patterns:
+  - germany|deutschland|eu|europe
+# Role groups with filters and thresholds.
+buckets:
+  # Bucket id used in active_bucket_ids and output grouping.
+  - id: ic_data
+    # Human label for this role group.
+    label: Legacy data bucket
+    # Job title patterns that must match to enter this bucket.
+    include_title_patterns:
+      - data\s*engineer
+    # Minimum score required after ranking logic.
+    min_score: 1
+    # Minimum number of skill matches required.
+    min_skill_hits: 0
+    # Maximum jobs kept in this bucket.
+    max_results: 10

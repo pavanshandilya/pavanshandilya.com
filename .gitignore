@@ -137,3 +137,21 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# Hugo
+public/
+.hugo_build.lock
+resources/
+
+# IDE
+.idea/
+
+# Hugo
+/public
+/private
+
+# pavanshandilya.com
+/docs/internals
+
+# Ignore accidental nested generated outputs from local test runs
+packages/hugo-live-roles-kit-v0.1/packages/

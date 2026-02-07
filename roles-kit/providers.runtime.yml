@@ -1,0 +1,28 @@
+# Runtime provider settings file format.
+schema_version: hugo-live-roles-runtime.v0.1
+providers:
+  # Country context for SerpAPI queries (de for Germany-first).
+  serpapi_gl: de
+  # Language context for SerpAPI queries.
+  serpapi_hl: en
+  # Adzuna country codes to search.
+  adzuna_countries: [de, fr, nl, at, be, in]
+  # Jooble country codes to search.
+  jooble_countries: [de, fr, nl, at, be, in]
+extra_sources:
+  # Extra Personio feed URLs (optional).
+  personio_xml_feeds: []
+  # Extra SmartRecruiters company slugs (optional).
+  smartrecruiters_companies: []
+  # Extra Teamtailor company slugs (optional).
+  teamtailor_companies: []
+  # Extra Recruitee company slugs (optional).
+  recruitee_companies: []
+  # Extra Ashby organization slugs (optional).
+  ashby_organizations: []
+  # Extra StepStone feed URLs (optional).
+  stepstone_feeds: []
+  # Extra official careers page URLs (optional).
+  official_career_pages: []
+  # Extra query strings used for smart discovery (optional).
+  search_queries: []

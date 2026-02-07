@@ -1,0 +1,61 @@
+# Time when this source registry was last saved.
+generated_at: 2026-02-07T00:00:00.000Z
+explicit:
+  # Company names you manually want to track and discover from.
+  company_names:
+    - SAP
+    - Siemens
+    - Deutsche Telekom
+    - BMW
+    - Mercedes-Benz
+    - Volkswagen
+    - Zalando
+    - HelloFresh
+    - Delivery Hero
+    - N26
+    - Trade Republic
+    - Celonis
+    - Personio
+    - Flix
+    - Adyen
+    - Booking.com
+  # Manual Personio feed URLs you want to include.
+  personio_xml_feeds: []
+  # Manual SmartRecruiters company slugs you want to include.
+  smartrecruiters_companies: []
+  # Manual Teamtailor company slugs you want to include.
+  teamtailor_companies: []
+  # Manual Recruitee company slugs you want to include.
+  recruitee_companies: []
+  # Manual Ashby organization slugs you want to include.
+  ashby_organizations: []
+  # Manual Stepstone feed URLs you want to include.
+  stepstone_feeds: []
+  # Direct careers page URLs from official company sites.
+  official_career_pages: []
+  # Custom Google-style queries used for smart board/API discovery.
+  search_queries: []
+discovered:
+  # Company slugs discovered automatically from fetched job data.
+  company_names: []
+  # Personio feeds discovered automatically from probe checks.
+  personio_xml_feeds: []
+  # SmartRecruiters slugs discovered automatically.
+  smartrecruiters_companies: []
+  # Teamtailor slugs discovered automatically.
+  teamtailor_companies: []
+  # Recruitee slugs discovered automatically.
+  recruitee_companies: []
+  # Ashby slugs discovered automatically.
+  ashby_organizations: []
+  # Stepstone feeds discovered automatically.
+  stepstone_feeds: []
+  # Careers page URLs auto-discovered from company and query patterns.
+  official_career_pages: []
+  # Search queries auto-generated and learned from previous runs.
+  search_queries: []
+meta:
+  # Master switch for discovery in this registry.
+  discovery_enabled: true
+  # Max candidates to probe for discovery in one run.
+  max_probe_candidates: 80

@@ -1,0 +1,144 @@
+# Unique profile id used by config profile_id.
+id: data-engineer-de-eu
+# Friendly name shown on the live roles page.
+display_name: Data engineer - Germany + India (customizable)
+# Skills used for relevance scoring of each job.
+skills:
+  - scala
+  - python
+  - spark
+  - kafka
+  - flink
+  - airflow
+  - databricks
+  - sql
+  - data platform
+# Simple country/city controls for non-tech users.
+locations:
+  # Countries to include in search results.
+  countries:
+    - germany
+    - india
+  # Cities to include in search results.
+  cities:
+    - berlin
+    - munich
+    - frankfurt
+    - bengaluru
+    - mumbai
+    - pune
+    - hyderabad
+  # Countries to score higher when ranking jobs.
+  priority_countries:
+    - germany
+    - india
+  # Cities to score higher when ranking jobs.
+  priority_cities:
+    - berlin
+    - bengaluru
+  # Countries to exclude from search results.
+  exclude_countries: []
+  # Cities to exclude from search results.
+  exclude_cities: []
+# Global keyword controls for all buckets.
+keywords:
+  # Every listed keyword must be present in job text.
+  must_have: []
+  # These keywords add extra score if found in job text.
+  nice_to_have:
+    - data platform
+    - distributed systems
+  # Any listed keyword will remove the job.
+  exclude: []
+# Advanced location patterns for power users (optional).
+geo_allow_patterns:
+  - germany|deutschland|berlin|munich|münchen|hamburg|frankfurt
+  - india|bharat|bengaluru|bangalore|mumbai|pune|hyderabad|chennai|gurugram|noida|delhi
+# Advanced priority location patterns for power users (optional).
+geo_priority_patterns:
+  - germany|deutschland|berlin|munich|münchen|frankfurt
+  - india|bengaluru|bangalore|mumbai|pune
+# Advanced exclude patterns for power users (optional).
+geo_exclude_patterns: []
+# Employer names preferred for this profile.
+employer_allowlist:
+  - Zalando
+  - HelloFresh
+  - Delivery Hero
+  - N26
+  - SumUp
+  - Trade Republic
+  - SAP
+  - Siemens
+  - Deutsche Telekom
+  - Flipkart
+  - Swiggy
+  - Zomato
+  - Razorpay
+  - PhonePe
+  - Freshworks
+# Role groups with filters and thresholds.
+buckets:
+  # Bucket id used in active_bucket_ids and output grouping.
+  - id: ic_data
+    # Human label for this role group.
+    label: IC roles - data/platform
+    # Regex title patterns for advanced matching.
+    include_title_patterns:
+      - data\s*engineer
+      - analytics\s*engineer
+      - data\s*platform
+      - machine\s*learning\s*engineer
+      - data\s*architect
+    # Simple title keywords for non-tech matching.
+    include_title_keywords:
+      - data engineer
+      - analytics engineer
+      - data platform
+    # Simple text keywords for non-tech matching in title/description.
+    include_text_keywords:
+      - spark
+      - kafka
+      - airflow
+    # Minimum score required after ranking logic.
+    min_score: 70
+    # Minimum number of skill matches required.
+    min_skill_hits: 2
+    # Maximum jobs kept in this bucket.
+    max_results: 200
+  - id: em_data
+    label: Engineering manager - data/platform
+    include_title_patterns:
+      - engineering\s*manager
+      - head\s*of\s*data
+      - data\s*platform\s*manager
+      - manager.*data
+    include_title_keywords:
+      - engineering manager
+      - head of data
+    include_text_keywords:
+      - leadership
+      - people management
+    min_score: 65
+    min_skill_hits: 1
+    max_results: 120
+  - id: temp_part_time
+    label: Temporary/part-time logistics
+    include_title_patterns:
+      - warehouse
+      - sortation
+      - parcel
+      - logistics
+      - lagerhelfer
+      - kommissionier
+      - driver
+      - courier
+      - zusteller
+    # Extra text patterns used in job body in addition to title patterns.
+    include_text_patterns:
+      - part[-\s]*time|teilzeit|minijob|20\s*h|20\s*hours|20\s*stunden
+    min_score: 60
+    min_skill_hits: 0
+    max_results: 200
+    # If true, company must match employer_allowlist too.
+    require_employer_allowlist: false
