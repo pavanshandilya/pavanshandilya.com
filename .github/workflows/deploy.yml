@@ -84,14 +84,32 @@ jobs:
     permissions:
       contents: read
     steps:
+      - name: Resolve external target repo
+        id: external-target
+        run: |
+          set -euo pipefail
+          owner="${{ github.repository_owner }}"
+          target_repo="${{ vars.USER_SITE_REPOSITORY }}"
+          if [ -z "$target_repo" ]; then
+            target_repo="${owner}/${owner}"
+          fi
+          echo "TARGET_REPO=${target_repo}" >> "$GITHUB_OUTPUT"
+
       - name: Validate external deploy secrets
         env:
           PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+          TARGET_REPO: ${{ steps.external-target.outputs.TARGET_REPO }}
         run: |
           set -euo pipefail
           if [ -z "${PERSONAL_TOKEN}" ]; then
             echo "Missing required secret: PERSONAL_TOKEN"
             echo "Add PERSONAL_TOKEN in source repo -> Settings -> Secrets and variables -> Actions."
+            exit 1
+          fi
+          code="$(curl -sS -o /dev/null -w '%{http_code}' -H "Authorization: token ${PERSONAL_TOKEN}" "https://api.github.com/repos/${TARGET_REPO}")"
+          if [ "$code" != "200" ]; then
+            echo "PERSONAL_TOKEN cannot access target repo: ${TARGET_REPO} (HTTP ${code})"
+            echo "Update token scope/repository access to include ${TARGET_REPO} with contents write permission."
             exit 1
           fi
 
@@ -115,13 +133,11 @@ jobs:
 
       - name: Resolve external base URL
         id: external-baseurl
+        env:
+          TARGET_REPO: ${{ steps.external-target.outputs.TARGET_REPO }}
         run: |
           set -euo pipefail
-          owner="${{ github.repository_owner }}"
-          target_repo="${{ vars.USER_SITE_REPOSITORY }}"
-          if [ -z "$target_repo" ]; then
-            target_repo="${owner}/${owner}"
-          fi
+          target_repo="${TARGET_REPO}"
           target_repo_name="${target_repo##*/}"
           target_repo_owner="${target_repo%/*}"
           echo "TARGET_REPO=${target_repo}" >> "$GITHUB_OUTPUT"
