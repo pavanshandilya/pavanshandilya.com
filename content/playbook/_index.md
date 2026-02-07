@@ -315,8 +315,8 @@ This is the exact model when your source code is in one repo, but hosting is on 
 
 Supported target repos:
 
-- User-site repo: `<username>.github.io`
-- Project Pages repo: `<username>/<repo>` (for this setup: `pavanshandilya/pavanshandilya`)
+- User-site repo: `<username>.github.io` (for this setup: `pavanshandilya/pavanshandilya.github.io`)
+- Project Pages repo: `<username>/<repo>`
 
 ### Repos in this model
 
@@ -345,7 +345,7 @@ sequenceDiagram
 
 ### Step-by-step setup
 
-1. Create the target repo as public (for this setup: `pavanshandilya/pavanshandilya`).
+1. Create the target repo as public (for this setup: `pavanshandilya/pavanshandilya.github.io`).
 2. In target repo, open `Settings -> Pages`.
 3. Under Build and deployment, set:
     - Source: `Deploy from a branch`
@@ -359,8 +359,8 @@ sequenceDiagram
 6. Add source repo variables:
     - `USER_SITE_REPOSITORY=<username>/<repo>`
     - optional: `USER_SITE_BASE_URL=<final-pages-url>`
-   - for this repo use: `USER_SITE_REPOSITORY=pavanshandilya/pavanshandilya`
-   - for this repo use: `USER_SITE_BASE_URL=https://pavanshandilya.github.io/pavanshandilya/`
+   - for this repo use: `USER_SITE_REPOSITORY=pavanshandilya/pavanshandilya.github.io`
+   - for this repo use: `USER_SITE_BASE_URL=https://pavanshandilya.github.io/`
 7. The existing deploy workflow in this repo now auto-switches to external publish mode when `USER_SITE_REPOSITORY` is set.
 8. Run workflow manually once, then push a small content change to verify automatic deploy.
 9. Confirm site at your target Pages URL.

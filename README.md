@@ -84,8 +84,8 @@ Deploy workflow supports two modes:
 - If not set, URL is auto-derived.
 
 2. Separate hosting repo (project Pages or user-site)
-- Set repo variable: `USER_SITE_REPOSITORY` (for you: `pavanshandilya/pavanshandilya`)
-- Optional repo variable: `USER_SITE_BASE_URL` (for you: `https://pavanshandilya.github.io/pavanshandilya/`)
+- Set repo variable: `USER_SITE_REPOSITORY` (for you: `pavanshandilya/pavanshandilya.github.io`)
+- Optional repo variable: `USER_SITE_BASE_URL` (for you: `https://pavanshandilya.github.io/`)
 - Add secret: `PERSONAL_TOKEN` (PAT with contents write on target repo)
 
 When `USER_SITE_REPOSITORY` is set, workflow auto-publishes built `public/` to that external repo `gh-pages` branch.
