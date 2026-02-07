@@ -1,4 +1,4 @@
-generated_at: 2026-02-07T17:04:01.845Z
+generated_at: 2026-02-07T18:33:31.050Z
 explicit:
   company_names:
     - SAP
@@ -29,6 +29,7 @@ discovered:
     - a-team
     - jump
     - hubstaff
+    - nivoda
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -43,6 +44,7 @@ discovered:
     - a-team
     - jump
     - hubstaff
+    - nivoda
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
