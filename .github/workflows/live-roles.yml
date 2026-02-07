@@ -8,6 +8,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: live-roles-${{ github.ref }}
@@ -22,6 +23,7 @@ jobs:
         with:
           fetch-depth: 0
           submodules: recursive
+          token: ${{ secrets.PERSONAL_TOKEN }}
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -43,11 +45,18 @@ jobs:
         run: npm run fetch:roles
 
       - name: Commit changes
+        env:
+          PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
         run: |
+          if [ -z "${PERSONAL_TOKEN}" ]; then
+            echo "Missing required secret: PERSONAL_TOKEN"
+            exit 1
+          fi
           if [ -n "$(git status --porcelain data/roles/pavan.yml data/roles/pooja.yml roles-kit/sources/pavan.roles-sources.yml roles-kit/sources/pooja.roles-sources.yml)" ]; then
             BRANCH="${GITHUB_REF_NAME:-main}"
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git remote set-url origin "https://x-access-token:${PERSONAL_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
             git add data/roles/pavan.yml data/roles/pooja.yml roles-kit/sources/pavan.roles-sources.yml roles-kit/sources/pooja.roles-sources.yml
             git commit -m "chore(ci): update live roles data (pavan + pooja)"
             for attempt in 1 2 3; do
