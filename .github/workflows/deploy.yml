@@ -1,126 +1,38 @@
-name: build-and-deploy-hugo
+name: build and deploy pavanshandilya.com site
 
 on:
   push:
-    branches: ["main"]
+    branches: [ main ]
     paths:
-      - "content/**"
-      - "layouts/**"
-      - "assets/**"
-      - "static/**"
-      - "data/**"
-      - "roles-kit/**"
-      - "themes/**"
-      - "hugo.toml"
-      - "package.json"
-      - ".github/hugo.env"
-      - ".github/workflows/deploy.yml"
+      - 'content/**'
+      - 'themes/**'
+      - 'static/**'
+      - 'assets/**'
+      - 'layouts/**'
+      - 'data/**'
+      - 'roles-kit/**'
+      - 'hugo.toml'
+      - 'package.json'
+      - '.github/hugo.env'
+      - '.github/workflows/deploy.yml'
   pull_request:
-    branches: ["main"]
-  workflow_dispatch: {}
+    branches: [ main ]
+  workflow_dispatch:
 
 permissions:
-  contents: read
-  pages: write
-  id-token: write
+  contents: write
+  actions: write
 
 concurrency:
-  group: pages-${{ github.ref }}
+  group: deploy-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
-  build:
-    if: github.event_name == 'pull_request' || (vars.USER_SITE_REPOSITORY == '' && endsWith(github.event.repository.name, '.github.io'))
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          submodules: recursive
-
-      - name: Resolve Hugo version
-        id: hugo-version
-        run: |
-          set -euo pipefail
-          . ./.github/hugo.env
-          echo "HUGO_VERSION=${HUGO_VERSION}" >> "$GITHUB_OUTPUT"
-
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v3
-        with:
-          hugo-version: ${{ steps.hugo-version.outputs.HUGO_VERSION }}
-          extended: true
-
-      - name: Build site
-        env:
-          HUGO_BASEURL: ${{ vars.SITE_BASE_URL != '' && vars.SITE_BASE_URL || (endsWith(github.event.repository.name, '.github.io') && format('https://{0}/', github.event.repository.name) || format('https://{0}.github.io/{1}/', github.repository_owner, github.event.repository.name)) }}
-        run: hugo --gc --minify --cleanDestinationDir --baseURL "$HUGO_BASEURL"
-
-      - name: Setup Pages
-        if: github.event_name != 'pull_request'
-        uses: actions/configure-pages@v5
-
-      - name: Upload artifact
-        if: github.event_name != 'pull_request'
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: ./public
-
   deploy:
-    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main' && vars.USER_SITE_REPOSITORY == '' && endsWith(github.event.repository.name, '.github.io')
-    needs: build
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
-
-  deploy-user-site:
-    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main' && (vars.USER_SITE_REPOSITORY != '' || !endsWith(github.event.repository.name, '.github.io'))
-    runs-on: ubuntu-latest
-    permissions:
-      contents: read
-    steps:
-      - name: Resolve external target repo
-        id: external-target
-        run: |
-          set -euo pipefail
-          owner="${{ github.repository_owner }}"
-          target_repo="${{ vars.USER_SITE_REPOSITORY }}"
-          if [ -z "$target_repo" ]; then
-            target_repo="${owner}/${owner}"
-          fi
-          echo "TARGET_REPO=${target_repo}" >> "$GITHUB_OUTPUT"
-
-      - name: Validate external deploy secrets
-        env:
-          PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
-          TARGET_REPO: ${{ steps.external-target.outputs.TARGET_REPO }}
-        run: |
-          set -euo pipefail
-          if [ -z "${PERSONAL_TOKEN}" ]; then
-            echo "Missing required secret: PERSONAL_TOKEN"
-            echo "Add PERSONAL_TOKEN in source repo -> Settings -> Secrets and variables -> Actions."
-            exit 1
-          fi
-          repo_json="$(curl -sS -H "Authorization: token ${PERSONAL_TOKEN}" "https://api.github.com/repos/${TARGET_REPO}")"
-          code="$(printf '%s' "$repo_json" | python3 -c 'import sys,json; d=json.load(sys.stdin); print("200" if d.get("full_name") else str(d.get("status", "")))')"
-          if [ "$code" != "200" ]; then
-            echo "PERSONAL_TOKEN cannot access target repo: ${TARGET_REPO} (HTTP ${code})"
-            echo "Update token scope/repository access to include ${TARGET_REPO} with contents write permission."
-            exit 1
-          fi
-          can_push="$(printf '%s' "$repo_json" | python3 -c 'import sys,json; d=json.load(sys.stdin); p=d.get("permissions") or {}; print("true" if p.get("push") else "false")')"
-          if [ "$can_push" != "true" ]; then
-            echo "PERSONAL_TOKEN can read but cannot push to ${TARGET_REPO}."
-            echo "Grant write access (Contents: Read and write) for ${TARGET_REPO} and retry."
-            exit 1
-          fi
-
-      - name: Checkout
+      - name: Checkout code with submodules
         uses: actions/checkout@v4
         with:
           submodules: recursive
@@ -138,34 +50,21 @@ jobs:
           hugo-version: ${{ steps.hugo-version.outputs.HUGO_VERSION }}
           extended: true
 
-      - name: Resolve external base URL
-        id: external-baseurl
-        env:
-          TARGET_REPO: ${{ steps.external-target.outputs.TARGET_REPO }}
-        run: |
-          set -euo pipefail
-          target_repo="${TARGET_REPO}"
-          target_repo_name="${target_repo##*/}"
-          target_repo_owner="${target_repo%/*}"
-          echo "TARGET_REPO=${target_repo}" >> "$GITHUB_OUTPUT"
+      - name: Build Hugo site
+        run: hugo --gc --minify --cleanDestinationDir --baseURL "https://pavanshandilya.github.io/pavanshandilya/"
 
-          if [ -n "${{ vars.USER_SITE_BASE_URL }}" ]; then
-            echo "BASE_URL=${{ vars.USER_SITE_BASE_URL }}" >> "$GITHUB_OUTPUT"
-          else
-            if [[ "$target_repo_name" == *.github.io ]]; then
-              echo "BASE_URL=https://${target_repo_name}/" >> "$GITHUB_OUTPUT"
-            else
-              echo "BASE_URL=https://${target_repo_owner}.github.io/${target_repo_name}/" >> "$GITHUB_OUTPUT"
-            fi
-          fi
-
-      - name: Build site for external repo
-        run: hugo --gc --minify --cleanDestinationDir --baseURL "${{ steps.external-baseurl.outputs.BASE_URL }}"
-
-      - name: Deploy to external user-site repo
-        uses: peaceiris/actions-gh-pages@v4
+      - name: Deploy to GitHub Pages branch
+        uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
-          external_repository: ${{ steps.external-baseurl.outputs.TARGET_REPO }}
-          publish_branch: gh-pages
           publish_dir: ./public
+          external_repository: pavanshandilya/pavanshandilya
+          publish_branch: gh-pages
+          force_orphan: true
+
+      - name: Deployment success message
+        if: success()
+        run: |
+          echo "### Deployment completed successfully" >> "$GITHUB_STEP_SUMMARY"
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          echo "Published to https://pavanshandilya.github.io/pavanshandilya/" >> "$GITHUB_STEP_SUMMARY"

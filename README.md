@@ -75,27 +75,17 @@ Then run:
 - Deploy: `.github/workflows/deploy.yml`
 - Live roles refresh: `.github/workflows/live-roles.yml`
 
-## Hosting modes (built in)
+## Hosting setup
 
-Deploy workflow supports two modes:
+Deploy workflow is fixed to this target:
 
-1. Same-repo GitHub Pages (default)
-- Set optional repo variable: `SITE_BASE_URL`
-- If not set, URL is auto-derived.
+- Source repo: `pavanshandilya/pavanshandilya.com`
+- Hosting repo: `pavanshandilya/pavanshandilya` (branch `gh-pages`)
+- Site URL: `https://pavanshandilya.github.io/pavanshandilya/`
+- Required secret in source repo: `PERSONAL_TOKEN` (PAT with contents write on target repo)
 
-2. Separate hosting repo (project Pages or user-site)
-- Set repo variable: `USER_SITE_REPOSITORY` (for you: `pavanshandilya/pavanshandilya`)
-- Optional repo variable: `USER_SITE_BASE_URL` (for you: `https://pavanshandilya.github.io/pavanshandilya/`)
-- Add secret: `PERSONAL_TOKEN` (PAT with contents write on target repo)
-
-When `USER_SITE_REPOSITORY` is set, workflow auto-publishes built `public/` to that external repo `gh-pages` branch.
-
-## Base URL behavior (best practice)
+## Base URL behavior
 
 - `hugo.toml` keeps a canonical placeholder: `https://example.org/`
 - Local dev uses `http://localhost:1313/` via `npm run dev`
-- CI deploy always injects the final URL dynamically in `.github/workflows/deploy.yml`
-  - same-repo mode: `SITE_BASE_URL` or computed fallback (`https://<owner>.github.io/<repo>/`)
-  - separate repo mode:
-    - if target repo is `<username>.github.io`: `https://<username>.github.io/`
-    - if target repo is normal repo `<username>/<repo>`: `https://<username>.github.io/<repo>/`
+- CI deploy always builds with: `https://pavanshandilya.github.io/pavanshandilya/`

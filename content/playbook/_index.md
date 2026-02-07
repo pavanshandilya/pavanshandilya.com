@@ -309,21 +309,22 @@ flowchart LR
     F --> H[data/roles and archive]
 ```
 
-## Hosting with separate GitHub Pages repo
+## Hosting with fixed target repo
 
-This is the exact model when your source code is in one repo, but hosting is on another GitHub repo.
+This setup uses one fixed source repo and one fixed hosting repo.
 
-Supported target repos:
+Fixed repos:
 
-- User-site repo: `<username>.github.io`
-- Project Pages repo: `<username>/<repo>` (for this setup: `pavanshandilya/pavanshandilya`)
+- Source repo: `pavanshandilya/pavanshandilya.com`
+- Hosting repo: `pavanshandilya/pavanshandilya`
+- Published URL: `https://pavanshandilya.github.io/pavanshandilya/`
 
 ### Repos in this model
 
 | Purpose                      | Repository                        |
 |------------------------------|-----------------------------------|
 | Source code (this Hugo repo) | `<username>/<source-repo>`        |
-| Public hosting target        | `<username>/<repo>` or `<username>/<username>.github.io` |
+| Public hosting target        | `pavanshandilya/pavanshandilya` |
 
 ### End-to-end flow
 
@@ -345,7 +346,7 @@ sequenceDiagram
 
 ### Step-by-step setup
 
-1. Create the target repo as public (for this setup: `pavanshandilya/pavanshandilya`).
+1. Keep target repo as public: `pavanshandilya/pavanshandilya`.
 2. In target repo, open `Settings -> Pages`.
 3. Under Build and deployment, set:
     - Source: `Deploy from a branch`
@@ -355,15 +356,9 @@ sequenceDiagram
     - Recommended: fine-grained PAT with `Contents: Read and write` for target repo
     - Alternative: deploy key with write access on target repo
 5. Add secret in source repo:
-    - `PERSONAL_TOKEN` (if PAT method)
-6. Add source repo variables:
-    - `USER_SITE_REPOSITORY=<username>/<repo>`
-    - optional: `USER_SITE_BASE_URL=<final-pages-url>`
-   - for this repo use: `USER_SITE_REPOSITORY=pavanshandilya/pavanshandilya`
-   - for this repo use: `USER_SITE_BASE_URL=https://pavanshandilya.github.io/pavanshandilya/`
-7. The existing deploy workflow in this repo now auto-switches to external publish mode when `USER_SITE_REPOSITORY` is set.
-8. Run workflow manually once, then push a small content change to verify automatic deploy.
-9. Confirm site at your target Pages URL.
+    - `PERSONAL_TOKEN` (PAT with `Contents: Read and write` on `pavanshandilya/pavanshandilya`)
+6. Run workflow manually once, then push a small content change to verify automatic deploy.
+7. Confirm site at `https://pavanshandilya.github.io/pavanshandilya/`.
 
 ### Example workflow snippet (source repo)
 
@@ -385,11 +380,11 @@ jobs:
         with:
           hugo-version: '0.155.2'
           extended: true
-      - run: hugo --minify --gc --baseURL "https://<username>.github.io/"
-      - uses: peaceiris/actions-gh-pages@v4
+      - run: hugo --minify --gc --baseURL "https://pavanshandilya.github.io/pavanshandilya/"
+      - uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
-          external_repository: <username>/<username>.github.io
+          external_repository: pavanshandilya/pavanshandilya
           publish_branch: gh-pages
           publish_dir: ./public
 ```
@@ -398,7 +393,7 @@ jobs:
 
 - `GITHUB_TOKEN` from source repo cannot push to external repo.
 - Use PAT or deploy key for cross-repo publish.
-- For user site URL root, keep `baseURL` as `https://<username>.github.io/` (no repo suffix).
+- Keep `baseURL` as `https://pavanshandilya.github.io/pavanshandilya/` for project Pages.
 
 ### Official references
 
