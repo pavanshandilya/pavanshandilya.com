@@ -1,4 +1,4 @@
-generated_at: 2026-02-07T18:58:06.600Z
+generated_at: 2026-02-08T17:57:01.745Z
 explicit:
   company_names:
     - SAP
@@ -30,11 +30,13 @@ discovered:
     - jump
     - hubstaff
     - nivoda
+    - cint
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
+    - cint
   teamtailor_companies: []
   recruitee_companies:
     - sendcloud
