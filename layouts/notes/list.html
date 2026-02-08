@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}" data-theme-mode="{{ .Site.Params.mode | default "auto" }}"{{- if (eq .Site.Params.mode "dark") -}} class="dark"{{ end }}>
+{{ partial "header.html" . }}
+
+<body data-pagefind-body>
+	<a href="#main-content" class="skip-link">Skip to main content</a>
+
+	<style>
+		.notes-board {
+			display: grid;
+			grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+			gap: 1rem;
+			margin-top: 1.25rem;
+		}
+		.note-card {
+			display: block;
+			padding: 1rem;
+			border-radius: 12px;
+			border: 1px solid var(--border-color, #d7d7d7);
+			background: linear-gradient(180deg, #fffdf3 0%, #fff8d6 100%);
+			box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+			color: inherit;
+			text-decoration: none;
+			min-height: 180px;
+		}
+		.note-card:hover {
+			transform: translateY(-2px);
+		}
+		.note-card h3 {
+			margin: 0 0 .5rem 0;
+			font-size: 1rem;
+			line-height: 1.35;
+		}
+		.note-card time {
+			display: block;
+			font-size: .82rem;
+			opacity: .75;
+			margin-bottom: .5rem;
+		}
+		.note-card p {
+			margin: 0;
+			font-size: .92rem;
+			line-height: 1.5;
+		}
+		html.dark .note-card {
+			background: linear-gradient(180deg, #262624 0%, #2f2e2a 100%);
+			border-color: #464646;
+			box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+		}
+	</style>
+
+	<div class="container wrapper list">
+		{{ partial "head.html" . }}
+		<h2 class="page-title" id="main-content">{{ .Title }}</h2>
+
+		{{ if .Content }}
+		<div class="list-content">
+			{{ .Content }}
+		</div>
+		{{ end }}
+
+		<div class="notes-board">
+			{{ range .Pages.ByDate.Reverse }}
+			<a class="note-card" href="{{ .RelPermalink }}">
+				<time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02 Jan 2006" }}</time>
+				<h3>{{ .Title }}</h3>
+				<p>
+					{{ if .Description }}
+						{{ .Description }}
+					{{ else if .Summary }}
+						{{ .Summary | plainify | truncate 160 }}
+					{{ else }}
+						{{ .RawContent | plainify | truncate 160 }}
+					{{ end }}
+				</p>
+			</a>
+			{{ end }}
+		</div>
+	</div>
+
+	{{ partial "footer.html" . }}
+	{{ partial "conditional-scripts.html" . }}
+	{{ partial "prefetch_links.html" . }}
+</body>
+
+</html>

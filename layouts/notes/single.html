@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}" data-theme-mode="{{ .Site.Params.mode | default "auto" }}"{{- if (eq .Site.Params.mode "dark") -}} class="dark"{{ end }}>
+{{ partial "header.html" . }}
+
+<body data-pagefind-body>
+	<a href="#main-content" class="skip-link">Skip to main content</a>
+
+	<style>
+		.note-shell {
+			max-width: 820px;
+			margin: 1.2rem auto 0 auto;
+			padding: 1.2rem;
+			border-radius: 14px;
+			border: 1px solid var(--border-color, #d7d7d7);
+			background: linear-gradient(180deg, #fffef8 0%, #fffbea 100%);
+			box-shadow: 0 3px 10px rgba(0, 0, 0, 0.06);
+		}
+		.note-meta {
+			font-size: .82rem;
+			opacity: .75;
+			margin-bottom: .4rem;
+		}
+		.note-title {
+			margin: 0 0 .7rem 0;
+			font-size: 1.5rem;
+			line-height: 1.25;
+		}
+		.note-content {
+			line-height: 1.75;
+			font-size: 1rem;
+		}
+		.note-back {
+			font-size: .92rem;
+			margin-top: 1rem;
+			display: inline-block;
+		}
+		html.dark .note-shell {
+			background: linear-gradient(180deg, #262624 0%, #2f2e2a 100%);
+			border-color: #464646;
+			box-shadow: 0 3px 10px rgba(0, 0, 0, 0.3);
+		}
+	</style>
+
+	<div class="container wrapper">
+		{{ partial "head.html" . }}
+		<main id="main-content" class="note-shell">
+			<div class="note-meta">{{ .Date.Format "02 Jan 2006" }}</div>
+			<h1 class="note-title">{{ .Title }}</h1>
+			<div class="note-content">
+				{{ .Content }}
+			</div>
+			<a class="note-back" href="{{ "/notes/" | relURL }}">← Back to notes</a>
+		</main>
+	</div>
+
+	{{ partial "footer.html" . }}
+	{{ partial "conditional-scripts.html" . }}
+	{{ partial "prefetch_links.html" . }}
+</body>
+
+</html>
