@@ -1,4 +1,4 @@
-generated_at: 2026-02-08T17:50:04.683Z
+generated_at: 2026-02-09T18:08:29.869Z
 explicit:
   company_names:
     - SAP
@@ -36,9 +36,27 @@ discovered:
     - hubstaff
     - nivoda
     - cint
+    - jetztjob
+    - babbel
+    - metrofibre-gmbh
+    - miles-mobility
+    - koro-handels-gmbh
+    - conmendo-gmbh
+    - academia-holding-gmbh
+    - getpress
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
+    - https://metrofibre-gmbh.jobs.personio.de/xml
+    - https://metrofibre-gmbh.jobs.personio.com/xml
+    - https://miles-mobility.jobs.personio.de/xml
+    - https://miles-mobility.jobs.personio.com/xml
+    - https://koro-handels-gmbh.jobs.personio.de/xml
+    - https://koro-handels-gmbh.jobs.personio.com/xml
+    - https://conmendo-gmbh.jobs.personio.de/xml
+    - https://conmendo-gmbh.jobs.personio.com/xml
+    - https://academia-holding-gmbh.jobs.personio.de/xml
+    - https://academia-holding-gmbh.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -46,12 +64,15 @@ discovered:
   recruitee_companies:
     - sendcloud
     - jump
+    - jetztjob
+    - getpress
   ashby_organizations:
     - telus-digital
     - a-team
     - jump
     - hubstaff
     - nivoda
+    - babbel
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
