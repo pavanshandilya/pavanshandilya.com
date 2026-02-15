@@ -1,4 +1,4 @@
-generated_at: 2026-02-14T17:48:50.779Z
+generated_at: 2026-02-15T17:55:34.649Z
 explicit:
   company_names:
     - SAP
@@ -40,6 +40,7 @@ discovered:
     - academia-holding-gmbh
     - getpress
     - spread-gmbh
+    - alan
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -71,6 +72,7 @@ discovered:
     - hubstaff
     - nivoda
     - babbel
+    - alan
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
