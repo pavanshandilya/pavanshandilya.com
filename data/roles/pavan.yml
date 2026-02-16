@@ -1,7 +1,7 @@
 schema_version: roles.v1
 profile_id: pavan
 profile_name: Pavan - marketing, digital marketing, video editing
-generated_at: 2026-02-15T17:48:29.497Z
+generated_at: 2026-02-16T17:59:06.592Z
 buckets:
   marketing_general:
     - source: greenhouse
@@ -101,9 +101,364 @@ buckets:
       score: 110
       skill_hits: 4
       bucket_id: marketing_general
+      fetched_at: 2026-02-16T17:59:06.592Z
+      pulled_at: 2026-02-16T17:59:06.592Z
+      stale_days: 0
+      is_stale: false
+    - source: greenhouse
+      source_note: ""
+      company: hellofresh
+      title: Digital Growth Manager - Apps (m/f/x)
+      location: Berlin, Berlin, Germany
+      url: https://careers.hellofresh.com/global/en/job/7529933?gh_jid=7529933
+      updated_at: 2026-02-13T12:40:20-05:00
+      description: "&lt;h2&gt;&lt;strong&gt;About the Role&lt;/strong&gt;&lt;/h2&gt;
+        &lt;p&gt;We are looking for a data-driven &lt;strong&gt;App Marketing
+        Specialist&lt;/strong&gt; to join our growing App Marketing team. In
+        this role, you will support the execution and optimization of both paid
+        &amp;amp; organic app user acquisition across key platforms like Apple
+        Search Ads (ASA) and Google App Campaigns (UAC), Social Platforms (Meta,
+        TikTok)&lt;/p&gt; &lt;p&gt;As an App specialist, you will bridge the gap
+        between technical execution and creative performance. You’ll work
+        closely with paid social, analytics, and product teams to help scale our
+        mobile growth. This role is ideal for a performance marketer who is
+        passionate about the mobile ecosystem and thrives in a fast-paced,
+        testing-heavy environment.&lt;/p&gt; &lt;h2&gt;Your
+        Responsibilities&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Campaign
+        Execution:&lt;/strong&gt; Support the setup, management, and daily
+        optimization of user acquisition campaigns via Apple Search Ads (ASA),
+        UAC, TikTok, and Meta.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Performance
+        Monitoring:&lt;/strong&gt; Track daily budget pacing and campaign
+        performance globally, ensuring KPIs are met and reporting is kept up to
+        date.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Creative
+        Collaboration:&lt;/strong&gt; Work with the creative and brand teams to
+        develop, test, and iterate on high-performing ad assets specifically for
+        mobile.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Cross-Functional
+        Support:&lt;/strong&gt; Partner with ASO, CRM, and Product teams to
+        ensure a seamless user journey from &quot;click to
+        subscription.&quot;&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Experimentation:&lt;/strong&gt; Assist in
+        running A/B tests and audience segmentation experiments to improve CPAs,
+        retention, and ROAS.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Tracking
+        &amp;amp; Data:&lt;/strong&gt; Support the monitoring of MMP (Mobile
+        Measurement Partner) events to ensure tracking accuracy and data
+        integrity.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Operational
+        Efficiency:&lt;/strong&gt; Maintain internal documentation, marketing
+        calendars, and tools to ensure the App Marketing team operates
+        efficiently.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;What You’ll
+        Bring&lt;/strong&gt;&lt;/h2&gt;
+        &lt;p&gt;&lt;strong&gt;Required&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt;
+        &lt;li&gt;&lt;strong&gt;Experience:&lt;/strong&gt; 3+ years of
+        experience in digital marketing, with at least 1–2 years specifically
+        focused on mobile performance or app-based UA.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Channel Knowledge:&lt;/strong&gt; Practical
+        experience setting up and managing campaigns in Apple Search Ads or
+        Google UAC.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Analytical
+        Mindset:&lt;/strong&gt; Comfortable working with large data sets in
+        Excel/Sheets or BI tools (e.g., Tableau) to derive actionable
+        insights.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Communication:&lt;/strong&gt; Strong written and
+        verbal skills with the ability to translate technical app data into
+        clear performance updates.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Project
+        Management:&lt;/strong&gt; Excellent organizational skills; able to
+        manage multiple campaign launches and creative deadlines
+        simultaneously.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Adaptability:&lt;/strong&gt; A proactive
+        attitude with a desire to learn the nuances of mobile attribution (SKAN,
+        ATT, and MMPs).&lt;/li&gt; &lt;/ul&gt;
+        &lt;p&gt;&lt;strong&gt;Preferred&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt;
+        &lt;li&gt;Experience in a B2C subscription or e-commerce
+        environment.&lt;/li&gt; &lt;li&gt;Familiarity with Mobile Measurement
+        Partners (MMP) such as &lt;strong&gt;Adjust&lt;/strong&gt; or
+        &lt;strong&gt;AppsFlyer&lt;/strong&gt;.&lt;/li&gt; &lt;li&gt;Exposure to
+        programmatic app platforms (e.g., Liftoff, Moloco, or
+        Appier).&lt;/li&gt; &lt;li&gt;Basic understanding of ASO (App Store
+        Optimization) and its impact on paid performance.&lt;/li&gt; &lt;li&gt;A
+        &quot;curious&quot; mindset—interest in automation tools like Zapier or
+        Google Ads Scripts is a plus.&lt;/li&gt; &lt;/ul&gt;
+        &lt;h2&gt;&lt;strong&gt;What we offer&lt;/strong&gt;&lt;/h2&gt;
+        &lt;ul&gt; &lt;li&gt;Healthy discount on weekly HelloFresh
+        boxes&lt;/li&gt; &lt;li&gt;Annual learning and development budget to
+        attend conferences or purchase educational resources plus access to the
+        HelloFresh Academy&lt;/li&gt; &lt;li&gt;Subsidized childcare with a
+        professional nannying agency&lt;/li&gt; &lt;li&gt;Free access to
+        Headspace, biweekly in-house yoga classes (remote since March
+        2020)&lt;/li&gt; &lt;li&gt;A diverse and vibrant international
+        environment of 70+ different nationalities&lt;/li&gt;
+        &lt;li&gt;Additional perks include: Free crash course in German,
+        compensation for advanced external German classes, discounts for our
+        neighboring gym &amp;amp; Urban Sports Club, summer &amp;amp; winter
+        parties, discount on our HelloFresh vending machines&lt;/li&gt;
+        &lt;li&gt;The chance to have a significant impact on one of the
+        fastest-growing technology companies in Europe in an exciting growth
+        phase&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;
+        &lt;h2&gt;&lt;strong&gt;Are you up for the
+        challenge?&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Please submit your
+        complete application below including your salary expectations and
+        earliest starting date.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;"
+      score: 96
+      skill_hits: 1
+      bucket_id: marketing_general
+      fetched_at: 2026-02-16T17:59:06.592Z
+      pulled_at: 2026-02-16T17:59:06.592Z
+      stale_days: 0
+      is_stale: false
+    - source: arbeitnow
+      source_note: ""
+      company: Logicc
+      title: Senior Marketing Manager (m/w/d)
+      location: Hamburg
+      url: https://www.arbeitnow.com/jobs/companies/logicc/senior-marketing-manager-hamburg-424368
+      updated_at: 1771259516
+      description: "Logicc ist die zentrale KI-Plattform für Unternehmen – wir bringen
+        alle führenden KI-Modelle von ChatGPT, Claude, Gemini und weiteren in
+        einer DSGVO-konformen Lösung zusammen. Bereits über 800 Unternehmen
+        vertrauen auf Logicc, darunter bekannte Namen wie Dominos, Panini, die
+        Sparkasse uvm. Wir sind ein dynamisches Hamburger Start-up mit flachen
+        Hierarchien, direktem Kontakt zu den Gründern und einer Mission:
+        KI-Technologie für jedes Unternehmen zugänglich und sicher zu machen.
+        Wenn du Teil einer Wachstumsstory sein möchtest, bei der deine Arbeit
+        echten Impact hat, bist du bei uns genau richtig. Aufgaben Auswertung
+        und Aufbereitung von Marketing-Daten aus verschiedenen Kanälen (Meta,
+        Google Analytics, CRM etc.) zur Ableitung strategischer
+        Handlungsempfehlungen Planung, Koordination und Umsetzung
+        kanalübergreifender Marketing-Kampagnen zur Gewinnung und Aktivierung
+        von Neukunden Aufbau und Optimierung automatisierter,
+        hyperpersonalisierter Customer Journeys entlang des gesamten
+        Kundenlebenszyklus Konzeption, Durchführung und Auswertung von A/B-Tests
+        zur kontinuierlichen Verbesserung der Marketing-Performance Erstellung
+        und Optimierung von Landingpages und E-Mail-Kampagnen mit Fokus auf
+        Conversion-Optimierung Enge Zusammenarbeit mit Sales und Produkt zur
+        Sicherstellung einer nahtlosen Customer Experience Monitoring relevanter
+        KPIs und kontinuierliche Weiterentwicklung unserer Marketing-Strategie
+        auf Basis datengetriebener Insights Qualifikation Hohe Motivation und
+        Begeisterung für datengetriebenes Marketing Technische Affinität und
+        sicherer Umgang mit Analyse-Tools wie Google Analytics, Meta Business
+        Suite und weiteren Marketing-Plattformen Fähigkeit, Marketing-KPIs zu
+        interpretieren, daraus Handlungsempfehlungen abzuleiten und komplexe
+        Daten verständlich zu kommunizieren Selbstständige Arbeitsweise,
+        schnelle Auffassungsgabe und echte Lernbereitschaft beim Einfinden in
+        neue Tools Ausgeprägtes Marketing-Verständnis für Kommunikation,
+        Landingpage-Optimierung und Customer Journey Sicherer Umgang mit
+        CRM-Systemen, Content-Management-Tools, Excel und Datenvisualisierung
+        Neugier auf KI-Technologien im Marketing-Kontext und Lust, in einem
+        schnelllebigen Start-up-Umfeld zu wachsen Gute Deutsch- und
+        Englischkenntnisse Benefits Flexible Arbeitszeiten und freie Wahl
+        zwischen Remote, Hybrid oder Arbeiten in unserem schönen Office in der
+        Hamburger Innenstadt Hoher Ownership-Anteil: Du kannst dich selbst
+        verwirklichen und deine eigenen Ideen direkt umsetzen Arbeite an einem
+        der aktuellsten Produkte im KI-Bereich und werde Teil eines dynamischen,
+        schnell wachsenden Teams Bezuschussung zum Deutschland-Ticket Wellpass
+        Mitgliedschaft Guter Kaffee &#x26; Getränke im Büro Flache Hierarchien
+        und kurze Entscheidungswege Ein Umfeld, in dem deine Meinung zählt und
+        du echten Impact haben kannst Wir freuen uns über deine Bewerbung! Wenn
+        du Lust hast, die Zukunft der KI-gestützten Arbeit mitzugestalten und in
+        einem Team zu arbeiten, das Wert auf Innovation, Eigenverantwortung und
+        echte Zusammenarbeit legt, dann bist du bei uns genau richtig. Find Jobs
+        in Germany on Arbeitnow"
+      job_types:
+        - berufserfahren
+      remote: false
+      score: 74
+      skill_hits: 1
+      bucket_id: marketing_general
+      fetched_at: 2026-02-16T17:59:06.592Z
+      pulled_at: 2026-02-16T17:59:06.592Z
+      stale_days: 0
+      is_stale: false
+    - source: arbeitnow
+      source_note: ""
+      company: sqanit GmbH
+      title: Product Marketing Manager (m/w/d)
+      location: Munich
+      url: https://www.arbeitnow.com/jobs/companies/sqanit-gmbh/product-marketing-manager-munich-156252
+      updated_at: 1771239691
+      description: "sqanit ist die führende Service-Management-Plattform, die
+        After-Sales und Assetmanagement neu definiert – ein echtes „CRM für
+        Produkte“. Wir verbinden Marken direkt mit ihren Endkunden über digitale
+        Zwillinge, kontextbasierte Self-Services, AR-Support und nahtloses
+        Ticketing. Unsere Lösung ist live bei Fortune-500-Konzernen in den USA
+        und Europa, mit Schwerpunkt auf MedTech. Hinter sqanit steht Christian
+        Hieronimi – Serial Founder mit zwei erfolgreichen Exits und Track Record
+        als Investor in Healthcare- und Deep-Tech. Wir bauen ein globales
+        Category Leader-Produkt, das Millionen physischer Produkte digital macht
+        und den Digital Product Passport (DPP) zur Realität werden lässt. Kurz:
+        High-Impact B2B SaaS, echte Enterprise-Traction, ambitioniertes Team und
+        die Geschwindigkeit eines Scale-ups. Aufgaben Über die Rolle Wir suchen
+        eine proaktive, selbstmotivierte Person mit einem starken
+        Verantwortungsbewusstsein und einer Vorliebe für Eigeninitiative. In
+        dieser Rolle übernimmst du die Führung dabei, zu definieren, wie der
+        Wert unseres Produkts der Welt kommuniziert wird. Du arbeitest
+        eigenständig innerhalb eines Teams, setzt deine eigenen Prioritäten und
+        erzielst bedeutende Ergebnisse, ohne auf Anweisungen zu warten. Als
+        Product Marketing Manager entwickelst und setzt du Messaging-,
+        Positionierungs- und Go-to-Market-Strategien um und packst gleichzeitig
+        selbst mit an, indem du ansprechende Inhalte erstellst, die Nachfrage
+        generieren. Du fungierst als Brücke zwischen Produkt, Vertrieb und
+        Demand Generation, um sicherzustellen, dass wir unseren Wert klar und
+        konsistent über alle Kanäle hinweg kommunizieren. Key Responsibilities
+        Produktmarketing (Strategisch) Entwickle und verfeinere Positionierung
+        und Messaging, die bei unseren Zielgruppen Anklang finden. Führe
+        Marktanalysen durch und erstelle Kunden-Personas, um
+        Go-to-Market-Strategien zu untermauern. Führe Wettbewerbsanalysen durch,
+        um die Marktlandschaft zu verstehen und unser Produkt zu differenzieren.
+        Arbeite mit dem Vertrieb zusammen, um Vertriebsunterlagen wie
+        Pitch-Decks, One-Pager und Battle Cards zu erstellen. Content Marketing
+        (Hands-On) Plane, erstelle und verwalte hochwertige Inhalte wie
+        Blogposts, Case Studies, Whitepapers und Website-Texte. Erstelle
+        Inhalte, die Lead-Generierungs-Kampagnen unterstützen (z. B.
+        Landingpages, E-Mail-Texte). Entwickle Thought-Leadership-Inhalte, um
+        sqanit als vertrauenswürdige Stimme im Markt zu etablieren. Optimiere
+        Inhalte für SEO, um organischen Traffic zu steigern und Suchrankings zu
+        verbessern. Abteilungsübergreifende Zusammenarbeit Kooperiere mit dem
+        Produktteam, um über den Produkt-Roadmap informiert zu bleiben und
+        Funktionen in Kundennutzen zu übersetzen. Unterstütze das Vertriebsteam,
+        indem du sicherstellst, dass es mit den richtigen Materialien und
+        Insights ausgestattet ist, um Abschlüsse zu erzielen. Qualifikation
+        Erfahrung 3–5 Jahre Erfahrung im Bereich Produktmarketing,
+        Content-Marketing oder einer Hybridrolle, idealerweise in einem
+        B2B-SaaS-Unternehmen. Nachweisbare Erfolge bei der Entwicklung
+        überzeugender Messages und der Erstellung wirkungsvoller Inhalte.
+        Fähigkeiten Starkes Ownership : Du ergreifst Initiative, setzt eigene
+        Prioritäten und führst Projekte erfolgreich zum Abschluss.
+        Handlungsorientierung : Du bist ergebnisorientiert, gedeihst in einem
+        dynamischen Umfeld und triffst entschlossene Maßnahmen, um Wirkung zu
+        erzielen. Eigenständigkeit innerhalb eines Teams : Du arbeitest autonom
+        und trägst gleichzeitig aktiv zu den Zielen des Teams bei.
+        Ausgezeichnetes Storytelling , mit der Fähigkeit, komplexe Themen in
+        einfache, ansprechende Geschichten zu übersetzen. Strategisches Denken
+        mit einer Leidenschaft für das Verständnis von Kundenbedürfnissen und
+        Marktdynamiken. Fundiertes Verständnis der Prinzipien des
+        Content-Marketings und bewährter SEO-Praktiken. Hervorragende
+        Projektmanagement- und Kollaborationsfähigkeiten, um effektiv mit
+        verschiedenen Teams zusammenzuarbeiten. Fließende Deutsch- und
+        Englischkenntnisse. Benefits Wir arbeiten grundsätzlich mit
+        unbefristeten Arbeitsverträgen, da wir von einer langfristigen
+        Partnerschaft mit Dir ausgehen. Individuelle Karriere-Pathways zeigen
+        Dir den Weg in unsere gemeinsame Zukunft. Ein modernes und komfortables
+        Büro, im Herzen von München Ein internationales, hilfsbereites, hoch
+        motiviertes und agiles Team Fachliche und persönliche
+        Entwicklungsmöglichkeiten und beste Karriereperspektiven. Natürlich
+        kostenloser Kaffee und Tee - um Dir den Arbeitsalltag zu versüßen
+        Vielfältige Mittagsessensmöglichkeiten in der Umgebung, Restaurants,
+        Supermärkte, etc. Konstruktiver Austausch und Anbindung mit den
+        Schwesterunternehmen, CONVIEN GmbH (CO2 Reduktion) und ONCARE GmbH
+        (Gesundheits-Plattform) Trage zur Transformation der
+        Servicedienstleistung bei und mache mit uns den visionären Schritt in
+        die Zukunft! Werde Teil der sqanit Family und bewirb Dich noch heute mit
+        Deinen vollständigen Bewerbungsunterlagen unter Angabe Deines
+        frühestmöglichen Eintrittstermins und Deiner Gehaltsvorstellung. Wir
+        freuen uns auf Dich! Bitte beachte die Datenschutzbestimmungen auf
+        unserer Homepage! Find Jobs in Germany on Arbeitnow"
+      job_types: []
+      remote: false
+      score: 74
+      skill_hits: 1
+      bucket_id: marketing_general
+      fetched_at: 2026-02-16T17:59:06.592Z
+      pulled_at: 2026-02-16T17:59:06.592Z
+      stale_days: 0
+      is_stale: false
+    - source: greenhouse
+      source_note: ""
+      company: hellofresh
+      title: Senior Programmatic Marketing Manager - Creative Strategy (m/f/x)
+      location: Berlin, Berlin, Germany
+      url: https://careers.hellofresh.com/global/en/job/6967256?gh_jid=6967256
+      updated_at: 2026-02-13T12:40:20-05:00
+      description: "&lt;h2&gt;&lt;strong&gt;The role&lt;/strong&gt;&lt;/h2&gt; &lt;p
+        style=&quot;text-align: justify;&quot;&gt;As Senior Programmatic
+        Marketing Manager in our Marketing department, you will be responsible
+        for driving key consumer activations while implementing a data-driven
+        creative strategy. You will collaborate with market stakeholders to
+        understand local market insights and its implementation in your
+        marketing campaigns while working on a full funnel consumer journey. You
+        will contribute your expertise across 15 Global HelloFresh entities. The
+        ideal candidate is a strategic thinker and hands-on executor with a
+        performance marketing and experimentation mindset, capable of scaling
+        acquisition and conversion metrics for the channel.&lt;/p&gt; &lt;p
+        style=&quot;text-align: justify;&quot;&gt;&lt;span
+        style=&quot;font-weight: 400;&quot;&gt;Above all, we are looking for
+        people who will &lt;strong&gt;make HelloFresh&lt;/strong&gt;
+        &lt;strong&gt;better.&lt;/strong&gt; We believe there are many different
+        ways of developing skills and we love diverse experiences! So even if
+        you don’t “tick all the boxes” but think you’d thrive in this role, we
+        would really like to learn more about you.&lt;/span&gt;&lt;/p&gt;
+        &lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt;
+        &lt;ul&gt; &lt;li&gt;Act as the creative lead and main point of contact
+        for Display &amp;amp; Video creative strategy across
+        platforms&lt;/li&gt; &lt;li&gt;Develop creative experimentation
+        &amp;amp; performance analysis frameworks&lt;/li&gt; &lt;li&gt;Conduct
+        regular audits on creative strategies across markets.&lt;/li&gt;
+        &lt;li&gt;Own the full creative testing and performance analysis
+        strategy, from hypothesis creation and experimentation to reporting and
+        iterative optimization&lt;/li&gt; &lt;li&gt;Drive and develop new
+        creative initiatives, including testing new content formats,
+        storytelling approaches, and creator-led collaborations&lt;/li&gt;
+        &lt;li&gt;Closely collaborate with the Display &amp;amp; Video Campaign
+        Operations team to ensure creative strategies are tailored, aligned, and
+        executed smoothly across all entities&lt;/li&gt; &lt;li&gt;Identify and
+        share creative trends, insights, and best practices across internal
+        teams to inform asset development and campaign direction&lt;/li&gt;
+        &lt;li&gt;Translate performance data into clear recommendations for
+        creative development, collaborating with Brand and Design to implement
+        them&lt;/li&gt; &lt;li&gt;Lead cross-functional creative efforts, such
+        as influencer content integrations and brand partnership
+        initiatives&lt;/li&gt; &lt;li&gt;Bring structure, prioritization, and
+        clear problem-solving to a fast-moving, test-and-learn
+        environment&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;What you’ll
+        bring&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;6+ years of
+        professional experience in programmatic advertising or working with DSP
+        vendors, programmatic trading desks, digital marketing agencies, ad
+        network, 3rd party data companies or other related digital
+        companies.&lt;/li&gt; &lt;li&gt;2+ years of previous strategy
+        development and deployment in digital marketing&amp;nbsp;&lt;/li&gt;
+        &lt;li&gt;Excellent knowledge and skills of Google: Sheet and Slides -
+        can create reports and presentations for internal and external
+        teams&lt;/li&gt; &lt;li&gt;Understanding of digital marketing
+        disciplines from digital display, OTV, SEO, PPC, Ecommerce, social media
+        or affiliate marketing&lt;/li&gt; &lt;li&gt;Excellent communication
+        skills. You will be the go-to-person for multiple marketing and
+        communication teams. Interpersonal skills are a prerequisite for
+        success.&lt;/li&gt; &lt;li&gt;Passionate about digital industry and
+        highly digital savvy&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Our best-in-class
+        marketers play vital roles in connecting HelloFresh with new and
+        existing customers across the world. Based in Berlin, the data-driven
+        and creative Global Marketing Team pioneers industry-leading research,
+        business insight, CRM, growth marketing and brand communication. The
+        team continuously drives our brand forward through experimentation and
+        an entrepreneurial spirit.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What we
+        offer&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Elevate your lifestyle! Join
+        one of Europe&#39;s fastest-growing tech powerhouses in a dynamic phase
+        of expansion.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Immerse yourself in a
+        diverse global community of 90+ nationalities.&lt;/li&gt;
+        &lt;li&gt;Enjoy a competitive compensation package that goes beyond the
+        norm, with perks like a HelloFresh- subsidized Pension Scheme, Berlin
+        relocation support, and a Hybrid working model.&lt;/li&gt;
+        &lt;li&gt;Elevate your lifestyle with exclusive discounts on your weekly
+        HelloFresh box and office meals.&lt;/li&gt; &lt;li&gt;Invest in your
+        growth with an annual learning &amp;amp; development budget, German
+        language learning budget, and access to the HelloFresh
+        Academy.&lt;/li&gt; &lt;li&gt;Plus, we&#39;ve got your well-being
+        covered with mental health support, transportation perks, and
+        working-parent-friendly benefits. From our 24/7 gym access,wellbeing
+        platforms like Headspace and Spill, to sabbatical leave options,
+        HelloFresh is not just a workplace; it&#39;s a lifestyle of perks and
+        possibilities!&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;Are you up
+        for the challenge?&lt;/strong&gt;&lt;/h2&gt; &lt;p
+        style=&quot;text-align: justify;&quot;&gt;&lt;span
+        style=&quot;font-weight: 400;&quot;&gt;Please submit your complete
+        application below including your salary expectations and earliest
+        starting date.&lt;/span&gt;&lt;/p&gt; &lt;p style=&quot;text-align:
+        justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;After
+        submitting an application our team will review this and get back to you
+        within 5 business days.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;"
+      score: 110
+      skill_hits: 4
+      bucket_id: marketing_general
       fetched_at: 2026-02-15T17:48:29.497Z
       pulled_at: 2026-02-15T17:48:29.497Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -201,7 +556,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-15T17:48:29.497Z
       pulled_at: 2026-02-15T17:48:29.497Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -246,7 +601,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-15T17:48:29.497Z
       pulled_at: 2026-02-15T17:48:29.497Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -347,7 +702,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-14T17:47:32.325Z
       pulled_at: 2026-02-14T17:47:32.325Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -445,7 +800,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-14T17:47:32.325Z
       pulled_at: 2026-02-14T17:47:32.325Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -514,7 +869,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-14T17:47:32.325Z
       pulled_at: 2026-02-14T17:47:32.325Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -559,7 +914,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-14T17:47:32.325Z
       pulled_at: 2026-02-14T17:47:32.325Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -660,7 +1015,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-09T18:08:29.869Z
       pulled_at: 2026-02-09T18:08:29.869Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -758,7 +1113,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-09T18:08:29.869Z
       pulled_at: 2026-02-09T18:08:29.869Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -859,7 +1214,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-08T17:50:04.683Z
       pulled_at: 2026-02-08T17:50:04.683Z
-      stale_days: 6
+      stale_days: 8
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -987,7 +1342,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-08T17:50:04.683Z
       pulled_at: 2026-02-08T17:50:04.683Z
-      stale_days: 6
+      stale_days: 8
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -1088,7 +1443,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T18:51:13.212Z
       pulled_at: 2026-02-07T18:51:13.212Z
-      stale_days: 7
+      stale_days: 8
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1217,7 +1572,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T18:51:13.212Z
       pulled_at: 2026-02-07T18:51:13.212Z
-      stale_days: 7
+      stale_days: 8
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -1318,7 +1673,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T18:26:20.804Z
       pulled_at: 2026-02-07T18:26:20.804Z
-      stale_days: 7
+      stale_days: 8
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1447,7 +1802,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T18:26:20.804Z
       pulled_at: 2026-02-07T18:26:20.804Z
-      stale_days: 7
+      stale_days: 8
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -1548,7 +1903,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T17:16:11.277Z
       pulled_at: 2026-02-07T17:16:11.277Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1677,7 +2032,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T17:16:11.277Z
       pulled_at: 2026-02-07T17:16:11.277Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -1778,7 +2133,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T17:10:52.874Z
       pulled_at: 2026-02-07T17:10:52.874Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1907,7 +2262,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T17:10:52.874Z
       pulled_at: 2026-02-07T17:10:52.874Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -2008,7 +2363,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T17:05:11.779Z
       pulled_at: 2026-02-07T17:05:11.779Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2137,7 +2492,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T17:05:11.779Z
       pulled_at: 2026-02-07T17:05:11.779Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -2238,7 +2593,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T17:01:24.160Z
       pulled_at: 2026-02-07T17:01:24.160Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2367,7 +2722,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T17:01:24.160Z
       pulled_at: 2026-02-07T17:01:24.160Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -2468,7 +2823,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T15:58:11.095Z
       pulled_at: 2026-02-07T15:58:11.095Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2596,7 +2951,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T15:58:11.095Z
       pulled_at: 2026-02-07T15:58:11.095Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
   digital_marketing:
     - source: arbeitnow
@@ -2655,7 +3010,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-02-14T17:47:32.325Z
       pulled_at: 2026-02-14T17:47:32.325Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2732,7 +3087,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-02-09T18:08:29.869Z
       pulled_at: 2026-02-09T18:08:29.869Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
   video_editing:
     - source: arbeitnow
@@ -2778,7 +3133,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-02-15T17:48:29.497Z
       pulled_at: 2026-02-15T17:48:29.497Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2828,7 +3183,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-02-14T17:47:32.325Z
       pulled_at: 2026-02-14T17:47:32.325Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2873,7 +3228,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-02-14T17:47:32.325Z
       pulled_at: 2026-02-14T17:47:32.325Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
 archive:
   marketing_general: []
@@ -2890,7 +3245,7 @@ meta:
     smartrecruiters_companies: 2
     teamtailor_companies: 0
     recruitee_companies: 4
-    ashby_organizations: 6
+    ashby_organizations: 7
     stepstone_feeds: 0
     arbeitnow: 1
     remotive: 1
@@ -2911,5 +3266,5 @@ meta:
     digital_marketing: 0
     video_editing: 0
   timings_ms:
-    fetch: 5622
-    total: 84080
+    fetch: 6976
+    total: 96346

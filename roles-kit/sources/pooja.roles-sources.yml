@@ -1,4 +1,4 @@
-generated_at: 2026-02-15T17:55:34.649Z
+generated_at: 2026-02-16T18:00:45.452Z
 explicit:
   company_names:
     - SAP
@@ -41,6 +41,9 @@ discovered:
     - getpress
     - spread-gmbh
     - alan
+    - cannaleo-digital-gmbh
+    - cmf-advertising-gmbh
+    - jobatlas
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -56,6 +59,10 @@ discovered:
     - https://academia-holding-gmbh.jobs.personio.com/xml
     - https://spread-gmbh.jobs.personio.de/xml
     - https://spread-gmbh.jobs.personio.com/xml
+    - https://cannaleo-digital-gmbh.jobs.personio.de/xml
+    - https://cannaleo-digital-gmbh.jobs.personio.com/xml
+    - https://cmf-advertising-gmbh.jobs.personio.de/xml
+    - https://cmf-advertising-gmbh.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -65,6 +72,7 @@ discovered:
     - jump
     - jetztjob
     - getpress
+    - jobatlas
   ashby_organizations:
     - telus-digital
     - a-team
