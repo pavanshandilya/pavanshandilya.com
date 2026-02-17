@@ -1,7 +1,7 @@
 schema_version: roles.v1
 profile_id: pavan
 profile_name: Pavan - marketing, digital marketing, video editing
-generated_at: 2026-02-16T17:59:06.592Z
+generated_at: 2026-02-17T18:11:01.254Z
 buckets:
   marketing_general:
     - source: greenhouse
@@ -101,9 +101,441 @@ buckets:
       score: 110
       skill_hits: 4
       bucket_id: marketing_general
+      fetched_at: 2026-02-17T18:11:01.254Z
+      pulled_at: 2026-02-17T18:11:01.254Z
+      stale_days: 0
+      is_stale: false
+    - source: greenhouse
+      source_note: ""
+      company: hellofresh
+      title: Digital Growth Manager - Apps (m/f/x)
+      location: Berlin, Berlin, Germany
+      url: https://careers.hellofresh.com/global/en/job/7529933?gh_jid=7529933
+      updated_at: 2026-02-13T12:40:20-05:00
+      description: "&lt;h2&gt;&lt;strong&gt;About the Role&lt;/strong&gt;&lt;/h2&gt;
+        &lt;p&gt;We are looking for a data-driven &lt;strong&gt;App Marketing
+        Specialist&lt;/strong&gt; to join our growing App Marketing team. In
+        this role, you will support the execution and optimization of both paid
+        &amp;amp; organic app user acquisition across key platforms like Apple
+        Search Ads (ASA) and Google App Campaigns (UAC), Social Platforms (Meta,
+        TikTok)&lt;/p&gt; &lt;p&gt;As an App specialist, you will bridge the gap
+        between technical execution and creative performance. You’ll work
+        closely with paid social, analytics, and product teams to help scale our
+        mobile growth. This role is ideal for a performance marketer who is
+        passionate about the mobile ecosystem and thrives in a fast-paced,
+        testing-heavy environment.&lt;/p&gt; &lt;h2&gt;Your
+        Responsibilities&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Campaign
+        Execution:&lt;/strong&gt; Support the setup, management, and daily
+        optimization of user acquisition campaigns via Apple Search Ads (ASA),
+        UAC, TikTok, and Meta.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Performance
+        Monitoring:&lt;/strong&gt; Track daily budget pacing and campaign
+        performance globally, ensuring KPIs are met and reporting is kept up to
+        date.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Creative
+        Collaboration:&lt;/strong&gt; Work with the creative and brand teams to
+        develop, test, and iterate on high-performing ad assets specifically for
+        mobile.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Cross-Functional
+        Support:&lt;/strong&gt; Partner with ASO, CRM, and Product teams to
+        ensure a seamless user journey from &quot;click to
+        subscription.&quot;&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Experimentation:&lt;/strong&gt; Assist in
+        running A/B tests and audience segmentation experiments to improve CPAs,
+        retention, and ROAS.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Tracking
+        &amp;amp; Data:&lt;/strong&gt; Support the monitoring of MMP (Mobile
+        Measurement Partner) events to ensure tracking accuracy and data
+        integrity.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Operational
+        Efficiency:&lt;/strong&gt; Maintain internal documentation, marketing
+        calendars, and tools to ensure the App Marketing team operates
+        efficiently.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;What You’ll
+        Bring&lt;/strong&gt;&lt;/h2&gt;
+        &lt;p&gt;&lt;strong&gt;Required&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt;
+        &lt;li&gt;&lt;strong&gt;Experience:&lt;/strong&gt; 3+ years of
+        experience in digital marketing, with at least 1–2 years specifically
+        focused on mobile performance or app-based UA.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Channel Knowledge:&lt;/strong&gt; Practical
+        experience setting up and managing campaigns in Apple Search Ads or
+        Google UAC.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Analytical
+        Mindset:&lt;/strong&gt; Comfortable working with large data sets in
+        Excel/Sheets or BI tools (e.g., Tableau) to derive actionable
+        insights.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Communication:&lt;/strong&gt; Strong written and
+        verbal skills with the ability to translate technical app data into
+        clear performance updates.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Project
+        Management:&lt;/strong&gt; Excellent organizational skills; able to
+        manage multiple campaign launches and creative deadlines
+        simultaneously.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Adaptability:&lt;/strong&gt; A proactive
+        attitude with a desire to learn the nuances of mobile attribution (SKAN,
+        ATT, and MMPs).&lt;/li&gt; &lt;/ul&gt;
+        &lt;p&gt;&lt;strong&gt;Preferred&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt;
+        &lt;li&gt;Experience in a B2C subscription or e-commerce
+        environment.&lt;/li&gt; &lt;li&gt;Familiarity with Mobile Measurement
+        Partners (MMP) such as &lt;strong&gt;Adjust&lt;/strong&gt; or
+        &lt;strong&gt;AppsFlyer&lt;/strong&gt;.&lt;/li&gt; &lt;li&gt;Exposure to
+        programmatic app platforms (e.g., Liftoff, Moloco, or
+        Appier).&lt;/li&gt; &lt;li&gt;Basic understanding of ASO (App Store
+        Optimization) and its impact on paid performance.&lt;/li&gt; &lt;li&gt;A
+        &quot;curious&quot; mindset—interest in automation tools like Zapier or
+        Google Ads Scripts is a plus.&lt;/li&gt; &lt;/ul&gt;
+        &lt;h2&gt;&lt;strong&gt;What we offer&lt;/strong&gt;&lt;/h2&gt;
+        &lt;ul&gt; &lt;li&gt;Healthy discount on weekly HelloFresh
+        boxes&lt;/li&gt; &lt;li&gt;Annual learning and development budget to
+        attend conferences or purchase educational resources plus access to the
+        HelloFresh Academy&lt;/li&gt; &lt;li&gt;Subsidized childcare with a
+        professional nannying agency&lt;/li&gt; &lt;li&gt;Free access to
+        Headspace, biweekly in-house yoga classes (remote since March
+        2020)&lt;/li&gt; &lt;li&gt;A diverse and vibrant international
+        environment of 70+ different nationalities&lt;/li&gt;
+        &lt;li&gt;Additional perks include: Free crash course in German,
+        compensation for advanced external German classes, discounts for our
+        neighboring gym &amp;amp; Urban Sports Club, summer &amp;amp; winter
+        parties, discount on our HelloFresh vending machines&lt;/li&gt;
+        &lt;li&gt;The chance to have a significant impact on one of the
+        fastest-growing technology companies in Europe in an exciting growth
+        phase&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;
+        &lt;h2&gt;&lt;strong&gt;Are you up for the
+        challenge?&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Please submit your
+        complete application below including your salary expectations and
+        earliest starting date.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;"
+      score: 96
+      skill_hits: 1
+      bucket_id: marketing_general
+      fetched_at: 2026-02-17T18:11:01.254Z
+      pulled_at: 2026-02-17T18:11:01.254Z
+      stale_days: 0
+      is_stale: false
+    - source: arbeitnow
+      source_note: ""
+      company: encosa energy GmbH
+      title: Marketing Manager Growth & Communications (m/w/d)
+      location: Munich
+      url: https://www.arbeitnow.com/jobs/companies/encosa-energy-gmbh/marketing-manager-growth-communications-munich-239352
+      updated_at: 1771333285
+      description: 🚀 Gestalte die Energiewende mit wirkungsvollem B2B-Marketing für
+        Industrie und Gewerbe. encosa steht für „energy cost savings“. Das ist
+        unsere Mission. Wir helfen Unternehmen mit Batteriespeichern und
+        intelligenter Software, ihre Stromkosten zu senken und CO₂-Emissionen zu
+        vermeiden. Als Full-Service-Anbieter übernehmen wir den gesamten
+        Prozess. Von der Wirtschaftlichkeitsberechnung über Netzanschluss und
+        Installation bis hin zum Betrieb. Aufgaben 💡 Deine Rolle Als Marketing
+        Manager Growth &#x26; Communications verantwortest du unsere operative
+        B2B-Marketingstrategie über den gesamten Funnel. Du entwickelst unsere
+        Website als zentralen Wachstums- und Conversion-Kanal weiter und
+        steuerst Performance-, Branding- und Kommunikationsmaßnahmen integriert
+        und messbar, inklusive Planung, Umsetzung und Optimierung unserer
+        Paid-Marketing-Aktivitäten. ⚡ Deine Aufgaben Weiterentwicklung und
+        Schärfung unserer Markenpositionierung sowie Sicherstellung eines
+        konsistenten B2B-Markenauftritts über alle relevanten Kanäle
+        Strategische und operative Weiterentwicklung unserer Website
+        einschließlich Konzeption, Aufbau und Optimierung conversionstarker
+        Landingpagesals zentraler Performance- und Conversion-Hub Konzeption,
+        Umsetzung und kontinuierliche Optimierung digitaler
+        B2B-Marketingkampagnen einschließlich eigenständiger Steuerung
+        ausgewählter Marketingkanäle sowie Entwicklung, Testing, Optimierung und
+        Skalierung von Werbeanzeigen und Paid-Marketing-Aktivitäten Konzeption
+        und Erstellung von Content-Formaten wie Whitepaper, Case Studies,
+        Website-Inhalte, Newsletter und weiterer Kommunikationsmaterialien
+        Mitgestaltung unserer externen Kommunikation, einschließlich
+        Pressemitteilungen, Partnerankündigungen oder Planen öffentlicher
+        Auftritten und Koordination von Webinaren, Events und digitalen Formaten
+        Analyse relevanter Marketing-KPIs sowie Ableitung und Umsetzung
+        konkreter Optimierungsmaßnahmen Enge Zusammenarbeit mit Sales, Product
+        und Management für ein klares, konsistentes und überzeugendes
+        Storytelling Selbstständiger Aufbau, Steuerung und Weiterentwicklung von
+        Growth-Projekten von der Konzeption bis zur Skalierung Weiterentwicklung
+        unserer SEO- und Content-Strukturen zur langfristigen und nachhaltigen
+        Leadgenerierung Identifikation neuer Marketingpotenziale sowie
+        eigenständige Entwicklung und Umsetzung wirkungsvoller Initiativen mit
+        unternehmerischem Blick Qualifikation 🎯 Dein Profil Mehrjährige
+        Erfahrung im B2B-Marketing mit Schwerpunkt auf Branding,
+        Website-Optimierung und Performance-Marketing Erfahrung im
+        Full-Funnel-Marketing über Paid- und Organic-Kanäle Erste Erfahrung oder
+        gutes Verständnis im Bereich PR, Unternehmenskommunikation oder externer
+        Stakeholder-Kommunikation Souveränität im Aufbau und in der Optimierung
+        von Websites, Landingpages und Conversion-Strecken Ausgeprägte
+        datengetriebene und strukturierte Arbeitsweise mit klarer
+        KPI-Orientierung Sehr starke Kommunikationsfähigkeit in Text und Konzept
+        Gutes Gespür für Design, visuelles Storytelling und konsistente
+        Markenführung Kreativität gepaart mit unternehmerischem Denken und
+        Umsetzungsstärke Interesse an Energie-, Infrastruktur- oder
+        Nachhaltigkeitsthemen Idealerweise Erfahrung im Energie-, Infrastruktur-
+        oder industriellen B2B-Umfeld Deutsch und Englisch fließend in Wort und
+        Schrift Benefits 💡 High Impact &#x26; Verantwortung – Du baust unser
+        B2B-Marketing strategisch und operativ mit auf ⚡ Technischer Fokus –
+        Performance-Marketing, CRM, Automatisierung und Content 📍 Flexibles
+        Arbeiten – Hybrides Modell &#x26; Büro im Herzen Münchens 📈
+        Entwicklungsmöglichkeiten – Perspektive in Richtung Senior Marketing
+        oder Lead Marketing 💸 Attraktives Vergütungspaket – Fixgehalt + Bonus
+        (plus Beteiligungsoption) 💪 Startup-Kultur mit Haltung – Offene
+        Kommunikation, Wellpass-Fitness &#x26; Teamspirit Wir freuen uns darauf,
+        dich kennenzulernen. ⚡ Find Jobs in Germany on Arbeitnow
+      job_types: []
+      remote: false
+      score: 80
+      skill_hits: 2
+      bucket_id: marketing_general
+      fetched_at: 2026-02-17T18:11:01.254Z
+      pulled_at: 2026-02-17T18:11:01.254Z
+      stale_days: 0
+      is_stale: false
+    - source: arbeitnow
+      source_note: ""
+      company: immotalente.de
+      title: Werkstudent/in Content Marketing & Assistenz (m/w/d)
+      location: Berlin
+      url: https://www.arbeitnow.com/jobs/companies/immotalentede/werkstudent-in-content-marketing-assistenz-berlin-103186
+      updated_at: 1771331494
+      description: "Immotalente · Berlin (Remote mit regelmäßigen Treffen) · 15–20
+        Std./Woche · Ab sofort Über uns Immotalente ist eine spezialisierte
+        Personalberatung für die Immobilienverwaltung. Wir besetzen
+        kaufmännische Schlüsselrollen – Hausverwalter, WEG-Verwalter,
+        Immobilienbuchhalter – für kleine und mittelgroße Hausverwaltungen in
+        ganz Deutschland. Unser Ansatz unterscheidet sich grundlegend vom
+        klassischen Headhunting: transparenter Fixpreis statt Provision,
+        datenbasierte Auswahl statt Bauchgefühl und eine Einstellungsquote von
+        89 % beim ersten vorgestellten Kandidaten. Wir wissen, wovon wir reden –
+        und genau darüber wollen wir jetzt auch sprechen. Was uns fehlt: eine
+        starke Content-Präsenz, die unsere Expertise sichtbar macht. Hier kommst
+        du ins Spiel. Aufgaben Deine Rolle Du baust gemeinsam mit uns den
+        Content-Unterbau auf, der Immotalente als Thought Leader in der Branche
+        positioniert. Dabei arbeitest du eng mit dem Gründer und einer
+        Social-Media-Spezialistin zusammen, die bereits Video-Content und
+        Social-Media-Kanäle verantwortet. Content Marketing (ca. 75 % deiner
+        Zeit): Blog-Artikel recherchieren, schreiben und auf der Website
+        einpflegen SEO-optimierte Inhalte erstellen, die unsere Zielgruppe über
+        Google erreichen Newsletter und E-Mail-Kampagnen konzipieren und
+        umsetzen (Mailchimp) Landingpages und Website-Inhalte pflegen und
+        aktualisieren Broschüren, Handouts und Präsentationsmaterialien
+        gestalten (z. B. für Messen) Redaktionskalender mitentwickeln und
+        Content-Themen koordinieren Assistenz &#x26; Organisation (ca. 25 %
+        deiner Zeit): Kandidaten kontaktieren und Gesprächstermine koordinieren
+        Allgemeine organisatorische Unterstützung im Tagesgeschäft Einfache
+        vorbereitende Buchhaltung Qualifikation Das bringst du mit Laufendes
+        Studium, idealerweise in Marketing, Kommunikation, Medien oder einem
+        verwandten Bereich Sehr gute Deutschkenntnisse in Wort und Schrift
+        (Muttersprachniveau) – du schreibst Texte, die unsere Zielgruppe ernst
+        nimmt Erfahrung im Schreiben von Texten für digitale Kanäle (Blog,
+        Newsletter, Website) Grundkenntnisse in SEO und E-Mail-Marketing
+        Sicherer Umgang mit Tools wie Canva, WordPress oder vergleichbaren CMS
+        Eigenständige, strukturierte Arbeitsweise – du arbeitest überwiegend
+        remote und musst dich selbst organisieren können Bereitschaft, auch
+        organisatorische und administrative Aufgaben zu übernehmen Führerschein
+        Klasse B ist ein Plus Benefits Das bieten wir Echte Verantwortung &#x26;
+        Gestaltungsspielraum ab Tag 1: Du baust etwas Neues auf, nicht ab. Der
+        Bereich Content Marketing entsteht gerade erst – du gestaltest ihn aktiv
+        mit. Direkte Zusammenarbeit mit dem Gründer: Keine langen
+        Entscheidungswege, kein bürokratischer Overhead. Kurze Abstimmung,
+        schnelle Umsetzung. Flexibles Remote-Arbeiten mit 1–2 persönlichen
+        Treffen pro Woche in Berlin (Südosten/Mitte). Einblick in eine spannende
+        Nische: Du lernst die Immobilienverwaltungsbranche von innen kennen –
+        ein Markt mit echtem Fachkräftemangel und viel ungenutztem Potenzial.
+        Messen und Events: Möglichkeit, an Branchenveranstaltungen teilzunehmen
+        und dort Content und Kontakte mitzunehmen. 15–20 Stunden/Woche , faire
+        Vergütung, und ein Umfeld, das Eigeninitiative belohnt. Unsere
+        Zielgruppe – damit du weißt, worauf du dich einlässt Unsere Kunden sind
+        Geschäftsführer kleiner Hausverwaltungen: zu 80 % Männer, 40–55 Jahre
+        alt, bodenständig, praxisorientiert und oft skeptisch gegenüber
+        Personalvermittlern. Kein Startup-Sprech, kein Marketing-Buzzword-Bingo.
+        Klare Sprache, konkreter Nutzen, nachvollziehbare Argumente. Wenn du
+        Texte schreiben kannst, die diese Menschen erreichen, dann wollen wir
+        dich kennenlernen. Bewerbung Schick uns deinen Lebenslauf und, wenn
+        vorhanden, 2–3 Textproben (Blog-Artikel, Newsletter, SEO-Texte – was du
+        hast). Ein kurzes Anschreiben ist kein Muss, aber wenn du uns in drei
+        Sätzen sagen willst, warum genau diese Rolle zu dir passt, lesen wir das
+        gern. Find more English Speaking Jobs in Germany on Arbeitnow"
+      job_types:
+        - Working student
+        - berufseinstieg
+      remote: false
+      score: 74
+      skill_hits: 1
+      bucket_id: marketing_general
+      fetched_at: 2026-02-17T18:11:01.254Z
+      pulled_at: 2026-02-17T18:11:01.254Z
+      stale_days: 0
+      is_stale: false
+    - source: arbeitnow
+      source_note: ""
+      company: Bergson GmbH
+      title: Junior-Marketingmanager:in
+      location: Munich
+      url: https://www.arbeitnow.com/jobs/companies/bergson-gmbh/junior-marketingmanagerin-munich-101006
+      updated_at: 1771331494
+      description: Junior Marketing Manager (m/w/d) in München Lust, auf ein
+        spektakuläres Ambiente im neuen Place to be für Kunst, Kultur, Konzerte,
+        Kulinarik und Events? Auf Wertschätzung, Herzlichkeit und gute Vibes?
+        Dann komm‘ in unser junges, dynamisches Team und gestalte die Geschichte
+        unseres Bergson Kunstkraftwerk mit! Seit April 2024 heißen wir auf
+        20.000 qm unsere Gäste im Bergson Kunstkraftwerk in München Aubing
+        willkommen und erwecken bei ihnen Begeisterung. Von dem außerordentlich
+        vielfältigen Kulturangebot, das Konzerte aller Musikrichtungen (von
+        Klassik bis Techno), Partys, Familienvorstellungen, Talkformate,
+        Vorträge u.v.m. umfasst. Von der bildenden Kunst, die wir auf
+        außergewöhnlich viel Fläche ausstellen. Von der Qualität und modernen
+        Speisenvielfalt, mit der unsere Gastronomie-Outlets (Restaurant, Bar,
+        Tagesbar, Biergarten, Außenterrasse und bald auch Live-Club) jeden
+        Geschmack treffen. Und von dem Flair, das das Bergson als exklusiv
+        buchbarer Veranstaltungsort für private und Corporate Events mit seinem
+        hyperflexiblen Raumkonzept, seiner hochmodernen Technikausstattung und
+        architektonischen Schönheit ausstrahlt. Damit wir möglichst individuell
+        auf unsere Gäste, Kund:innen und Besucher:innen eingehen können, suchen
+        wir zur Erweiterung unseres Teams für den Bereich Marketing
+        schnellstmöglich in Vollzeit oder Teilzeit eine:n Junior Marketing -
+        Manager:in (m/w/d) für unser spektakuläres Kunst-, Kultur-, Gastronomie-
+        und Event-Highlight in München e. Aufgaben Deine Aufgaben Unterstützung
+        und selbstständige Mitgestaltung bei der Planung und Umsetzung von
+        ganzheitlichen Marketingkampagnen Mitarbeit bei der Content-Erstellung
+        (z.B. Social Media, Mailings, Website) Unterstützung im CRM- und
+        Newsletter-Marketing (Zielgruppen, Verteiler, Versand, einfache
+        Auswertungen) Pflege von Marketing- und Veranstaltungsdaten im CMS und
+        weiteren internen Systemen Selbstständige Mitgestaltung bei der
+        Weiterentwicklung der Website Recherchen und Analyse zu Trends,
+        Zielgruppen und Wettbewerb Pflege und Steuerung der digitalen Signaletik
+        am POS im Tagesbetrieb und bei B2B Events Qualifikation Du bringst bitte
+        mit Einen Bachelor- oder Masterabschluss aus einem Studiengang mit
+        relevantem Schwerpunkt, z. B. BWL, Wirtschaftswissenschaften, Marketing,
+        Kommunikationswissenschaften, Wirtschaftspsychologie,
+        Konsumentenpsychologie oder eine gleichwertige Qualifikation Erste
+        Praktische Erfahrungen mit Adobe Creative Cloud Anwendungen wie
+        Photoshop, After Effects oder Indesign Idealerweise Erfahrungen in der
+        Zusammenarbeit mit externen Agenturen und Dienstleistern Selbständige
+        Arbeitsweise und ausgeprägte Produktivität Genauigkeit, Zuverlässigkeit
+        sowie verantwortungsbewusstes Handeln verbunden mit
+        Kommunikationsgeschick und Teamkompetenz Verhandlungssichere Deutsch-
+        und Englischkenntnisse sowie vertrauter Umgang mit den gängigen
+        Microsoft 365 Anwendungen Benefits Wir bieten Dir Eine attraktive
+        Vergütung mit Entwicklungsmöglichkeiten Einen sehr abwechslungsreichen,
+        spannenden Verantwortungsbereich mit dauerhaft viel Raum für maßgebliche
+        Mitgestaltung Die einmalige Chance in Deinem Berufsleben, bei der
+        Neueröffnung eines solch großartigen Kunst-, Kultur-, Kulinarik- und
+        Event-Hotspots aktiv dabei zu sein Ein kostenloses Mittag- oder
+        Abendessen, das Deutschland-Ticket für die Nutzung des ÖPNV sowie
+        weitere Arbeitgeber-Benefits Weiterbildungsmöglichkeiten, die zu Dir
+        persönlich und Deinen Aufgaben passen Eine moderne, schöne
+        Arbeitsumgebung mit hohem Wohlfühlfaktor Eine hervorragende technische
+        Ausstattung Eine außerordentlich positive Arbeitsatmosphäre, die geprägt
+        ist von herzlicher, lebendiger Aufbruchstimmung sowie gegenseitiger
+        Wertschätzung Regelmäßige Teamevents Einen sicheren, auf langfristige
+        Zusammenarbeit ausgelegten Arbeitsplatz in einem jungen Unternehmen, das
+        durch ein krisenfestes Unternehmenskonzept, flache Hierarchien,
+        Umsetzungsfreude und eine wirtschaftlich starke, innovationsfreudige
+        Muttergesellschaft ALLGUTH GmbH punktet K Möchtest Du uns kennenlernen?
+        Wir Dich auch! Bitte sende Deine Bewerbung an Isabelle Wagner, Am
+        Bergson Kunstkraftwerk 2, 81245 München. Bitte gib dabei Deinen
+        möglichen Starttermin und Deinen Gehaltswunsch an. Hast Du vorab Fragen?
+        Dann stelle diese gerne telefonisch unter 089-444433611 oder via
+        Instagram DM Weitere Informationen zum Bergson Kunstkraftwerk in München
+        Aubing erhältst Du auf unserer Homepage. Wir freuen uns auf Dich! Es
+        gelten unsere Datenschutzhinweise. Find Jobs in Germany on Arbeitnow
+      job_types:
+        - berufserfahren
+      remote: false
+      score: 74
+      skill_hits: 1
+      bucket_id: marketing_general
+      fetched_at: 2026-02-17T18:11:01.254Z
+      pulled_at: 2026-02-17T18:11:01.254Z
+      stale_days: 0
+      is_stale: false
+    - source: greenhouse
+      source_note: ""
+      company: hellofresh
+      title: Senior Programmatic Marketing Manager - Creative Strategy (m/f/x)
+      location: Berlin, Berlin, Germany
+      url: https://careers.hellofresh.com/global/en/job/6967256?gh_jid=6967256
+      updated_at: 2026-02-13T12:40:20-05:00
+      description: "&lt;h2&gt;&lt;strong&gt;The role&lt;/strong&gt;&lt;/h2&gt; &lt;p
+        style=&quot;text-align: justify;&quot;&gt;As Senior Programmatic
+        Marketing Manager in our Marketing department, you will be responsible
+        for driving key consumer activations while implementing a data-driven
+        creative strategy. You will collaborate with market stakeholders to
+        understand local market insights and its implementation in your
+        marketing campaigns while working on a full funnel consumer journey. You
+        will contribute your expertise across 15 Global HelloFresh entities. The
+        ideal candidate is a strategic thinker and hands-on executor with a
+        performance marketing and experimentation mindset, capable of scaling
+        acquisition and conversion metrics for the channel.&lt;/p&gt; &lt;p
+        style=&quot;text-align: justify;&quot;&gt;&lt;span
+        style=&quot;font-weight: 400;&quot;&gt;Above all, we are looking for
+        people who will &lt;strong&gt;make HelloFresh&lt;/strong&gt;
+        &lt;strong&gt;better.&lt;/strong&gt; We believe there are many different
+        ways of developing skills and we love diverse experiences! So even if
+        you don’t “tick all the boxes” but think you’d thrive in this role, we
+        would really like to learn more about you.&lt;/span&gt;&lt;/p&gt;
+        &lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt;
+        &lt;ul&gt; &lt;li&gt;Act as the creative lead and main point of contact
+        for Display &amp;amp; Video creative strategy across
+        platforms&lt;/li&gt; &lt;li&gt;Develop creative experimentation
+        &amp;amp; performance analysis frameworks&lt;/li&gt; &lt;li&gt;Conduct
+        regular audits on creative strategies across markets.&lt;/li&gt;
+        &lt;li&gt;Own the full creative testing and performance analysis
+        strategy, from hypothesis creation and experimentation to reporting and
+        iterative optimization&lt;/li&gt; &lt;li&gt;Drive and develop new
+        creative initiatives, including testing new content formats,
+        storytelling approaches, and creator-led collaborations&lt;/li&gt;
+        &lt;li&gt;Closely collaborate with the Display &amp;amp; Video Campaign
+        Operations team to ensure creative strategies are tailored, aligned, and
+        executed smoothly across all entities&lt;/li&gt; &lt;li&gt;Identify and
+        share creative trends, insights, and best practices across internal
+        teams to inform asset development and campaign direction&lt;/li&gt;
+        &lt;li&gt;Translate performance data into clear recommendations for
+        creative development, collaborating with Brand and Design to implement
+        them&lt;/li&gt; &lt;li&gt;Lead cross-functional creative efforts, such
+        as influencer content integrations and brand partnership
+        initiatives&lt;/li&gt; &lt;li&gt;Bring structure, prioritization, and
+        clear problem-solving to a fast-moving, test-and-learn
+        environment&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;What you’ll
+        bring&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;6+ years of
+        professional experience in programmatic advertising or working with DSP
+        vendors, programmatic trading desks, digital marketing agencies, ad
+        network, 3rd party data companies or other related digital
+        companies.&lt;/li&gt; &lt;li&gt;2+ years of previous strategy
+        development and deployment in digital marketing&amp;nbsp;&lt;/li&gt;
+        &lt;li&gt;Excellent knowledge and skills of Google: Sheet and Slides -
+        can create reports and presentations for internal and external
+        teams&lt;/li&gt; &lt;li&gt;Understanding of digital marketing
+        disciplines from digital display, OTV, SEO, PPC, Ecommerce, social media
+        or affiliate marketing&lt;/li&gt; &lt;li&gt;Excellent communication
+        skills. You will be the go-to-person for multiple marketing and
+        communication teams. Interpersonal skills are a prerequisite for
+        success.&lt;/li&gt; &lt;li&gt;Passionate about digital industry and
+        highly digital savvy&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Our best-in-class
+        marketers play vital roles in connecting HelloFresh with new and
+        existing customers across the world. Based in Berlin, the data-driven
+        and creative Global Marketing Team pioneers industry-leading research,
+        business insight, CRM, growth marketing and brand communication. The
+        team continuously drives our brand forward through experimentation and
+        an entrepreneurial spirit.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What we
+        offer&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Elevate your lifestyle! Join
+        one of Europe&#39;s fastest-growing tech powerhouses in a dynamic phase
+        of expansion.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Immerse yourself in a
+        diverse global community of 90+ nationalities.&lt;/li&gt;
+        &lt;li&gt;Enjoy a competitive compensation package that goes beyond the
+        norm, with perks like a HelloFresh- subsidized Pension Scheme, Berlin
+        relocation support, and a Hybrid working model.&lt;/li&gt;
+        &lt;li&gt;Elevate your lifestyle with exclusive discounts on your weekly
+        HelloFresh box and office meals.&lt;/li&gt; &lt;li&gt;Invest in your
+        growth with an annual learning &amp;amp; development budget, German
+        language learning budget, and access to the HelloFresh
+        Academy.&lt;/li&gt; &lt;li&gt;Plus, we&#39;ve got your well-being
+        covered with mental health support, transportation perks, and
+        working-parent-friendly benefits. From our 24/7 gym access,wellbeing
+        platforms like Headspace and Spill, to sabbatical leave options,
+        HelloFresh is not just a workplace; it&#39;s a lifestyle of perks and
+        possibilities!&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;Are you up
+        for the challenge?&lt;/strong&gt;&lt;/h2&gt; &lt;p
+        style=&quot;text-align: justify;&quot;&gt;&lt;span
+        style=&quot;font-weight: 400;&quot;&gt;Please submit your complete
+        application below including your salary expectations and earliest
+        starting date.&lt;/span&gt;&lt;/p&gt; &lt;p style=&quot;text-align:
+        justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;After
+        submitting an application our team will review this and get back to you
+        within 5 business days.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;"
+      score: 110
+      skill_hits: 4
+      bucket_id: marketing_general
       fetched_at: 2026-02-16T17:59:06.592Z
       pulled_at: 2026-02-16T17:59:06.592Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -201,7 +633,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-16T17:59:06.592Z
       pulled_at: 2026-02-16T17:59:06.592Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -264,7 +696,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-16T17:59:06.592Z
       pulled_at: 2026-02-16T17:59:06.592Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -357,7 +789,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-16T17:59:06.592Z
       pulled_at: 2026-02-16T17:59:06.592Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -458,7 +890,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-15T17:48:29.497Z
       pulled_at: 2026-02-15T17:48:29.497Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -556,7 +988,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-15T17:48:29.497Z
       pulled_at: 2026-02-15T17:48:29.497Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -601,7 +1033,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-15T17:48:29.497Z
       pulled_at: 2026-02-15T17:48:29.497Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -702,7 +1134,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-14T17:47:32.325Z
       pulled_at: 2026-02-14T17:47:32.325Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -800,7 +1232,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-14T17:47:32.325Z
       pulled_at: 2026-02-14T17:47:32.325Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -869,7 +1301,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-14T17:47:32.325Z
       pulled_at: 2026-02-14T17:47:32.325Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -914,7 +1346,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-14T17:47:32.325Z
       pulled_at: 2026-02-14T17:47:32.325Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -1015,7 +1447,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-09T18:08:29.869Z
       pulled_at: 2026-02-09T18:08:29.869Z
-      stale_days: 6
+      stale_days: 8
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -1113,7 +1545,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-09T18:08:29.869Z
       pulled_at: 2026-02-09T18:08:29.869Z
-      stale_days: 6
+      stale_days: 8
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -1214,7 +1646,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-08T17:50:04.683Z
       pulled_at: 2026-02-08T17:50:04.683Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1342,7 +1774,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-08T17:50:04.683Z
       pulled_at: 2026-02-08T17:50:04.683Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -1443,7 +1875,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T18:51:13.212Z
       pulled_at: 2026-02-07T18:51:13.212Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1572,7 +2004,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T18:51:13.212Z
       pulled_at: 2026-02-07T18:51:13.212Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -1673,7 +2105,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T18:26:20.804Z
       pulled_at: 2026-02-07T18:26:20.804Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1802,7 +2234,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T18:26:20.804Z
       pulled_at: 2026-02-07T18:26:20.804Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -1903,7 +2335,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T17:16:11.277Z
       pulled_at: 2026-02-07T17:16:11.277Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2032,7 +2464,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T17:16:11.277Z
       pulled_at: 2026-02-07T17:16:11.277Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -2133,7 +2565,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T17:10:52.874Z
       pulled_at: 2026-02-07T17:10:52.874Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2262,7 +2694,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T17:10:52.874Z
       pulled_at: 2026-02-07T17:10:52.874Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -2363,7 +2795,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T17:05:11.779Z
       pulled_at: 2026-02-07T17:05:11.779Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2492,7 +2924,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T17:05:11.779Z
       pulled_at: 2026-02-07T17:05:11.779Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -2593,7 +3025,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T17:01:24.160Z
       pulled_at: 2026-02-07T17:01:24.160Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2722,7 +3154,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T17:01:24.160Z
       pulled_at: 2026-02-07T17:01:24.160Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -2823,7 +3255,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T15:58:11.095Z
       pulled_at: 2026-02-07T15:58:11.095Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2951,7 +3383,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T15:58:11.095Z
       pulled_at: 2026-02-07T15:58:11.095Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
   digital_marketing:
     - source: arbeitnow
@@ -3010,7 +3442,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-02-14T17:47:32.325Z
       pulled_at: 2026-02-14T17:47:32.325Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3087,7 +3519,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-02-09T18:08:29.869Z
       pulled_at: 2026-02-09T18:08:29.869Z
-      stale_days: 6
+      stale_days: 8
       is_stale: false
   video_editing:
     - source: arbeitnow
@@ -3133,7 +3565,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-02-15T17:48:29.497Z
       pulled_at: 2026-02-15T17:48:29.497Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3183,7 +3615,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-02-14T17:47:32.325Z
       pulled_at: 2026-02-14T17:47:32.325Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3228,7 +3660,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-02-14T17:47:32.325Z
       pulled_at: 2026-02-14T17:47:32.325Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
 archive:
   marketing_general: []
@@ -3241,10 +3673,10 @@ meta:
   source_counts:
     greenhouse: 7
     lever: 2
-    personio_xml_feeds: 14
+    personio_xml_feeds: 18
     smartrecruiters_companies: 2
     teamtailor_companies: 0
-    recruitee_companies: 4
+    recruitee_companies: 5
     ashby_organizations: 7
     stepstone_feeds: 0
     arbeitnow: 1
@@ -3266,5 +3698,5 @@ meta:
     digital_marketing: 0
     video_editing: 0
   timings_ms:
-    fetch: 6976
-    total: 96346
+    fetch: 5825
+    total: 81575
