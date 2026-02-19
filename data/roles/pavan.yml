@@ -1,7 +1,7 @@
 schema_version: roles.v1
 profile_id: pavan
 profile_name: Pavan - marketing, digital marketing, video editing
-generated_at: 2026-02-18T18:05:51.668Z
+generated_at: 2026-02-19T18:09:36.225Z
 buckets:
   marketing_general:
     - source: greenhouse
@@ -101,9 +101,248 @@ buckets:
       score: 110
       skill_hits: 4
       bucket_id: marketing_general
+      fetched_at: 2026-02-19T18:09:36.225Z
+      pulled_at: 2026-02-19T18:09:36.225Z
+      stale_days: 0
+      is_stale: false
+    - source: arbeitnow
+      source_note: ""
+      company: Inkster GmbH
+      title: Senior Performance Marketing Manager/in (m/w/d) - Vor Ort/Home-Office
+      location: Hamburg
+      url: https://www.arbeitnow.com/jobs/companies/inkster-gmbh/senior-performance-marketing-manager-in-vor-ort-home-office-hamburg-462836
+      updated_at: 1771516883
+      description: "Wir bei Inkster schreiben Eigenverantwortlichkeit, Motivation und
+        Spaß groß! Als 10 köpfiges Team aus Digital Natives und unserem
+        einzigartigen 2-Wochen Tattoo auf Fruchtbasis sind wir im Juni 2021
+        gestartet und in wenigen Monaten zum Europamarktführer aufgestiegen und
+        verkaufen in sechs internationale Märkte. Wenn du dich für E-Commcerce,
+        Marketing und Online-Shops interessierst, bist du bei uns richtig. Zur
+        Verstärkung suchen wir ab sofort eine/n Senior Performance Manager/in.
+        Du findest E-Commerce und die Abläufe dahinter interessant? Du hast Lust
+        in einem spannenden Start-up mit hohem Erfolgspotenzial zu arbeiten?
+        Hast du Erfahrung mit Meta- und TikTok-Kampagnen im D2C-Umfeld? Dann
+        suchen wir genau dich für unser 10-köpfiges Team in Hamburg. Du wirst
+        als Vollzeitkraft eines der wichtigsten Mitgliedes unseres 10-köpfigen
+        Teams, hast direkten Einfluss auf den Erfolg und erhältst exklusive
+        Einblicke in die Wachstumsstrategie einer jungen Love-Brand sowie die
+        Gestaltungsmacht Inkster mit zu bauen. Wir freuen uns auf dich. Aufgaben
+        Du steuerst unsere Kampagnen auf den sozialen Netzwerken
+        eigenverantwortlich aus – vor allem auf Meta und TikTok – und
+        verantwortest ein deutlich siebenstelliges Mediabudget. Zusammen mit dem
+        Creative Team konzipierst du neue Anzeigenkonzepte, stellst dessen
+        Umsetzung im Projektmanagement sicher und kommunizierst mit
+        Agenturpartnern. Mit deiner kanalübergreifenden Expertise und deinem
+        Verständnis für Attribution, bewertest du die Kampagnenresultate und
+        optimierst unsere Budgetallokation. Bei Problemen begibst du dich
+        selbstständig auf die Suche nach Lösungen, ob innerhalb der
+        Werbeanzeigenmanager, in TripleWhale oder Google Analytics. Du bist
+        Sparringspartner des Gründerteams und planst das weitere Wachstum auf
+        den von dir betreuten Kanälen. In diesem Zuge erhältst du tiefen
+        Einblick in die finanziellen Kennzahlen des Unternehmens. Qualifikation
+        Du hast mindestens drei Jahre lang die operative Steuerung von
+        Werbekampagnen auf Meta und TikTok verantwortet und kennst die
+        Besonderheiten sowie Herausforderungen einer D2C-Brand. Du hast in der
+        Vergangenheit signifikante sechs- oder siebenstellige Monatsbudgets
+        verwaltet und kannst deine Erfahrung in diesem Bereich unter Beweis
+        stellen. Du hast Erfahrung in der Konzeption und Bewertung von
+        Anzeigenkonzepten, um gemeinsam mit deinen Kollegen aus der Kreation
+        neue Wege zu gehen und versteckte Potenziale zu heben. Du bringst ein
+        großes Zahlenverständnis mit und bist versiert im Umgang mit Google
+        Analytics und allen weiteren Tools im Paid Social-Kosmos. Du hast
+        Erfahrung im Umgang mit Attributions-Tools wie Klar &#x26; TripleWhale,
+        kannst ihre Zahlen interpretieren und für die Optimierung deiner
+        Kampagnen nutzen. Bei Problemen im Tracking per Meta-/ TikTok-Pixel oder
+        Conversion-API kannst du die Ursachen identifizieren und für schnelle
+        Lösungen sorgen. Du hast sehr gute Sprachkenntnisse in Deutsch und
+        Englisch und bist in der Lage, deine Maßnahmen für alle Kollegen
+        verständlich aufzubereiten. Dich zeichnet nicht nur deine Expertise aus,
+        sondern auch deine Eigeninitiative und Selbstständigkeit. Am liebsten
+        übernimmst du 100-prozentige Verantwortung! Benefits Ausstattung mit
+        neuen Apple Geräten Die Möglichkeit, ein Teil unserer Familie zu werden,
+        mit uns gemeinsam zu wachsen und als Schlüsselfigur Verantwortung zu
+        übernehmen. Flexibles Arbeiten mit flachen Hierarchien und einem
+        hochmotivierten Team. Du wirst gefordert und gefördert. Du lernst von
+        uns und wir von dir. EGYM Wellpass Fitnessmitgliedschaft, mit der du
+        alle relevanten Yoga, Wellness und Fitnessangebote nutzen kannst
+        Regelmäßige Team-Events auf Kosten der Firma Deine Bedürfnisse im
+        Mittelpunkt: Ein hybrides Arbeitsmodell mit 2 Tagen in unserem
+        attraktiven Office mitten in der Hansestadt und 3 Tagen im Homeoffice.
+        Wir mögen es unkompliziert und effektiv. Schick uns einfach deinen
+        Lebenslauf und ein kurzes Schreiben, warum gerade du die richtige Person
+        für den Job bist. Wir freuen uns auf deine Bewerbung! 🚀 Find more
+        English Speaking Jobs in Germany on Arbeitnow"
+      job_types: &a1 []
+      remote: true
+      score: 80
+      skill_hits: 2
+      bucket_id: marketing_general
+      fetched_at: 2026-02-19T18:09:36.225Z
+      pulled_at: 2026-02-19T18:09:36.225Z
+      stale_days: 0
+      is_stale: false
+    - source: arbeitnow
+      source_note: ""
+      company: Earnix
+      title: Senior Marketing Manager - DACH
+      location: Germany
+      url: https://www.arbeitnow.com/jobs/companies/earnix/remote-senior-marketing-manager-dach-germany-325767
+      updated_at: 1771504932
+      description: "We are seeking a dynamic Senior Marketing Manager to lead our
+        marketing efforts across the DACH region. This role will focus on
+        driving demand generation, brand awareness, and customer engagement for
+        our SaaS B2B solutions. You will collaborate closely with sales,
+        product, and global marketing teams to execute strategic campaigns that
+        resonate with the regional market. What You’ll Do Develop and execute
+        localised marketing strategies tailored to the DACH region, ensuring
+        alignment with global objectives while addressing regional nuances. You
+        will create impactful campaigns that strengthen brand presence and drive
+        measurable growth. Lead demand generation initiatives, including
+        account-based marketing programs, digital campaigns, and regional events
+        to support pipeline growth and revenue targets. You will leverage
+        data-driven insights to optimise performance and maximise ROI.
+        Collaborate with cross-functional teams such as sales, product, and
+        global marketing to ensure alignment and maximise impact across all
+        marketing activities. You will act as the voice of the DACH market
+        within the organisation. Analyse and report on campaign performance,
+        using analytics to identify trends, measure success, and continuously
+        improve marketing strategies Position Intro: Earnix is the premier
+        provider of mission-critical, cloud-based intelligent decisioning across
+        pricing, rating, underwriting, and product personalization. These
+        fully-integrated solutions provide ultra-fast ROI and are designed to
+        transform how global insurers and banks are run by unlocking value
+        across all facets of the business. Earnix has been innovating for
+        insurers and banks since 2001 with customers in over 35 countries across
+        six continents and offices in the Americas, Europe, Asia Pacific, and
+        Israel. Requirements You’ll Do It Using 3–5 years of experience in B2B
+        SaaS marketing, with a proven track record of driving successful
+        campaigns in the DACH region. Fluent German speaking Solid understanding
+        of ABM demand generation strategies and digital marketing best practices
+        within a SaaS environment. Expertise in HubSpot for marketing
+        automation, lead nurturing, and campaign management. Strong proficiency
+        in Salesforce for CRM and pipeline management. Solid understanding of
+        demand generation strategies and digital marketing best practices within
+        a SaaS environment. Ideally, experience in insurance, finance, or other
+        heavily regulated industries, enabling you to navigate complex
+        compliance requirements and tailor messaging effectively. You’ll Excel
+        By Demonstrating strategic thinking and the ability to translate
+        business objectives into actionable marketing plans. Showing excellent
+        communication and collaboration skills, enabling you to work effectively
+        with diverse teams and stakeholders. Being adaptable and proactive,
+        thriving in a fast-paced environment and embracing new challenges with
+        confidence. Exhibiting analytical and problem-solving abilities,
+        ensuring data-driven decision-making and continuous improvement. Find
+        more English Speaking Jobs in Germany on Arbeitnow"
+      job_types:
+        - Full-time
+      remote: true
+      score: 80
+      skill_hits: 2
+      bucket_id: marketing_general
+      fetched_at: 2026-02-19T18:09:36.225Z
+      pulled_at: 2026-02-19T18:09:36.225Z
+      stale_days: 0
+      is_stale: false
+    - source: greenhouse
+      source_note: ""
+      company: hellofresh
+      title: Senior Programmatic Marketing Manager - Creative Strategy (m/f/x)
+      location: Berlin, Berlin, Germany
+      url: https://careers.hellofresh.com/global/en/job/6967256?gh_jid=6967256
+      updated_at: 2026-02-13T12:40:20-05:00
+      description: "&lt;h2&gt;&lt;strong&gt;The role&lt;/strong&gt;&lt;/h2&gt; &lt;p
+        style=&quot;text-align: justify;&quot;&gt;As Senior Programmatic
+        Marketing Manager in our Marketing department, you will be responsible
+        for driving key consumer activations while implementing a data-driven
+        creative strategy. You will collaborate with market stakeholders to
+        understand local market insights and its implementation in your
+        marketing campaigns while working on a full funnel consumer journey. You
+        will contribute your expertise across 15 Global HelloFresh entities. The
+        ideal candidate is a strategic thinker and hands-on executor with a
+        performance marketing and experimentation mindset, capable of scaling
+        acquisition and conversion metrics for the channel.&lt;/p&gt; &lt;p
+        style=&quot;text-align: justify;&quot;&gt;&lt;span
+        style=&quot;font-weight: 400;&quot;&gt;Above all, we are looking for
+        people who will &lt;strong&gt;make HelloFresh&lt;/strong&gt;
+        &lt;strong&gt;better.&lt;/strong&gt; We believe there are many different
+        ways of developing skills and we love diverse experiences! So even if
+        you don’t “tick all the boxes” but think you’d thrive in this role, we
+        would really like to learn more about you.&lt;/span&gt;&lt;/p&gt;
+        &lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt;
+        &lt;ul&gt; &lt;li&gt;Act as the creative lead and main point of contact
+        for Display &amp;amp; Video creative strategy across
+        platforms&lt;/li&gt; &lt;li&gt;Develop creative experimentation
+        &amp;amp; performance analysis frameworks&lt;/li&gt; &lt;li&gt;Conduct
+        regular audits on creative strategies across markets.&lt;/li&gt;
+        &lt;li&gt;Own the full creative testing and performance analysis
+        strategy, from hypothesis creation and experimentation to reporting and
+        iterative optimization&lt;/li&gt; &lt;li&gt;Drive and develop new
+        creative initiatives, including testing new content formats,
+        storytelling approaches, and creator-led collaborations&lt;/li&gt;
+        &lt;li&gt;Closely collaborate with the Display &amp;amp; Video Campaign
+        Operations team to ensure creative strategies are tailored, aligned, and
+        executed smoothly across all entities&lt;/li&gt; &lt;li&gt;Identify and
+        share creative trends, insights, and best practices across internal
+        teams to inform asset development and campaign direction&lt;/li&gt;
+        &lt;li&gt;Translate performance data into clear recommendations for
+        creative development, collaborating with Brand and Design to implement
+        them&lt;/li&gt; &lt;li&gt;Lead cross-functional creative efforts, such
+        as influencer content integrations and brand partnership
+        initiatives&lt;/li&gt; &lt;li&gt;Bring structure, prioritization, and
+        clear problem-solving to a fast-moving, test-and-learn
+        environment&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;What you’ll
+        bring&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;6+ years of
+        professional experience in programmatic advertising or working with DSP
+        vendors, programmatic trading desks, digital marketing agencies, ad
+        network, 3rd party data companies or other related digital
+        companies.&lt;/li&gt; &lt;li&gt;2+ years of previous strategy
+        development and deployment in digital marketing&amp;nbsp;&lt;/li&gt;
+        &lt;li&gt;Excellent knowledge and skills of Google: Sheet and Slides -
+        can create reports and presentations for internal and external
+        teams&lt;/li&gt; &lt;li&gt;Understanding of digital marketing
+        disciplines from digital display, OTV, SEO, PPC, Ecommerce, social media
+        or affiliate marketing&lt;/li&gt; &lt;li&gt;Excellent communication
+        skills. You will be the go-to-person for multiple marketing and
+        communication teams. Interpersonal skills are a prerequisite for
+        success.&lt;/li&gt; &lt;li&gt;Passionate about digital industry and
+        highly digital savvy&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Our best-in-class
+        marketers play vital roles in connecting HelloFresh with new and
+        existing customers across the world. Based in Berlin, the data-driven
+        and creative Global Marketing Team pioneers industry-leading research,
+        business insight, CRM, growth marketing and brand communication. The
+        team continuously drives our brand forward through experimentation and
+        an entrepreneurial spirit.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What we
+        offer&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Elevate your lifestyle! Join
+        one of Europe&#39;s fastest-growing tech powerhouses in a dynamic phase
+        of expansion.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Immerse yourself in a
+        diverse global community of 90+ nationalities.&lt;/li&gt;
+        &lt;li&gt;Enjoy a competitive compensation package that goes beyond the
+        norm, with perks like a HelloFresh- subsidized Pension Scheme, Berlin
+        relocation support, and a Hybrid working model.&lt;/li&gt;
+        &lt;li&gt;Elevate your lifestyle with exclusive discounts on your weekly
+        HelloFresh box and office meals.&lt;/li&gt; &lt;li&gt;Invest in your
+        growth with an annual learning &amp;amp; development budget, German
+        language learning budget, and access to the HelloFresh
+        Academy.&lt;/li&gt; &lt;li&gt;Plus, we&#39;ve got your well-being
+        covered with mental health support, transportation perks, and
+        working-parent-friendly benefits. From our 24/7 gym access,wellbeing
+        platforms like Headspace and Spill, to sabbatical leave options,
+        HelloFresh is not just a workplace; it&#39;s a lifestyle of perks and
+        possibilities!&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;Are you up
+        for the challenge?&lt;/strong&gt;&lt;/h2&gt; &lt;p
+        style=&quot;text-align: justify;&quot;&gt;&lt;span
+        style=&quot;font-weight: 400;&quot;&gt;Please submit your complete
+        application below including your salary expectations and earliest
+        starting date.&lt;/span&gt;&lt;/p&gt; &lt;p style=&quot;text-align:
+        justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;After
+        submitting an application our team will review this and get back to you
+        within 5 business days.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;"
+      score: 110
+      skill_hits: 4
+      bucket_id: marketing_general
       fetched_at: 2026-02-18T18:05:51.668Z
       pulled_at: 2026-02-18T18:05:51.668Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -204,7 +443,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-17T18:11:01.254Z
       pulled_at: 2026-02-17T18:11:01.254Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -302,7 +541,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-17T18:11:01.254Z
       pulled_at: 2026-02-17T18:11:01.254Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -376,7 +615,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-17T18:11:01.254Z
       pulled_at: 2026-02-17T18:11:01.254Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -452,7 +691,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-17T18:11:01.254Z
       pulled_at: 2026-02-17T18:11:01.254Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -535,7 +774,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-17T18:11:01.254Z
       pulled_at: 2026-02-17T18:11:01.254Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -636,7 +875,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-16T17:59:06.592Z
       pulled_at: 2026-02-16T17:59:06.592Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -734,7 +973,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-16T17:59:06.592Z
       pulled_at: 2026-02-16T17:59:06.592Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -797,7 +1036,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-16T17:59:06.592Z
       pulled_at: 2026-02-16T17:59:06.592Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -890,7 +1129,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-16T17:59:06.592Z
       pulled_at: 2026-02-16T17:59:06.592Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -991,7 +1230,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-15T17:48:29.497Z
       pulled_at: 2026-02-15T17:48:29.497Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -1089,7 +1328,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-15T17:48:29.497Z
       pulled_at: 2026-02-15T17:48:29.497Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1127,14 +1366,14 @@ buckets:
         Content-Beispielen Gewünschte Stundenzahl pro Woche und
         Gehaltsvorstellung Lebenslauf (oder LinkedIn-Profil) Wir freueun uns von
         Dir zu hören! Find Jobs in Germany on Arbeitnow"
-      job_types: &a1 []
+      job_types: &a2 []
       remote: false
       score: 78
       skill_hits: 2
       bucket_id: marketing_general
       fetched_at: 2026-02-15T17:48:29.497Z
       pulled_at: 2026-02-15T17:48:29.497Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -1235,7 +1474,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-14T17:47:32.325Z
       pulled_at: 2026-02-14T17:47:32.325Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -1333,7 +1572,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-14T17:47:32.325Z
       pulled_at: 2026-02-14T17:47:32.325Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1402,7 +1641,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-14T17:47:32.325Z
       pulled_at: 2026-02-14T17:47:32.325Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1440,14 +1679,14 @@ buckets:
         Content-Beispielen Gewünschte Stundenzahl pro Woche und
         Gehaltsvorstellung Lebenslauf (oder LinkedIn-Profil) Wir freueun uns von
         Dir zu hören! Find Jobs in Germany on Arbeitnow"
-      job_types: &a2 []
+      job_types: &a3 []
       remote: false
       score: 78
       skill_hits: 2
       bucket_id: marketing_general
       fetched_at: 2026-02-14T17:47:32.325Z
       pulled_at: 2026-02-14T17:47:32.325Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -1548,7 +1787,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-09T18:08:29.869Z
       pulled_at: 2026-02-09T18:08:29.869Z
-      stale_days: 8
+      stale_days: 10
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -1646,7 +1885,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-09T18:08:29.869Z
       pulled_at: 2026-02-09T18:08:29.869Z
-      stale_days: 8
+      stale_days: 10
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -1747,7 +1986,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-08T17:50:04.683Z
       pulled_at: 2026-02-08T17:50:04.683Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1875,7 +2114,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-08T17:50:04.683Z
       pulled_at: 2026-02-08T17:50:04.683Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -1976,7 +2215,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T18:51:13.212Z
       pulled_at: 2026-02-07T18:51:13.212Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2105,7 +2344,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T18:51:13.212Z
       pulled_at: 2026-02-07T18:51:13.212Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -2206,7 +2445,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T18:26:20.804Z
       pulled_at: 2026-02-07T18:26:20.804Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2335,7 +2574,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T18:26:20.804Z
       pulled_at: 2026-02-07T18:26:20.804Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -2436,7 +2675,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T17:16:11.277Z
       pulled_at: 2026-02-07T17:16:11.277Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2565,7 +2804,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T17:16:11.277Z
       pulled_at: 2026-02-07T17:16:11.277Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -2666,7 +2905,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T17:10:52.874Z
       pulled_at: 2026-02-07T17:10:52.874Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2795,7 +3034,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T17:10:52.874Z
       pulled_at: 2026-02-07T17:10:52.874Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -2896,7 +3135,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T17:05:11.779Z
       pulled_at: 2026-02-07T17:05:11.779Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3025,7 +3264,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T17:05:11.779Z
       pulled_at: 2026-02-07T17:05:11.779Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -3126,7 +3365,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T17:01:24.160Z
       pulled_at: 2026-02-07T17:01:24.160Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3255,7 +3494,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T17:01:24.160Z
       pulled_at: 2026-02-07T17:01:24.160Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -3356,7 +3595,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T15:58:11.095Z
       pulled_at: 2026-02-07T15:58:11.095Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3484,9 +3723,85 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T15:58:11.095Z
       pulled_at: 2026-02-07T15:58:11.095Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
   digital_marketing:
+    - source: arbeitnow
+      source_note: ""
+      company: Inkster GmbH
+      title: Senior Performance Marketing Manager/in (m/w/d) - Vor Ort/Home-Office
+      location: Hamburg
+      url: https://www.arbeitnow.com/jobs/companies/inkster-gmbh/senior-performance-marketing-manager-in-vor-ort-home-office-hamburg-462836
+      updated_at: 1771516883
+      description: "Wir bei Inkster schreiben Eigenverantwortlichkeit, Motivation und
+        Spaß groß! Als 10 köpfiges Team aus Digital Natives und unserem
+        einzigartigen 2-Wochen Tattoo auf Fruchtbasis sind wir im Juni 2021
+        gestartet und in wenigen Monaten zum Europamarktführer aufgestiegen und
+        verkaufen in sechs internationale Märkte. Wenn du dich für E-Commcerce,
+        Marketing und Online-Shops interessierst, bist du bei uns richtig. Zur
+        Verstärkung suchen wir ab sofort eine/n Senior Performance Manager/in.
+        Du findest E-Commerce und die Abläufe dahinter interessant? Du hast Lust
+        in einem spannenden Start-up mit hohem Erfolgspotenzial zu arbeiten?
+        Hast du Erfahrung mit Meta- und TikTok-Kampagnen im D2C-Umfeld? Dann
+        suchen wir genau dich für unser 10-köpfiges Team in Hamburg. Du wirst
+        als Vollzeitkraft eines der wichtigsten Mitgliedes unseres 10-köpfigen
+        Teams, hast direkten Einfluss auf den Erfolg und erhältst exklusive
+        Einblicke in die Wachstumsstrategie einer jungen Love-Brand sowie die
+        Gestaltungsmacht Inkster mit zu bauen. Wir freuen uns auf dich. Aufgaben
+        Du steuerst unsere Kampagnen auf den sozialen Netzwerken
+        eigenverantwortlich aus – vor allem auf Meta und TikTok – und
+        verantwortest ein deutlich siebenstelliges Mediabudget. Zusammen mit dem
+        Creative Team konzipierst du neue Anzeigenkonzepte, stellst dessen
+        Umsetzung im Projektmanagement sicher und kommunizierst mit
+        Agenturpartnern. Mit deiner kanalübergreifenden Expertise und deinem
+        Verständnis für Attribution, bewertest du die Kampagnenresultate und
+        optimierst unsere Budgetallokation. Bei Problemen begibst du dich
+        selbstständig auf die Suche nach Lösungen, ob innerhalb der
+        Werbeanzeigenmanager, in TripleWhale oder Google Analytics. Du bist
+        Sparringspartner des Gründerteams und planst das weitere Wachstum auf
+        den von dir betreuten Kanälen. In diesem Zuge erhältst du tiefen
+        Einblick in die finanziellen Kennzahlen des Unternehmens. Qualifikation
+        Du hast mindestens drei Jahre lang die operative Steuerung von
+        Werbekampagnen auf Meta und TikTok verantwortet und kennst die
+        Besonderheiten sowie Herausforderungen einer D2C-Brand. Du hast in der
+        Vergangenheit signifikante sechs- oder siebenstellige Monatsbudgets
+        verwaltet und kannst deine Erfahrung in diesem Bereich unter Beweis
+        stellen. Du hast Erfahrung in der Konzeption und Bewertung von
+        Anzeigenkonzepten, um gemeinsam mit deinen Kollegen aus der Kreation
+        neue Wege zu gehen und versteckte Potenziale zu heben. Du bringst ein
+        großes Zahlenverständnis mit und bist versiert im Umgang mit Google
+        Analytics und allen weiteren Tools im Paid Social-Kosmos. Du hast
+        Erfahrung im Umgang mit Attributions-Tools wie Klar &#x26; TripleWhale,
+        kannst ihre Zahlen interpretieren und für die Optimierung deiner
+        Kampagnen nutzen. Bei Problemen im Tracking per Meta-/ TikTok-Pixel oder
+        Conversion-API kannst du die Ursachen identifizieren und für schnelle
+        Lösungen sorgen. Du hast sehr gute Sprachkenntnisse in Deutsch und
+        Englisch und bist in der Lage, deine Maßnahmen für alle Kollegen
+        verständlich aufzubereiten. Dich zeichnet nicht nur deine Expertise aus,
+        sondern auch deine Eigeninitiative und Selbstständigkeit. Am liebsten
+        übernimmst du 100-prozentige Verantwortung! Benefits Ausstattung mit
+        neuen Apple Geräten Die Möglichkeit, ein Teil unserer Familie zu werden,
+        mit uns gemeinsam zu wachsen und als Schlüsselfigur Verantwortung zu
+        übernehmen. Flexibles Arbeiten mit flachen Hierarchien und einem
+        hochmotivierten Team. Du wirst gefordert und gefördert. Du lernst von
+        uns und wir von dir. EGYM Wellpass Fitnessmitgliedschaft, mit der du
+        alle relevanten Yoga, Wellness und Fitnessangebote nutzen kannst
+        Regelmäßige Team-Events auf Kosten der Firma Deine Bedürfnisse im
+        Mittelpunkt: Ein hybrides Arbeitsmodell mit 2 Tagen in unserem
+        attraktiven Office mitten in der Hansestadt und 3 Tagen im Homeoffice.
+        Wir mögen es unkompliziert und effektiv. Schick uns einfach deinen
+        Lebenslauf und ein kurzes Schreiben, warum gerade du die richtige Person
+        für den Job bist. Wir freuen uns auf deine Bewerbung! 🚀 Find more
+        English Speaking Jobs in Germany on Arbeitnow"
+      job_types: *a1
+      remote: true
+      score: 80
+      skill_hits: 2
+      bucket_id: digital_marketing
+      fetched_at: 2026-02-19T18:09:36.225Z
+      pulled_at: 2026-02-19T18:09:36.225Z
+      stale_days: 0
+      is_stale: false
     - source: arbeitnow
       source_note: ""
       company: Leisure One GmbH
@@ -3574,7 +3889,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-02-18T18:05:51.668Z
       pulled_at: 2026-02-18T18:05:51.668Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3643,7 +3958,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-02-18T18:05:51.668Z
       pulled_at: 2026-02-18T18:05:51.668Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3701,7 +4016,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-02-14T17:47:32.325Z
       pulled_at: 2026-02-14T17:47:32.325Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3778,7 +4093,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-02-09T18:08:29.869Z
       pulled_at: 2026-02-09T18:08:29.869Z
-      stale_days: 8
+      stale_days: 10
       is_stale: false
   video_editing:
     - source: arbeitnow
@@ -3817,14 +4132,14 @@ buckets:
         Content-Beispielen Gewünschte Stundenzahl pro Woche und
         Gehaltsvorstellung Lebenslauf (oder LinkedIn-Profil) Wir freueun uns von
         Dir zu hören! Find Jobs in Germany on Arbeitnow"
-      job_types: *a1
+      job_types: *a2
       remote: false
       score: 78
       skill_hits: 2
       bucket_id: video_editing
       fetched_at: 2026-02-15T17:48:29.497Z
       pulled_at: 2026-02-15T17:48:29.497Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3874,7 +4189,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-02-14T17:47:32.325Z
       pulled_at: 2026-02-14T17:47:32.325Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3912,14 +4227,14 @@ buckets:
         Content-Beispielen Gewünschte Stundenzahl pro Woche und
         Gehaltsvorstellung Lebenslauf (oder LinkedIn-Profil) Wir freueun uns von
         Dir zu hören! Find Jobs in Germany on Arbeitnow"
-      job_types: *a2
+      job_types: *a3
       remote: false
       score: 78
       skill_hits: 2
       bucket_id: video_editing
       fetched_at: 2026-02-14T17:47:32.325Z
       pulled_at: 2026-02-14T17:47:32.325Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
 archive:
   marketing_general: []
@@ -3932,7 +4247,7 @@ meta:
   source_counts:
     greenhouse: 7
     lever: 2
-    personio_xml_feeds: 26
+    personio_xml_feeds: 30
     smartrecruiters_companies: 2
     teamtailor_companies: 0
     recruitee_companies: 6
@@ -3957,5 +4272,5 @@ meta:
     digital_marketing: 0
     video_editing: 0
   timings_ms:
-    fetch: 8826
-    total: 105643
+    fetch: 7192
+    total: 68757
