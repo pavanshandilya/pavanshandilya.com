@@ -1,4 +1,4 @@
-generated_at: 2026-02-19T18:10:50.652Z
+generated_at: 2026-02-20T18:00:25.607Z
 explicit:
   company_names:
     - SAP
@@ -51,6 +51,8 @@ discovered:
     - join-impact
     - neoskop-gmbh
     - exmox-gmbh
+    - kreuzfahrtberater-gmbh
+    - nfon
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -84,6 +86,10 @@ discovered:
     - https://neoskop-gmbh.jobs.personio.com/xml
     - https://exmox-gmbh.jobs.personio.de/xml
     - https://exmox-gmbh.jobs.personio.com/xml
+    - https://kreuzfahrtberater-gmbh.jobs.personio.de/xml
+    - https://kreuzfahrtberater-gmbh.jobs.personio.com/xml
+    - https://nfon.jobs.personio.de/xml
+    - https://nfon.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
