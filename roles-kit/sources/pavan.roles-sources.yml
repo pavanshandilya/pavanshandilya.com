@@ -1,4 +1,4 @@
-generated_at: 2026-02-20T17:59:06.701Z
+generated_at: 2026-02-21T17:46:58.243Z
 explicit:
   company_names:
     - SAP
@@ -58,6 +58,8 @@ discovered:
     - exmox-gmbh
     - kreuzfahrtberater-gmbh
     - nfon
+    - burgermeister
+    - ondevi-gmbh
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -95,6 +97,8 @@ discovered:
     - https://kreuzfahrtberater-gmbh.jobs.personio.com/xml
     - https://nfon.jobs.personio.de/xml
     - https://nfon.jobs.personio.com/xml
+    - https://ondevi-gmbh.jobs.personio.de/xml
+    - https://ondevi-gmbh.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -106,6 +110,7 @@ discovered:
     - getpress
     - jobatlas
     - digistore24
+    - burgermeister
   ashby_organizations:
     - telus-digital
     - a-team
