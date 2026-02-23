@@ -1,7 +1,7 @@
 schema_version: roles.v1
 profile_id: pavan
 profile_name: Pavan - marketing, digital marketing, video editing
-generated_at: 2026-02-22T17:47:42.002Z
+generated_at: 2026-02-23T18:16:53.135Z
 buckets:
   marketing_general:
     - source: greenhouse
@@ -101,9 +101,330 @@ buckets:
       score: 110
       skill_hits: 4
       bucket_id: marketing_general
+      fetched_at: 2026-02-23T18:16:53.135Z
+      pulled_at: 2026-02-23T18:16:53.135Z
+      stale_days: 0
+      is_stale: false
+    - source: arbeitnow
+      source_note: ""
+      company: Earnix
+      title: Senior Marketing Manager - DACH
+      location: Germany
+      url: https://www.arbeitnow.com/jobs/companies/earnix/remote-senior-marketing-manager-dach-germany-376037
+      updated_at: 1771850531
+      description: "We are seeking a dynamic Senior Marketing Manager to lead our
+        marketing efforts across the DACH region. This role will focus on
+        driving demand generation, brand awareness, and customer engagement for
+        our SaaS B2B solutions. You will collaborate closely with sales,
+        product, and global marketing teams to execute strategic campaigns that
+        resonate with the regional market. What You’ll Do Develop and execute
+        localised marketing strategies tailored to the DACH region, ensuring
+        alignment with global objectives while addressing regional nuances. You
+        will create impactful campaigns that strengthen brand presence and drive
+        measurable growth. Lead demand generation initiatives, including
+        account-based marketing programs, digital campaigns, and regional events
+        to support pipeline growth and revenue targets. You will leverage
+        data-driven insights to optimise performance and maximise ROI.
+        Collaborate with cross-functional teams such as sales, product, and
+        global marketing to ensure alignment and maximise impact across all
+        marketing activities. You will act as the voice of the DACH market
+        within the organisation. Analyse and report on campaign performance,
+        using analytics to identify trends, measure success, and continuously
+        improve marketing strategies Position Intro: Earnix is the premier
+        provider of mission-critical, cloud-based intelligent decisioning across
+        pricing, rating, underwriting, and product personalization. These
+        fully-integrated solutions provide ultra-fast ROI and are designed to
+        transform how global insurers and banks are run by unlocking value
+        across all facets of the business. Earnix has been innovating for
+        insurers and banks since 2001 with customers in over 35 countries across
+        six continents and offices in the Americas, Europe, Asia Pacific, and
+        Israel. Requirements You’ll Do It Using 3–5 years of experience in B2B
+        SaaS marketing, with a proven track record of driving successful
+        campaigns in the DACH region. Fluent German speaking Solid understanding
+        of ABM demand generation strategies and digital marketing best practices
+        within a SaaS environment. Expertise in HubSpot for marketing
+        automation, lead nurturing, and campaign management. Strong proficiency
+        in Salesforce for CRM and pipeline management. Solid understanding of
+        demand generation strategies and digital marketing best practices within
+        a SaaS environment. Ideally, experience in insurance, finance, or other
+        heavily regulated industries, enabling you to navigate complex
+        compliance requirements and tailor messaging effectively. You’ll Excel
+        By Demonstrating strategic thinking and the ability to translate
+        business objectives into actionable marketing plans. Showing excellent
+        communication and collaboration skills, enabling you to work effectively
+        with diverse teams and stakeholders. Being adaptable and proactive,
+        thriving in a fast-paced environment and embracing new challenges with
+        confidence. Exhibiting analytical and problem-solving abilities,
+        ensuring data-driven decision-making and continuous improvement. Find
+        more English Speaking Jobs in Germany on Arbeitnow"
+      job_types:
+        - Full-time
+      remote: true
+      score: 80
+      skill_hits: 2
+      bucket_id: marketing_general
+      fetched_at: 2026-02-23T18:16:53.135Z
+      pulled_at: 2026-02-23T18:16:53.135Z
+      stale_days: 0
+      is_stale: false
+    - source: arbeitnow
+      source_note: ""
+      company: PiAL Consult GmbH
+      title: Werkstudent*in SEO & Content Marketing (m/w/d)
+      location: Hamburg
+      url: https://www.arbeitnow.com/jobs/companies/pial-consult-gmbh/werkstudentin-seo-content-marketing-hamburg-19041
+      updated_at: 1771858900
+      description: "DEIN RAUM ist als internes Projekt der PiAL Consult GmbH im
+        Frühjahr 2021 entstanden, als wechselnde Abstandsregeln und zu wenig
+        Arbeitsplätze eine neue organisation notwendig machten. Heute
+        unterstützen wir Unternehmen mit unserem SaaS-Produkt DEIN RAUM bei der
+        Umsetzung hybrider Arbeitsmodelle. Uns zeichnen pragmatische Lösungen,
+        langjähriges Software-Know-how und Zusammenarbeit auf Augenhöhe aus. Die
+        PiAL Consult GmbH ist ein versierter Versicherungs- und IT-Spezialist.
+        Seit 2011 unterstuetzen wir - als Teil der msg-Gruppe -
+        Versicherungsunternehmen bei der Optimierung ihrer Prozesse. Aufgaben Du
+        unterstützt bei der Recherche und Erstellung von
+        suchmaschinenoptimierten Inhalten (z. B. Blogbeiträge, Produkttexte,
+        Landingpages). Du arbeitest mit Tools zur Content-Erstellung und
+        -Optimierung und hilfst, diese sinnvoll in unsere Prozesse einzubinden.
+        Du führst Keyword-Analysen und Wettbewerbsrecherchen durch und leitest
+        daraus Handlungsempfehlungen ab. Du hilfst bei der Onpage-Optimierung
+        von Websites (Meta-Daten, interne Verlinkung, Content-Struktur). Du
+        unterstützt unser Team bei der Content-Planung, Performance-Analyse und
+        der Weiterentwicklung unserer SEO-Strategien. Du betreust unsere
+        Social-Media-Kanäle auf LinkedIn und Google My Business. Qualifikation
+        Du bist eingeschriebene*r Student*in idealerweise im Bereich Marketing,
+        Kommunikation, Medienwissenschaften, Wirtschaftsinformatik oder einem
+        vergleichbaren Studiengang. Du hast ein gutes Sprachgefühl und Freude am
+        Schreiben. Du interessierst dich für SEO, Content Marketing und digitale
+        Trends. Du arbeitest strukturiert, eigenständig und bringst eine
+        schnelle Auffassungsgabe mit. Gern gesehen (aber kein Muss): Erste
+        Erfahrungen mit WordPress, HubSpot oder KI-Tools. Benefits Flexible
+        Arbeitszeiten, die sich an dein Studium anpassen. Remote-Arbeit möglich
+        – wir leben hybrides Arbeiten nicht nur als Produkt, sondern auch im
+        Team. Einblick in ein wachsendes SaaS-Produkt mit Start-up-Spirit
+        innerhalb einer etablierten Unternehmensgruppe (msg-Gruppe).
+        Eigenverantwortung und Gestaltungsspielraum von Tag eins an.Ein
+        kollegiales Team, das auf Augenhöhe zusammenarbeitet. Wir freuen uns
+        über deine Bewerbung – auch wenn du nicht alle Punkte zu 100 % erfüllst.
+        Bei uns zählen Neugier, Lernbereitschaft und Lust auf digitale Themen
+        mehr als der perfekte Lebenslauf. Schick uns einfach deinen CV und ein
+        kurzes Anschreiben, in dem du uns erzählst, warum du Lust auf SEO &#x26;
+        Content bei DEIN RAUM hast! Find Jobs in Germany on Arbeitnow"
+      job_types: &a1
+        - Working student
+        - hilfstätigkeit / student
+      remote: false
+      score: 78
+      skill_hits: 2
+      bucket_id: marketing_general
+      fetched_at: 2026-02-23T18:16:53.135Z
+      pulled_at: 2026-02-23T18:16:53.135Z
+      stale_days: 0
+      is_stale: false
+    - source: arbeitnow
+      source_note: ""
+      company: ABRIO GmbH
+      title: B2B Marketing Manager (m/w/d)
+      location: Frankfurt am Main
+      url: https://www.arbeitnow.com/jobs/companies/abrio-gmbh/b2b-marketing-manager-frankfurt-am-main-253190
+      updated_at: 1771864292
+      description: "Stell dir vor, es ist dein erster Tag als B2B Marketing Manager
+        (m/w/d) bei ABRIO. Du wirst herzlich von einem motivierten und
+        professionellen Team empfangen. Nach einem ersten gemeinsamen Team-Lunch
+        tauchst du direkt in die Welt von Shopify und der
+        Enterprise-E-Commerce-Beratung ein – mit dem klaren Ziel, ABRIO im
+        DACH-Markt als differenzierte Premium-Marke weiter auszubauen. Du merkst
+        sofort: Hier kannst du strategisch gestalten und zugleich operativ
+        umsetzen. Deine Mission ist es, ABRIO als führende und qualitativ
+        hochwertigste Shopify- und E-Commerce-Beratung im
+        DACH-Enterprise-Segment zu positionieren und unsere Marke bei Kunden,
+        Partnern und Talenten nachhaltig zu stärken. Dafür baust du unser
+        Marketing strategisch und operativ weiter aus, hebst es durch
+        Professionalisierung auf das nächste Level und machst es zu einem
+        relevanten Treiber für nachhaltiges Wachstum. ABRIO ist eine der
+        führenden Digital Commerce Beratungen mit Sitz in Frankfurt am Main.
+        Unser Ziel: Die E-Commerce-Welt unserer Kunden nachhaltig zu verbessern
+        und skalierbare Erfolge zu schaffen. Dabei kombinieren wir modernste
+        Technologien mit innovativen Ansätzen und maßgeschneiderten Lösungen.
+        Klingt spannend? Dann lies weiter – wir suchen genau dich für unser
+        Team! Aufgaben Strategische B2B-Positionierung: Du entwickelst eine
+        klare B2B-Positionierung inkl. Messaging (USP, ICP, Value Proposition)
+        und stellst sicher, dass sie konsistent über alle relevanten Kanäle
+        ausgespielt wird. Brand Management: Du verantwortest eine hochwertige
+        und einheitliche Markenpräsenz über Website, LinkedIn, PR, Content und
+        Events hinweg, orchestrierst intern relevante Bereiche (z. B. Employer
+        Branding) und stellst die Qualität in der Umsetzung sicher. Awareness
+        &#x26; Thought Leadership: Über Content-Formate, relevante
+        Partnerschaften sowie Event- und Messeauftritte sorgst du dafür, dass
+        ABRIO im Premiumsegment als Thought Leader im Shopify- und
+        Enterprise-E-Commerce-Umfeld etabliert wird. KPI-driven Growth: Du
+        definierst geeignete KPIs und misst die Wirkung entlang von Brand
+        Awareness, Engagement und Anfragequalität, um unser Marketing als
+        Wachstumstreiber weiterzuentwickeln. Qualifikation IT'S A MATCH, SOFERN
+        DU... mindestens 3 Jahre Erfahrung im B2B-Marketing hast und Marken
+        skaliert, weiterentwickelt oder im Brand Management aktiv gesteuert hast
+        – von der Positionierung bis zur konsistenten Umsetzung über alle
+        relevanten Kanäle. über ein abgeschlossenes Studium im Bereich (Digital)
+        Marketing, Medienmanagement, Betriebswirtschaftslehre oder einer
+        vergleichbaren Fachrichtung verfügst. contentgetriebenes Marketing und
+        LinkedIn-B2B-Branding beherrschst und dich im Sparring mit der
+        Geschäftsführung wohlfühlst. Budgets (mit-)verantwortet hast und Wirkung
+        über KPIs und Tracking messbar machen kannst. Tools wie LinkedIn, CMS
+        (Webflow/WordPress), SEO-Tools und Google Analytics sicher nutzt. mit
+        echter Aufbau-Mentalität dafür brennst, kontinuierlich Neues
+        auszuprobieren, Veränderungen aktiv anzustoßen und ABRIO gezielt als
+        Premium-Partner im DACH-Markt und im Enterprise-Segment zu
+        positionieren. Lust auf hohe Ownership hast, strategisch vorausdenkst
+        und gleichzeitig hands-on sowie zuverlässig mit hohem Qualitätsanspruch
+        operativ umsetzt. sehr gute Deutsch- und gute Englischkenntnisse
+        mitbringst. Benefits Teamspirit, den man erlebt: Du bringst deine
+        Erfahrung und Perspektive aktiv ein und prägst die Zusammenarbeit in
+        einem offenen, wertschätzenden Team. Regelmäßige Teamevents stärken
+        dabei den gemeinsamen Austausch. Urlaub &#x26; Balance: 30 Tage Urlaub
+        und ein kleines Extra für deine Auszeit: ein zusätzlicher Urlaubstag,
+        wenn Heiligabend &#x26; Silvester auf Werktage fallen. Arbeitszeiten,
+        die zu dir passen: Wir bieten flexible Arbeitszeiten und 2 - 3 Tage
+        Präsenz im Büro pro Woche. So gestaltest du deinen Arbeitsalltag
+        eigenständig und kannst deine Projekte effizient voranbringen.
+        Weiterbildung, die deine Karriere stärkt: Wir investieren gezielt in
+        deine Entwicklung – mit einem persönlichen Weiterbildungsbudget für
+        Weiterbildungen, Zertifizierungen und Coaching. Leistung wird belohnt:
+        Neben einer Vergütung, die deiner Erfahrung und Verantwortung
+        entspricht, erhältst du attraktive Bonuszahlungen mit klarer
+        Leistungsorientierung und eine Benefitcard mit monatlich 50,00€ netto –
+        flexibel einsetzbar und jeden Monat ein Plus. Spannende Projekte mit
+        echtem Impact: Bei ABRIO gestaltest du anspruchsvolle
+        E-Commerce-Projekte für führende Marken und triffst Entscheidungen, die
+        echte Ergebnisse erzeugen. Gestalte mit und übernimm Verantwortung: Du
+        treibst Themen aktiv voran, bringst deine Erfahrung ein und setzt deine
+        mehrjährige Expertise gezielt ein, um echte Ergebnisse zu erzielen und
+        unser Team voranzutreiben. Unsere Werte – gelebter Alltag: Teamgeist,
+        Professionalität und Leidenschaft prägen unser tägliches Handeln. Bei
+        uns bekommst du den Raum, Verantwortung zu übernehmen und Entscheidungen
+        zu treffen, die spürbare Qualität und Wirkung entfalten. Modernes Büro
+        im Herzen Frankfurts: Eine hochwertige Arbeitsumgebung mit moderner
+        Ausstattung für fokussiertes Arbeiten, kreativen Austausch und
+        produktive Zusammenarbeit. Mit uns erhältst du nicht nur einen Job,
+        sondern eine Erfahrung, die dich weiterbringt – beruflich und
+        persönlich! 🚀 Unser Team steht für flache Hierarchien und
+        Eigeninitiative. Wenn du motiviert bist, Verantwortung übernehmen
+        möchtest und Lust hast, gemeinsam mit uns die Zukunft des E-Commerce zu
+        gestalten, dann bist du bei uns genau richtig! Unser Bewerbungsprozess
+        ist schnell und zuverlässig – wir melden uns innerhalb kürzester Zeit
+        bei dir zurück. Also, bewirb dich noch heute und werde Teil unseres
+        dynamischen Teams. Wir freuen uns auf deine Bewerbung und darauf, dich
+        kennenzulernen. Find more English Speaking Jobs in Germany on Arbeitnow"
+      job_types:
+        - berufserfahren
+      remote: false
+      score: 76
+      skill_hits: 1
+      bucket_id: marketing_general
+      fetched_at: 2026-02-23T18:16:53.135Z
+      pulled_at: 2026-02-23T18:16:53.135Z
+      stale_days: 0
+      is_stale: false
+    - source: greenhouse
+      source_note: ""
+      company: hellofresh
+      title: Senior Programmatic Marketing Manager - Creative Strategy (m/f/x)
+      location: Berlin, Berlin, Germany
+      url: https://careers.hellofresh.com/global/en/job/6967256?gh_jid=6967256
+      updated_at: 2026-02-20T06:55:20-05:00
+      description: "&lt;h2&gt;&lt;strong&gt;The role&lt;/strong&gt;&lt;/h2&gt; &lt;p
+        style=&quot;text-align: justify;&quot;&gt;As Senior Programmatic
+        Marketing Manager in our Marketing department, you will be responsible
+        for driving key consumer activations while implementing a data-driven
+        creative strategy. You will collaborate with market stakeholders to
+        understand local market insights and its implementation in your
+        marketing campaigns while working on a full funnel consumer journey. You
+        will contribute your expertise across 15 Global HelloFresh entities. The
+        ideal candidate is a strategic thinker and hands-on executor with a
+        performance marketing and experimentation mindset, capable of scaling
+        acquisition and conversion metrics for the channel.&lt;/p&gt; &lt;p
+        style=&quot;text-align: justify;&quot;&gt;&lt;span
+        style=&quot;font-weight: 400;&quot;&gt;Above all, we are looking for
+        people who will &lt;strong&gt;make HelloFresh&lt;/strong&gt;
+        &lt;strong&gt;better.&lt;/strong&gt; We believe there are many different
+        ways of developing skills and we love diverse experiences! So even if
+        you don’t “tick all the boxes” but think you’d thrive in this role, we
+        would really like to learn more about you.&lt;/span&gt;&lt;/p&gt;
+        &lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt;
+        &lt;ul&gt; &lt;li&gt;Act as the creative lead and main point of contact
+        for Display &amp;amp; Video creative strategy across
+        platforms&lt;/li&gt; &lt;li&gt;Develop creative experimentation
+        &amp;amp; performance analysis frameworks&lt;/li&gt; &lt;li&gt;Conduct
+        regular audits on creative strategies across markets.&lt;/li&gt;
+        &lt;li&gt;Own the full creative testing and performance analysis
+        strategy, from hypothesis creation and experimentation to reporting and
+        iterative optimization&lt;/li&gt; &lt;li&gt;Drive and develop new
+        creative initiatives, including testing new content formats,
+        storytelling approaches, and creator-led collaborations&lt;/li&gt;
+        &lt;li&gt;Closely collaborate with the Display &amp;amp; Video Campaign
+        Operations team to ensure creative strategies are tailored, aligned, and
+        executed smoothly across all entities&lt;/li&gt; &lt;li&gt;Identify and
+        share creative trends, insights, and best practices across internal
+        teams to inform asset development and campaign direction&lt;/li&gt;
+        &lt;li&gt;Translate performance data into clear recommendations for
+        creative development, collaborating with Brand and Design to implement
+        them&lt;/li&gt; &lt;li&gt;Lead cross-functional creative efforts, such
+        as influencer content integrations and brand partnership
+        initiatives&lt;/li&gt; &lt;li&gt;Bring structure, prioritization, and
+        clear problem-solving to a fast-moving, test-and-learn
+        environment&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;What you’ll
+        bring&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;6+ years of
+        professional experience in programmatic advertising or working with DSP
+        vendors, programmatic trading desks, digital marketing agencies, ad
+        network, 3rd party data companies or other related digital
+        companies.&lt;/li&gt; &lt;li&gt;2+ years of previous strategy
+        development and deployment in digital marketing&amp;nbsp;&lt;/li&gt;
+        &lt;li&gt;Excellent knowledge and skills of Google: Sheet and Slides -
+        can create reports and presentations for internal and external
+        teams&lt;/li&gt; &lt;li&gt;Understanding of digital marketing
+        disciplines from digital display, OTV, SEO, PPC, Ecommerce, social media
+        or affiliate marketing&lt;/li&gt; &lt;li&gt;Excellent communication
+        skills. You will be the go-to-person for multiple marketing and
+        communication teams. Interpersonal skills are a prerequisite for
+        success.&lt;/li&gt; &lt;li&gt;Passionate about digital industry and
+        highly digital savvy&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Our best-in-class
+        marketers play vital roles in connecting HelloFresh with new and
+        existing customers across the world. Based in Berlin, the data-driven
+        and creative Global Marketing Team pioneers industry-leading research,
+        business insight, CRM, growth marketing and brand communication. The
+        team continuously drives our brand forward through experimentation and
+        an entrepreneurial spirit.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What we
+        offer&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Elevate your lifestyle! Join
+        one of Europe&#39;s fastest-growing tech powerhouses in a dynamic phase
+        of expansion.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Immerse yourself in a
+        diverse global community of 90+ nationalities.&lt;/li&gt;
+        &lt;li&gt;Enjoy a competitive compensation package that goes beyond the
+        norm, with perks like a HelloFresh- subsidized Pension Scheme, Berlin
+        relocation support, and a Hybrid working model.&lt;/li&gt;
+        &lt;li&gt;Elevate your lifestyle with exclusive discounts on your weekly
+        HelloFresh box and office meals.&lt;/li&gt; &lt;li&gt;Invest in your
+        growth with an annual learning &amp;amp; development budget, German
+        language learning budget, and access to the HelloFresh
+        Academy.&lt;/li&gt; &lt;li&gt;Plus, we&#39;ve got your well-being
+        covered with mental health support, transportation perks, and
+        working-parent-friendly benefits. From our 24/7 gym access,wellbeing
+        platforms like Headspace and Spill, to sabbatical leave options,
+        HelloFresh is not just a workplace; it&#39;s a lifestyle of perks and
+        possibilities!&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;Are you up
+        for the challenge?&lt;/strong&gt;&lt;/h2&gt; &lt;p
+        style=&quot;text-align: justify;&quot;&gt;&lt;span
+        style=&quot;font-weight: 400;&quot;&gt;Please submit your complete
+        application below including your salary expectations and earliest
+        starting date.&lt;/span&gt;&lt;/p&gt; &lt;p style=&quot;text-align:
+        justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;After
+        submitting an application our team will review this and get back to you
+        within 5 business days.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;"
+      score: 110
+      skill_hits: 4
+      bucket_id: marketing_general
       fetched_at: 2026-02-22T17:47:42.002Z
       pulled_at: 2026-02-22T17:47:42.002Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -200,7 +521,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-22T17:47:42.002Z
       pulled_at: 2026-02-22T17:47:42.002Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -264,7 +585,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-22T17:47:42.002Z
       pulled_at: 2026-02-22T17:47:42.002Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -323,14 +644,14 @@ buckets:
         ausführlichen Lebenslauf mit Foto und gib bitte Deine
         Gehaltsvorstellungen in Deiner Bewerbung an. Wir freuen uns auf Deine
         Bewerbung Find more English Speaking Jobs in Germany on Arbeitnow"
-      job_types: &a1 []
+      job_types: &a2 []
       remote: true
       score: 78
       skill_hits: 1
       bucket_id: marketing_general
       fetched_at: 2026-02-22T17:47:42.002Z
       pulled_at: 2026-02-22T17:47:42.002Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -384,7 +705,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-22T17:47:42.002Z
       pulled_at: 2026-02-22T17:47:42.002Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -485,7 +806,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-21T17:46:58.243Z
       pulled_at: 2026-02-21T17:46:58.243Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -582,7 +903,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-21T17:46:58.243Z
       pulled_at: 2026-02-21T17:46:58.243Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -641,14 +962,14 @@ buckets:
         ausführlichen Lebenslauf mit Foto und gib bitte Deine
         Gehaltsvorstellungen in Deiner Bewerbung an. Wir freuen uns auf Deine
         Bewerbung Find more English Speaking Jobs in Germany on Arbeitnow"
-      job_types: &a2 []
+      job_types: &a3 []
       remote: true
       score: 78
       skill_hits: 1
       bucket_id: marketing_general
       fetched_at: 2026-02-21T17:46:58.243Z
       pulled_at: 2026-02-21T17:46:58.243Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -702,7 +1023,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-21T17:46:58.243Z
       pulled_at: 2026-02-21T17:46:58.243Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -803,7 +1124,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-20T17:59:06.701Z
       pulled_at: 2026-02-20T17:59:06.701Z
-      stale_days: 1
+      stale_days: 3
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -904,7 +1225,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-19T18:09:36.225Z
       pulled_at: 2026-02-19T18:09:36.225Z
-      stale_days: 2
+      stale_days: 4
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -973,14 +1294,14 @@ buckets:
         Lebenslauf und ein kurzes Schreiben, warum gerade du die richtige Person
         für den Job bist. Wir freuen uns auf deine Bewerbung! 🚀 Find more
         English Speaking Jobs in Germany on Arbeitnow"
-      job_types: &a3 []
+      job_types: &a4 []
       remote: true
       score: 80
       skill_hits: 2
       bucket_id: marketing_general
       fetched_at: 2026-02-19T18:09:36.225Z
       pulled_at: 2026-02-19T18:09:36.225Z
-      stale_days: 2
+      stale_days: 4
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1042,7 +1363,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-19T18:09:36.225Z
       pulled_at: 2026-02-19T18:09:36.225Z
-      stale_days: 2
+      stale_days: 4
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -1143,7 +1464,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-18T18:05:51.668Z
       pulled_at: 2026-02-18T18:05:51.668Z
-      stale_days: 3
+      stale_days: 5
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -1244,7 +1565,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-17T18:11:01.254Z
       pulled_at: 2026-02-17T18:11:01.254Z
-      stale_days: 4
+      stale_days: 6
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -1342,7 +1663,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-17T18:11:01.254Z
       pulled_at: 2026-02-17T18:11:01.254Z
-      stale_days: 4
+      stale_days: 6
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1416,7 +1737,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-17T18:11:01.254Z
       pulled_at: 2026-02-17T18:11:01.254Z
-      stale_days: 4
+      stale_days: 6
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1492,7 +1813,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-17T18:11:01.254Z
       pulled_at: 2026-02-17T18:11:01.254Z
-      stale_days: 4
+      stale_days: 6
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1575,7 +1896,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-17T18:11:01.254Z
       pulled_at: 2026-02-17T18:11:01.254Z
-      stale_days: 4
+      stale_days: 6
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -1676,7 +1997,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-16T17:59:06.592Z
       pulled_at: 2026-02-16T17:59:06.592Z
-      stale_days: 5
+      stale_days: 7
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -1774,7 +2095,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-16T17:59:06.592Z
       pulled_at: 2026-02-16T17:59:06.592Z
-      stale_days: 5
+      stale_days: 7
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1837,7 +2158,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-16T17:59:06.592Z
       pulled_at: 2026-02-16T17:59:06.592Z
-      stale_days: 5
+      stale_days: 7
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1930,7 +2251,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-16T17:59:06.592Z
       pulled_at: 2026-02-16T17:59:06.592Z
-      stale_days: 5
+      stale_days: 7
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -2031,7 +2352,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-15T17:48:29.497Z
       pulled_at: 2026-02-15T17:48:29.497Z
-      stale_days: 6
+      stale_days: 8
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -2129,7 +2450,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-15T17:48:29.497Z
       pulled_at: 2026-02-15T17:48:29.497Z
-      stale_days: 6
+      stale_days: 8
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2167,14 +2488,14 @@ buckets:
         Content-Beispielen Gewünschte Stundenzahl pro Woche und
         Gehaltsvorstellung Lebenslauf (oder LinkedIn-Profil) Wir freueun uns von
         Dir zu hören! Find Jobs in Germany on Arbeitnow"
-      job_types: &a4 []
+      job_types: &a5 []
       remote: false
       score: 78
       skill_hits: 2
       bucket_id: marketing_general
       fetched_at: 2026-02-15T17:48:29.497Z
       pulled_at: 2026-02-15T17:48:29.497Z
-      stale_days: 6
+      stale_days: 8
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -2275,7 +2596,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-14T17:47:32.325Z
       pulled_at: 2026-02-14T17:47:32.325Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -2373,7 +2694,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-14T17:47:32.325Z
       pulled_at: 2026-02-14T17:47:32.325Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2442,7 +2763,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-14T17:47:32.325Z
       pulled_at: 2026-02-14T17:47:32.325Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2480,14 +2801,14 @@ buckets:
         Content-Beispielen Gewünschte Stundenzahl pro Woche und
         Gehaltsvorstellung Lebenslauf (oder LinkedIn-Profil) Wir freueun uns von
         Dir zu hören! Find Jobs in Germany on Arbeitnow"
-      job_types: &a5 []
+      job_types: &a6 []
       remote: false
       score: 78
       skill_hits: 2
       bucket_id: marketing_general
       fetched_at: 2026-02-14T17:47:32.325Z
       pulled_at: 2026-02-14T17:47:32.325Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -2588,7 +2909,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-09T18:08:29.869Z
       pulled_at: 2026-02-09T18:08:29.869Z
-      stale_days: 12
+      stale_days: 14
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -2686,7 +3007,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-09T18:08:29.869Z
       pulled_at: 2026-02-09T18:08:29.869Z
-      stale_days: 12
+      stale_days: 14
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -2787,7 +3108,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-08T17:50:04.683Z
       pulled_at: 2026-02-08T17:50:04.683Z
-      stale_days: 13
+      stale_days: 15
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2915,7 +3236,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-08T17:50:04.683Z
       pulled_at: 2026-02-08T17:50:04.683Z
-      stale_days: 13
+      stale_days: 15
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -3016,7 +3337,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T18:51:13.212Z
       pulled_at: 2026-02-07T18:51:13.212Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3145,7 +3466,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T18:51:13.212Z
       pulled_at: 2026-02-07T18:51:13.212Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -3246,7 +3567,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T18:26:20.804Z
       pulled_at: 2026-02-07T18:26:20.804Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3375,7 +3696,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T18:26:20.804Z
       pulled_at: 2026-02-07T18:26:20.804Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -3476,7 +3797,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T17:16:11.277Z
       pulled_at: 2026-02-07T17:16:11.277Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3605,7 +3926,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T17:16:11.277Z
       pulled_at: 2026-02-07T17:16:11.277Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -3706,7 +4027,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T17:10:52.874Z
       pulled_at: 2026-02-07T17:10:52.874Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3835,7 +4156,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T17:10:52.874Z
       pulled_at: 2026-02-07T17:10:52.874Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -3936,7 +4257,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T17:05:11.779Z
       pulled_at: 2026-02-07T17:05:11.779Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -4065,7 +4386,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T17:05:11.779Z
       pulled_at: 2026-02-07T17:05:11.779Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -4166,7 +4487,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T17:01:24.160Z
       pulled_at: 2026-02-07T17:01:24.160Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -4295,7 +4616,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T17:01:24.160Z
       pulled_at: 2026-02-07T17:01:24.160Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -4396,7 +4717,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T15:58:11.095Z
       pulled_at: 2026-02-07T15:58:11.095Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -4524,113 +4845,60 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T15:58:11.095Z
       pulled_at: 2026-02-07T15:58:11.095Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
   digital_marketing:
     - source: arbeitnow
       source_note: ""
-      company: CAPULET Jewelry
-      title: E-Commerce & Growth Manager - Shopify & Performance Marketing (m/w/d)
-      location: Munich
-      url: https://www.arbeitnow.com/jobs/companies/capulet-jewelry/e-commerce-growth-manager-shopify-performance-marketing-munich-312465
-      updated_at: 1771677085
-      description: "Über CAPULET CAPULET ist eine unabhängige Luxus Schmuckmarke aus
-        Deutschland. Mit Headquarter in München und weiteren Werkstätten in
-        Pforzheim und Berlin. Seit über 15 Jahren stehen wir für hochwertigen
-        handgefertigten Schmuck aus Gold und Silber – mit klarer Haltung und
-        einem unverwechselbaren Stil. Unser Ziel: profitables Wachstum und die
-        Stärkung unserer Online-Präsenz. Dafür suchen wir ab sofort einen
-        erfahrenen E-Commerce &#x26; Performance Marketing Manager (m/w/d) , der
-        unser Marketing zielführend und eigenständig auf das nächste Level hebt.
-        Aufgaben Ziel der Position Volle Verantwortung für das digitale Wachstum
-        von CAPULET Jewelry. Diese Rolle kombiniert Shop-Optimierung ,
-        Performance Marketing und Conversion-Steigerung . Ziel ist, den
-        Shopify-Shop datenbasiert zu skalieren und den Umsatz messbar zu
-        erhöhen. Fachliche Kompetenzen: 🛍 Shopify &#x26; Shop-Optimierung
-        Tiefes Verständnis von Shopify (Themes, UX, Page Speed, Checkout-Flow,
-        Apps, Feeds) Aufbau und Pflege performanter Produktseiten
-        Conversion-Optimierung: A/B-Tests, Heatmaps, Funnel-Analyse
-        Grundkenntnisse in Liquid oder Zusammenarbeit mit Entwicklern 📈
-        Performance &#x26; Growth Marketing Planung, Umsetzung und Skalierung
-        von Meta- und Google-Ads-Kampagnen Retargeting, Lookalikes, Dynamic
-        Product Ads Tracking, UTM-Parameter, Conversion API, Pixel-Events
-        Budgetsteuerung &#x26; ROAS-Optimierung 📊 Analytics &#x26; Tracking
-        GA4, Google Tag Manager, Klaviyo, Shopify Analytics Dashboard-Erstellung
-        und Dateninterpretation Customer Journey &#x26; Funnel-Analyse 💌 CRM
-        &#x26; Retention Klaviyo-Flows (Abandoned Cart, Browse, Post-Purchase)
-        Segmentierung, Automatisierung, Lifecycle Marketing Qualifikation Dein
-        Profil Mehrjährige Shopify-Erfahrung im E-Commerce mit Fokus auf
-        Wachstum &#x26; Conversion Nachweisbare Erfolge in Performance
-        Marketing, CRO &#x26; Skalierung Mehrjährige Erfahrung in Meta Ads
-        &#x26; Google Ads Starke analytische Fähigkeiten &#x26; fundiertes
-        Verständnis für Tracking &#x26; Datenanalyse Erfahrung mit
-        Attributiontstool KLAR Erfahrung mit Klaviyo, Feed Management,
-        Retargeting &#x26; Funnel-Building Eigenständig, strategisch &#x26; mit
-        echter Growth-Mentalität Gespür für Ästhetik, Marke &#x26;
-        Luxus-Lifestyle Benefits 💎 Unsere Benefits Unbefristete Festanstellung
-        mit hervorragender Vergütung Mobiles Arbeiten / Remote-Option (auch aus
-        dem Ausland möglich) Betriebliche Altersvorsorge / Rentenzuschuss
-        Direkte Zusammenarbeit mit Founder Einblick in Strategie, Zahlen,
-        Wachstum Verantwortung statt Micromanagement Flexible Workation-Modelle
-        Nachhaltige Marke – CAPULET steht für ehrliche Werte, faire Produktion
-        und bewusstes Wachstum Team mit Herz &#x26; Haltung – persönliche
-        Atmosphäre, kreative Freiheit Rabatte auf CAPULET Schmuck &#x26; Friends
-        &#x26; Family Specials ⏱️ WIR SUCHEN AB SOFORT! Wir freuen uns auf Deine
-        ausführliche Bewerbung mit Foto und Deinen Erfahrungen! 😎 OPTION:: Wir
-        suchen festangestellt in Vollzeit . Optional ist auch Teilzeit oder
-        Freelance möglich. ‼️ WICHTIG: Bitte bewirb Dich nur, wenn Du sowohl
-        umfassende Shopify Expertise wie auch umfassende Perfomance Marketing
-        (Meta &#x26; Google) Erfahrung hast. Wir freuen uns auf einen
-        ausführlichen Lebenslauf mit Foto und gib bitte Deine
-        Gehaltsvorstellungen in Deiner Bewerbung an. Wir freuen uns auf Deine
-        Bewerbung Find more English Speaking Jobs in Germany on Arbeitnow"
+      company: PiAL Consult GmbH
+      title: Werkstudent*in SEO & Content Marketing (m/w/d)
+      location: Hamburg
+      url: https://www.arbeitnow.com/jobs/companies/pial-consult-gmbh/werkstudentin-seo-content-marketing-hamburg-19041
+      updated_at: 1771858900
+      description: "DEIN RAUM ist als internes Projekt der PiAL Consult GmbH im
+        Frühjahr 2021 entstanden, als wechselnde Abstandsregeln und zu wenig
+        Arbeitsplätze eine neue organisation notwendig machten. Heute
+        unterstützen wir Unternehmen mit unserem SaaS-Produkt DEIN RAUM bei der
+        Umsetzung hybrider Arbeitsmodelle. Uns zeichnen pragmatische Lösungen,
+        langjähriges Software-Know-how und Zusammenarbeit auf Augenhöhe aus. Die
+        PiAL Consult GmbH ist ein versierter Versicherungs- und IT-Spezialist.
+        Seit 2011 unterstuetzen wir - als Teil der msg-Gruppe -
+        Versicherungsunternehmen bei der Optimierung ihrer Prozesse. Aufgaben Du
+        unterstützt bei der Recherche und Erstellung von
+        suchmaschinenoptimierten Inhalten (z. B. Blogbeiträge, Produkttexte,
+        Landingpages). Du arbeitest mit Tools zur Content-Erstellung und
+        -Optimierung und hilfst, diese sinnvoll in unsere Prozesse einzubinden.
+        Du führst Keyword-Analysen und Wettbewerbsrecherchen durch und leitest
+        daraus Handlungsempfehlungen ab. Du hilfst bei der Onpage-Optimierung
+        von Websites (Meta-Daten, interne Verlinkung, Content-Struktur). Du
+        unterstützt unser Team bei der Content-Planung, Performance-Analyse und
+        der Weiterentwicklung unserer SEO-Strategien. Du betreust unsere
+        Social-Media-Kanäle auf LinkedIn und Google My Business. Qualifikation
+        Du bist eingeschriebene*r Student*in idealerweise im Bereich Marketing,
+        Kommunikation, Medienwissenschaften, Wirtschaftsinformatik oder einem
+        vergleichbaren Studiengang. Du hast ein gutes Sprachgefühl und Freude am
+        Schreiben. Du interessierst dich für SEO, Content Marketing und digitale
+        Trends. Du arbeitest strukturiert, eigenständig und bringst eine
+        schnelle Auffassungsgabe mit. Gern gesehen (aber kein Muss): Erste
+        Erfahrungen mit WordPress, HubSpot oder KI-Tools. Benefits Flexible
+        Arbeitszeiten, die sich an dein Studium anpassen. Remote-Arbeit möglich
+        – wir leben hybrides Arbeiten nicht nur als Produkt, sondern auch im
+        Team. Einblick in ein wachsendes SaaS-Produkt mit Start-up-Spirit
+        innerhalb einer etablierten Unternehmensgruppe (msg-Gruppe).
+        Eigenverantwortung und Gestaltungsspielraum von Tag eins an.Ein
+        kollegiales Team, das auf Augenhöhe zusammenarbeitet. Wir freuen uns
+        über deine Bewerbung – auch wenn du nicht alle Punkte zu 100 % erfüllst.
+        Bei uns zählen Neugier, Lernbereitschaft und Lust auf digitale Themen
+        mehr als der perfekte Lebenslauf. Schick uns einfach deinen CV und ein
+        kurzes Anschreiben, in dem du uns erzählst, warum du Lust auf SEO &#x26;
+        Content bei DEIN RAUM hast! Find Jobs in Germany on Arbeitnow"
       job_types: *a1
-      remote: true
-      score: 78
-      skill_hits: 1
-      bucket_id: digital_marketing
-      fetched_at: 2026-02-22T17:47:42.002Z
-      pulled_at: 2026-02-22T17:47:42.002Z
-      stale_days: 0
-      is_stale: false
-    - source: arbeitnow
-      source_note: ""
-      company: ITSB Deutschland UG
-      title: Content & Growth Marketing (B2B)  (m/w/d)
-      location: Munich
-      url: https://www.arbeitnow.com/jobs/companies/itsb-deutschland-ug/content-growth-marketing-b2b-munich-139265
-      updated_at: 1771635542
-      description: "Du willst nicht nur Theorie – du willst Praxis, Verantwortung und
-        sichtbare Ergebnisse ? Willkommen bei der ITSB Deutschland. Wir suchen
-        Praktikant:innen, die ehrgeizig sind , Dinge wirklich umsetzen und
-        gleichzeitig Content verstehen : kurz, klar, hilfreich. Du hilfst uns,
-        ITSB als Marke aufzubauen – mit Content, der Vertrauen schafft und Leads
-        bringt. Egal ob Consulting, Marketing oder Sales – bei uns arbeitest du
-        an echten Fällen und baust Skills auf, die dir nach dem Praktikum
-        wirklich etwas bringen. Aufgaben Erstellung und Planung von
-        LinkedIn-Content (Posts, Carousels, kurze Skripte) Mithilfe bei
-        Landingpages , CTAs, Lead-Magneten (z. B. Quick-Checks, Checklisten)
-        Unterstützung bei Newsletter-Kampagnen (Brevo) und kleinen Automationen
-        Content-Repurposing: aus 1 Thema werden 5 Formate (Post, Reel-Skript,
-        Blog, FAQ, E-Mail) Analyse: Welche Inhalte performen – und warum?
-        Qualifikation Du arbeitest strukturiert, zuverlässig und kannst
-        Deadlines halten Du bist content-affin und kannst gut formulieren (klar,
-        nicht kompliziert) Bonus: Canva, CapCut, WordPress/Elementor, Brevo,
-        SEO-Basics Benefits Direkte Zusammenarbeit mit Geschäftsführung &#x26;
-        Vertrieb Möglichkeit, eigene Content-Reihen zu “ownen” Sichtbare
-        Ergebnisse (Reichweite, Leads, Landingpage-Performance) Flexible
-        Arbeitszeiten (auf Vorlesungszeiten abgestimmt) Lunch/Essenszuschuss an
-        Büro-Tagen Events/Messen : Ticket + Mitwirkung + Networking
-        Weiterbildungszeit : z. B. 2 Std./Woche Lernzeit fest eingeplant Wir
-        freuen uns auf deine Bewerbung! Find Jobs in Germany on Arbeitnow"
-      job_types:
-        - Internship
       remote: false
-      score: 76
-      skill_hits: 1
+      score: 78
+      skill_hits: 2
       bucket_id: digital_marketing
-      fetched_at: 2026-02-22T17:47:42.002Z
-      pulled_at: 2026-02-22T17:47:42.002Z
+      fetched_at: 2026-02-23T18:16:53.135Z
+      pulled_at: 2026-02-23T18:16:53.135Z
       stale_days: 0
       is_stale: false
     - source: arbeitnow
@@ -4695,9 +4963,115 @@ buckets:
       score: 78
       skill_hits: 1
       bucket_id: digital_marketing
+      fetched_at: 2026-02-22T17:47:42.002Z
+      pulled_at: 2026-02-22T17:47:42.002Z
+      stale_days: 1
+      is_stale: false
+    - source: arbeitnow
+      source_note: ""
+      company: ITSB Deutschland UG
+      title: Content & Growth Marketing (B2B)  (m/w/d)
+      location: Munich
+      url: https://www.arbeitnow.com/jobs/companies/itsb-deutschland-ug/content-growth-marketing-b2b-munich-139265
+      updated_at: 1771635542
+      description: "Du willst nicht nur Theorie – du willst Praxis, Verantwortung und
+        sichtbare Ergebnisse ? Willkommen bei der ITSB Deutschland. Wir suchen
+        Praktikant:innen, die ehrgeizig sind , Dinge wirklich umsetzen und
+        gleichzeitig Content verstehen : kurz, klar, hilfreich. Du hilfst uns,
+        ITSB als Marke aufzubauen – mit Content, der Vertrauen schafft und Leads
+        bringt. Egal ob Consulting, Marketing oder Sales – bei uns arbeitest du
+        an echten Fällen und baust Skills auf, die dir nach dem Praktikum
+        wirklich etwas bringen. Aufgaben Erstellung und Planung von
+        LinkedIn-Content (Posts, Carousels, kurze Skripte) Mithilfe bei
+        Landingpages , CTAs, Lead-Magneten (z. B. Quick-Checks, Checklisten)
+        Unterstützung bei Newsletter-Kampagnen (Brevo) und kleinen Automationen
+        Content-Repurposing: aus 1 Thema werden 5 Formate (Post, Reel-Skript,
+        Blog, FAQ, E-Mail) Analyse: Welche Inhalte performen – und warum?
+        Qualifikation Du arbeitest strukturiert, zuverlässig und kannst
+        Deadlines halten Du bist content-affin und kannst gut formulieren (klar,
+        nicht kompliziert) Bonus: Canva, CapCut, WordPress/Elementor, Brevo,
+        SEO-Basics Benefits Direkte Zusammenarbeit mit Geschäftsführung &#x26;
+        Vertrieb Möglichkeit, eigene Content-Reihen zu “ownen” Sichtbare
+        Ergebnisse (Reichweite, Leads, Landingpage-Performance) Flexible
+        Arbeitszeiten (auf Vorlesungszeiten abgestimmt) Lunch/Essenszuschuss an
+        Büro-Tagen Events/Messen : Ticket + Mitwirkung + Networking
+        Weiterbildungszeit : z. B. 2 Std./Woche Lernzeit fest eingeplant Wir
+        freuen uns auf deine Bewerbung! Find Jobs in Germany on Arbeitnow"
+      job_types:
+        - Internship
+      remote: false
+      score: 76
+      skill_hits: 1
+      bucket_id: digital_marketing
+      fetched_at: 2026-02-22T17:47:42.002Z
+      pulled_at: 2026-02-22T17:47:42.002Z
+      stale_days: 1
+      is_stale: false
+    - source: arbeitnow
+      source_note: ""
+      company: CAPULET Jewelry
+      title: E-Commerce & Growth Manager - Shopify & Performance Marketing (m/w/d)
+      location: Munich
+      url: https://www.arbeitnow.com/jobs/companies/capulet-jewelry/e-commerce-growth-manager-shopify-performance-marketing-munich-312465
+      updated_at: 1771677085
+      description: "Über CAPULET CAPULET ist eine unabhängige Luxus Schmuckmarke aus
+        Deutschland. Mit Headquarter in München und weiteren Werkstätten in
+        Pforzheim und Berlin. Seit über 15 Jahren stehen wir für hochwertigen
+        handgefertigten Schmuck aus Gold und Silber – mit klarer Haltung und
+        einem unverwechselbaren Stil. Unser Ziel: profitables Wachstum und die
+        Stärkung unserer Online-Präsenz. Dafür suchen wir ab sofort einen
+        erfahrenen E-Commerce &#x26; Performance Marketing Manager (m/w/d) , der
+        unser Marketing zielführend und eigenständig auf das nächste Level hebt.
+        Aufgaben Ziel der Position Volle Verantwortung für das digitale Wachstum
+        von CAPULET Jewelry. Diese Rolle kombiniert Shop-Optimierung ,
+        Performance Marketing und Conversion-Steigerung . Ziel ist, den
+        Shopify-Shop datenbasiert zu skalieren und den Umsatz messbar zu
+        erhöhen. Fachliche Kompetenzen: 🛍 Shopify &#x26; Shop-Optimierung
+        Tiefes Verständnis von Shopify (Themes, UX, Page Speed, Checkout-Flow,
+        Apps, Feeds) Aufbau und Pflege performanter Produktseiten
+        Conversion-Optimierung: A/B-Tests, Heatmaps, Funnel-Analyse
+        Grundkenntnisse in Liquid oder Zusammenarbeit mit Entwicklern 📈
+        Performance &#x26; Growth Marketing Planung, Umsetzung und Skalierung
+        von Meta- und Google-Ads-Kampagnen Retargeting, Lookalikes, Dynamic
+        Product Ads Tracking, UTM-Parameter, Conversion API, Pixel-Events
+        Budgetsteuerung &#x26; ROAS-Optimierung 📊 Analytics &#x26; Tracking
+        GA4, Google Tag Manager, Klaviyo, Shopify Analytics Dashboard-Erstellung
+        und Dateninterpretation Customer Journey &#x26; Funnel-Analyse 💌 CRM
+        &#x26; Retention Klaviyo-Flows (Abandoned Cart, Browse, Post-Purchase)
+        Segmentierung, Automatisierung, Lifecycle Marketing Qualifikation Dein
+        Profil Mehrjährige Shopify-Erfahrung im E-Commerce mit Fokus auf
+        Wachstum &#x26; Conversion Nachweisbare Erfolge in Performance
+        Marketing, CRO &#x26; Skalierung Mehrjährige Erfahrung in Meta Ads
+        &#x26; Google Ads Starke analytische Fähigkeiten &#x26; fundiertes
+        Verständnis für Tracking &#x26; Datenanalyse Erfahrung mit
+        Attributiontstool KLAR Erfahrung mit Klaviyo, Feed Management,
+        Retargeting &#x26; Funnel-Building Eigenständig, strategisch &#x26; mit
+        echter Growth-Mentalität Gespür für Ästhetik, Marke &#x26;
+        Luxus-Lifestyle Benefits 💎 Unsere Benefits Unbefristete Festanstellung
+        mit hervorragender Vergütung Mobiles Arbeiten / Remote-Option (auch aus
+        dem Ausland möglich) Betriebliche Altersvorsorge / Rentenzuschuss
+        Direkte Zusammenarbeit mit Founder Einblick in Strategie, Zahlen,
+        Wachstum Verantwortung statt Micromanagement Flexible Workation-Modelle
+        Nachhaltige Marke – CAPULET steht für ehrliche Werte, faire Produktion
+        und bewusstes Wachstum Team mit Herz &#x26; Haltung – persönliche
+        Atmosphäre, kreative Freiheit Rabatte auf CAPULET Schmuck &#x26; Friends
+        &#x26; Family Specials ⏱️ WIR SUCHEN AB SOFORT! Wir freuen uns auf Deine
+        ausführliche Bewerbung mit Foto und Deinen Erfahrungen! 😎 OPTION:: Wir
+        suchen festangestellt in Vollzeit . Optional ist auch Teilzeit oder
+        Freelance möglich. ‼️ WICHTIG: Bitte bewirb Dich nur, wenn Du sowohl
+        umfassende Shopify Expertise wie auch umfassende Perfomance Marketing
+        (Meta &#x26; Google) Erfahrung hast. Wir freuen uns auf einen
+        ausführlichen Lebenslauf mit Foto und gib bitte Deine
+        Gehaltsvorstellungen in Deiner Bewerbung an. Wir freuen uns auf Deine
+        Bewerbung Find more English Speaking Jobs in Germany on Arbeitnow"
+      job_types: *a3
+      remote: true
+      score: 78
+      skill_hits: 1
+      bucket_id: digital_marketing
       fetched_at: 2026-02-21T17:46:58.243Z
       pulled_at: 2026-02-21T17:46:58.243Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -4738,7 +5112,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-02-21T17:46:58.243Z
       pulled_at: 2026-02-21T17:46:58.243Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -4807,14 +5181,14 @@ buckets:
         Lebenslauf und ein kurzes Schreiben, warum gerade du die richtige Person
         für den Job bist. Wir freuen uns auf deine Bewerbung! 🚀 Find more
         English Speaking Jobs in Germany on Arbeitnow"
-      job_types: *a3
+      job_types: *a4
       remote: true
       score: 80
       skill_hits: 2
       bucket_id: digital_marketing
       fetched_at: 2026-02-19T18:09:36.225Z
       pulled_at: 2026-02-19T18:09:36.225Z
-      stale_days: 2
+      stale_days: 4
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -4903,7 +5277,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-02-18T18:05:51.668Z
       pulled_at: 2026-02-18T18:05:51.668Z
-      stale_days: 3
+      stale_days: 5
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -4972,7 +5346,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-02-18T18:05:51.668Z
       pulled_at: 2026-02-18T18:05:51.668Z
-      stale_days: 3
+      stale_days: 5
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -5030,7 +5404,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-02-14T17:47:32.325Z
       pulled_at: 2026-02-14T17:47:32.325Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -5107,7 +5481,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-02-09T18:08:29.869Z
       pulled_at: 2026-02-09T18:08:29.869Z
-      stale_days: 12
+      stale_days: 14
       is_stale: false
   video_editing:
     - source: arbeitnow
@@ -5155,7 +5529,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-02-22T17:47:42.002Z
       pulled_at: 2026-02-22T17:47:42.002Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -5193,14 +5567,14 @@ buckets:
         Content-Beispielen Gewünschte Stundenzahl pro Woche und
         Gehaltsvorstellung Lebenslauf (oder LinkedIn-Profil) Wir freueun uns von
         Dir zu hören! Find Jobs in Germany on Arbeitnow"
-      job_types: *a4
+      job_types: *a5
       remote: false
       score: 78
       skill_hits: 2
       bucket_id: video_editing
       fetched_at: 2026-02-15T17:48:29.497Z
       pulled_at: 2026-02-15T17:48:29.497Z
-      stale_days: 6
+      stale_days: 8
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -5250,7 +5624,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-02-14T17:47:32.325Z
       pulled_at: 2026-02-14T17:47:32.325Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -5288,14 +5662,14 @@ buckets:
         Content-Beispielen Gewünschte Stundenzahl pro Woche und
         Gehaltsvorstellung Lebenslauf (oder LinkedIn-Profil) Wir freueun uns von
         Dir zu hören! Find Jobs in Germany on Arbeitnow"
-      job_types: *a5
+      job_types: *a6
       remote: false
       score: 78
       skill_hits: 2
       bucket_id: video_editing
       fetched_at: 2026-02-14T17:47:32.325Z
       pulled_at: 2026-02-14T17:47:32.325Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
 archive:
   marketing_general: []
@@ -5333,5 +5707,5 @@ meta:
     digital_marketing: 0
     video_editing: 0
   timings_ms:
-    fetch: 11077
-    total: 97959
+    fetch: 10136
+    total: 78650
