@@ -1,4 +1,4 @@
-generated_at: 2026-02-23T18:18:14.915Z
+generated_at: 2026-02-24T18:14:49.759Z
 explicit:
   company_names:
     - SAP
@@ -60,6 +60,10 @@ discovered:
     - ibs-schreiber-gmbh
     - aroundhome
     - bridgemaker-gmbh
+    - beilmann-marketing-gmbh
+    - zepta-technologies-gmbh
+    - greenbone-ag
+    - syte-gmbh
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -109,6 +113,14 @@ discovered:
     - https://aroundhome.jobs.personio.com/xml
     - https://bridgemaker-gmbh.jobs.personio.de/xml
     - https://bridgemaker-gmbh.jobs.personio.com/xml
+    - https://beilmann-marketing-gmbh.jobs.personio.de/xml
+    - https://beilmann-marketing-gmbh.jobs.personio.com/xml
+    - https://zepta-technologies-gmbh.jobs.personio.de/xml
+    - https://zepta-technologies-gmbh.jobs.personio.com/xml
+    - https://greenbone-ag.jobs.personio.de/xml
+    - https://greenbone-ag.jobs.personio.com/xml
+    - https://syte-gmbh.jobs.personio.de/xml
+    - https://syte-gmbh.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
