@@ -1,7 +1,7 @@
 schema_version: roles.v1
 profile_id: pooja
 profile_name: Pooja - product/scrum now, EM later
-generated_at: 2026-02-24T18:14:49.759Z
+generated_at: 2026-02-26T18:14:49.011Z
 buckets:
   pm_product:
     - source: recruitee
@@ -85,9 +85,371 @@ buckets:
       score: 84
       skill_hits: 3
       bucket_id: pm_product
+      fetched_at: 2026-02-26T18:14:49.011Z
+      pulled_at: 2026-02-26T18:14:49.011Z
+      stale_days: 0
+      is_stale: false
+    - source: greenhouse
+      source_note: ""
+      company: typeform
+      title: Senior Product Manager - Analytics
+      location: "Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal
+        (Remote) ; Spain (Remote) ; United Kingdom (Remote) ; United States
+        (Remote) "
+      url: https://job-boards.greenhouse.io/typeform/jobs/7090089
+      updated_at: 2026-02-18T15:06:18-05:00
+      description: "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;Who we
+        are&lt;/h3&gt; &lt;p&gt;Typeform is a refreshingly different form
+        builder. We help over 150,000 businesses collect the data they need with
+        forms, surveys, and quizzes that people enjoy. Designed to look striking
+        and feel effortless to fill out, Typeform drives 500 million responses
+        every year—and integrates with essential tools like Slack, Zapier, and
+        Hubspot.&lt;/p&gt;&lt;/div&gt;&lt;p data-start=&quot;492&quot;
+        data-end=&quot;1020&quot;&gt;&lt;strong data-start=&quot;492&quot;
+        data-end=&quot;510&quot;&gt;About the Team&lt;/strong&gt;&lt;br
+        data-start=&quot;510&quot; data-end=&quot;513&quot;&gt;We’re looking for
+        a Senior Product Manager to lead the transformation of Typeform’s
+        reporting and analytics experience.
+        &lt;br&gt;&lt;br&gt;&lt;strong&gt;About the
+        Role&lt;/strong&gt;&lt;br&gt;This role sits at the center of Typeform’s
+        strategy to turn data into a true market differentiator, driving
+        long-term revenue growth and customer satisfaction. You’ll own the
+        strategy and execution of AI-first analytics capabilities that deliver
+        clear, actionable insights—helping Typeform move beyond feature-parity
+        competitors with a smarter, faster reporting experience.&lt;/p&gt; &lt;p
+        data-start=&quot;1022&quot; data-end=&quot;1044&quot;&gt;&lt;strong
+        data-start=&quot;1022&quot; data-end=&quot;1042&quot;&gt;Things you’ll
+        do&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li
+        data-start=&quot;1047&quot; data-end=&quot;1198&quot;&gt;Lead the
+        delivery of a best-in-class reporting suite, including a redesigned
+        summary page, filtering, advanced visualisations, and AI-driven
+        insights&lt;/li&gt; &lt;li data-start=&quot;1201&quot;
+        data-end=&quot;1307&quot;&gt;Define and ship the MVP for our next-gen
+        Narrative Intelligence and “AI Copilot for Insights”
+        experience&lt;/li&gt; &lt;li data-start=&quot;1310&quot;
+        data-end=&quot;1415&quot;&gt;Partner with Data Science to land
+        foundational Copilot capabilities that scale to millions of
+        responses&lt;/li&gt; &lt;li data-start=&quot;1418&quot;
+        data-end=&quot;1502&quot;&gt;Set and drive a focused roadmap that
+        combines quick wins with long-term innovation&lt;/li&gt; &lt;li
+        data-start=&quot;1505&quot; data-end=&quot;1605&quot;&gt;Consolidate
+        onboarding learnings, customer insights, and market context to guide
+        product decisions&lt;/li&gt; &lt;li data-start=&quot;1608&quot;
+        data-end=&quot;1709&quot;&gt;Improve key metrics like usage rates,
+        satisfaction scores, and activation across reporting features&lt;/li&gt;
+        &lt;li data-start=&quot;1712&quot; data-end=&quot;1811&quot;&gt;Build
+        strong internal alignment and communicate product value clearly to
+        Sales, CS, and GTM teams&lt;/li&gt; &lt;li data-start=&quot;1814&quot;
+        data-end=&quot;1918&quot;&gt;Ensure commercial success by helping Sales
+        and CS articulate differentiated analytics value to customers&lt;/li&gt;
+        &lt;/ul&gt; &lt;p data-start=&quot;1920&quot;
+        data-end=&quot;1958&quot;&gt;&lt;strong data-start=&quot;1920&quot;
+        data-end=&quot;1956&quot;&gt;What you will bring to the
+        table&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li
+        data-start=&quot;1961&quot; data-end=&quot;2056&quot;&gt;Strong
+        strategic thinking with the ability to balance long-term vision with
+        near-term results&lt;/li&gt; &lt;li data-start=&quot;2059&quot;
+        data-end=&quot;2151&quot;&gt;High ownership mindset with a proactive
+        approach to removing blockers and driving progress&lt;/li&gt; &lt;li
+        data-start=&quot;2154&quot; data-end=&quot;2257&quot;&gt;Proven ability
+        to collaborate cross-functionally with Sales, CS, Data Science, Legal,
+        and Engineering&lt;/li&gt; &lt;li data-start=&quot;2260&quot;
+        data-end=&quot;2379&quot;&gt;Confident communicator with commercial
+        fluency and presence when interacting with leadership and enterprise
+        customers&lt;/li&gt; &lt;li data-start=&quot;2382&quot;
+        data-end=&quot;2476&quot;&gt;Customer-focused mindset with a passion for
+        solving real-world data and reporting challenges&lt;/li&gt; &lt;li
+        data-start=&quot;2479&quot; data-end=&quot;2580&quot;&gt;Deep product
+        knowledge in analytics, data visualisation, and reporting (especially
+        for SaaS or B2B)&lt;/li&gt; &lt;li data-start=&quot;2583&quot;
+        data-end=&quot;2674&quot;&gt;Familiarity with AI/LLM-enabled product
+        development and user-facing intelligence features&lt;/li&gt; &lt;li
+        data-start=&quot;2677&quot; data-end=&quot;2773&quot;&gt;Experience
+        working with large-scale data infrastructure (e.g., Clickhouse, columnar
+        databases)&lt;/li&gt; &lt;li data-start=&quot;2776&quot;
+        data-end=&quot;2862&quot;&gt;High data literacy and the ability to
+        influence roadmap through evidence and insight&lt;/li&gt; &lt;li
+        data-start=&quot;2865&quot; data-end=&quot;2928&quot;&gt;Experience
+        managing complex, multi-threaded product work-streams&lt;/li&gt;
+        &lt;/ul&gt; &lt;p data-start=&quot;2930&quot;
+        data-end=&quot;2949&quot;&gt;&lt;strong data-start=&quot;2930&quot;
+        data-end=&quot;2947&quot;&gt;Extra awesome&lt;/strong&gt;&lt;/p&gt;
+        &lt;ul&gt; &lt;li data-start=&quot;2952&quot;
+        data-end=&quot;3033&quot;&gt;A strong track record building or buying
+        advanced reporting and analytics tools&lt;/li&gt; &lt;li
+        data-start=&quot;3036&quot; data-end=&quot;3119&quot;&gt;Experience in
+        survey tooling or working with flexible, unstructured response
+        data&lt;/li&gt; &lt;li data-start=&quot;3122&quot;
+        data-end=&quot;3189&quot;&gt;Hands-on experience delivering modern
+        AI-powered product features&lt;/li&gt; &lt;/ul&gt;&lt;div
+        class=&quot;content-conclusion&quot;&gt;&lt;p&gt;*Typeform drives
+        hundreds of millions of interactions each year, enabling conversational,
+        human-centered experiences across the globe. We &lt;strong&gt;move as
+        one team&lt;/strong&gt;, empowering our collective efforts by valuing
+        each individual’s unique perspective. This fosters &lt;strong&gt;strong
+        bonds&lt;/strong&gt; grounded in respect, transparency, and trust. We
+        &lt;strong&gt;champion our diverse customer base&lt;/strong&gt; by
+        anticipating their needs and addressing their challenges with priority.
+        Committed to excellence, we&lt;strong&gt; hold high expectations
+        &lt;/strong&gt;for ourselves and each other, continuously striving to
+        deliver exceptional results.&lt;/p&gt; &lt;p&gt;We are proud to be an
+        equal-opportunity employer. We celebrate diversity and stand firmly
+        against discrimination and harassment of any kind—whether based on race,
+        color, ancestry, religion, sex, national origin, sexual orientation,
+        age, citizenship, marital status, disability, gender identity or
+        expression, or veteran status. Everyone is welcome
+        here.&lt;/p&gt;&lt;/div&gt;"
+      score: 78
+      skill_hits: 2
+      bucket_id: pm_product
+      fetched_at: 2026-02-26T18:14:49.011Z
+      pulled_at: 2026-02-26T18:14:49.011Z
+      stale_days: 0
+      is_stale: false
+    - source: arbeitnow
+      source_note: ""
+      company: SafeNow
+      title: Senior Product Manager (m/w/d)
+      location: Munich
+      url: https://www.arbeitnow.com/jobs/companies/safenow/senior-product-manager-munich-162060
+      updated_at: 1772123493
+      description: "Hi, wir sind SafeNow! Ein Startup, das es sich zur Aufgabe gemacht
+        hat, jedem Menschen auf der Welt Sicherheit zu bieten – und zwar
+        kostenlos. Dazu entwickeln wir eine App, die dir sofortigen Zugang zu
+        lokal relevanten Helfer:innen verschafft, egal ob es sich dabei um deine
+        Freunde, Familie oder professionelle Helfer:innen handelt. Wir sind ein
+        kleines Team mit einem großen Herzen, mit Sitz in München, bestehend aus
+        53 Personen mit 9 verschiedenen Nationalitäten. Wir suchen ein
+        leidenschaftliches neues Teammitglied, das es liebt, neue
+        Herausforderungen in einer schnelllebigen Startup-Umgebung anzugehen.
+        Wir sind ein bunt gemischter Haufen ehrlicher und aufgeschlossener
+        Menschen, die eine gemeinsame Vision haben, die Welt für uns und die
+        Menschen und Orte, die wir lieben, sicherer zu machen. Für diese Vision
+        suchen wir Unterstützung im Bereich Product Management , um unsere
+        Vision in ein außergewöhnliches Produkt zu übersetzen, welches Menschen
+        begeistert und echten Mehrwert generiert. Aufgaben Produktstrategie
+        &#x26; Roadmap: Du moderierst und gestaltest die Produktvision sowie die
+        strategische Roadmap in enger Zusammenarbeit mit dem Team und den
+        Stakeholdern. Du stellst sicher, dass alle Perspektiven einfließen, um
+        eine priorisierte Richtung vorzugeben, die sowohl Business-Ziele als
+        auch Nutzerbedürfnisse optimal vereint. Menschzentrierte Product
+        Discovery &#x26; Delivery: Du übernimmst volle Verantwortung entlang des
+        gesamten Lebenszyklus. Du leitest eigenständig Discovery Stream, um
+        echte Probleme oder Potentiale zu identifizieren, und stellst
+        gleichzeitig eine exzellente Delivery sicher. Das bedeutet: Du hast die
+        Nutzer:innen immer im Blick und begreifst dich als ihr Sprachrohr in das
+        Unternehmen. Du verstehst Bedürfnisse, übersetzt diese in präzise
+        Anforderungen (User Stories, Acceptance Criteria) und stellst während
+        der Umsetzung sicher, dass das gelieferte Ergebnis die gewünschte
+        Qualität und Wirkung erzielt. Datengetriebene Entscheidungsfindung: Du
+        definierst die relevanten KPIs und Erfolgskriterien für unser Produkt
+        und relevante Umsetzungen. Du nutzt quantitative Daten und qualitatives
+        Feedback, um den Produkterfolg kontinuierlich zu steigern und die
+        Roadmap und das Backlog rollierend entsprechend anzupassen.
+        Cross-funktionale Führung &#x26; überzeugende Kommunikation: Du
+        verstehst es als zentrale Schnittstelle zwischen Engineering, Design,
+        Marketing und Sales zu agieren. Du moderierst komplexe
+        Entscheidungsprozesse, managst die Erwartungen der Stakeholder (u.a.
+        Geschäftsführung) und stellst abgestimmte Ziele/Pläne durch
+        hervorragende Kommunikation sicher. Prozess-Optimierung &#x26;
+        Mentoring: Du prägst eine nutzerzentrierte Produktkultur, indem du Best
+        Practices in der Zusammenarbeit zwischen Produkt, Design und Tech
+        etablierst. Du trägst aktiv dazu bei, die Effizienz und Qualität der
+        Zusammenarbeit in der Produktentwicklung und darüber hinaus auf das
+        nächste Level zu heben. Qualifikation Relevante Produktmanagement
+        Erfahrung: Du verfügst über mindestens 5 Jahre einschlägige
+        Berufserfahrung im Product Management von digitalen B2C- oder
+        B2B2C-Produkten (App-Fokus), idealerweise in einem stark skalierenden
+        Startup-Umfeld. Ganzheitliche Umsetzungskompetenz: Du hast bewiesen,
+        dass du komplexe Produkte nicht nur konzipieren, sondern auch
+        erfolgreich umsetzen kannst. Du weißt, wie man Anforderungen so
+        strukturiert, dass Development-Teams hocheffizient arbeiten können.
+        Strategisches &#x26; Analytisches Mindset: Du kannst komplexe
+        Sachverhalte schnell durchdringen und in klare, priorisierte
+        Handlungsempfehlungen übersetzen. Du bist sicher im Umgang mit modernen
+        Analyse-Tools und leitest daraus strategische Ableitungen ab. Dabei hast
+        du den Markt und Kund:innen stets im Blick und hast fundierte Kenntnisse
+        in Markt- und Datenanalyse. Exzellente Kommunikation &#x26;
+        Moderationsfähigkeit: Du bist stark darin, verschiedene Perspektiven zu
+        synchronisieren und Entscheidungen herbeizuführen. Du trittst sicher
+        auf, kannst Ideen begeisternd vermitteln und verstehst dich als
+        integrativer Leader. Kollaborative Leadership-Mentalität: Du brennst für
+        unsere Mission und schätzt die Arbeit in einem diversen Team. Du
+        kommunizierst fließend auf Deutsch und Englisch und bringst die nötige
+        Resilienz und Flexibilität für ein dynamisches Umfeld mit. Benefits
+        Purpose-Work: Starte jeden Morgen mit dem Wissen, dass Dein Beitrag die
+        Welt sicherer macht. Erfolgsgeschichte mitschreiben: Erhalte Anteile an
+        unserem rasant wachsenden Startup (VSOP) und profitiere direkt vom
+        Firmenerfolg. Du arbeitest nicht nur bei SafeNow – Du BIST SafeNow!
+        Freundschaftliche Kultur: Erlebe eine Leistungskultur, die auf
+        Freundschaft und Zusammenarbeit basiert – bei uns zählt das Miteinander.
+        Wir schaffen einen Raum, in dem Authentizität und Individualität
+        gefeiert werden. Wir glauben fest daran, dass unterschiedliche
+        Perspektiven und Hintergründe zu innovativen Ideen und Lösungen führen.
+        Persönliche Entwicklung: Erlebe eine steile Lernkurve, viel
+        Selbstständigkeit und Verantwortung – Dein Gestaltungsspielraum ist so
+        groß wie Deine Ideen. Transparenz: Erlebe bei uns ein Miteinander, das
+        auf völliger Transparenz basiert. Du erhältst Einblicke in alle Bereiche
+        von SafeNow und profitierst von den Inputs aller Teams. Gemeinsam feiern
+        wir unsere Erfolge und lernen aus unseren Erfahrungen. Einmalige
+        Workations: Erlebe inspirierende Team-Workations – ob in einer
+        gemütlichen Berghütte in Österreich, einer sonnigen Finca auf Mallorca
+        oder einem idyllischen Haus am Chiemsee.Moderne Ausstattung: Genieße
+        unseren modernen Campus mit Foodtrucks, Außenpool, Dachterrasse mit
+        Alpenblick, eGYM Wellpass Mitgliedschaft und einem gemütlichen Büro –
+        inklusive unserem Baum Benjamina und regelmäßigen Afterwork-Events. Wenn
+        Du Lust hast, Teil dieser aufregenden Reise zu sein und die Zukunft der
+        Sicherheit mitzugestalten, dann freuen wir uns riesig darauf, dich
+        kennenzulernen! Zeig uns, wer Du bist, was Dich antreibt und warum Du
+        Lust hast, gemeinsam mit uns, die Welt ein kleines Stückchen besser zu
+        machen. Schau dir in der Zwischenzeit gerne unsere Website an, um das
+        Team und SafeNow kennenzulernen. Find more English Speaking Jobs in
+        Germany on Arbeitnow"
+      job_types:
+        - berufserfahren
+      remote: false
+      score: 78
+      skill_hits: 2
+      bucket_id: pm_product
+      fetched_at: 2026-02-26T18:14:49.011Z
+      pulled_at: 2026-02-26T18:14:49.011Z
+      stale_days: 0
+      is_stale: false
+    - source: arbeitnow
+      source_note: ""
+      company: Nogui
+      title: Product Manager (B2B AI Execution / Workflow Orchestration)
+      location: Berlin
+      url: https://www.arbeitnow.com/jobs/companies/nogui/product-manager-b2b-ai-execution-workflow-orchestration-berlin-440614
+      updated_at: 1772121687
+      description: "Nogui entwickelt ein multimodales AI-Execution-System, das reale
+        Arbeitsabläufe automatisch über bestehende Enterprise-Systeme hinweg
+        ausführt. Unser erster Einstieg ist der Außendienst: Nach Kundenterminen
+        dokumentieren Field Sales Reps per Voice oder Messenger. Nogui
+        interpretiert Intent, plant die nächsten Schritte und führt CRM-, ERP-
+        und Kommunikationsprozesse deterministisch aus. Der Außendienst ist
+        unser Wedge. Was wir bauen, ist eine skalierbare
+        Workflow-Orchestration-Plattform für AI-getriebene Systemausführung. Wir
+        suchen einen Product Manager, der aus realem Nutzerverhalten ein
+        fokussiertes, integriertes Produkt formt und nicht nur Features
+        verwaltet. Aufgaben Durchführung strukturierter User Research mit realen
+        Nutzern Analyse realer Nutzung und Ableitung klarer Problemdefinitionen
+        Priorisierung zwischen Use-Case-Optimierung und Plattform-Architektur
+        Verantwortung für Roadmap und Epics in enger Abstimmung mit Engineering
+        Übersetzung unscharfer Anforderungen in klare User Stories Bewertung und
+        Einordnung von Integrationsanforderungen (CRM, ERP etc.) Vorbereitung
+        fundierter Entscheidungsgrundlagen für Gründer Kein Sales. Kein
+        Deal-Management. Fokus auf Produkt. Qualifikation Mehrjährige Erfahrung
+        im Product Management von B2B-Software Erfahrung mit
+        integrationslastigen oder systemnahen Produkten Fähigkeit, komplexe
+        Probleme in klare Prioritäten zu übersetzen Technisches Grundverständnis
+        (APIs, Backend-Logik, Architektur) Entscheidungsfreude und Komfort mit
+        frühen Produktphasen Nice-to-have: Erfahrung mit KI-nahen oder
+        agentischen Systemen Startup- oder Aufbauphase-Erfahrung Benefits
+        Direkter Einfluss auf ein AI-Produkt im produktiven Einsatz Hohe
+        Eigenverantwortung und kurze Entscheidungswege Enge Zusammenarbeit mit
+        erfahrenen Foundern und Senior Engineers Hybrid in Berlin / Brandenburg
+        Überdurchschnittliche, wettbewerbsfähige Vergütung Langfristige
+        Entwicklungsperspektive in einer skalierenden Plattform Wenn du Freude
+        daran hast, aus unscharfem Nutzerverhalten ein skalierbares System zu
+        formen – und Entscheidungen nicht scheust – dann sollten wir sprechen.
+        Bitte sende uns deinen CV und 3–5 Sätze dazu, welches komplexe
+        Produktproblem du zuletzt strukturiert gelöst hast. Find more English
+        Speaking Jobs in Germany on Arbeitnow"
+      job_types:
+        - berufserfahren
+      remote: false
+      score: 74
+      skill_hits: 1
+      bucket_id: pm_product
+      fetched_at: 2026-02-26T18:14:49.011Z
+      pulled_at: 2026-02-26T18:14:49.011Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: Digistore24
+      title: Senior Growth Product Manager - 100% Remote (m/f/d)
+      location: Standort flexibel, Hannover, Deutschland
+      url: https://jobs.digistore24.com/o/growth-product-manager
+      updated_at: 2026-02-18 11:01:06 UTC
+      description: "This is not a Product Owner role focused on backlog management,
+        delivery coordination, or writing tickets. We are looking for a true
+        experienced Growth Product Manager who owns the why and what, works
+        closely with Engineering and Design on the how, collaborates strongly
+        with stakeholders, and leads through product discovery, strategy, and
+        execution. This is also not a growth marketing role . You will not run
+        campaigns or acquisition channels. Growth in this role is driven
+        primarily through product-led changes to the user experience ,
+        experimentation, and system-level improvements. This role requires
+        strong English skills, as it’s our primary working language. German is a
+        plus, but not required. =&gt; This role requires strong English skills,
+        as it’s our primary working language. German is a strong plus. Who is
+        Digistore24? At Digistore24, we’re building a best-in-class ecommerce
+        platform used by tens of thousands of entrepreneurs and SMEs to sell
+        digital products, courses, memberships, and more. As a Senior Growth
+        Product Manager, your mission is to drive product-led growth across the
+        Digistore24 platform, spanning activation, onboarding, engagement,
+        retention, and monetization. You will own growth problems end to end:
+        understanding user behavior, identifying opportunities, running
+        experiments, shipping improvements, and measuring impact on activation,
+        engagement, retention, and long-term value. Success in this role is
+        defined by measurable improvement in growth metrics, not roadmap output.
+        Your new dream job As a Product Manager at Digistore24, you'll join one
+        of our cross-functional product teams and take ownership of a specific
+        product domain. Your mission is to deeply understand our users, uncover
+        valuable opportunities, and lead your team to deliver meaningful
+        outcomes, all in alignment with the company’s broader product strategy
+        and business goals. Here’s what you’ll do: Own growth outcomes across
+        the user lifecycle Take ownership of one or more core growth metrics
+        across the user lifecycle, such as activation, engagement, retention, or
+        monetization. Identify friction, drop-offs, and unmet user needs using
+        data and user insights. Translate insights into testable growth bets
+        with clear success criteria. Define growth models &amp; loops Build and
+        evolve growth models that connect product inputs to business outcomes.
+        Identify and improve growth loops beyond linear funnels. Make
+        prioritization and tradeoffs explicit, aligning initiatives with company
+        OKRs and strategic goals. Lead experimentation Design and run
+        experiments (A/B tests, prototypes, staged rollouts) with Design and
+        Engineering. Apply sound experimentation practices, including hypothesis
+        definition, success metrics, and basic statistical reasoning. Use
+        learnings to iterate, double down, or stop initiatives decisively. Be
+        hands-on with product analytics Work daily with product analytics to
+        guide decisions and uncover opportunities. Use tools like PostHog
+        (strong plus), Amplitude, Mixpanel, or Pendo to analyze user behavior
+        and experiment results. Turn data into clear insights that inform
+        decisions. Drive end-to-end execution Lead initiatives from problem
+        framing through discovery, delivery, and measurement. Collaborate
+        closely with Engineering and Design on scope, tradeoffs, and sequencing.
+        Ensure learnings are documented and reused. Collaborate across the
+        company Work as a thought partner with stakeholders across Marketing,
+        Support, Analytics, and Leadership. Align teams around shared goals and
+        outcomes. Communicate clearly and proactively. Your benefits at
+        Digistore24 At Digistore24, we believe that great people do their best
+        work when given real autonomy, clarity of purpose, and a supportive
+        environment. Here’s what you can expect when you join us: Work from
+        anywhere, on your schedule : Whether from home or your favorite
+        coworking space (3 days a week): as long as you have a stable internet
+        connection, your work location and hours are flexible (MO-FR).
+        Continuous learning: Access to regular training opportunities and
+        development resources to grow your skills and career. Stable,
+        founder-led business: We’re a profitable German high-tech company,
+        funded by our successful product, not outside investors. Empowered,
+        outcome-focused teams : Join a product culture built on autonomy,
+        ownership, and direct feedback, not micromanagement. Tools that fit your
+        workflow : Choose the hardware that suits you best, whether MacBook Pro
+        or ThinkPad. International, collaborative culture : Work with an
+        international team of thoughtful, driven people Real human connection :
+        Enjoy spectacular in-person team events across Europe to build
+        relationships beyond screens. Ownership from day one : You’ll be trusted
+        to make decisions and drive impact right from the start. No dress code.
+        No egos. Just teams solving problems together."
+      score: 84
+      skill_hits: 3
+      bucket_id: pm_product
       fetched_at: 2026-02-24T18:14:49.759Z
       pulled_at: 2026-02-24T18:14:49.759Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -204,7 +566,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-02-24T18:14:49.759Z
       pulled_at: 2026-02-24T18:14:49.759Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -289,7 +651,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-02-23T18:18:14.915Z
       pulled_at: 2026-02-23T18:18:14.915Z
-      stale_days: 0
+      stale_days: 2
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -406,7 +768,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-02-23T18:18:14.915Z
       pulled_at: 2026-02-23T18:18:14.915Z
-      stale_days: 0
+      stale_days: 2
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -506,7 +868,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-02-23T18:18:14.915Z
       pulled_at: 2026-02-23T18:18:14.915Z
-      stale_days: 0
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -591,410 +953,6 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-02-22T17:55:00.195Z
       pulled_at: 2026-02-22T17:55:00.195Z
-      stale_days: 2
-      is_stale: false
-    - source: greenhouse
-      source_note: ""
-      company: typeform
-      title: Senior Product Manager - Analytics
-      location: "Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal
-        (Remote) ; Spain (Remote) ; United Kingdom (Remote) ; United States
-        (Remote) "
-      url: https://job-boards.greenhouse.io/typeform/jobs/7090089
-      updated_at: 2026-02-18T15:06:18-05:00
-      description: "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;Who we
-        are&lt;/h3&gt; &lt;p&gt;Typeform is a refreshingly different form
-        builder. We help over 150,000 businesses collect the data they need with
-        forms, surveys, and quizzes that people enjoy. Designed to look striking
-        and feel effortless to fill out, Typeform drives 500 million responses
-        every year—and integrates with essential tools like Slack, Zapier, and
-        Hubspot.&lt;/p&gt;&lt;/div&gt;&lt;p data-start=&quot;492&quot;
-        data-end=&quot;1020&quot;&gt;&lt;strong data-start=&quot;492&quot;
-        data-end=&quot;510&quot;&gt;About the Team&lt;/strong&gt;&lt;br
-        data-start=&quot;510&quot; data-end=&quot;513&quot;&gt;We’re looking for
-        a Senior Product Manager to lead the transformation of Typeform’s
-        reporting and analytics experience.
-        &lt;br&gt;&lt;br&gt;&lt;strong&gt;About the
-        Role&lt;/strong&gt;&lt;br&gt;This role sits at the center of Typeform’s
-        strategy to turn data into a true market differentiator, driving
-        long-term revenue growth and customer satisfaction. You’ll own the
-        strategy and execution of AI-first analytics capabilities that deliver
-        clear, actionable insights—helping Typeform move beyond feature-parity
-        competitors with a smarter, faster reporting experience.&lt;/p&gt; &lt;p
-        data-start=&quot;1022&quot; data-end=&quot;1044&quot;&gt;&lt;strong
-        data-start=&quot;1022&quot; data-end=&quot;1042&quot;&gt;Things you’ll
-        do&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li
-        data-start=&quot;1047&quot; data-end=&quot;1198&quot;&gt;Lead the
-        delivery of a best-in-class reporting suite, including a redesigned
-        summary page, filtering, advanced visualisations, and AI-driven
-        insights&lt;/li&gt; &lt;li data-start=&quot;1201&quot;
-        data-end=&quot;1307&quot;&gt;Define and ship the MVP for our next-gen
-        Narrative Intelligence and “AI Copilot for Insights”
-        experience&lt;/li&gt; &lt;li data-start=&quot;1310&quot;
-        data-end=&quot;1415&quot;&gt;Partner with Data Science to land
-        foundational Copilot capabilities that scale to millions of
-        responses&lt;/li&gt; &lt;li data-start=&quot;1418&quot;
-        data-end=&quot;1502&quot;&gt;Set and drive a focused roadmap that
-        combines quick wins with long-term innovation&lt;/li&gt; &lt;li
-        data-start=&quot;1505&quot; data-end=&quot;1605&quot;&gt;Consolidate
-        onboarding learnings, customer insights, and market context to guide
-        product decisions&lt;/li&gt; &lt;li data-start=&quot;1608&quot;
-        data-end=&quot;1709&quot;&gt;Improve key metrics like usage rates,
-        satisfaction scores, and activation across reporting features&lt;/li&gt;
-        &lt;li data-start=&quot;1712&quot; data-end=&quot;1811&quot;&gt;Build
-        strong internal alignment and communicate product value clearly to
-        Sales, CS, and GTM teams&lt;/li&gt; &lt;li data-start=&quot;1814&quot;
-        data-end=&quot;1918&quot;&gt;Ensure commercial success by helping Sales
-        and CS articulate differentiated analytics value to customers&lt;/li&gt;
-        &lt;/ul&gt; &lt;p data-start=&quot;1920&quot;
-        data-end=&quot;1958&quot;&gt;&lt;strong data-start=&quot;1920&quot;
-        data-end=&quot;1956&quot;&gt;What you will bring to the
-        table&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li
-        data-start=&quot;1961&quot; data-end=&quot;2056&quot;&gt;Strong
-        strategic thinking with the ability to balance long-term vision with
-        near-term results&lt;/li&gt; &lt;li data-start=&quot;2059&quot;
-        data-end=&quot;2151&quot;&gt;High ownership mindset with a proactive
-        approach to removing blockers and driving progress&lt;/li&gt; &lt;li
-        data-start=&quot;2154&quot; data-end=&quot;2257&quot;&gt;Proven ability
-        to collaborate cross-functionally with Sales, CS, Data Science, Legal,
-        and Engineering&lt;/li&gt; &lt;li data-start=&quot;2260&quot;
-        data-end=&quot;2379&quot;&gt;Confident communicator with commercial
-        fluency and presence when interacting with leadership and enterprise
-        customers&lt;/li&gt; &lt;li data-start=&quot;2382&quot;
-        data-end=&quot;2476&quot;&gt;Customer-focused mindset with a passion for
-        solving real-world data and reporting challenges&lt;/li&gt; &lt;li
-        data-start=&quot;2479&quot; data-end=&quot;2580&quot;&gt;Deep product
-        knowledge in analytics, data visualisation, and reporting (especially
-        for SaaS or B2B)&lt;/li&gt; &lt;li data-start=&quot;2583&quot;
-        data-end=&quot;2674&quot;&gt;Familiarity with AI/LLM-enabled product
-        development and user-facing intelligence features&lt;/li&gt; &lt;li
-        data-start=&quot;2677&quot; data-end=&quot;2773&quot;&gt;Experience
-        working with large-scale data infrastructure (e.g., Clickhouse, columnar
-        databases)&lt;/li&gt; &lt;li data-start=&quot;2776&quot;
-        data-end=&quot;2862&quot;&gt;High data literacy and the ability to
-        influence roadmap through evidence and insight&lt;/li&gt; &lt;li
-        data-start=&quot;2865&quot; data-end=&quot;2928&quot;&gt;Experience
-        managing complex, multi-threaded product work-streams&lt;/li&gt;
-        &lt;/ul&gt; &lt;p data-start=&quot;2930&quot;
-        data-end=&quot;2949&quot;&gt;&lt;strong data-start=&quot;2930&quot;
-        data-end=&quot;2947&quot;&gt;Extra awesome&lt;/strong&gt;&lt;/p&gt;
-        &lt;ul&gt; &lt;li data-start=&quot;2952&quot;
-        data-end=&quot;3033&quot;&gt;A strong track record building or buying
-        advanced reporting and analytics tools&lt;/li&gt; &lt;li
-        data-start=&quot;3036&quot; data-end=&quot;3119&quot;&gt;Experience in
-        survey tooling or working with flexible, unstructured response
-        data&lt;/li&gt; &lt;li data-start=&quot;3122&quot;
-        data-end=&quot;3189&quot;&gt;Hands-on experience delivering modern
-        AI-powered product features&lt;/li&gt; &lt;/ul&gt;&lt;div
-        class=&quot;content-conclusion&quot;&gt;&lt;p&gt;*Typeform drives
-        hundreds of millions of interactions each year, enabling conversational,
-        human-centered experiences across the globe. We &lt;strong&gt;move as
-        one team&lt;/strong&gt;, empowering our collective efforts by valuing
-        each individual’s unique perspective. This fosters &lt;strong&gt;strong
-        bonds&lt;/strong&gt; grounded in respect, transparency, and trust. We
-        &lt;strong&gt;champion our diverse customer base&lt;/strong&gt; by
-        anticipating their needs and addressing their challenges with priority.
-        Committed to excellence, we&lt;strong&gt; hold high expectations
-        &lt;/strong&gt;for ourselves and each other, continuously striving to
-        deliver exceptional results.&lt;/p&gt; &lt;p&gt;We are proud to be an
-        equal-opportunity employer. We celebrate diversity and stand firmly
-        against discrimination and harassment of any kind—whether based on race,
-        color, ancestry, religion, sex, national origin, sexual orientation,
-        age, citizenship, marital status, disability, gender identity or
-        expression, or veteran status. Everyone is welcome
-        here.&lt;/p&gt;&lt;/div&gt;"
-      score: 78
-      skill_hits: 2
-      bucket_id: pm_product
-      fetched_at: 2026-02-22T17:55:00.195Z
-      pulled_at: 2026-02-22T17:55:00.195Z
-      stale_days: 2
-      is_stale: false
-    - source: recruitee
-      source_note: ""
-      company: Digistore24
-      title: Senior Growth Product Manager - 100% Remote (m/f/d)
-      location: Standort flexibel, Hannover, Deutschland
-      url: https://jobs.digistore24.com/o/growth-product-manager
-      updated_at: 2026-02-18 11:01:06 UTC
-      description: "This is not a Product Owner role focused on backlog management,
-        delivery coordination, or writing tickets. We are looking for a true
-        experienced Growth Product Manager who owns the why and what, works
-        closely with Engineering and Design on the how, collaborates strongly
-        with stakeholders, and leads through product discovery, strategy, and
-        execution. This is also not a growth marketing role . You will not run
-        campaigns or acquisition channels. Growth in this role is driven
-        primarily through product-led changes to the user experience ,
-        experimentation, and system-level improvements. This role requires
-        strong English skills, as it’s our primary working language. German is a
-        plus, but not required. =&gt; This role requires strong English skills,
-        as it’s our primary working language. German is a strong plus. Who is
-        Digistore24? At Digistore24, we’re building a best-in-class ecommerce
-        platform used by tens of thousands of entrepreneurs and SMEs to sell
-        digital products, courses, memberships, and more. As a Senior Growth
-        Product Manager, your mission is to drive product-led growth across the
-        Digistore24 platform, spanning activation, onboarding, engagement,
-        retention, and monetization. You will own growth problems end to end:
-        understanding user behavior, identifying opportunities, running
-        experiments, shipping improvements, and measuring impact on activation,
-        engagement, retention, and long-term value. Success in this role is
-        defined by measurable improvement in growth metrics, not roadmap output.
-        Your new dream job As a Product Manager at Digistore24, you'll join one
-        of our cross-functional product teams and take ownership of a specific
-        product domain. Your mission is to deeply understand our users, uncover
-        valuable opportunities, and lead your team to deliver meaningful
-        outcomes, all in alignment with the company’s broader product strategy
-        and business goals. Here’s what you’ll do: Own growth outcomes across
-        the user lifecycle Take ownership of one or more core growth metrics
-        across the user lifecycle, such as activation, engagement, retention, or
-        monetization. Identify friction, drop-offs, and unmet user needs using
-        data and user insights. Translate insights into testable growth bets
-        with clear success criteria. Define growth models &amp; loops Build and
-        evolve growth models that connect product inputs to business outcomes.
-        Identify and improve growth loops beyond linear funnels. Make
-        prioritization and tradeoffs explicit, aligning initiatives with company
-        OKRs and strategic goals. Lead experimentation Design and run
-        experiments (A/B tests, prototypes, staged rollouts) with Design and
-        Engineering. Apply sound experimentation practices, including hypothesis
-        definition, success metrics, and basic statistical reasoning. Use
-        learnings to iterate, double down, or stop initiatives decisively. Be
-        hands-on with product analytics Work daily with product analytics to
-        guide decisions and uncover opportunities. Use tools like PostHog
-        (strong plus), Amplitude, Mixpanel, or Pendo to analyze user behavior
-        and experiment results. Turn data into clear insights that inform
-        decisions. Drive end-to-end execution Lead initiatives from problem
-        framing through discovery, delivery, and measurement. Collaborate
-        closely with Engineering and Design on scope, tradeoffs, and sequencing.
-        Ensure learnings are documented and reused. Collaborate across the
-        company Work as a thought partner with stakeholders across Marketing,
-        Support, Analytics, and Leadership. Align teams around shared goals and
-        outcomes. Communicate clearly and proactively. Your benefits at
-        Digistore24 At Digistore24, we believe that great people do their best
-        work when given real autonomy, clarity of purpose, and a supportive
-        environment. Here’s what you can expect when you join us: Work from
-        anywhere, on your schedule : Whether from home or your favorite
-        coworking space (3 days a week): as long as you have a stable internet
-        connection, your work location and hours are flexible (MO-FR).
-        Continuous learning: Access to regular training opportunities and
-        development resources to grow your skills and career. Stable,
-        founder-led business: We’re a profitable German high-tech company,
-        funded by our successful product, not outside investors. Empowered,
-        outcome-focused teams : Join a product culture built on autonomy,
-        ownership, and direct feedback, not micromanagement. Tools that fit your
-        workflow : Choose the hardware that suits you best, whether MacBook Pro
-        or ThinkPad. International, collaborative culture : Work with an
-        international team of thoughtful, driven people Real human connection :
-        Enjoy spectacular in-person team events across Europe to build
-        relationships beyond screens. Ownership from day one : You’ll be trusted
-        to make decisions and drive impact right from the start. No dress code.
-        No egos. Just teams solving problems together."
-      score: 84
-      skill_hits: 3
-      bucket_id: pm_product
-      fetched_at: 2026-02-21T17:53:53.199Z
-      pulled_at: 2026-02-21T17:53:53.199Z
-      stale_days: 3
-      is_stale: false
-    - source: greenhouse
-      source_note: ""
-      company: typeform
-      title: Senior Product Manager - Analytics
-      location: "Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal
-        (Remote) ; Spain (Remote) ; United Kingdom (Remote) ; United States
-        (Remote) "
-      url: https://job-boards.greenhouse.io/typeform/jobs/7090089
-      updated_at: 2026-02-18T15:06:18-05:00
-      description: "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;Who we
-        are&lt;/h3&gt; &lt;p&gt;Typeform is a refreshingly different form
-        builder. We help over 150,000 businesses collect the data they need with
-        forms, surveys, and quizzes that people enjoy. Designed to look striking
-        and feel effortless to fill out, Typeform drives 500 million responses
-        every year—and integrates with essential tools like Slack, Zapier, and
-        Hubspot.&lt;/p&gt;&lt;/div&gt;&lt;p data-start=&quot;492&quot;
-        data-end=&quot;1020&quot;&gt;&lt;strong data-start=&quot;492&quot;
-        data-end=&quot;510&quot;&gt;About the Team&lt;/strong&gt;&lt;br
-        data-start=&quot;510&quot; data-end=&quot;513&quot;&gt;We’re looking for
-        a Senior Product Manager to lead the transformation of Typeform’s
-        reporting and analytics experience.
-        &lt;br&gt;&lt;br&gt;&lt;strong&gt;About the
-        Role&lt;/strong&gt;&lt;br&gt;This role sits at the center of Typeform’s
-        strategy to turn data into a true market differentiator, driving
-        long-term revenue growth and customer satisfaction. You’ll own the
-        strategy and execution of AI-first analytics capabilities that deliver
-        clear, actionable insights—helping Typeform move beyond feature-parity
-        competitors with a smarter, faster reporting experience.&lt;/p&gt; &lt;p
-        data-start=&quot;1022&quot; data-end=&quot;1044&quot;&gt;&lt;strong
-        data-start=&quot;1022&quot; data-end=&quot;1042&quot;&gt;Things you’ll
-        do&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li
-        data-start=&quot;1047&quot; data-end=&quot;1198&quot;&gt;Lead the
-        delivery of a best-in-class reporting suite, including a redesigned
-        summary page, filtering, advanced visualisations, and AI-driven
-        insights&lt;/li&gt; &lt;li data-start=&quot;1201&quot;
-        data-end=&quot;1307&quot;&gt;Define and ship the MVP for our next-gen
-        Narrative Intelligence and “AI Copilot for Insights”
-        experience&lt;/li&gt; &lt;li data-start=&quot;1310&quot;
-        data-end=&quot;1415&quot;&gt;Partner with Data Science to land
-        foundational Copilot capabilities that scale to millions of
-        responses&lt;/li&gt; &lt;li data-start=&quot;1418&quot;
-        data-end=&quot;1502&quot;&gt;Set and drive a focused roadmap that
-        combines quick wins with long-term innovation&lt;/li&gt; &lt;li
-        data-start=&quot;1505&quot; data-end=&quot;1605&quot;&gt;Consolidate
-        onboarding learnings, customer insights, and market context to guide
-        product decisions&lt;/li&gt; &lt;li data-start=&quot;1608&quot;
-        data-end=&quot;1709&quot;&gt;Improve key metrics like usage rates,
-        satisfaction scores, and activation across reporting features&lt;/li&gt;
-        &lt;li data-start=&quot;1712&quot; data-end=&quot;1811&quot;&gt;Build
-        strong internal alignment and communicate product value clearly to
-        Sales, CS, and GTM teams&lt;/li&gt; &lt;li data-start=&quot;1814&quot;
-        data-end=&quot;1918&quot;&gt;Ensure commercial success by helping Sales
-        and CS articulate differentiated analytics value to customers&lt;/li&gt;
-        &lt;/ul&gt; &lt;p data-start=&quot;1920&quot;
-        data-end=&quot;1958&quot;&gt;&lt;strong data-start=&quot;1920&quot;
-        data-end=&quot;1956&quot;&gt;What you will bring to the
-        table&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li
-        data-start=&quot;1961&quot; data-end=&quot;2056&quot;&gt;Strong
-        strategic thinking with the ability to balance long-term vision with
-        near-term results&lt;/li&gt; &lt;li data-start=&quot;2059&quot;
-        data-end=&quot;2151&quot;&gt;High ownership mindset with a proactive
-        approach to removing blockers and driving progress&lt;/li&gt; &lt;li
-        data-start=&quot;2154&quot; data-end=&quot;2257&quot;&gt;Proven ability
-        to collaborate cross-functionally with Sales, CS, Data Science, Legal,
-        and Engineering&lt;/li&gt; &lt;li data-start=&quot;2260&quot;
-        data-end=&quot;2379&quot;&gt;Confident communicator with commercial
-        fluency and presence when interacting with leadership and enterprise
-        customers&lt;/li&gt; &lt;li data-start=&quot;2382&quot;
-        data-end=&quot;2476&quot;&gt;Customer-focused mindset with a passion for
-        solving real-world data and reporting challenges&lt;/li&gt; &lt;li
-        data-start=&quot;2479&quot; data-end=&quot;2580&quot;&gt;Deep product
-        knowledge in analytics, data visualisation, and reporting (especially
-        for SaaS or B2B)&lt;/li&gt; &lt;li data-start=&quot;2583&quot;
-        data-end=&quot;2674&quot;&gt;Familiarity with AI/LLM-enabled product
-        development and user-facing intelligence features&lt;/li&gt; &lt;li
-        data-start=&quot;2677&quot; data-end=&quot;2773&quot;&gt;Experience
-        working with large-scale data infrastructure (e.g., Clickhouse, columnar
-        databases)&lt;/li&gt; &lt;li data-start=&quot;2776&quot;
-        data-end=&quot;2862&quot;&gt;High data literacy and the ability to
-        influence roadmap through evidence and insight&lt;/li&gt; &lt;li
-        data-start=&quot;2865&quot; data-end=&quot;2928&quot;&gt;Experience
-        managing complex, multi-threaded product work-streams&lt;/li&gt;
-        &lt;/ul&gt; &lt;p data-start=&quot;2930&quot;
-        data-end=&quot;2949&quot;&gt;&lt;strong data-start=&quot;2930&quot;
-        data-end=&quot;2947&quot;&gt;Extra awesome&lt;/strong&gt;&lt;/p&gt;
-        &lt;ul&gt; &lt;li data-start=&quot;2952&quot;
-        data-end=&quot;3033&quot;&gt;A strong track record building or buying
-        advanced reporting and analytics tools&lt;/li&gt; &lt;li
-        data-start=&quot;3036&quot; data-end=&quot;3119&quot;&gt;Experience in
-        survey tooling or working with flexible, unstructured response
-        data&lt;/li&gt; &lt;li data-start=&quot;3122&quot;
-        data-end=&quot;3189&quot;&gt;Hands-on experience delivering modern
-        AI-powered product features&lt;/li&gt; &lt;/ul&gt;&lt;div
-        class=&quot;content-conclusion&quot;&gt;&lt;p&gt;*Typeform drives
-        hundreds of millions of interactions each year, enabling conversational,
-        human-centered experiences across the globe. We &lt;strong&gt;move as
-        one team&lt;/strong&gt;, empowering our collective efforts by valuing
-        each individual’s unique perspective. This fosters &lt;strong&gt;strong
-        bonds&lt;/strong&gt; grounded in respect, transparency, and trust. We
-        &lt;strong&gt;champion our diverse customer base&lt;/strong&gt; by
-        anticipating their needs and addressing their challenges with priority.
-        Committed to excellence, we&lt;strong&gt; hold high expectations
-        &lt;/strong&gt;for ourselves and each other, continuously striving to
-        deliver exceptional results.&lt;/p&gt; &lt;p&gt;We are proud to be an
-        equal-opportunity employer. We celebrate diversity and stand firmly
-        against discrimination and harassment of any kind—whether based on race,
-        color, ancestry, religion, sex, national origin, sexual orientation,
-        age, citizenship, marital status, disability, gender identity or
-        expression, or veteran status. Everyone is welcome
-        here.&lt;/p&gt;&lt;/div&gt;"
-      score: 78
-      skill_hits: 2
-      bucket_id: pm_product
-      fetched_at: 2026-02-21T17:53:53.199Z
-      pulled_at: 2026-02-21T17:53:53.199Z
-      stale_days: 3
-      is_stale: false
-    - source: recruitee
-      source_note: ""
-      company: Digistore24
-      title: Senior Growth Product Manager - 100% Remote (m/f/d)
-      location: Standort flexibel, Hannover, Deutschland
-      url: https://jobs.digistore24.com/o/growth-product-manager
-      updated_at: 2026-02-18 11:01:06 UTC
-      description: "This is not a Product Owner role focused on backlog management,
-        delivery coordination, or writing tickets. We are looking for a true
-        experienced Growth Product Manager who owns the why and what, works
-        closely with Engineering and Design on the how, collaborates strongly
-        with stakeholders, and leads through product discovery, strategy, and
-        execution. This is also not a growth marketing role . You will not run
-        campaigns or acquisition channels. Growth in this role is driven
-        primarily through product-led changes to the user experience ,
-        experimentation, and system-level improvements. This role requires
-        strong English skills, as it’s our primary working language. German is a
-        plus, but not required. =&gt; This role requires strong English skills,
-        as it’s our primary working language. German is a strong plus. Who is
-        Digistore24? At Digistore24, we’re building a best-in-class ecommerce
-        platform used by tens of thousands of entrepreneurs and SMEs to sell
-        digital products, courses, memberships, and more. As a Senior Growth
-        Product Manager, your mission is to drive product-led growth across the
-        Digistore24 platform, spanning activation, onboarding, engagement,
-        retention, and monetization. You will own growth problems end to end:
-        understanding user behavior, identifying opportunities, running
-        experiments, shipping improvements, and measuring impact on activation,
-        engagement, retention, and long-term value. Success in this role is
-        defined by measurable improvement in growth metrics, not roadmap output.
-        Your new dream job As a Product Manager at Digistore24, you'll join one
-        of our cross-functional product teams and take ownership of a specific
-        product domain. Your mission is to deeply understand our users, uncover
-        valuable opportunities, and lead your team to deliver meaningful
-        outcomes, all in alignment with the company’s broader product strategy
-        and business goals. Here’s what you’ll do: Own growth outcomes across
-        the user lifecycle Take ownership of one or more core growth metrics
-        across the user lifecycle, such as activation, engagement, retention, or
-        monetization. Identify friction, drop-offs, and unmet user needs using
-        data and user insights. Translate insights into testable growth bets
-        with clear success criteria. Define growth models &amp; loops Build and
-        evolve growth models that connect product inputs to business outcomes.
-        Identify and improve growth loops beyond linear funnels. Make
-        prioritization and tradeoffs explicit, aligning initiatives with company
-        OKRs and strategic goals. Lead experimentation Design and run
-        experiments (A/B tests, prototypes, staged rollouts) with Design and
-        Engineering. Apply sound experimentation practices, including hypothesis
-        definition, success metrics, and basic statistical reasoning. Use
-        learnings to iterate, double down, or stop initiatives decisively. Be
-        hands-on with product analytics Work daily with product analytics to
-        guide decisions and uncover opportunities. Use tools like PostHog
-        (strong plus), Amplitude, Mixpanel, or Pendo to analyze user behavior
-        and experiment results. Turn data into clear insights that inform
-        decisions. Drive end-to-end execution Lead initiatives from problem
-        framing through discovery, delivery, and measurement. Collaborate
-        closely with Engineering and Design on scope, tradeoffs, and sequencing.
-        Ensure learnings are documented and reused. Collaborate across the
-        company Work as a thought partner with stakeholders across Marketing,
-        Support, Analytics, and Leadership. Align teams around shared goals and
-        outcomes. Communicate clearly and proactively. Your benefits at
-        Digistore24 At Digistore24, we believe that great people do their best
-        work when given real autonomy, clarity of purpose, and a supportive
-        environment. Here’s what you can expect when you join us: Work from
-        anywhere, on your schedule : Whether from home or your favorite
-        coworking space (3 days a week): as long as you have a stable internet
-        connection, your work location and hours are flexible (MO-FR).
-        Continuous learning: Access to regular training opportunities and
-        development resources to grow your skills and career. Stable,
-        founder-led business: We’re a profitable German high-tech company,
-        funded by our successful product, not outside investors. Empowered,
-        outcome-focused teams : Join a product culture built on autonomy,
-        ownership, and direct feedback, not micromanagement. Tools that fit your
-        workflow : Choose the hardware that suits you best, whether MacBook Pro
-        or ThinkPad. International, collaborative culture : Work with an
-        international team of thoughtful, driven people Real human connection :
-        Enjoy spectacular in-person team events across Europe to build
-        relationships beyond screens. Ownership from day one : You’ll be trusted
-        to make decisions and drive impact right from the start. No dress code.
-        No egos. Just teams solving problems together."
-      score: 84
-      skill_hits: 3
-      bucket_id: pm_product
-      fetched_at: 2026-02-20T18:00:25.607Z
-      pulled_at: 2026-02-20T18:00:25.607Z
       stale_days: 4
       is_stale: false
     - source: greenhouse
@@ -1110,9 +1068,413 @@ buckets:
       score: 78
       skill_hits: 2
       bucket_id: pm_product
+      fetched_at: 2026-02-22T17:55:00.195Z
+      pulled_at: 2026-02-22T17:55:00.195Z
+      stale_days: 4
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: Digistore24
+      title: Senior Growth Product Manager - 100% Remote (m/f/d)
+      location: Standort flexibel, Hannover, Deutschland
+      url: https://jobs.digistore24.com/o/growth-product-manager
+      updated_at: 2026-02-18 11:01:06 UTC
+      description: "This is not a Product Owner role focused on backlog management,
+        delivery coordination, or writing tickets. We are looking for a true
+        experienced Growth Product Manager who owns the why and what, works
+        closely with Engineering and Design on the how, collaborates strongly
+        with stakeholders, and leads through product discovery, strategy, and
+        execution. This is also not a growth marketing role . You will not run
+        campaigns or acquisition channels. Growth in this role is driven
+        primarily through product-led changes to the user experience ,
+        experimentation, and system-level improvements. This role requires
+        strong English skills, as it’s our primary working language. German is a
+        plus, but not required. =&gt; This role requires strong English skills,
+        as it’s our primary working language. German is a strong plus. Who is
+        Digistore24? At Digistore24, we’re building a best-in-class ecommerce
+        platform used by tens of thousands of entrepreneurs and SMEs to sell
+        digital products, courses, memberships, and more. As a Senior Growth
+        Product Manager, your mission is to drive product-led growth across the
+        Digistore24 platform, spanning activation, onboarding, engagement,
+        retention, and monetization. You will own growth problems end to end:
+        understanding user behavior, identifying opportunities, running
+        experiments, shipping improvements, and measuring impact on activation,
+        engagement, retention, and long-term value. Success in this role is
+        defined by measurable improvement in growth metrics, not roadmap output.
+        Your new dream job As a Product Manager at Digistore24, you'll join one
+        of our cross-functional product teams and take ownership of a specific
+        product domain. Your mission is to deeply understand our users, uncover
+        valuable opportunities, and lead your team to deliver meaningful
+        outcomes, all in alignment with the company’s broader product strategy
+        and business goals. Here’s what you’ll do: Own growth outcomes across
+        the user lifecycle Take ownership of one or more core growth metrics
+        across the user lifecycle, such as activation, engagement, retention, or
+        monetization. Identify friction, drop-offs, and unmet user needs using
+        data and user insights. Translate insights into testable growth bets
+        with clear success criteria. Define growth models &amp; loops Build and
+        evolve growth models that connect product inputs to business outcomes.
+        Identify and improve growth loops beyond linear funnels. Make
+        prioritization and tradeoffs explicit, aligning initiatives with company
+        OKRs and strategic goals. Lead experimentation Design and run
+        experiments (A/B tests, prototypes, staged rollouts) with Design and
+        Engineering. Apply sound experimentation practices, including hypothesis
+        definition, success metrics, and basic statistical reasoning. Use
+        learnings to iterate, double down, or stop initiatives decisively. Be
+        hands-on with product analytics Work daily with product analytics to
+        guide decisions and uncover opportunities. Use tools like PostHog
+        (strong plus), Amplitude, Mixpanel, or Pendo to analyze user behavior
+        and experiment results. Turn data into clear insights that inform
+        decisions. Drive end-to-end execution Lead initiatives from problem
+        framing through discovery, delivery, and measurement. Collaborate
+        closely with Engineering and Design on scope, tradeoffs, and sequencing.
+        Ensure learnings are documented and reused. Collaborate across the
+        company Work as a thought partner with stakeholders across Marketing,
+        Support, Analytics, and Leadership. Align teams around shared goals and
+        outcomes. Communicate clearly and proactively. Your benefits at
+        Digistore24 At Digistore24, we believe that great people do their best
+        work when given real autonomy, clarity of purpose, and a supportive
+        environment. Here’s what you can expect when you join us: Work from
+        anywhere, on your schedule : Whether from home or your favorite
+        coworking space (3 days a week): as long as you have a stable internet
+        connection, your work location and hours are flexible (MO-FR).
+        Continuous learning: Access to regular training opportunities and
+        development resources to grow your skills and career. Stable,
+        founder-led business: We’re a profitable German high-tech company,
+        funded by our successful product, not outside investors. Empowered,
+        outcome-focused teams : Join a product culture built on autonomy,
+        ownership, and direct feedback, not micromanagement. Tools that fit your
+        workflow : Choose the hardware that suits you best, whether MacBook Pro
+        or ThinkPad. International, collaborative culture : Work with an
+        international team of thoughtful, driven people Real human connection :
+        Enjoy spectacular in-person team events across Europe to build
+        relationships beyond screens. Ownership from day one : You’ll be trusted
+        to make decisions and drive impact right from the start. No dress code.
+        No egos. Just teams solving problems together."
+      score: 84
+      skill_hits: 3
+      bucket_id: pm_product
+      fetched_at: 2026-02-21T17:53:53.199Z
+      pulled_at: 2026-02-21T17:53:53.199Z
+      stale_days: 5
+      is_stale: false
+    - source: greenhouse
+      source_note: ""
+      company: typeform
+      title: Senior Product Manager - Analytics
+      location: "Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal
+        (Remote) ; Spain (Remote) ; United Kingdom (Remote) ; United States
+        (Remote) "
+      url: https://job-boards.greenhouse.io/typeform/jobs/7090089
+      updated_at: 2026-02-18T15:06:18-05:00
+      description: "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;Who we
+        are&lt;/h3&gt; &lt;p&gt;Typeform is a refreshingly different form
+        builder. We help over 150,000 businesses collect the data they need with
+        forms, surveys, and quizzes that people enjoy. Designed to look striking
+        and feel effortless to fill out, Typeform drives 500 million responses
+        every year—and integrates with essential tools like Slack, Zapier, and
+        Hubspot.&lt;/p&gt;&lt;/div&gt;&lt;p data-start=&quot;492&quot;
+        data-end=&quot;1020&quot;&gt;&lt;strong data-start=&quot;492&quot;
+        data-end=&quot;510&quot;&gt;About the Team&lt;/strong&gt;&lt;br
+        data-start=&quot;510&quot; data-end=&quot;513&quot;&gt;We’re looking for
+        a Senior Product Manager to lead the transformation of Typeform’s
+        reporting and analytics experience.
+        &lt;br&gt;&lt;br&gt;&lt;strong&gt;About the
+        Role&lt;/strong&gt;&lt;br&gt;This role sits at the center of Typeform’s
+        strategy to turn data into a true market differentiator, driving
+        long-term revenue growth and customer satisfaction. You’ll own the
+        strategy and execution of AI-first analytics capabilities that deliver
+        clear, actionable insights—helping Typeform move beyond feature-parity
+        competitors with a smarter, faster reporting experience.&lt;/p&gt; &lt;p
+        data-start=&quot;1022&quot; data-end=&quot;1044&quot;&gt;&lt;strong
+        data-start=&quot;1022&quot; data-end=&quot;1042&quot;&gt;Things you’ll
+        do&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li
+        data-start=&quot;1047&quot; data-end=&quot;1198&quot;&gt;Lead the
+        delivery of a best-in-class reporting suite, including a redesigned
+        summary page, filtering, advanced visualisations, and AI-driven
+        insights&lt;/li&gt; &lt;li data-start=&quot;1201&quot;
+        data-end=&quot;1307&quot;&gt;Define and ship the MVP for our next-gen
+        Narrative Intelligence and “AI Copilot for Insights”
+        experience&lt;/li&gt; &lt;li data-start=&quot;1310&quot;
+        data-end=&quot;1415&quot;&gt;Partner with Data Science to land
+        foundational Copilot capabilities that scale to millions of
+        responses&lt;/li&gt; &lt;li data-start=&quot;1418&quot;
+        data-end=&quot;1502&quot;&gt;Set and drive a focused roadmap that
+        combines quick wins with long-term innovation&lt;/li&gt; &lt;li
+        data-start=&quot;1505&quot; data-end=&quot;1605&quot;&gt;Consolidate
+        onboarding learnings, customer insights, and market context to guide
+        product decisions&lt;/li&gt; &lt;li data-start=&quot;1608&quot;
+        data-end=&quot;1709&quot;&gt;Improve key metrics like usage rates,
+        satisfaction scores, and activation across reporting features&lt;/li&gt;
+        &lt;li data-start=&quot;1712&quot; data-end=&quot;1811&quot;&gt;Build
+        strong internal alignment and communicate product value clearly to
+        Sales, CS, and GTM teams&lt;/li&gt; &lt;li data-start=&quot;1814&quot;
+        data-end=&quot;1918&quot;&gt;Ensure commercial success by helping Sales
+        and CS articulate differentiated analytics value to customers&lt;/li&gt;
+        &lt;/ul&gt; &lt;p data-start=&quot;1920&quot;
+        data-end=&quot;1958&quot;&gt;&lt;strong data-start=&quot;1920&quot;
+        data-end=&quot;1956&quot;&gt;What you will bring to the
+        table&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li
+        data-start=&quot;1961&quot; data-end=&quot;2056&quot;&gt;Strong
+        strategic thinking with the ability to balance long-term vision with
+        near-term results&lt;/li&gt; &lt;li data-start=&quot;2059&quot;
+        data-end=&quot;2151&quot;&gt;High ownership mindset with a proactive
+        approach to removing blockers and driving progress&lt;/li&gt; &lt;li
+        data-start=&quot;2154&quot; data-end=&quot;2257&quot;&gt;Proven ability
+        to collaborate cross-functionally with Sales, CS, Data Science, Legal,
+        and Engineering&lt;/li&gt; &lt;li data-start=&quot;2260&quot;
+        data-end=&quot;2379&quot;&gt;Confident communicator with commercial
+        fluency and presence when interacting with leadership and enterprise
+        customers&lt;/li&gt; &lt;li data-start=&quot;2382&quot;
+        data-end=&quot;2476&quot;&gt;Customer-focused mindset with a passion for
+        solving real-world data and reporting challenges&lt;/li&gt; &lt;li
+        data-start=&quot;2479&quot; data-end=&quot;2580&quot;&gt;Deep product
+        knowledge in analytics, data visualisation, and reporting (especially
+        for SaaS or B2B)&lt;/li&gt; &lt;li data-start=&quot;2583&quot;
+        data-end=&quot;2674&quot;&gt;Familiarity with AI/LLM-enabled product
+        development and user-facing intelligence features&lt;/li&gt; &lt;li
+        data-start=&quot;2677&quot; data-end=&quot;2773&quot;&gt;Experience
+        working with large-scale data infrastructure (e.g., Clickhouse, columnar
+        databases)&lt;/li&gt; &lt;li data-start=&quot;2776&quot;
+        data-end=&quot;2862&quot;&gt;High data literacy and the ability to
+        influence roadmap through evidence and insight&lt;/li&gt; &lt;li
+        data-start=&quot;2865&quot; data-end=&quot;2928&quot;&gt;Experience
+        managing complex, multi-threaded product work-streams&lt;/li&gt;
+        &lt;/ul&gt; &lt;p data-start=&quot;2930&quot;
+        data-end=&quot;2949&quot;&gt;&lt;strong data-start=&quot;2930&quot;
+        data-end=&quot;2947&quot;&gt;Extra awesome&lt;/strong&gt;&lt;/p&gt;
+        &lt;ul&gt; &lt;li data-start=&quot;2952&quot;
+        data-end=&quot;3033&quot;&gt;A strong track record building or buying
+        advanced reporting and analytics tools&lt;/li&gt; &lt;li
+        data-start=&quot;3036&quot; data-end=&quot;3119&quot;&gt;Experience in
+        survey tooling or working with flexible, unstructured response
+        data&lt;/li&gt; &lt;li data-start=&quot;3122&quot;
+        data-end=&quot;3189&quot;&gt;Hands-on experience delivering modern
+        AI-powered product features&lt;/li&gt; &lt;/ul&gt;&lt;div
+        class=&quot;content-conclusion&quot;&gt;&lt;p&gt;*Typeform drives
+        hundreds of millions of interactions each year, enabling conversational,
+        human-centered experiences across the globe. We &lt;strong&gt;move as
+        one team&lt;/strong&gt;, empowering our collective efforts by valuing
+        each individual’s unique perspective. This fosters &lt;strong&gt;strong
+        bonds&lt;/strong&gt; grounded in respect, transparency, and trust. We
+        &lt;strong&gt;champion our diverse customer base&lt;/strong&gt; by
+        anticipating their needs and addressing their challenges with priority.
+        Committed to excellence, we&lt;strong&gt; hold high expectations
+        &lt;/strong&gt;for ourselves and each other, continuously striving to
+        deliver exceptional results.&lt;/p&gt; &lt;p&gt;We are proud to be an
+        equal-opportunity employer. We celebrate diversity and stand firmly
+        against discrimination and harassment of any kind—whether based on race,
+        color, ancestry, religion, sex, national origin, sexual orientation,
+        age, citizenship, marital status, disability, gender identity or
+        expression, or veteran status. Everyone is welcome
+        here.&lt;/p&gt;&lt;/div&gt;"
+      score: 78
+      skill_hits: 2
+      bucket_id: pm_product
+      fetched_at: 2026-02-21T17:53:53.199Z
+      pulled_at: 2026-02-21T17:53:53.199Z
+      stale_days: 5
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: Digistore24
+      title: Senior Growth Product Manager - 100% Remote (m/f/d)
+      location: Standort flexibel, Hannover, Deutschland
+      url: https://jobs.digistore24.com/o/growth-product-manager
+      updated_at: 2026-02-18 11:01:06 UTC
+      description: "This is not a Product Owner role focused on backlog management,
+        delivery coordination, or writing tickets. We are looking for a true
+        experienced Growth Product Manager who owns the why and what, works
+        closely with Engineering and Design on the how, collaborates strongly
+        with stakeholders, and leads through product discovery, strategy, and
+        execution. This is also not a growth marketing role . You will not run
+        campaigns or acquisition channels. Growth in this role is driven
+        primarily through product-led changes to the user experience ,
+        experimentation, and system-level improvements. This role requires
+        strong English skills, as it’s our primary working language. German is a
+        plus, but not required. =&gt; This role requires strong English skills,
+        as it’s our primary working language. German is a strong plus. Who is
+        Digistore24? At Digistore24, we’re building a best-in-class ecommerce
+        platform used by tens of thousands of entrepreneurs and SMEs to sell
+        digital products, courses, memberships, and more. As a Senior Growth
+        Product Manager, your mission is to drive product-led growth across the
+        Digistore24 platform, spanning activation, onboarding, engagement,
+        retention, and monetization. You will own growth problems end to end:
+        understanding user behavior, identifying opportunities, running
+        experiments, shipping improvements, and measuring impact on activation,
+        engagement, retention, and long-term value. Success in this role is
+        defined by measurable improvement in growth metrics, not roadmap output.
+        Your new dream job As a Product Manager at Digistore24, you'll join one
+        of our cross-functional product teams and take ownership of a specific
+        product domain. Your mission is to deeply understand our users, uncover
+        valuable opportunities, and lead your team to deliver meaningful
+        outcomes, all in alignment with the company’s broader product strategy
+        and business goals. Here’s what you’ll do: Own growth outcomes across
+        the user lifecycle Take ownership of one or more core growth metrics
+        across the user lifecycle, such as activation, engagement, retention, or
+        monetization. Identify friction, drop-offs, and unmet user needs using
+        data and user insights. Translate insights into testable growth bets
+        with clear success criteria. Define growth models &amp; loops Build and
+        evolve growth models that connect product inputs to business outcomes.
+        Identify and improve growth loops beyond linear funnels. Make
+        prioritization and tradeoffs explicit, aligning initiatives with company
+        OKRs and strategic goals. Lead experimentation Design and run
+        experiments (A/B tests, prototypes, staged rollouts) with Design and
+        Engineering. Apply sound experimentation practices, including hypothesis
+        definition, success metrics, and basic statistical reasoning. Use
+        learnings to iterate, double down, or stop initiatives decisively. Be
+        hands-on with product analytics Work daily with product analytics to
+        guide decisions and uncover opportunities. Use tools like PostHog
+        (strong plus), Amplitude, Mixpanel, or Pendo to analyze user behavior
+        and experiment results. Turn data into clear insights that inform
+        decisions. Drive end-to-end execution Lead initiatives from problem
+        framing through discovery, delivery, and measurement. Collaborate
+        closely with Engineering and Design on scope, tradeoffs, and sequencing.
+        Ensure learnings are documented and reused. Collaborate across the
+        company Work as a thought partner with stakeholders across Marketing,
+        Support, Analytics, and Leadership. Align teams around shared goals and
+        outcomes. Communicate clearly and proactively. Your benefits at
+        Digistore24 At Digistore24, we believe that great people do their best
+        work when given real autonomy, clarity of purpose, and a supportive
+        environment. Here’s what you can expect when you join us: Work from
+        anywhere, on your schedule : Whether from home or your favorite
+        coworking space (3 days a week): as long as you have a stable internet
+        connection, your work location and hours are flexible (MO-FR).
+        Continuous learning: Access to regular training opportunities and
+        development resources to grow your skills and career. Stable,
+        founder-led business: We’re a profitable German high-tech company,
+        funded by our successful product, not outside investors. Empowered,
+        outcome-focused teams : Join a product culture built on autonomy,
+        ownership, and direct feedback, not micromanagement. Tools that fit your
+        workflow : Choose the hardware that suits you best, whether MacBook Pro
+        or ThinkPad. International, collaborative culture : Work with an
+        international team of thoughtful, driven people Real human connection :
+        Enjoy spectacular in-person team events across Europe to build
+        relationships beyond screens. Ownership from day one : You’ll be trusted
+        to make decisions and drive impact right from the start. No dress code.
+        No egos. Just teams solving problems together."
+      score: 84
+      skill_hits: 3
+      bucket_id: pm_product
       fetched_at: 2026-02-20T18:00:25.607Z
       pulled_at: 2026-02-20T18:00:25.607Z
-      stale_days: 4
+      stale_days: 6
+      is_stale: false
+    - source: greenhouse
+      source_note: ""
+      company: typeform
+      title: Senior Product Manager - Analytics
+      location: "Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal
+        (Remote) ; Spain (Remote) ; United Kingdom (Remote) ; United States
+        (Remote) "
+      url: https://job-boards.greenhouse.io/typeform/jobs/7090089
+      updated_at: 2026-02-18T15:06:18-05:00
+      description: "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;Who we
+        are&lt;/h3&gt; &lt;p&gt;Typeform is a refreshingly different form
+        builder. We help over 150,000 businesses collect the data they need with
+        forms, surveys, and quizzes that people enjoy. Designed to look striking
+        and feel effortless to fill out, Typeform drives 500 million responses
+        every year—and integrates with essential tools like Slack, Zapier, and
+        Hubspot.&lt;/p&gt;&lt;/div&gt;&lt;p data-start=&quot;492&quot;
+        data-end=&quot;1020&quot;&gt;&lt;strong data-start=&quot;492&quot;
+        data-end=&quot;510&quot;&gt;About the Team&lt;/strong&gt;&lt;br
+        data-start=&quot;510&quot; data-end=&quot;513&quot;&gt;We’re looking for
+        a Senior Product Manager to lead the transformation of Typeform’s
+        reporting and analytics experience.
+        &lt;br&gt;&lt;br&gt;&lt;strong&gt;About the
+        Role&lt;/strong&gt;&lt;br&gt;This role sits at the center of Typeform’s
+        strategy to turn data into a true market differentiator, driving
+        long-term revenue growth and customer satisfaction. You’ll own the
+        strategy and execution of AI-first analytics capabilities that deliver
+        clear, actionable insights—helping Typeform move beyond feature-parity
+        competitors with a smarter, faster reporting experience.&lt;/p&gt; &lt;p
+        data-start=&quot;1022&quot; data-end=&quot;1044&quot;&gt;&lt;strong
+        data-start=&quot;1022&quot; data-end=&quot;1042&quot;&gt;Things you’ll
+        do&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li
+        data-start=&quot;1047&quot; data-end=&quot;1198&quot;&gt;Lead the
+        delivery of a best-in-class reporting suite, including a redesigned
+        summary page, filtering, advanced visualisations, and AI-driven
+        insights&lt;/li&gt; &lt;li data-start=&quot;1201&quot;
+        data-end=&quot;1307&quot;&gt;Define and ship the MVP for our next-gen
+        Narrative Intelligence and “AI Copilot for Insights”
+        experience&lt;/li&gt; &lt;li data-start=&quot;1310&quot;
+        data-end=&quot;1415&quot;&gt;Partner with Data Science to land
+        foundational Copilot capabilities that scale to millions of
+        responses&lt;/li&gt; &lt;li data-start=&quot;1418&quot;
+        data-end=&quot;1502&quot;&gt;Set and drive a focused roadmap that
+        combines quick wins with long-term innovation&lt;/li&gt; &lt;li
+        data-start=&quot;1505&quot; data-end=&quot;1605&quot;&gt;Consolidate
+        onboarding learnings, customer insights, and market context to guide
+        product decisions&lt;/li&gt; &lt;li data-start=&quot;1608&quot;
+        data-end=&quot;1709&quot;&gt;Improve key metrics like usage rates,
+        satisfaction scores, and activation across reporting features&lt;/li&gt;
+        &lt;li data-start=&quot;1712&quot; data-end=&quot;1811&quot;&gt;Build
+        strong internal alignment and communicate product value clearly to
+        Sales, CS, and GTM teams&lt;/li&gt; &lt;li data-start=&quot;1814&quot;
+        data-end=&quot;1918&quot;&gt;Ensure commercial success by helping Sales
+        and CS articulate differentiated analytics value to customers&lt;/li&gt;
+        &lt;/ul&gt; &lt;p data-start=&quot;1920&quot;
+        data-end=&quot;1958&quot;&gt;&lt;strong data-start=&quot;1920&quot;
+        data-end=&quot;1956&quot;&gt;What you will bring to the
+        table&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li
+        data-start=&quot;1961&quot; data-end=&quot;2056&quot;&gt;Strong
+        strategic thinking with the ability to balance long-term vision with
+        near-term results&lt;/li&gt; &lt;li data-start=&quot;2059&quot;
+        data-end=&quot;2151&quot;&gt;High ownership mindset with a proactive
+        approach to removing blockers and driving progress&lt;/li&gt; &lt;li
+        data-start=&quot;2154&quot; data-end=&quot;2257&quot;&gt;Proven ability
+        to collaborate cross-functionally with Sales, CS, Data Science, Legal,
+        and Engineering&lt;/li&gt; &lt;li data-start=&quot;2260&quot;
+        data-end=&quot;2379&quot;&gt;Confident communicator with commercial
+        fluency and presence when interacting with leadership and enterprise
+        customers&lt;/li&gt; &lt;li data-start=&quot;2382&quot;
+        data-end=&quot;2476&quot;&gt;Customer-focused mindset with a passion for
+        solving real-world data and reporting challenges&lt;/li&gt; &lt;li
+        data-start=&quot;2479&quot; data-end=&quot;2580&quot;&gt;Deep product
+        knowledge in analytics, data visualisation, and reporting (especially
+        for SaaS or B2B)&lt;/li&gt; &lt;li data-start=&quot;2583&quot;
+        data-end=&quot;2674&quot;&gt;Familiarity with AI/LLM-enabled product
+        development and user-facing intelligence features&lt;/li&gt; &lt;li
+        data-start=&quot;2677&quot; data-end=&quot;2773&quot;&gt;Experience
+        working with large-scale data infrastructure (e.g., Clickhouse, columnar
+        databases)&lt;/li&gt; &lt;li data-start=&quot;2776&quot;
+        data-end=&quot;2862&quot;&gt;High data literacy and the ability to
+        influence roadmap through evidence and insight&lt;/li&gt; &lt;li
+        data-start=&quot;2865&quot; data-end=&quot;2928&quot;&gt;Experience
+        managing complex, multi-threaded product work-streams&lt;/li&gt;
+        &lt;/ul&gt; &lt;p data-start=&quot;2930&quot;
+        data-end=&quot;2949&quot;&gt;&lt;strong data-start=&quot;2930&quot;
+        data-end=&quot;2947&quot;&gt;Extra awesome&lt;/strong&gt;&lt;/p&gt;
+        &lt;ul&gt; &lt;li data-start=&quot;2952&quot;
+        data-end=&quot;3033&quot;&gt;A strong track record building or buying
+        advanced reporting and analytics tools&lt;/li&gt; &lt;li
+        data-start=&quot;3036&quot; data-end=&quot;3119&quot;&gt;Experience in
+        survey tooling or working with flexible, unstructured response
+        data&lt;/li&gt; &lt;li data-start=&quot;3122&quot;
+        data-end=&quot;3189&quot;&gt;Hands-on experience delivering modern
+        AI-powered product features&lt;/li&gt; &lt;/ul&gt;&lt;div
+        class=&quot;content-conclusion&quot;&gt;&lt;p&gt;*Typeform drives
+        hundreds of millions of interactions each year, enabling conversational,
+        human-centered experiences across the globe. We &lt;strong&gt;move as
+        one team&lt;/strong&gt;, empowering our collective efforts by valuing
+        each individual’s unique perspective. This fosters &lt;strong&gt;strong
+        bonds&lt;/strong&gt; grounded in respect, transparency, and trust. We
+        &lt;strong&gt;champion our diverse customer base&lt;/strong&gt; by
+        anticipating their needs and addressing their challenges with priority.
+        Committed to excellence, we&lt;strong&gt; hold high expectations
+        &lt;/strong&gt;for ourselves and each other, continuously striving to
+        deliver exceptional results.&lt;/p&gt; &lt;p&gt;We are proud to be an
+        equal-opportunity employer. We celebrate diversity and stand firmly
+        against discrimination and harassment of any kind—whether based on race,
+        color, ancestry, religion, sex, national origin, sexual orientation,
+        age, citizenship, marital status, disability, gender identity or
+        expression, or veteran status. Everyone is welcome
+        here.&lt;/p&gt;&lt;/div&gt;"
+      score: 78
+      skill_hits: 2
+      bucket_id: pm_product
+      fetched_at: 2026-02-20T18:00:25.607Z
+      pulled_at: 2026-02-20T18:00:25.607Z
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1197,7 +1559,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-02-19T18:10:50.652Z
       pulled_at: 2026-02-19T18:10:50.652Z
-      stale_days: 5
+      stale_days: 7
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -1314,7 +1676,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-02-19T18:10:50.652Z
       pulled_at: 2026-02-19T18:10:50.652Z
-      stale_days: 5
+      stale_days: 7
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1399,7 +1761,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-02-18T18:13:17.221Z
       pulled_at: 2026-02-18T18:13:17.221Z
-      stale_days: 6
+      stale_days: 8
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -1516,7 +1878,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-02-18T18:13:17.221Z
       pulled_at: 2026-02-18T18:13:17.221Z
-      stale_days: 6
+      stale_days: 8
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1622,7 +1984,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-02-18T18:13:17.221Z
       pulled_at: 2026-02-18T18:13:17.221Z
-      stale_days: 6
+      stale_days: 8
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -1739,7 +2101,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-02-17T18:18:03.719Z
       pulled_at: 2026-02-17T18:18:03.719Z
-      stale_days: 6
+      stale_days: 8
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -1856,7 +2218,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-02-16T18:00:45.452Z
       pulled_at: 2026-02-16T18:00:45.452Z
-      stale_days: 8
+      stale_days: 10
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -1973,7 +2335,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-02-15T17:55:34.649Z
       pulled_at: 2026-02-15T17:55:34.649Z
-      stale_days: 9
+      stale_days: 11
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -2090,7 +2452,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-02-15T17:55:34.649Z
       pulled_at: 2026-02-15T17:55:34.649Z
-      stale_days: 9
+      stale_days: 11
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -2207,7 +2569,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-02-14T17:48:50.779Z
       pulled_at: 2026-02-14T17:48:50.779Z
-      stale_days: 10
+      stale_days: 12
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -2324,7 +2686,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-02-14T17:48:50.779Z
       pulled_at: 2026-02-14T17:48:50.779Z
-      stale_days: 10
+      stale_days: 12
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -2423,7 +2785,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-02-09T18:09:42.568Z
       pulled_at: 2026-02-09T18:09:42.568Z
-      stale_days: 15
+      stale_days: 17
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -2540,7 +2902,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-02-09T18:09:42.568Z
       pulled_at: 2026-02-09T18:09:42.568Z
-      stale_days: 15
+      stale_days: 17
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -2657,7 +3019,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-02-09T18:09:42.568Z
       pulled_at: 2026-02-09T18:09:42.568Z
-      stale_days: 15
+      stale_days: 17
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -2756,7 +3118,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-02-08T17:57:01.745Z
       pulled_at: 2026-02-08T17:57:01.745Z
-      stale_days: 16
+      stale_days: 18
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -2873,7 +3235,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-02-08T17:57:01.745Z
       pulled_at: 2026-02-08T17:57:01.745Z
-      stale_days: 16
+      stale_days: 18
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -2990,7 +3352,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-02-08T17:57:01.745Z
       pulled_at: 2026-02-08T17:57:01.745Z
-      stale_days: 16
+      stale_days: 18
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -3089,7 +3451,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-02-07T18:58:06.600Z
       pulled_at: 2026-02-07T18:58:06.600Z
-      stale_days: 16
+      stale_days: 18
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -3206,7 +3568,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-02-07T18:58:06.600Z
       pulled_at: 2026-02-07T18:58:06.600Z
-      stale_days: 16
+      stale_days: 18
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -3323,7 +3685,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-02-07T18:58:06.600Z
       pulled_at: 2026-02-07T18:58:06.600Z
-      stale_days: 16
+      stale_days: 18
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -3422,7 +3784,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-02-07T18:33:31.050Z
       pulled_at: 2026-02-07T18:33:31.050Z
-      stale_days: 16
+      stale_days: 18
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -3539,7 +3901,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-02-07T18:33:31.050Z
       pulled_at: 2026-02-07T18:33:31.050Z
-      stale_days: 16
+      stale_days: 18
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -3656,7 +4018,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-02-07T18:33:31.050Z
       pulled_at: 2026-02-07T18:33:31.050Z
-      stale_days: 16
+      stale_days: 18
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -3755,7 +4117,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-02-07T17:04:01.845Z
       pulled_at: 2026-02-07T17:04:01.845Z
-      stale_days: 17
+      stale_days: 19
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -3872,7 +4234,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-02-07T17:04:01.845Z
       pulled_at: 2026-02-07T17:04:01.845Z
-      stale_days: 17
+      stale_days: 19
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -3989,7 +4351,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-02-07T17:04:01.845Z
       pulled_at: 2026-02-07T17:04:01.845Z
-      stale_days: 17
+      stale_days: 19
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -4088,7 +4450,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-02-07T15:59:03.432Z
       pulled_at: 2026-02-07T15:59:03.432Z
-      stale_days: 17
+      stale_days: 19
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -4205,7 +4567,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-02-07T15:59:03.432Z
       pulled_at: 2026-02-07T15:59:03.432Z
-      stale_days: 17
+      stale_days: 19
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -4322,7 +4684,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-02-07T15:59:03.432Z
       pulled_at: 2026-02-07T15:59:03.432Z
-      stale_days: 17
+      stale_days: 19
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -4421,7 +4783,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-02-07T15:54:50.387Z
       pulled_at: 2026-02-07T15:54:50.387Z
-      stale_days: 17
+      stale_days: 19
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -4538,7 +4900,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-02-07T15:54:50.387Z
       pulled_at: 2026-02-07T15:54:50.387Z
-      stale_days: 17
+      stale_days: 19
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -4655,7 +5017,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-02-07T15:54:50.387Z
       pulled_at: 2026-02-07T15:54:50.387Z
-      stale_days: 17
+      stale_days: 19
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -4754,7 +5116,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-02-07T15:41:56.312Z
       pulled_at: 2026-02-07T15:41:56.312Z
-      stale_days: 17
+      stale_days: 19
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -4871,7 +5233,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-02-07T15:41:56.312Z
       pulled_at: 2026-02-07T15:41:56.312Z
-      stale_days: 17
+      stale_days: 19
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -4970,7 +5332,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-02-07T15:02:11.019Z
       pulled_at: 2026-02-07T15:02:11.019Z
-      stale_days: 17
+      stale_days: 19
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -5087,7 +5449,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-02-07T15:02:11.019Z
       pulled_at: 2026-02-07T15:02:11.019Z
-      stale_days: 17
+      stale_days: 19
       is_stale: false
   scrum_agile:
     - source: arbeitnow
@@ -5165,7 +5527,7 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-02-22T17:55:00.195Z
       pulled_at: 2026-02-22T17:55:00.195Z
-      stale_days: 2
+      stale_days: 4
       is_stale: false
   program_management:
     - source: arbeitnow
@@ -5242,7 +5604,7 @@ buckets:
       bucket_id: program_management
       fetched_at: 2026-02-22T17:55:00.195Z
       pulled_at: 2026-02-22T17:55:00.195Z
-      stale_days: 2
+      stale_days: 4
       is_stale: false
 archive:
   pm_product: []
@@ -5255,7 +5617,7 @@ meta:
   source_counts:
     greenhouse: 7
     lever: 2
-    personio_xml_feeds: 48
+    personio_xml_feeds: 56
     smartrecruiters_companies: 2
     teamtailor_companies: 0
     recruitee_companies: 7
@@ -5280,5 +5642,5 @@ meta:
     scrum_agile: 0
     program_management: 0
   timings_ms:
-    fetch: 12135
-    total: 98171
+    fetch: 10973
+    total: 75075

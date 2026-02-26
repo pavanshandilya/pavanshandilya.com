@@ -1,4 +1,4 @@
-generated_at: 2026-02-24T18:13:09.359Z
+generated_at: 2026-02-26T18:07:50.817Z
 explicit:
   company_names:
     - SAP
@@ -69,6 +69,10 @@ discovered:
     - zepta-technologies-gmbh
     - greenbone-ag
     - syte-gmbh
+    - safenow
+    - buildlinx
+    - frommer-legal
+    - bedrop
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -126,6 +130,12 @@ discovered:
     - https://greenbone-ag.jobs.personio.com/xml
     - https://syte-gmbh.jobs.personio.de/xml
     - https://syte-gmbh.jobs.personio.com/xml
+    - https://safenow.jobs.personio.de/xml
+    - https://safenow.jobs.personio.com/xml
+    - https://frommer-legal.jobs.personio.de/xml
+    - https://frommer-legal.jobs.personio.com/xml
+    - https://bedrop.jobs.personio.de/xml
+    - https://bedrop.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -146,6 +156,7 @@ discovered:
     - nivoda
     - babbel
     - alan
+    - buildlinx
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
