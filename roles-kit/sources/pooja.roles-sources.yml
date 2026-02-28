@@ -1,4 +1,4 @@
-generated_at: 2026-02-27T17:58:41.449Z
+generated_at: 2026-02-28T17:43:37.084Z
 explicit:
   company_names:
     - SAP
@@ -70,6 +70,8 @@ discovered:
     - bedrop
     - emil-group-gmbh
     - nviso
+    - kinzo-architekten-gmbh
+    - slenderiser-gmbh
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -137,6 +139,10 @@ discovered:
     - https://emil-group-gmbh.jobs.personio.com/xml
     - https://nviso.jobs.personio.de/xml
     - https://nviso.jobs.personio.com/xml
+    - https://kinzo-architekten-gmbh.jobs.personio.de/xml
+    - https://kinzo-architekten-gmbh.jobs.personio.com/xml
+    - https://slenderiser-gmbh.jobs.personio.de/xml
+    - https://slenderiser-gmbh.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
