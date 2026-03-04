@@ -1,4 +1,4 @@
-generated_at: 2026-03-03T18:05:15.378Z
+generated_at: 2026-03-04T18:02:08.561Z
 explicit:
   company_names:
     - SAP
@@ -72,6 +72,9 @@ discovered:
     - nviso
     - kinzo-architekten-gmbh
     - slenderiser-gmbh
+    - happybrush
+    - stenon-gmbh
+    - astronomer
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -143,6 +146,10 @@ discovered:
     - https://kinzo-architekten-gmbh.jobs.personio.com/xml
     - https://slenderiser-gmbh.jobs.personio.de/xml
     - https://slenderiser-gmbh.jobs.personio.com/xml
+    - https://happybrush.jobs.personio.de/xml
+    - https://happybrush.jobs.personio.com/xml
+    - https://stenon-gmbh.jobs.personio.de/xml
+    - https://stenon-gmbh.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -164,6 +171,7 @@ discovered:
     - babbel
     - alan
     - buildlinx
+    - astronomer
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
