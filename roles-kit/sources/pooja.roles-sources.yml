@@ -1,4 +1,4 @@
-generated_at: 2026-03-04T18:02:08.561Z
+generated_at: 2026-03-05T18:59:10.938Z
 explicit:
   company_names:
     - SAP
@@ -75,6 +75,11 @@ discovered:
     - happybrush
     - stenon-gmbh
     - astronomer
+    - membion-gmbh
+    - jemix-gmbh
+    - bornholdt-lee-gmbh
+    - edb
+    - deel
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -150,6 +155,14 @@ discovered:
     - https://happybrush.jobs.personio.com/xml
     - https://stenon-gmbh.jobs.personio.de/xml
     - https://stenon-gmbh.jobs.personio.com/xml
+    - https://membion-gmbh.jobs.personio.de/xml
+    - https://membion-gmbh.jobs.personio.com/xml
+    - https://jemix-gmbh.jobs.personio.de/xml
+    - https://jemix-gmbh.jobs.personio.com/xml
+    - https://bornholdt-lee-gmbh.jobs.personio.de/xml
+    - https://bornholdt-lee-gmbh.jobs.personio.com/xml
+    - https://edb.jobs.personio.de/xml
+    - https://edb.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -172,6 +185,7 @@ discovered:
     - alan
     - buildlinx
     - astronomer
+    - deel
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers

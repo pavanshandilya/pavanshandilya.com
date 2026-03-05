@@ -1,7 +1,7 @@
 schema_version: roles.v1
 profile_id: pavan
 profile_name: Pavan - marketing, digital marketing, video editing
-generated_at: 2026-03-04T18:00:41.130Z
+generated_at: 2026-03-05T18:56:57.481Z
 buckets:
   marketing_general:
     - source: greenhouse
@@ -101,9 +101,311 @@ buckets:
       score: 110
       skill_hits: 4
       bucket_id: marketing_general
+      fetched_at: 2026-03-05T18:56:57.481Z
+      pulled_at: 2026-03-05T18:56:57.481Z
+      stale_days: 0
+      is_stale: false
+    - source: arbeitnow
+      source_note: ""
+      company: REPLUG
+      title: Content & Inbound Marketing Manager (REMOTE)
+      location: Berlin
+      url: https://www.arbeitnow.com/jobs/companies/replug/content-inbound-marketing-manager-remote-berlin-373584
+      updated_at: 1772728357
+      description: REPLUG is a leading mobile app marketing agency helping apps scale
+        through App Store Optimization, Paid Acquisition, Performance-based
+        advertising and Creative Strategy. We work with top brands and ambitious
+        startups, providing data-driven strategies, hands-on expertise, and a
+        no-BS approach to growth. We are seeking a talented and motivated
+        Content &#x26; Inbound Marketing Manager to strengthen execution within
+        our marketing function. You will work closely with the Head of Marketing
+        to turn existing direction, inputs, and content into polished,
+        consistent inbound output, primarily through LinkedIn and content
+        repurposing. This is an execution-focused role suited for someone who
+        enjoys turning direction into output and ensuring marketing content is
+        delivered with clarity, consistency, and high editorial standards. Tasks
+        Content Execution &#x26; Publishing Execute content for REPLUG’s
+        LinkedIn presence and related channels Turn raw inputs (notes, outlines,
+        rough drafts, articles) into engaging and meaningful posts that follow
+        brand guidelines. Content Editing &#x26; Repurposing Repurpose existing
+        long-form content (articles, documents, presentations) into short-form
+        written assets Edit and refine drafts to improve clarity, readability,
+        structure, flow, formatting and consistency Adapt content to suit
+        different formats while preserving the original intent and message
+        Marketing Operations &#x26; Support Maintain content calendars and
+        publishing workflows Manage drafts, assets, and scheduling processes
+        Support HubSpot publishing and basic performance reporting Assist with
+        CMS or landing page updates when needed (copy provided) Optional
+        responsibilities may include basic coordination or editing of short-form
+        video content and collaboration with designers on visual assets. What
+        Success Looks Like Content is published consistently and on schedule
+        Output is clear, polished, and aligned with REPLUG’s tone and
+        positioning Existing content is reused efficiently and effectively
+        Marketing execution runs smoothly with minimal oversight LinkedIn
+        becomes a reliable source of relevant engagement and inbound interest
+        over time Requirements Must-haves 3+ years of experience in content
+        marketing, inbound marketing, or marketing execution roles Strong B2B
+        background (tech, SaaS, or app industry preferred) Excellent written and
+        spoken English Solid understanding of LinkedIn as a professional content
+        platform Ability to execute effectively from direction, frameworks, and
+        partial inputs Familiarity with HubSpot for content publishing and basic
+        reporting High attention to detail and strong organizational skills Nice
+        to have Experience supporting founder-led or expert-driven brands
+        Exposure to performance marketing or mobile app marketing Strong
+        editorial judgment and content quality standards Benefits Remote-first
+        working environment Direct collaboration with senior marketing
+        leadership &#x26; founders Education budget (courses, conferences,
+        certifications) A culture built on trust, ownership, and results, not
+        politics Find more English Speaking Jobs in Germany on Arbeitnow
+      job_types:
+        - Contract
+        - manager
+      remote: true
+      score: 80
+      skill_hits: 1
+      bucket_id: marketing_general
+      fetched_at: 2026-03-05T18:56:57.481Z
+      pulled_at: 2026-03-05T18:56:57.481Z
+      stale_days: 0
+      is_stale: false
+    - source: arbeitnow
+      source_note: ""
+      company: Flix
+      title: (Senior) Brand Manager - Fixed Term Contract (m/f/d)
+      location: Munich, Bavaria, Germany
+      url: https://www.arbeitnow.com/jobs/companies/flix/senior-brand-manager-fixed-term-contract-munich-140419
+      updated_at: 1772721918
+      description: "At Flix, we offer a dynamic work environment with competitive pay,
+        strong growth opportunities, and a tech-driven approach to making travel
+        more accessible, sustainable, and affordable. &nbsp; About the Role
+        We're looking for an experienced and strategic (Senior) Brand Manager to
+        lead the development, execution, and optimization of global brand
+        initiatives. This is a global role at the intersection of strategy,
+        creativity, communication and execution. The ideal candidate will shape
+        the Flix long-term vision while ensuring flawless delivery of campaigns
+        and content. This role is based in Munich (hybrid model) and is a
+        fixed-term contract until July 2027. Key Responsibilities Develop and
+        refine brand strategies to strengthen market positioning and drive
+        long-term growth Lead end-to-end 360 campaign development, from concept
+        to execution, across digital, social, and ATL channels Oversee
+        production processes, ensuring high quality output and alignment with
+        brand guidelines Collaborate with cross-functional teams including
+        creative, media, performance marketing, PR, local market teams and
+        external agencies Analyze brand performance, consumer insights, and
+        market trends to inform strategic decisions; turn consumer insights and
+        brand strategy into creative strategy and springboards Manage budgets
+        and timelines to ensure efficient and effective projects delivery Ensure
+        brand consistency across all touchpoints About You Minimum 5 years of
+        experience in brand management or a related marketing role Proven
+        experience in brand strategy, 360-campaign-development, and production
+        management Strong understanding of integrated marketing and consumer
+        behavior Excellent project management, communication and presentation
+        skills Ability to balance strategic thinking with hands-on execution
+        Creative strategy background is a strong plus, especially experience
+        working in creative agencies or partnering with creative teams or
+        agencies Experience working in fast-paced, cross- functional
+        environments What we're looking for A strategic thinker with a strong
+        creative sensibility Someone who is detail-oriented, organized, and
+        proactive A storyteller who understands how to build emotional
+        connections with audiences An excellent communicator and team player
+        Fluency in English, every other language is a plus We recognize that
+        everyone carries a unique set of valuable skills and experiences. If you
+        think you could have an impact even though you don't meet 100% of the
+        requirements, we still encourage you to apply. We want to hear from you!
+        &nbsp; What We Offer Travel perks : 12 free Flix vouchers + 12 discount
+        vouchers for friends &amp; family.&nbsp; Work from (M)Anywhere :
+        Depending on your role, work from another location for up to 60 days per
+        year.&nbsp; Hybrid work model : We are an office-first company, but we
+        offer flexibility to balance work and life.&nbsp; Wellbeing support :
+        Access confidential 1:1 counselling, courses, and stress management for
+        yourself and up to four family members.&nbsp; Learning &amp; Development
+        : Take advantage of language classes, training courses, and expert-led
+        sessions to grow your skills.&nbsp; Mentoring Program : Connect with
+        experienced colleagues to gain insights and accelerate your
+        career.&nbsp; To view more local benefits specific to each office
+        location, please check out this link:&nbsp; Locations - Flix Career Why
+        Join Flix? At Flix, you'll find teams that rally together to overcome
+        challenges and spark creativity. We believe in ownership culture -
+        giving you the freedom to take initiative, make an impact, and shape
+        your own career path. As we continue to expand across the globe, you can
+        make a real difference in how we work. If you're ready to grow and lead
+        your journey, Flix is the place for you!&nbsp; &nbsp; Find Jobs in
+        Germany on Arbeitnow"
+      job_types: []
+      remote: false
+      score: 78
+      skill_hits: 1
+      bucket_id: marketing_general
+      fetched_at: 2026-03-05T18:56:57.481Z
+      pulled_at: 2026-03-05T18:56:57.481Z
+      stale_days: 0
+      is_stale: false
+    - source: arbeitnow
+      source_note: ""
+      company: Roger
+      title: Performance & Growth Marketing Manager - Dental (m/w/d)
+      location: Berlin
+      url: https://www.arbeitnow.com/jobs/companies/roger/performance-growth-marketing-manager-dental-berlin-236656
+      updated_at: 1772717507
+      description: 'In Deutschland geben Patienten jährlich 30 Milliarden EUR beim
+        Zahnarzt aus. Trotz dieser Marktgröße arbeiten viele Praxen noch immer
+        mit veralteter Offline-Software aus den 80er Jahren. Roger ist hier, um
+        das zu ändern . Unsere Mission: Zahnarztpraxen mit unserem virtuellen
+        KI-Assistenten Roger zu revolutionieren. Unsere Software transformiert
+        Behandlungsplanung und Patientenkommunikation, steigert Effizienz und
+        Umsatz und vereinfacht den Praxisalltag für Zahnärzt:innen und ihre
+        Teams. Wenn du technologiebegeistert bist, Verantwortung übernehmen
+        willst und in einem schnell wachsenden Umfeld wirklich etwas bewegen
+        möchtest, bist du bei Roger richtig. Aufgaben In dieser Rolle baust und
+        skalierst du unsere Wachstumsmaschine**.** Du verbindest tiefes
+        Produktverständnis mit intelligenter Automatisierung, um Leads von
+        „interessiert“ zu „begeistert“ zu verwandeln. Dein Ziel: Eingehende
+        Leads nicht nur zu generieren, sondern sie durch messerscharfes
+        Messaging und automatisierte Journeys in glückliche Kunden zu
+        überführen. Deine Aufgaben &#x26; Verantwortlichkeiten 1.
+        Content-Strategie &#x26; Product Storytelling Du übersetzt komplexe
+        KI-Features in Benefits, die Zahnärzte verstehen. Du entwickelst die
+        Messaging-Strategie und sorgst dafür, dass unsere Positionierung auf
+        allen Kanälen (Organic, Paid, Website) sitzt. Du nutzt dein
+        SEO-Verständnis, um Themenwelten zu besetzen, die uns nachhaltig
+        organischen Traffic und hochwertige Leads liefern. 2.
+        Conversion-Optimierung &#x26; Automation (HubSpot-first) Du baust und
+        optimierst automatisierte Marketing-Funnels in HubSpot (Lead Scoring,
+        Nurturing-Strecken, Trigger-Workflows). Du gestaltest die ideale „Lead
+        Experience“: Vom ersten Google-Suchergebnis bis zum abgeschlossenen Abo.
+        Du experimentierst mit AI-Tools, um Marketing-Prozesse zu skalieren und
+        die Effizienz zu steigern. 3. Full-Funnel Growth Ownership Du
+        analysierst die gesamte Customer Journey: Awareness → Activation →
+        Conversion . Du fährst A/B-Tests auf Landingpages und in
+        E-Mail-Kampagnen, um die Conversion Rates kontinuierlich zu steigern. Du
+        hast die KPIs im Griff und leitest aus Daten klare Wachstums-Hypothesen
+        ab. Qualifikation mind. 1 Jahre Erfahrung in Marketing, SEO oder CRM
+        Automation. Starkes technisches Verständnis, datengetrieben, AI-affin.
+        Erfahrung mit Apollo, HubSpot und modernen AI-Marketing-Tools.
+        Fähigkeit, komplexe Produkte und Kundensegmente schnell zu durchdringen.
+        Startup-Mentalität, Ownership, Experimentierfreude. Benefits Warum
+        Roger? Echter Impact**:** Du baust unsere Marketing-Infrastruktur
+        maßgeblich mit auf – dein Einfluss auf den Umsatz ist direkt sichtbar.
+        HealthTech Revolution**:** Arbeite an einem Produkt, das echten Mehrwert
+        schafft und die Digitalisierung im Gesundheitswesen vorantreibt.
+        Modernster Stack: Wir geben dir das Budget und die Tools, die du
+        brauchst, um "Best-in-Class" Marketing zu betreiben. Team &#x26; Kultur:
+        Ein ambitioniertes Umfeld mit flachen Hierarchien, schnellen
+        Entscheidungswegen und viel Raum für eigene Experimente. Bereit, den
+        Dental-Markt zu digitalisieren? Wenn du Lust hast, in einem schnell
+        wachsenden Umfeld echte Verantwortung zu übernehmen und unsere
+        Growth-Story aktiv mitzugestalten, dann wollen wir dich kennenlernen.
+        Bewirb dich jetzt mit deinem Lebenslauf – wir freuen uns darauf, von dir
+        zu hören! Find Jobs in Germany on Arbeitnow'
+      job_types: &a1 []
+      remote: false
+      score: 76
+      skill_hits: 1
+      bucket_id: marketing_general
+      fetched_at: 2026-03-05T18:56:57.481Z
+      pulled_at: 2026-03-05T18:56:57.481Z
+      stale_days: 0
+      is_stale: false
+    - source: greenhouse
+      source_note: ""
+      company: hellofresh
+      title: Senior Programmatic Marketing Manager - Creative Strategy (m/f/x)
+      location: Berlin, Berlin, Germany
+      url: https://careers.hellofresh.com/global/en/job/6967256?gh_jid=6967256
+      updated_at: 2026-02-24T09:08:27-05:00
+      description: "&lt;h2&gt;&lt;strong&gt;The role&lt;/strong&gt;&lt;/h2&gt; &lt;p
+        style=&quot;text-align: justify;&quot;&gt;As Senior Programmatic
+        Marketing Manager in our Marketing department, you will be responsible
+        for driving key consumer activations while implementing a data-driven
+        creative strategy. You will collaborate with market stakeholders to
+        understand local market insights and its implementation in your
+        marketing campaigns while working on a full funnel consumer journey. You
+        will contribute your expertise across 15 Global HelloFresh entities. The
+        ideal candidate is a strategic thinker and hands-on executor with a
+        performance marketing and experimentation mindset, capable of scaling
+        acquisition and conversion metrics for the channel.&lt;/p&gt; &lt;p
+        style=&quot;text-align: justify;&quot;&gt;&lt;span
+        style=&quot;font-weight: 400;&quot;&gt;Above all, we are looking for
+        people who will &lt;strong&gt;make HelloFresh&lt;/strong&gt;
+        &lt;strong&gt;better.&lt;/strong&gt; We believe there are many different
+        ways of developing skills and we love diverse experiences! So even if
+        you don’t “tick all the boxes” but think you’d thrive in this role, we
+        would really like to learn more about you.&lt;/span&gt;&lt;/p&gt;
+        &lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt;
+        &lt;ul&gt; &lt;li&gt;Act as the creative lead and main point of contact
+        for Display &amp;amp; Video creative strategy across
+        platforms&lt;/li&gt; &lt;li&gt;Develop creative experimentation
+        &amp;amp; performance analysis frameworks&lt;/li&gt; &lt;li&gt;Conduct
+        regular audits on creative strategies across markets.&lt;/li&gt;
+        &lt;li&gt;Own the full creative testing and performance analysis
+        strategy, from hypothesis creation and experimentation to reporting and
+        iterative optimization&lt;/li&gt; &lt;li&gt;Drive and develop new
+        creative initiatives, including testing new content formats,
+        storytelling approaches, and creator-led collaborations&lt;/li&gt;
+        &lt;li&gt;Closely collaborate with the Display &amp;amp; Video Campaign
+        Operations team to ensure creative strategies are tailored, aligned, and
+        executed smoothly across all entities&lt;/li&gt; &lt;li&gt;Identify and
+        share creative trends, insights, and best practices across internal
+        teams to inform asset development and campaign direction&lt;/li&gt;
+        &lt;li&gt;Translate performance data into clear recommendations for
+        creative development, collaborating with Brand and Design to implement
+        them&lt;/li&gt; &lt;li&gt;Lead cross-functional creative efforts, such
+        as influencer content integrations and brand partnership
+        initiatives&lt;/li&gt; &lt;li&gt;Bring structure, prioritization, and
+        clear problem-solving to a fast-moving, test-and-learn
+        environment&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;What you’ll
+        bring&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;6+ years of
+        professional experience in programmatic advertising or working with DSP
+        vendors, programmatic trading desks, digital marketing agencies, ad
+        network, 3rd party data companies or other related digital
+        companies.&lt;/li&gt; &lt;li&gt;2+ years of previous strategy
+        development and deployment in digital marketing&amp;nbsp;&lt;/li&gt;
+        &lt;li&gt;Excellent knowledge and skills of Google: Sheet and Slides -
+        can create reports and presentations for internal and external
+        teams&lt;/li&gt; &lt;li&gt;Understanding of digital marketing
+        disciplines from digital display, OTV, SEO, PPC, Ecommerce, social media
+        or affiliate marketing&lt;/li&gt; &lt;li&gt;Excellent communication
+        skills. You will be the go-to-person for multiple marketing and
+        communication teams. Interpersonal skills are a prerequisite for
+        success.&lt;/li&gt; &lt;li&gt;Passionate about digital industry and
+        highly digital savvy&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Our best-in-class
+        marketers play vital roles in connecting HelloFresh with new and
+        existing customers across the world. Based in Berlin, the data-driven
+        and creative Global Marketing Team pioneers industry-leading research,
+        business insight, CRM, growth marketing and brand communication. The
+        team continuously drives our brand forward through experimentation and
+        an entrepreneurial spirit.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What we
+        offer&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Elevate your lifestyle! Join
+        one of Europe&#39;s fastest-growing tech powerhouses in a dynamic phase
+        of expansion.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Immerse yourself in a
+        diverse global community of 90+ nationalities.&lt;/li&gt;
+        &lt;li&gt;Enjoy a competitive compensation package that goes beyond the
+        norm, with perks like a HelloFresh- subsidized Pension Scheme, Berlin
+        relocation support, and a Hybrid working model.&lt;/li&gt;
+        &lt;li&gt;Elevate your lifestyle with exclusive discounts on your weekly
+        HelloFresh box and office meals.&lt;/li&gt; &lt;li&gt;Invest in your
+        growth with an annual learning &amp;amp; development budget, German
+        language learning budget, and access to the HelloFresh
+        Academy.&lt;/li&gt; &lt;li&gt;Plus, we&#39;ve got your well-being
+        covered with mental health support, transportation perks, and
+        working-parent-friendly benefits. From our 24/7 gym access,wellbeing
+        platforms like Headspace and Spill, to sabbatical leave options,
+        HelloFresh is not just a workplace; it&#39;s a lifestyle of perks and
+        possibilities!&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;Are you up
+        for the challenge?&lt;/strong&gt;&lt;/h2&gt; &lt;p
+        style=&quot;text-align: justify;&quot;&gt;&lt;span
+        style=&quot;font-weight: 400;&quot;&gt;Please submit your complete
+        application below including your salary expectations and earliest
+        starting date.&lt;/span&gt;&lt;/p&gt; &lt;p style=&quot;text-align:
+        justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;After
+        submitting an application our team will review this and get back to you
+        within 5 business days.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;"
+      score: 110
+      skill_hits: 4
+      bucket_id: marketing_general
       fetched_at: 2026-03-04T18:00:41.130Z
       pulled_at: 2026-03-04T18:00:41.130Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -165,7 +467,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-03-04T18:00:41.130Z
       pulled_at: 2026-03-04T18:00:41.130Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -237,7 +539,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-03-04T18:00:41.130Z
       pulled_at: 2026-03-04T18:00:41.130Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -338,7 +640,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-03-03T18:03:13.895Z
       pulled_at: 2026-03-03T18:03:13.895Z
-      stale_days: 0
+      stale_days: 2
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -420,14 +722,14 @@ buckets:
         sexueller Orientierung, Alter, Religion, Gesundheit, familiärem oder
         veteranischem Status oder anderen geschützten Merkmalen. Find Jobs in
         Germany on Arbeitnow"
-      job_types: &a1 []
+      job_types: &a2 []
       remote: false
       score: 76
       skill_hits: 1
       bucket_id: marketing_general
       fetched_at: 2026-03-03T18:03:13.895Z
       pulled_at: 2026-03-03T18:03:13.895Z
-      stale_days: 0
+      stale_days: 2
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -528,7 +830,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-03-02T18:01:39.683Z
       pulled_at: 2026-03-02T18:01:39.683Z
-      stale_days: 1
+      stale_days: 3
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -606,7 +908,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-03-02T18:01:39.683Z
       pulled_at: 2026-03-02T18:01:39.683Z
-      stale_days: 1
+      stale_days: 3
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -671,7 +973,7 @@ buckets:
         einzigartige Kundenbetreuung und starke Erfolgserlebnisse , sowohl für
         unsere Kunden als auch für unser Team. Find more English Speaking Jobs
         in Germany on Arbeitnow"
-      job_types: &a2
+      job_types: &a3
         - teamleitung
       remote: false
       score: 76
@@ -679,7 +981,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-03-02T18:01:39.683Z
       pulled_at: 2026-03-02T18:01:39.683Z
-      stale_days: 1
+      stale_days: 3
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -780,7 +1082,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-03-01T17:43:33.699Z
       pulled_at: 2026-03-01T17:43:33.699Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -907,302 +1209,6 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-03-01T17:43:33.699Z
       pulled_at: 2026-03-01T17:43:33.699Z
-      stale_days: 3
-      is_stale: false
-    - source: greenhouse
-      source_note: ""
-      company: hellofresh
-      title: Senior Programmatic Marketing Manager - Creative Strategy (m/f/x)
-      location: Berlin, Berlin, Germany
-      url: https://careers.hellofresh.com/global/en/job/6967256?gh_jid=6967256
-      updated_at: 2026-02-24T09:08:27-05:00
-      description: "&lt;h2&gt;&lt;strong&gt;The role&lt;/strong&gt;&lt;/h2&gt; &lt;p
-        style=&quot;text-align: justify;&quot;&gt;As Senior Programmatic
-        Marketing Manager in our Marketing department, you will be responsible
-        for driving key consumer activations while implementing a data-driven
-        creative strategy. You will collaborate with market stakeholders to
-        understand local market insights and its implementation in your
-        marketing campaigns while working on a full funnel consumer journey. You
-        will contribute your expertise across 15 Global HelloFresh entities. The
-        ideal candidate is a strategic thinker and hands-on executor with a
-        performance marketing and experimentation mindset, capable of scaling
-        acquisition and conversion metrics for the channel.&lt;/p&gt; &lt;p
-        style=&quot;text-align: justify;&quot;&gt;&lt;span
-        style=&quot;font-weight: 400;&quot;&gt;Above all, we are looking for
-        people who will &lt;strong&gt;make HelloFresh&lt;/strong&gt;
-        &lt;strong&gt;better.&lt;/strong&gt; We believe there are many different
-        ways of developing skills and we love diverse experiences! So even if
-        you don’t “tick all the boxes” but think you’d thrive in this role, we
-        would really like to learn more about you.&lt;/span&gt;&lt;/p&gt;
-        &lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt;
-        &lt;ul&gt; &lt;li&gt;Act as the creative lead and main point of contact
-        for Display &amp;amp; Video creative strategy across
-        platforms&lt;/li&gt; &lt;li&gt;Develop creative experimentation
-        &amp;amp; performance analysis frameworks&lt;/li&gt; &lt;li&gt;Conduct
-        regular audits on creative strategies across markets.&lt;/li&gt;
-        &lt;li&gt;Own the full creative testing and performance analysis
-        strategy, from hypothesis creation and experimentation to reporting and
-        iterative optimization&lt;/li&gt; &lt;li&gt;Drive and develop new
-        creative initiatives, including testing new content formats,
-        storytelling approaches, and creator-led collaborations&lt;/li&gt;
-        &lt;li&gt;Closely collaborate with the Display &amp;amp; Video Campaign
-        Operations team to ensure creative strategies are tailored, aligned, and
-        executed smoothly across all entities&lt;/li&gt; &lt;li&gt;Identify and
-        share creative trends, insights, and best practices across internal
-        teams to inform asset development and campaign direction&lt;/li&gt;
-        &lt;li&gt;Translate performance data into clear recommendations for
-        creative development, collaborating with Brand and Design to implement
-        them&lt;/li&gt; &lt;li&gt;Lead cross-functional creative efforts, such
-        as influencer content integrations and brand partnership
-        initiatives&lt;/li&gt; &lt;li&gt;Bring structure, prioritization, and
-        clear problem-solving to a fast-moving, test-and-learn
-        environment&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;What you’ll
-        bring&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;6+ years of
-        professional experience in programmatic advertising or working with DSP
-        vendors, programmatic trading desks, digital marketing agencies, ad
-        network, 3rd party data companies or other related digital
-        companies.&lt;/li&gt; &lt;li&gt;2+ years of previous strategy
-        development and deployment in digital marketing&amp;nbsp;&lt;/li&gt;
-        &lt;li&gt;Excellent knowledge and skills of Google: Sheet and Slides -
-        can create reports and presentations for internal and external
-        teams&lt;/li&gt; &lt;li&gt;Understanding of digital marketing
-        disciplines from digital display, OTV, SEO, PPC, Ecommerce, social media
-        or affiliate marketing&lt;/li&gt; &lt;li&gt;Excellent communication
-        skills. You will be the go-to-person for multiple marketing and
-        communication teams. Interpersonal skills are a prerequisite for
-        success.&lt;/li&gt; &lt;li&gt;Passionate about digital industry and
-        highly digital savvy&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Our best-in-class
-        marketers play vital roles in connecting HelloFresh with new and
-        existing customers across the world. Based in Berlin, the data-driven
-        and creative Global Marketing Team pioneers industry-leading research,
-        business insight, CRM, growth marketing and brand communication. The
-        team continuously drives our brand forward through experimentation and
-        an entrepreneurial spirit.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What we
-        offer&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Elevate your lifestyle! Join
-        one of Europe&#39;s fastest-growing tech powerhouses in a dynamic phase
-        of expansion.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Immerse yourself in a
-        diverse global community of 90+ nationalities.&lt;/li&gt;
-        &lt;li&gt;Enjoy a competitive compensation package that goes beyond the
-        norm, with perks like a HelloFresh- subsidized Pension Scheme, Berlin
-        relocation support, and a Hybrid working model.&lt;/li&gt;
-        &lt;li&gt;Elevate your lifestyle with exclusive discounts on your weekly
-        HelloFresh box and office meals.&lt;/li&gt; &lt;li&gt;Invest in your
-        growth with an annual learning &amp;amp; development budget, German
-        language learning budget, and access to the HelloFresh
-        Academy.&lt;/li&gt; &lt;li&gt;Plus, we&#39;ve got your well-being
-        covered with mental health support, transportation perks, and
-        working-parent-friendly benefits. From our 24/7 gym access,wellbeing
-        platforms like Headspace and Spill, to sabbatical leave options,
-        HelloFresh is not just a workplace; it&#39;s a lifestyle of perks and
-        possibilities!&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;Are you up
-        for the challenge?&lt;/strong&gt;&lt;/h2&gt; &lt;p
-        style=&quot;text-align: justify;&quot;&gt;&lt;span
-        style=&quot;font-weight: 400;&quot;&gt;Please submit your complete
-        application below including your salary expectations and earliest
-        starting date.&lt;/span&gt;&lt;/p&gt; &lt;p style=&quot;text-align:
-        justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;After
-        submitting an application our team will review this and get back to you
-        within 5 business days.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;"
-      score: 110
-      skill_hits: 4
-      bucket_id: marketing_general
-      fetched_at: 2026-02-28T17:41:38.344Z
-      pulled_at: 2026-02-28T17:41:38.344Z
-      stale_days: 4
-      is_stale: false
-    - source: arbeitnow
-      source_note: ""
-      company: traide AI
-      title: Performance Marketing Manager (m/f/d)
-      location: Berlin
-      url: https://www.arbeitnow.com/jobs/companies/traide-ai/performance-marketing-manager-berlin-41283
-      updated_at: 1772204523
-      description: "We are traide AI – a VC-backed, B2B SaaS startup based in Berlin,
-        using AI to solve one of the most overlooked yet critical challenges in
-        international trade: customs compliance. Our software automates product
-        classification, reduces regulatory errors, and helps customers save up
-        to 83% of their time. Trusted by companies like Siemens Healthineers,
-        BMW, Rimowa, Continental, Edeka, and KoRo, we've experienced rapid
-        growth and are scaling fast – and we're just getting started. As an
-        ambitious team, we focus on sustainable, high-quality growth. Our
-        product creates real value — now we’re looking for a Performance
-        Marketing Manager who takes full ownership of our paid channels and
-        systematically scales them with a strong data-driven mindset. Aufgaben
-        Own and scale our performance marketing strategy across key paid
-        channels (Google, Meta, LinkedIn, and beyond) Plan, launch, test, and
-        optimize full-funnel campaigns — from awareness to qualified pipeline
-        Develop high-converting ad concepts in close collaboration with design
-        and content Continuously analyze performance metrics, improve tracking
-        setups, and translate insights into actionable optimizations Take full
-        budget responsibility including allocation, monitoring, forecasting, and
-        ROI optimization Align closely with Marketing, Sales, and Product to
-        support both self-service and sales-driven growth Proactively test new
-        channels, audiences, creatives, and formats to unlock new growth levers
-        Qualifikation 5+ years of hands-on experience in performance marketing,
-        ideally in B2B SaaS Proven track record in scaling paid acquisition and
-        contributing directly to pipeline growth Strong expertise in Google Ads
-        and Meta Ads; LinkedIn Ads experience is a plus Deep understanding of
-        KPIs across the full funnel (CPL, CAC, CPX, CVR, pipeline impact)
-        Experience with tracking, attribution models, and marketing automation
-        tools (e.g. HubSpot, GA4) Strong analytical mindset combined with
-        strategic thinking High level of ownership and a drive to continuously
-        challenge the status quo Excellent communication skills and
-        cross-functional collaboration abilities Fluent German (minimum C1) is a
-        knockout criterion; very good English skills required Nice to have:
-        Experience in a fast-growing startup or agency environment Strong
-        reporting and dashboard skills (e.g. Looker Studio, Google Sheets)
-        Affinity for AI-driven products or complex B2B solutions Benefits Real
-        ownership from day one — your work directly impacts company growth True
-        startup spirit with fast decision-making and meaningful responsibility
-        Urban Sports Club membership Office at Senefelder Platz in Prenzlauer
-        Berg Flexible working model: In our beautiful office, we foster a
-        vibrant team culture and enjoy working together on-site. Home office is
-        possible 2 days per week. Regular team events and close collaboration
-        with customers and stakeholders Flat hierarchies and direct
-        communication We value diversity and are committed to creating an
-        inclusive environment for all employees. If you're passionate about
-        making a difference and eager to learn, we'd love to hear from you –
-        even if you don't meet every requirement. And one more thing: We’re not
-        just building an AI product, we’re building an AI company. From how we
-        think about processes to how we grow teams and shape our culture – AI is
-        at the core of how we operate. Application process: You will receive
-        feedback within two weeks. The process includes interviews, a practical
-        challenge, and conversations with our team. Find more English Speaking
-        Jobs in Germany on Arbeitnow"
-      job_types: &a3 []
-      remote: false
-      score: 82
-      skill_hits: 2
-      bucket_id: marketing_general
-      fetched_at: 2026-02-28T17:41:38.344Z
-      pulled_at: 2026-02-28T17:41:38.344Z
-      stale_days: 4
-      is_stale: false
-    - source: arbeitnow
-      source_note: ""
-      company: homie
-      title: Marketing Manager Paid & Performance (m/w/d)
-      location: Hamburg
-      url: https://www.arbeitnow.com/jobs/companies/homie/marketing-manager-paid-performance-hamburg-183233
-      updated_at: 1772211688
-      description: "Über homie – Dein zukünftiger Arbeitgeber mit Zukunft homie ist
-        ein stark wachsendes deutsches KI-Startup mit langfristig gesicherter
-        Finanzierung. Unser Homie ist ein KI-basierter Assistent, der in
-        Echtzeit berät und so für zufriedene Kunden und mehr Umsatz sorgt. Wir
-        sind ganz vorne mit dabei, wenn es darum geht KI-Systeme der Zukunft zu
-        gestalten. Unsere Mission: Mit smarter, evolutionärer KI und echtem
-        Praxisnutzen die Beratung und den Verkauf auf ein neues Level heben.
-        Aufgaben Deine Rolle – werde unser Wachstums-Architekt Als Marketing
-        Manager Paid &#x26; Performance (m/w/d) übernimmst du eine zentrale
-        Rolle in unserem Wachstumskurs. Du wirst unser Architekt und
-        strategischer Treiber für planbares, skalierbares Neukundengeschäft
-        sein. Dein Fokus liegt darauf, aus Marketingbudget eine messbare
-        Pipeline zu entwickeln – datenbasiert, effizient und kontinuierlich
-        optimiert. Du analysierst Zielgruppen, Märkte und Wettbewerber und
-        entwickelst darauf aufbauend eine ganzheitliche Paid-Strategie entlang
-        des gesamten Funnels – von Awareness über Consideration bis hin zur
-        Conversion. Dabei verstehst du es, Performance-Marketing nicht isoliert
-        zu denken, sondern als integralen Bestandteil unserer Revenue-Strategie
-        in enger Verzahnung mit Sales und Customer Success. Du identifizierst
-        Wachstumspotenziale, testest neue Kanäle und Creatives, baust
-        skalierbare Kampagnenstrukturen auf und entwickelst bestehende Setups
-        kontinuierlich weiter. KPIs wie CPL, CAC, Conversion Rate und
-        Pipeline-Impact sind für dich nicht nur Reporting-Zahlen, sondern
-        Steuerungsinstrumente. Gleichzeitig bringst du strategische Weitsicht
-        mit: Du hinterfragst bestehende Prozesse, optimierst Tracking- und
-        Attributionsmodelle und nutzt moderne KI-Tools sowie Automatisierungen,
-        um Effizienz und Performance stetig zu steigern. Im Mittelpunkt steht:
-        qualitative Leads, transparente Performance-Strukturen und nachhaltiges
-        Wachstum für ein ambitioniertes KI-Startup. Du berichtest direkt an die
-        Geschäftsführung Marketing &#x26; Sales. Ganzheitliche
-        Performance-Strategie: Entwicklung und kontinuierliche Weiterentwicklung
-        einer datenbasierten Paid-Strategie entlang des gesamten B2B-Funnels
-        (Awareness bis Conversion) Full-Funnel Campaign Ownership:
-        Eigenverantwortliche Planung, Umsetzung und Skalierung
-        kanalübergreifender Kampagnen (z. B. Google, LinkedIn, Meta) mit klarem
-        Fokus auf Pipeline-Impact Wachstum &#x26; Skalierung: Identifikation
-        neuer Wachstumshebel, Zielgruppen und Kanäle sowie systematisches
-        Testing und Validieren neuer Ansätze Marketing-Sales-Alignment: Enge
-        Zusammenarbeit mit Sales zur Definition von Ideal Customer Profiles
-        (ICP), Lead-Scoring-Modellen und Feedback-Loops zur Qualitätssteigerung
-        Lead- &#x26; Pipeline-Optimierung: Generierung qualifizierter B2B-Leads
-        in enger Abstimmung mit Sales – mit Fokus auf Leadqualität, Conversion
-        und nachhaltigem Revenue-Impact KPI-Steuerung &#x26;
-        Budgetverantwortung: Strategische Allokation und Skalierung von
-        Werbebudgets auf Basis von CPL, CAC, ROAS und Customer Lifetime Value
-        Tracking &#x26; Attribution: Aufbau, Optimierung und Qualitätssicherung
-        eines sauberen Tracking-Setups (z. B. GA, Tag Manager, CRM-Integration)
-        inklusive Weiterentwicklung von Attributionsmodellen
-        Conversion-Rate-Optimierung: Analyse und Optimierung von Landingpages,
-        Funnels, Creatives und Messaging auf Basis datengetriebener Insights und
-        A/B-Tests Reporting &#x26; Insights: Erstellung transparenter
-        Performance-Reports mit klaren Handlungsempfehlungen für die
-        Geschäftsführung AI &#x26; Automatisierung: Einsatz moderner KI-Tools
-        und Marketing-Automationen zur Effizienzsteigerung, Skalierung und
-        datenbasierten Entscheidungsfindung Prozess- &#x26; Strukturaufbau:
-        Mitgestaltung skalierbarer Performance-Strukturen und interner Best
-        Practices in einem wachsenden KI-Startup Qualifikation • Du hast
-        Performance-Marketing bereits skalierend verantwortet – idealerweise im
-        B2B-, SaaS- oder Tech-Umfeld – und kannst messbare Erfolge vorweisen (z.
-        B. signifikante Senkung des CAC, Skalierung von Budgets bei stabilem
-        ROAS, Aufbau planbarer Pipeline) Du denkst in Revenue, nicht in
-        Reichweite. Pipeline-Impact, SQL-Qualität und Customer Lifetime Value
-        sind für dich die relevanten Steuerungsgrößen Du hast echte
-        Budgetverantwortung getragen und Kampagnen von validierten Tests auf
-        sechsstellige Jahresbudgets skaliert Du baust skalierbare
-        Performance-Strukturen, nicht nur einzelne Kampagnen – saubere Setups,
-        klare KPI-Logik, nachhaltige Skalierungsmechanismen Tracking ist für
-        dich kein Nice-to-have, sondern Fundament. Du verstehst Attribution,
-        CRM-Integration und datengetriebene Entscheidungsmodelle Du triffst
-        Entscheidungen auf Basis von Daten – schnell und pragmatisch. 80/20 ist
-        für dich ein Werkzeug, kein Risiko Testing ist Teil deiner DNA. Du
-        validierst Hypothesen strukturiert, testest aggressiv und optimierst
-        kontinuierlich Du verbindest Kreativität mit Performance-Denken. Starke
-        Creatives und klare Messaging-Logik gehören für dich zusammen Du nutzt
-        KI und Automatisierung proaktiv, um Effizienz, Skalierbarkeit und
-        Wettbewerbsvorteile zu schaffen Du arbeitest unternehmerisch. Du wartest
-        nicht auf perfekte Rahmenbedingungen, sondern schaffst sie. Du
-        übernimmst Verantwortung, wartest nicht auf Briefings und willst mit
-        hoher Ergebnisorientierung aktiv gestalten Du kommunizierst klar,
-        fordernd und lösungsorientiert – auch gegenüber Geschäftsführung,
-        Produkt und Sales Du willst Impact. Nicht nur ein Kampagnenmanagement
-        aufbauen, sondern einen messbaren Beitrag zum Unternehmenswachstum
-        leisten Du bist ein Teamplayer. Ambitioniertes Mindset und Kollegialität
-        schließen sich für dich nicht aus, sondern gehören zusammen Benefits
-        Remote oder Hybrid: Arbeite flexibel von überall oder in unserem
-        Co-Working-Space in Hamburg Startup-Spirit: Schnelle Entscheidungen,
-        flache Hierarchien, agile Arbeitsweise und viel Gestaltungsspielraum
-        Learning Culture: Intensive Einarbeitung, offene Feedback-Kultur mit
-        persönlichem Mentoring &#x26; echtes On-the-Job-Learning Teamwork first:
-        Du arbeitest eng mit erfahrenen Sales Managern zusammen und lernst
-        direkt von ihnen. Kollegiale &#x26; persönliche Atmosphäre, regelmäßige
-        Teamevents und Knowledge-Sharing-Sessions Lösungsorientierte Kultur: Wir
-        fördern Kreativität, Eigenverantwortung und den Willen, Dinge
-        voranzutreiben KI-Boost: Du nutzt modernste Tools – von KI-Outreach bis
-        hin zu Automatisierungen, die deine Arbeit smarter und zukunftssicher
-        machen Keep going smarter: Budget für Weiterbildung, Konferenzen und
-        E-Learnings, um immer auf dem neuesten Stand der KI-Entwicklung zu
-        bleiben Your benefits: Mit einem monatlichen Zuschuss unterstützen wir
-        dich bei Mobilität, Fitness, Lebensmitteln oder sonstigem Warum diese
-        Rolle perfekt für Dich ist Du bekommst echten Wachstumseinfluss. Deine
-        Entscheidungen wirken direkt auf Pipeline, Umsatz und Skalierung. Klare
-        Ziele, viel Freiheit in der Umsetzung und Verantwortung für Budget und
-        Ergebnis. Du baust Performance-Strukturen von Grund auf mit auf. Kein
-        starres Konzernkonstrukt, sondern die Chance, ein skalierbares
-        Growth-Setup aktiv mitzugestalten. Du arbeitest im Zukunftsmarkt KI.
-        Performance-Marketing für ein innovatives KI-Produkt bedeutet hohe
-        Relevanz, klare Differenzierung und echtes Marktpotenzial. Du bist
-        strategischer Sparringspartner fürs Management. Deine Insights
-        beeinflussen Go-to-Market-Strategien und Wachstumsentscheidungen auf
-        GF-Ebene. Find more English Speaking Jobs in Germany on Arbeitnow"
-      job_types:
-        - berufserfahren
-      remote: false
-      score: 76
-      skill_hits: 1
-      bucket_id: marketing_general
-      fetched_at: 2026-02-28T17:41:38.344Z
-      pulled_at: 2026-02-28T17:41:38.344Z
       stale_days: 4
       is_stale: false
     - source: greenhouse
@@ -1302,8 +1308,8 @@ buckets:
       score: 110
       skill_hits: 4
       bucket_id: marketing_general
-      fetched_at: 2026-02-27T17:57:25.246Z
-      pulled_at: 2026-02-27T17:57:25.246Z
+      fetched_at: 2026-02-28T17:41:38.344Z
+      pulled_at: 2026-02-28T17:41:38.344Z
       stale_days: 5
       is_stale: false
     - source: arbeitnow
@@ -1370,9 +1376,305 @@ buckets:
       score: 82
       skill_hits: 2
       bucket_id: marketing_general
+      fetched_at: 2026-02-28T17:41:38.344Z
+      pulled_at: 2026-02-28T17:41:38.344Z
+      stale_days: 5
+      is_stale: false
+    - source: arbeitnow
+      source_note: ""
+      company: homie
+      title: Marketing Manager Paid & Performance (m/w/d)
+      location: Hamburg
+      url: https://www.arbeitnow.com/jobs/companies/homie/marketing-manager-paid-performance-hamburg-183233
+      updated_at: 1772211688
+      description: "Über homie – Dein zukünftiger Arbeitgeber mit Zukunft homie ist
+        ein stark wachsendes deutsches KI-Startup mit langfristig gesicherter
+        Finanzierung. Unser Homie ist ein KI-basierter Assistent, der in
+        Echtzeit berät und so für zufriedene Kunden und mehr Umsatz sorgt. Wir
+        sind ganz vorne mit dabei, wenn es darum geht KI-Systeme der Zukunft zu
+        gestalten. Unsere Mission: Mit smarter, evolutionärer KI und echtem
+        Praxisnutzen die Beratung und den Verkauf auf ein neues Level heben.
+        Aufgaben Deine Rolle – werde unser Wachstums-Architekt Als Marketing
+        Manager Paid &#x26; Performance (m/w/d) übernimmst du eine zentrale
+        Rolle in unserem Wachstumskurs. Du wirst unser Architekt und
+        strategischer Treiber für planbares, skalierbares Neukundengeschäft
+        sein. Dein Fokus liegt darauf, aus Marketingbudget eine messbare
+        Pipeline zu entwickeln – datenbasiert, effizient und kontinuierlich
+        optimiert. Du analysierst Zielgruppen, Märkte und Wettbewerber und
+        entwickelst darauf aufbauend eine ganzheitliche Paid-Strategie entlang
+        des gesamten Funnels – von Awareness über Consideration bis hin zur
+        Conversion. Dabei verstehst du es, Performance-Marketing nicht isoliert
+        zu denken, sondern als integralen Bestandteil unserer Revenue-Strategie
+        in enger Verzahnung mit Sales und Customer Success. Du identifizierst
+        Wachstumspotenziale, testest neue Kanäle und Creatives, baust
+        skalierbare Kampagnenstrukturen auf und entwickelst bestehende Setups
+        kontinuierlich weiter. KPIs wie CPL, CAC, Conversion Rate und
+        Pipeline-Impact sind für dich nicht nur Reporting-Zahlen, sondern
+        Steuerungsinstrumente. Gleichzeitig bringst du strategische Weitsicht
+        mit: Du hinterfragst bestehende Prozesse, optimierst Tracking- und
+        Attributionsmodelle und nutzt moderne KI-Tools sowie Automatisierungen,
+        um Effizienz und Performance stetig zu steigern. Im Mittelpunkt steht:
+        qualitative Leads, transparente Performance-Strukturen und nachhaltiges
+        Wachstum für ein ambitioniertes KI-Startup. Du berichtest direkt an die
+        Geschäftsführung Marketing &#x26; Sales. Ganzheitliche
+        Performance-Strategie: Entwicklung und kontinuierliche Weiterentwicklung
+        einer datenbasierten Paid-Strategie entlang des gesamten B2B-Funnels
+        (Awareness bis Conversion) Full-Funnel Campaign Ownership:
+        Eigenverantwortliche Planung, Umsetzung und Skalierung
+        kanalübergreifender Kampagnen (z. B. Google, LinkedIn, Meta) mit klarem
+        Fokus auf Pipeline-Impact Wachstum &#x26; Skalierung: Identifikation
+        neuer Wachstumshebel, Zielgruppen und Kanäle sowie systematisches
+        Testing und Validieren neuer Ansätze Marketing-Sales-Alignment: Enge
+        Zusammenarbeit mit Sales zur Definition von Ideal Customer Profiles
+        (ICP), Lead-Scoring-Modellen und Feedback-Loops zur Qualitätssteigerung
+        Lead- &#x26; Pipeline-Optimierung: Generierung qualifizierter B2B-Leads
+        in enger Abstimmung mit Sales – mit Fokus auf Leadqualität, Conversion
+        und nachhaltigem Revenue-Impact KPI-Steuerung &#x26;
+        Budgetverantwortung: Strategische Allokation und Skalierung von
+        Werbebudgets auf Basis von CPL, CAC, ROAS und Customer Lifetime Value
+        Tracking &#x26; Attribution: Aufbau, Optimierung und Qualitätssicherung
+        eines sauberen Tracking-Setups (z. B. GA, Tag Manager, CRM-Integration)
+        inklusive Weiterentwicklung von Attributionsmodellen
+        Conversion-Rate-Optimierung: Analyse und Optimierung von Landingpages,
+        Funnels, Creatives und Messaging auf Basis datengetriebener Insights und
+        A/B-Tests Reporting &#x26; Insights: Erstellung transparenter
+        Performance-Reports mit klaren Handlungsempfehlungen für die
+        Geschäftsführung AI &#x26; Automatisierung: Einsatz moderner KI-Tools
+        und Marketing-Automationen zur Effizienzsteigerung, Skalierung und
+        datenbasierten Entscheidungsfindung Prozess- &#x26; Strukturaufbau:
+        Mitgestaltung skalierbarer Performance-Strukturen und interner Best
+        Practices in einem wachsenden KI-Startup Qualifikation • Du hast
+        Performance-Marketing bereits skalierend verantwortet – idealerweise im
+        B2B-, SaaS- oder Tech-Umfeld – und kannst messbare Erfolge vorweisen (z.
+        B. signifikante Senkung des CAC, Skalierung von Budgets bei stabilem
+        ROAS, Aufbau planbarer Pipeline) Du denkst in Revenue, nicht in
+        Reichweite. Pipeline-Impact, SQL-Qualität und Customer Lifetime Value
+        sind für dich die relevanten Steuerungsgrößen Du hast echte
+        Budgetverantwortung getragen und Kampagnen von validierten Tests auf
+        sechsstellige Jahresbudgets skaliert Du baust skalierbare
+        Performance-Strukturen, nicht nur einzelne Kampagnen – saubere Setups,
+        klare KPI-Logik, nachhaltige Skalierungsmechanismen Tracking ist für
+        dich kein Nice-to-have, sondern Fundament. Du verstehst Attribution,
+        CRM-Integration und datengetriebene Entscheidungsmodelle Du triffst
+        Entscheidungen auf Basis von Daten – schnell und pragmatisch. 80/20 ist
+        für dich ein Werkzeug, kein Risiko Testing ist Teil deiner DNA. Du
+        validierst Hypothesen strukturiert, testest aggressiv und optimierst
+        kontinuierlich Du verbindest Kreativität mit Performance-Denken. Starke
+        Creatives und klare Messaging-Logik gehören für dich zusammen Du nutzt
+        KI und Automatisierung proaktiv, um Effizienz, Skalierbarkeit und
+        Wettbewerbsvorteile zu schaffen Du arbeitest unternehmerisch. Du wartest
+        nicht auf perfekte Rahmenbedingungen, sondern schaffst sie. Du
+        übernimmst Verantwortung, wartest nicht auf Briefings und willst mit
+        hoher Ergebnisorientierung aktiv gestalten Du kommunizierst klar,
+        fordernd und lösungsorientiert – auch gegenüber Geschäftsführung,
+        Produkt und Sales Du willst Impact. Nicht nur ein Kampagnenmanagement
+        aufbauen, sondern einen messbaren Beitrag zum Unternehmenswachstum
+        leisten Du bist ein Teamplayer. Ambitioniertes Mindset und Kollegialität
+        schließen sich für dich nicht aus, sondern gehören zusammen Benefits
+        Remote oder Hybrid: Arbeite flexibel von überall oder in unserem
+        Co-Working-Space in Hamburg Startup-Spirit: Schnelle Entscheidungen,
+        flache Hierarchien, agile Arbeitsweise und viel Gestaltungsspielraum
+        Learning Culture: Intensive Einarbeitung, offene Feedback-Kultur mit
+        persönlichem Mentoring &#x26; echtes On-the-Job-Learning Teamwork first:
+        Du arbeitest eng mit erfahrenen Sales Managern zusammen und lernst
+        direkt von ihnen. Kollegiale &#x26; persönliche Atmosphäre, regelmäßige
+        Teamevents und Knowledge-Sharing-Sessions Lösungsorientierte Kultur: Wir
+        fördern Kreativität, Eigenverantwortung und den Willen, Dinge
+        voranzutreiben KI-Boost: Du nutzt modernste Tools – von KI-Outreach bis
+        hin zu Automatisierungen, die deine Arbeit smarter und zukunftssicher
+        machen Keep going smarter: Budget für Weiterbildung, Konferenzen und
+        E-Learnings, um immer auf dem neuesten Stand der KI-Entwicklung zu
+        bleiben Your benefits: Mit einem monatlichen Zuschuss unterstützen wir
+        dich bei Mobilität, Fitness, Lebensmitteln oder sonstigem Warum diese
+        Rolle perfekt für Dich ist Du bekommst echten Wachstumseinfluss. Deine
+        Entscheidungen wirken direkt auf Pipeline, Umsatz und Skalierung. Klare
+        Ziele, viel Freiheit in der Umsetzung und Verantwortung für Budget und
+        Ergebnis. Du baust Performance-Strukturen von Grund auf mit auf. Kein
+        starres Konzernkonstrukt, sondern die Chance, ein skalierbares
+        Growth-Setup aktiv mitzugestalten. Du arbeitest im Zukunftsmarkt KI.
+        Performance-Marketing für ein innovatives KI-Produkt bedeutet hohe
+        Relevanz, klare Differenzierung und echtes Marktpotenzial. Du bist
+        strategischer Sparringspartner fürs Management. Deine Insights
+        beeinflussen Go-to-Market-Strategien und Wachstumsentscheidungen auf
+        GF-Ebene. Find more English Speaking Jobs in Germany on Arbeitnow"
+      job_types:
+        - berufserfahren
+      remote: false
+      score: 76
+      skill_hits: 1
+      bucket_id: marketing_general
+      fetched_at: 2026-02-28T17:41:38.344Z
+      pulled_at: 2026-02-28T17:41:38.344Z
+      stale_days: 5
+      is_stale: false
+    - source: greenhouse
+      source_note: ""
+      company: hellofresh
+      title: Senior Programmatic Marketing Manager - Creative Strategy (m/f/x)
+      location: Berlin, Berlin, Germany
+      url: https://careers.hellofresh.com/global/en/job/6967256?gh_jid=6967256
+      updated_at: 2026-02-24T09:08:27-05:00
+      description: "&lt;h2&gt;&lt;strong&gt;The role&lt;/strong&gt;&lt;/h2&gt; &lt;p
+        style=&quot;text-align: justify;&quot;&gt;As Senior Programmatic
+        Marketing Manager in our Marketing department, you will be responsible
+        for driving key consumer activations while implementing a data-driven
+        creative strategy. You will collaborate with market stakeholders to
+        understand local market insights and its implementation in your
+        marketing campaigns while working on a full funnel consumer journey. You
+        will contribute your expertise across 15 Global HelloFresh entities. The
+        ideal candidate is a strategic thinker and hands-on executor with a
+        performance marketing and experimentation mindset, capable of scaling
+        acquisition and conversion metrics for the channel.&lt;/p&gt; &lt;p
+        style=&quot;text-align: justify;&quot;&gt;&lt;span
+        style=&quot;font-weight: 400;&quot;&gt;Above all, we are looking for
+        people who will &lt;strong&gt;make HelloFresh&lt;/strong&gt;
+        &lt;strong&gt;better.&lt;/strong&gt; We believe there are many different
+        ways of developing skills and we love diverse experiences! So even if
+        you don’t “tick all the boxes” but think you’d thrive in this role, we
+        would really like to learn more about you.&lt;/span&gt;&lt;/p&gt;
+        &lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt;
+        &lt;ul&gt; &lt;li&gt;Act as the creative lead and main point of contact
+        for Display &amp;amp; Video creative strategy across
+        platforms&lt;/li&gt; &lt;li&gt;Develop creative experimentation
+        &amp;amp; performance analysis frameworks&lt;/li&gt; &lt;li&gt;Conduct
+        regular audits on creative strategies across markets.&lt;/li&gt;
+        &lt;li&gt;Own the full creative testing and performance analysis
+        strategy, from hypothesis creation and experimentation to reporting and
+        iterative optimization&lt;/li&gt; &lt;li&gt;Drive and develop new
+        creative initiatives, including testing new content formats,
+        storytelling approaches, and creator-led collaborations&lt;/li&gt;
+        &lt;li&gt;Closely collaborate with the Display &amp;amp; Video Campaign
+        Operations team to ensure creative strategies are tailored, aligned, and
+        executed smoothly across all entities&lt;/li&gt; &lt;li&gt;Identify and
+        share creative trends, insights, and best practices across internal
+        teams to inform asset development and campaign direction&lt;/li&gt;
+        &lt;li&gt;Translate performance data into clear recommendations for
+        creative development, collaborating with Brand and Design to implement
+        them&lt;/li&gt; &lt;li&gt;Lead cross-functional creative efforts, such
+        as influencer content integrations and brand partnership
+        initiatives&lt;/li&gt; &lt;li&gt;Bring structure, prioritization, and
+        clear problem-solving to a fast-moving, test-and-learn
+        environment&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;What you’ll
+        bring&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;6+ years of
+        professional experience in programmatic advertising or working with DSP
+        vendors, programmatic trading desks, digital marketing agencies, ad
+        network, 3rd party data companies or other related digital
+        companies.&lt;/li&gt; &lt;li&gt;2+ years of previous strategy
+        development and deployment in digital marketing&amp;nbsp;&lt;/li&gt;
+        &lt;li&gt;Excellent knowledge and skills of Google: Sheet and Slides -
+        can create reports and presentations for internal and external
+        teams&lt;/li&gt; &lt;li&gt;Understanding of digital marketing
+        disciplines from digital display, OTV, SEO, PPC, Ecommerce, social media
+        or affiliate marketing&lt;/li&gt; &lt;li&gt;Excellent communication
+        skills. You will be the go-to-person for multiple marketing and
+        communication teams. Interpersonal skills are a prerequisite for
+        success.&lt;/li&gt; &lt;li&gt;Passionate about digital industry and
+        highly digital savvy&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Our best-in-class
+        marketers play vital roles in connecting HelloFresh with new and
+        existing customers across the world. Based in Berlin, the data-driven
+        and creative Global Marketing Team pioneers industry-leading research,
+        business insight, CRM, growth marketing and brand communication. The
+        team continuously drives our brand forward through experimentation and
+        an entrepreneurial spirit.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What we
+        offer&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Elevate your lifestyle! Join
+        one of Europe&#39;s fastest-growing tech powerhouses in a dynamic phase
+        of expansion.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Immerse yourself in a
+        diverse global community of 90+ nationalities.&lt;/li&gt;
+        &lt;li&gt;Enjoy a competitive compensation package that goes beyond the
+        norm, with perks like a HelloFresh- subsidized Pension Scheme, Berlin
+        relocation support, and a Hybrid working model.&lt;/li&gt;
+        &lt;li&gt;Elevate your lifestyle with exclusive discounts on your weekly
+        HelloFresh box and office meals.&lt;/li&gt; &lt;li&gt;Invest in your
+        growth with an annual learning &amp;amp; development budget, German
+        language learning budget, and access to the HelloFresh
+        Academy.&lt;/li&gt; &lt;li&gt;Plus, we&#39;ve got your well-being
+        covered with mental health support, transportation perks, and
+        working-parent-friendly benefits. From our 24/7 gym access,wellbeing
+        platforms like Headspace and Spill, to sabbatical leave options,
+        HelloFresh is not just a workplace; it&#39;s a lifestyle of perks and
+        possibilities!&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;Are you up
+        for the challenge?&lt;/strong&gt;&lt;/h2&gt; &lt;p
+        style=&quot;text-align: justify;&quot;&gt;&lt;span
+        style=&quot;font-weight: 400;&quot;&gt;Please submit your complete
+        application below including your salary expectations and earliest
+        starting date.&lt;/span&gt;&lt;/p&gt; &lt;p style=&quot;text-align:
+        justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;After
+        submitting an application our team will review this and get back to you
+        within 5 business days.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;"
+      score: 110
+      skill_hits: 4
+      bucket_id: marketing_general
       fetched_at: 2026-02-27T17:57:25.246Z
       pulled_at: 2026-02-27T17:57:25.246Z
-      stale_days: 5
+      stale_days: 6
+      is_stale: false
+    - source: arbeitnow
+      source_note: ""
+      company: traide AI
+      title: Performance Marketing Manager (m/f/d)
+      location: Berlin
+      url: https://www.arbeitnow.com/jobs/companies/traide-ai/performance-marketing-manager-berlin-41283
+      updated_at: 1772204523
+      description: "We are traide AI – a VC-backed, B2B SaaS startup based in Berlin,
+        using AI to solve one of the most overlooked yet critical challenges in
+        international trade: customs compliance. Our software automates product
+        classification, reduces regulatory errors, and helps customers save up
+        to 83% of their time. Trusted by companies like Siemens Healthineers,
+        BMW, Rimowa, Continental, Edeka, and KoRo, we've experienced rapid
+        growth and are scaling fast – and we're just getting started. As an
+        ambitious team, we focus on sustainable, high-quality growth. Our
+        product creates real value — now we’re looking for a Performance
+        Marketing Manager who takes full ownership of our paid channels and
+        systematically scales them with a strong data-driven mindset. Aufgaben
+        Own and scale our performance marketing strategy across key paid
+        channels (Google, Meta, LinkedIn, and beyond) Plan, launch, test, and
+        optimize full-funnel campaigns — from awareness to qualified pipeline
+        Develop high-converting ad concepts in close collaboration with design
+        and content Continuously analyze performance metrics, improve tracking
+        setups, and translate insights into actionable optimizations Take full
+        budget responsibility including allocation, monitoring, forecasting, and
+        ROI optimization Align closely with Marketing, Sales, and Product to
+        support both self-service and sales-driven growth Proactively test new
+        channels, audiences, creatives, and formats to unlock new growth levers
+        Qualifikation 5+ years of hands-on experience in performance marketing,
+        ideally in B2B SaaS Proven track record in scaling paid acquisition and
+        contributing directly to pipeline growth Strong expertise in Google Ads
+        and Meta Ads; LinkedIn Ads experience is a plus Deep understanding of
+        KPIs across the full funnel (CPL, CAC, CPX, CVR, pipeline impact)
+        Experience with tracking, attribution models, and marketing automation
+        tools (e.g. HubSpot, GA4) Strong analytical mindset combined with
+        strategic thinking High level of ownership and a drive to continuously
+        challenge the status quo Excellent communication skills and
+        cross-functional collaboration abilities Fluent German (minimum C1) is a
+        knockout criterion; very good English skills required Nice to have:
+        Experience in a fast-growing startup or agency environment Strong
+        reporting and dashboard skills (e.g. Looker Studio, Google Sheets)
+        Affinity for AI-driven products or complex B2B solutions Benefits Real
+        ownership from day one — your work directly impacts company growth True
+        startup spirit with fast decision-making and meaningful responsibility
+        Urban Sports Club membership Office at Senefelder Platz in Prenzlauer
+        Berg Flexible working model: In our beautiful office, we foster a
+        vibrant team culture and enjoy working together on-site. Home office is
+        possible 2 days per week. Regular team events and close collaboration
+        with customers and stakeholders Flat hierarchies and direct
+        communication We value diversity and are committed to creating an
+        inclusive environment for all employees. If you're passionate about
+        making a difference and eager to learn, we'd love to hear from you –
+        even if you don't meet every requirement. And one more thing: We’re not
+        just building an AI product, we’re building an AI company. From how we
+        think about processes to how we grow teams and shape our culture – AI is
+        at the core of how we operate. Application process: You will receive
+        feedback within two weeks. The process includes interviews, a practical
+        challenge, and conversations with our team. Find more English Speaking
+        Jobs in Germany on Arbeitnow"
+      job_types: &a5 []
+      remote: false
+      score: 82
+      skill_hits: 2
+      bucket_id: marketing_general
+      fetched_at: 2026-02-27T17:57:25.246Z
+      pulled_at: 2026-02-27T17:57:25.246Z
+      stale_days: 6
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -1473,7 +1775,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-26T18:07:50.817Z
       pulled_at: 2026-02-26T18:07:50.817Z
-      stale_days: 5
+      stale_days: 7
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1543,14 +1845,14 @@ buckets:
         deine Unterlagen inklusive Gehaltsvorstellungen und frühestmöglichem
         Eintrittstermin! Wir sind offen für verschiedene Teilzeitmodelle von
         20-32 Wochenstunden. Find Jobs in Germany on Arbeitnow"
-      job_types: &a5 []
+      job_types: &a6 []
       remote: false
       score: 82
       skill_hits: 2
       bucket_id: marketing_general
       fetched_at: 2026-02-26T18:07:50.817Z
       pulled_at: 2026-02-26T18:07:50.817Z
-      stale_days: 5
+      stale_days: 7
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1626,7 +1928,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-26T18:07:50.817Z
       pulled_at: 2026-02-26T18:07:50.817Z
-      stale_days: 5
+      stale_days: 7
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -1727,7 +2029,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-24T18:13:09.359Z
       pulled_at: 2026-02-24T18:13:09.359Z
-      stale_days: 7
+      stale_days: 9
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1807,7 +2109,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-24T18:13:09.359Z
       pulled_at: 2026-02-24T18:13:09.359Z
-      stale_days: 7
+      stale_days: 9
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -1908,7 +2210,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-23T18:16:53.135Z
       pulled_at: 2026-02-23T18:16:53.135Z
-      stale_days: 8
+      stale_days: 10
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1970,7 +2272,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-23T18:16:53.135Z
       pulled_at: 2026-02-23T18:16:53.135Z
-      stale_days: 8
+      stale_days: 10
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2016,7 +2318,7 @@ buckets:
         mehr als der perfekte Lebenslauf. Schick uns einfach deinen CV und ein
         kurzes Anschreiben, in dem du uns erzählst, warum du Lust auf SEO &#x26;
         Content bei DEIN RAUM hast! Find Jobs in Germany on Arbeitnow"
-      job_types: &a6
+      job_types: &a7
         - Working student
         - hilfstätigkeit / student
       remote: false
@@ -2025,7 +2327,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-23T18:16:53.135Z
       pulled_at: 2026-02-23T18:16:53.135Z
-      stale_days: 8
+      stale_days: 10
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2128,7 +2430,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-23T18:16:53.135Z
       pulled_at: 2026-02-23T18:16:53.135Z
-      stale_days: 8
+      stale_days: 10
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -2229,7 +2531,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-22T17:47:42.002Z
       pulled_at: 2026-02-22T17:47:42.002Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2326,7 +2628,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-22T17:47:42.002Z
       pulled_at: 2026-02-22T17:47:42.002Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2390,7 +2692,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-22T17:47:42.002Z
       pulled_at: 2026-02-22T17:47:42.002Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2449,14 +2751,14 @@ buckets:
         ausführlichen Lebenslauf mit Foto und gib bitte Deine
         Gehaltsvorstellungen in Deiner Bewerbung an. Wir freuen uns auf Deine
         Bewerbung Find more English Speaking Jobs in Germany on Arbeitnow"
-      job_types: &a7 []
+      job_types: &a8 []
       remote: true
       score: 78
       skill_hits: 1
       bucket_id: marketing_general
       fetched_at: 2026-02-22T17:47:42.002Z
       pulled_at: 2026-02-22T17:47:42.002Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2510,7 +2812,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-22T17:47:42.002Z
       pulled_at: 2026-02-22T17:47:42.002Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -2611,7 +2913,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-21T17:46:58.243Z
       pulled_at: 2026-02-21T17:46:58.243Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2708,7 +3010,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-21T17:46:58.243Z
       pulled_at: 2026-02-21T17:46:58.243Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2767,14 +3069,14 @@ buckets:
         ausführlichen Lebenslauf mit Foto und gib bitte Deine
         Gehaltsvorstellungen in Deiner Bewerbung an. Wir freuen uns auf Deine
         Bewerbung Find more English Speaking Jobs in Germany on Arbeitnow"
-      job_types: &a8 []
+      job_types: &a9 []
       remote: true
       score: 78
       skill_hits: 1
       bucket_id: marketing_general
       fetched_at: 2026-02-21T17:46:58.243Z
       pulled_at: 2026-02-21T17:46:58.243Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2828,7 +3130,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-21T17:46:58.243Z
       pulled_at: 2026-02-21T17:46:58.243Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -2929,7 +3231,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-20T17:59:06.701Z
       pulled_at: 2026-02-20T17:59:06.701Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -3030,7 +3332,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-19T18:09:36.225Z
       pulled_at: 2026-02-19T18:09:36.225Z
-      stale_days: 12
+      stale_days: 14
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3099,14 +3401,14 @@ buckets:
         Lebenslauf und ein kurzes Schreiben, warum gerade du die richtige Person
         für den Job bist. Wir freuen uns auf deine Bewerbung! 🚀 Find more
         English Speaking Jobs in Germany on Arbeitnow"
-      job_types: &a9 []
+      job_types: &a10 []
       remote: true
       score: 80
       skill_hits: 2
       bucket_id: marketing_general
       fetched_at: 2026-02-19T18:09:36.225Z
       pulled_at: 2026-02-19T18:09:36.225Z
-      stale_days: 12
+      stale_days: 14
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3168,7 +3470,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-19T18:09:36.225Z
       pulled_at: 2026-02-19T18:09:36.225Z
-      stale_days: 12
+      stale_days: 14
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -3269,7 +3571,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-18T18:05:51.668Z
       pulled_at: 2026-02-18T18:05:51.668Z
-      stale_days: 13
+      stale_days: 15
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -3370,7 +3672,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-17T18:11:01.254Z
       pulled_at: 2026-02-17T18:11:01.254Z
-      stale_days: 14
+      stale_days: 16
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -3468,7 +3770,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-17T18:11:01.254Z
       pulled_at: 2026-02-17T18:11:01.254Z
-      stale_days: 14
+      stale_days: 16
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3542,7 +3844,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-17T18:11:01.254Z
       pulled_at: 2026-02-17T18:11:01.254Z
-      stale_days: 14
+      stale_days: 16
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3618,7 +3920,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-17T18:11:01.254Z
       pulled_at: 2026-02-17T18:11:01.254Z
-      stale_days: 14
+      stale_days: 16
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3701,7 +4003,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-17T18:11:01.254Z
       pulled_at: 2026-02-17T18:11:01.254Z
-      stale_days: 14
+      stale_days: 16
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -3802,7 +4104,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-16T17:59:06.592Z
       pulled_at: 2026-02-16T17:59:06.592Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -3900,7 +4202,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-16T17:59:06.592Z
       pulled_at: 2026-02-16T17:59:06.592Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3963,7 +4265,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-16T17:59:06.592Z
       pulled_at: 2026-02-16T17:59:06.592Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -4056,7 +4358,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-16T17:59:06.592Z
       pulled_at: 2026-02-16T17:59:06.592Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -4157,7 +4459,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-15T17:48:29.497Z
       pulled_at: 2026-02-15T17:48:29.497Z
-      stale_days: 17
+      stale_days: 18
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -4255,7 +4557,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-15T17:48:29.497Z
       pulled_at: 2026-02-15T17:48:29.497Z
-      stale_days: 17
+      stale_days: 18
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -4293,14 +4595,14 @@ buckets:
         Content-Beispielen Gewünschte Stundenzahl pro Woche und
         Gehaltsvorstellung Lebenslauf (oder LinkedIn-Profil) Wir freueun uns von
         Dir zu hören! Find Jobs in Germany on Arbeitnow"
-      job_types: &a10 []
+      job_types: &a11 []
       remote: false
       score: 78
       skill_hits: 2
       bucket_id: marketing_general
       fetched_at: 2026-02-15T17:48:29.497Z
       pulled_at: 2026-02-15T17:48:29.497Z
-      stale_days: 17
+      stale_days: 18
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -4401,7 +4703,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-14T17:47:32.325Z
       pulled_at: 2026-02-14T17:47:32.325Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -4499,7 +4801,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-14T17:47:32.325Z
       pulled_at: 2026-02-14T17:47:32.325Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -4568,7 +4870,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-14T17:47:32.325Z
       pulled_at: 2026-02-14T17:47:32.325Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -4606,14 +4908,14 @@ buckets:
         Content-Beispielen Gewünschte Stundenzahl pro Woche und
         Gehaltsvorstellung Lebenslauf (oder LinkedIn-Profil) Wir freueun uns von
         Dir zu hören! Find Jobs in Germany on Arbeitnow"
-      job_types: &a11 []
+      job_types: &a12 []
       remote: false
       score: 78
       skill_hits: 2
       bucket_id: marketing_general
       fetched_at: 2026-02-14T17:47:32.325Z
       pulled_at: 2026-02-14T17:47:32.325Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -4714,7 +5016,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-09T18:08:29.869Z
       pulled_at: 2026-02-09T18:08:29.869Z
-      stale_days: 22
+      stale_days: 24
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -4812,7 +5114,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-09T18:08:29.869Z
       pulled_at: 2026-02-09T18:08:29.869Z
-      stale_days: 22
+      stale_days: 24
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -4913,7 +5215,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-08T17:50:04.683Z
       pulled_at: 2026-02-08T17:50:04.683Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -5041,7 +5343,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-08T17:50:04.683Z
       pulled_at: 2026-02-08T17:50:04.683Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -5142,7 +5444,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T18:51:13.212Z
       pulled_at: 2026-02-07T18:51:13.212Z
-      stale_days: 24
+      stale_days: 26
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -5271,7 +5573,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T18:51:13.212Z
       pulled_at: 2026-02-07T18:51:13.212Z
-      stale_days: 24
+      stale_days: 26
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -5372,7 +5674,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T18:26:20.804Z
       pulled_at: 2026-02-07T18:26:20.804Z
-      stale_days: 24
+      stale_days: 26
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -5501,7 +5803,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T18:26:20.804Z
       pulled_at: 2026-02-07T18:26:20.804Z
-      stale_days: 24
+      stale_days: 26
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -5602,7 +5904,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T17:16:11.277Z
       pulled_at: 2026-02-07T17:16:11.277Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -5731,7 +6033,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T17:16:11.277Z
       pulled_at: 2026-02-07T17:16:11.277Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -5832,7 +6134,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T17:10:52.874Z
       pulled_at: 2026-02-07T17:10:52.874Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -5961,7 +6263,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T17:10:52.874Z
       pulled_at: 2026-02-07T17:10:52.874Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -6062,7 +6364,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T17:05:11.779Z
       pulled_at: 2026-02-07T17:05:11.779Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -6191,7 +6493,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T17:05:11.779Z
       pulled_at: 2026-02-07T17:05:11.779Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -6292,7 +6594,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T17:01:24.160Z
       pulled_at: 2026-02-07T17:01:24.160Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -6421,7 +6723,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T17:01:24.160Z
       pulled_at: 2026-02-07T17:01:24.160Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -6522,7 +6824,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T15:58:11.095Z
       pulled_at: 2026-02-07T15:58:11.095Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -6650,7 +6952,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-02-07T15:58:11.095Z
       pulled_at: 2026-02-07T15:58:11.095Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
   digital_marketing:
     - source: greenhouse
@@ -6744,9 +7046,227 @@ buckets:
       score: 96
       skill_hits: 1
       bucket_id: digital_marketing
+      fetched_at: 2026-03-05T18:56:57.481Z
+      pulled_at: 2026-03-05T18:56:57.481Z
+      stale_days: 0
+      is_stale: false
+    - source: arbeitnow
+      source_note: ""
+      company: DP Markets GmbH
+      title: Performance Marketing Manager (m/w/d) Google Ads & Search | E-Commerce
+      location: Berlin
+      url: https://www.arbeitnow.com/jobs/companies/dp-markets-gmbh/performance-marketing-manager-google-ads-search-e-commerce-berlin-291132
+      updated_at: 1772722893
+      description: "Die DP Markets GmbH ist ein wachsendes Berliner Handelsunternehmen
+        im Bereich Gastronomie-Großhandel, Verpackungen und Lebensmittel . Mit
+        unseren Marken und Plattformen wie Doppelpack und Dönersauce44 beliefern
+        wir Gastronomiebetriebe, Imbisse und Food-Konzepte in ganz Deutschland
+        und zunehmend auch europaweit. Unsere Produkte vertreiben wir über
+        eigene E-Commerce-Shops, stationäre Cash-&#x26;-Carry Märkte sowie ein
+        wachsendes B2B-Partnernetzwerk . Unsere Vision: Eine der führenden
+        digitalen B2B-Plattformen für Gastronomiebedarf und Foodservice-Produkte
+        in Europa aufzubauen. Werde Teil unseres Teams und gestalte aktiv mit,
+        wie wir unser E-Commerce-Geschäft weiter skalieren. Aufgaben Du
+        verantwortest die Weiterentwicklung unserer Google Ads Performance im
+        B2B-E-Commerce und sorgst dafür, dass Kampagnen messbar zum Wachstum
+        beitragen. Dabei arbeitest du direkt an den zentralen Hebeln unseres
+        Online-Geschäfts. Deine Aufgaben: Steuerung und Optimierung unserer
+        Google Ads Kampagnen (Search, Shopping, Performance Max) Entwicklung von
+        Keyword-Strategien entlang realer Kaufintention im B2B-Gastrobereich
+        Identifikation und Skalierung profitabler Kampagnen und Produktsegmente
+        Systematisches Testen von Anzeigen, Assets, Landingpages und
+        Gebotsstrategien Analyse von Suchbegriffen, Auktionsdaten,
+        Conversion-Daten und Performance-Mustern Sicherstellung eines sauberen
+        Trackings (Google Tag Manager, GA4, Conversion Tracking) Aufbau
+        transparenter Performance-Dashboards und KPI-Strukturen Kontinuierliche
+        Identifikation neuer Wachstumspotenziale im Paid-Traffic Qualifikation
+        Du passt gut zu uns, wenn du … 2–5 Jahre Erfahrung im Performance
+        Marketing / Google Ads mitbringst Kampagnen nicht nur verwaltest,
+        sondern aktiv auf Profitabilität optimierst Erfahrung mit Search
+        und/oder Shopping Kampagnen hast sehr analytisch arbeitest und
+        datenbasierte Entscheidungen triffst Interesse hast, dich langfristig
+        Richtung Senior Performance Marketing zu entwickeln Lust hast, in einem
+        schnell wachsenden E-Commerce-Umfeld Verantwortung zu übernehmen
+        Benefits Das erwartet dich bei uns: Ein dynamisches Team mit kurzen
+        Entscheidungswegen Viel Gestaltungsfreiraum für eigene Ideen und Tests
+        Direkter Einfluss auf Umsatz und Wachstum unseres E-Commerce
+        Entwicklungsmöglichkeiten im Bereich Performance Marketing und
+        E-Commerce Strategie Arbeitsplatz in Berlin mit engem Austausch zwischen
+        Marketing, Einkauf und Vertrieb Warum diese Rolle spannend ist Du
+        arbeitest direkt an einem skalierenden B2B-E-Commerce Deine Arbeit hat
+        unmittelbaren Einfluss auf Umsatz und Wachstum Du kannst testen,
+        optimieren und skalieren , statt nur Kampagnen zu verwalten Du hast die
+        Chance mit uns als Unternehmen zu wachsen Find more English Speaking
+        Jobs in Germany on Arbeitnow"
+      job_types: []
+      remote: false
+      score: 76
+      skill_hits: 1
+      bucket_id: digital_marketing
+      fetched_at: 2026-03-05T18:56:57.481Z
+      pulled_at: 2026-03-05T18:56:57.481Z
+      stale_days: 0
+      is_stale: false
+    - source: arbeitnow
+      source_note: ""
+      company: Roger
+      title: Performance & Growth Marketing Manager - Dental (m/w/d)
+      location: Berlin
+      url: https://www.arbeitnow.com/jobs/companies/roger/performance-growth-marketing-manager-dental-berlin-236656
+      updated_at: 1772717507
+      description: 'In Deutschland geben Patienten jährlich 30 Milliarden EUR beim
+        Zahnarzt aus. Trotz dieser Marktgröße arbeiten viele Praxen noch immer
+        mit veralteter Offline-Software aus den 80er Jahren. Roger ist hier, um
+        das zu ändern . Unsere Mission: Zahnarztpraxen mit unserem virtuellen
+        KI-Assistenten Roger zu revolutionieren. Unsere Software transformiert
+        Behandlungsplanung und Patientenkommunikation, steigert Effizienz und
+        Umsatz und vereinfacht den Praxisalltag für Zahnärzt:innen und ihre
+        Teams. Wenn du technologiebegeistert bist, Verantwortung übernehmen
+        willst und in einem schnell wachsenden Umfeld wirklich etwas bewegen
+        möchtest, bist du bei Roger richtig. Aufgaben In dieser Rolle baust und
+        skalierst du unsere Wachstumsmaschine**.** Du verbindest tiefes
+        Produktverständnis mit intelligenter Automatisierung, um Leads von
+        „interessiert“ zu „begeistert“ zu verwandeln. Dein Ziel: Eingehende
+        Leads nicht nur zu generieren, sondern sie durch messerscharfes
+        Messaging und automatisierte Journeys in glückliche Kunden zu
+        überführen. Deine Aufgaben &#x26; Verantwortlichkeiten 1.
+        Content-Strategie &#x26; Product Storytelling Du übersetzt komplexe
+        KI-Features in Benefits, die Zahnärzte verstehen. Du entwickelst die
+        Messaging-Strategie und sorgst dafür, dass unsere Positionierung auf
+        allen Kanälen (Organic, Paid, Website) sitzt. Du nutzt dein
+        SEO-Verständnis, um Themenwelten zu besetzen, die uns nachhaltig
+        organischen Traffic und hochwertige Leads liefern. 2.
+        Conversion-Optimierung &#x26; Automation (HubSpot-first) Du baust und
+        optimierst automatisierte Marketing-Funnels in HubSpot (Lead Scoring,
+        Nurturing-Strecken, Trigger-Workflows). Du gestaltest die ideale „Lead
+        Experience“: Vom ersten Google-Suchergebnis bis zum abgeschlossenen Abo.
+        Du experimentierst mit AI-Tools, um Marketing-Prozesse zu skalieren und
+        die Effizienz zu steigern. 3. Full-Funnel Growth Ownership Du
+        analysierst die gesamte Customer Journey: Awareness → Activation →
+        Conversion . Du fährst A/B-Tests auf Landingpages und in
+        E-Mail-Kampagnen, um die Conversion Rates kontinuierlich zu steigern. Du
+        hast die KPIs im Griff und leitest aus Daten klare Wachstums-Hypothesen
+        ab. Qualifikation mind. 1 Jahre Erfahrung in Marketing, SEO oder CRM
+        Automation. Starkes technisches Verständnis, datengetrieben, AI-affin.
+        Erfahrung mit Apollo, HubSpot und modernen AI-Marketing-Tools.
+        Fähigkeit, komplexe Produkte und Kundensegmente schnell zu durchdringen.
+        Startup-Mentalität, Ownership, Experimentierfreude. Benefits Warum
+        Roger? Echter Impact**:** Du baust unsere Marketing-Infrastruktur
+        maßgeblich mit auf – dein Einfluss auf den Umsatz ist direkt sichtbar.
+        HealthTech Revolution**:** Arbeite an einem Produkt, das echten Mehrwert
+        schafft und die Digitalisierung im Gesundheitswesen vorantreibt.
+        Modernster Stack: Wir geben dir das Budget und die Tools, die du
+        brauchst, um "Best-in-Class" Marketing zu betreiben. Team &#x26; Kultur:
+        Ein ambitioniertes Umfeld mit flachen Hierarchien, schnellen
+        Entscheidungswegen und viel Raum für eigene Experimente. Bereit, den
+        Dental-Markt zu digitalisieren? Wenn du Lust hast, in einem schnell
+        wachsenden Umfeld echte Verantwortung zu übernehmen und unsere
+        Growth-Story aktiv mitzugestalten, dann wollen wir dich kennenlernen.
+        Bewirb dich jetzt mit deinem Lebenslauf – wir freuen uns darauf, von dir
+        zu hören! Find Jobs in Germany on Arbeitnow'
+      job_types: *a1
+      remote: false
+      score: 76
+      skill_hits: 1
+      bucket_id: digital_marketing
+      fetched_at: 2026-03-05T18:56:57.481Z
+      pulled_at: 2026-03-05T18:56:57.481Z
+      stale_days: 0
+      is_stale: false
+    - source: greenhouse
+      source_note: ""
+      company: hellofresh
+      title: "Director of X-Channel - Performance Marketing "
+      location: Berlin, Berlin, Germany
+      url: https://careers.hellofresh.com/global/en/job/7192931?gh_jid=7192931
+      updated_at: 2026-03-03T07:40:39-05:00
+      description: "&lt;h2&gt;&lt;strong&gt;The role&lt;/strong&gt;&lt;/h2&gt;
+        &lt;p&gt;We are seeking a Paid Marketing X-Channel Director to lead a
+        global, cross-functional team that sits at the intersection of
+        marketing, product, and technology. This is a hybrid role that blends
+        product management, project management, and marketing expertise to drive
+        the development of scalable solutions, innovative marketing technology,
+        and data-driven acquisition strategies.&lt;/p&gt; &lt;p&gt;You will
+        oversee a team of specialists, including project managers, automation
+        engineers, audience managers, and conversion rate optimization experts.
+        You will partner with Product, Engineering, and Analytics to deliver the
+        next generation of performance marketing capabilities.&lt;/p&gt;
+        &lt;p&gt;Reporting to the Senior Director, Performance Marketing
+        International, you will help develop and execute strategic plans,
+        driving innovative solutions that elevate performance marketing to the
+        next level through advanced technology, scalable processes, and
+        data-driven strategies.&lt;/p&gt; &lt;p&gt;This role is ideal for
+        someone with a strong background in product or solution-oriented roles,
+        ideally with experience building or customizing platforms, bidding
+        systems, or marketing tools, who also brings solid expertise in online
+        and performance marketing platforms.&lt;/p&gt;
+        &lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt;
+        &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Lead a high performing
+        cross-functional team&lt;/strong&gt;: develop and mentor a team of 10,
+        with 3 direct reports, fostering collaboration, innovation and
+        accountability&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Define &amp;amp;
+        deliver the vision&lt;/strong&gt;: develop the strategic roadmap for the
+        marketing technology and performance stack, ensuring close alignment
+        with our business goals and global acquisition strategy&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Bridge cross-functional teams&lt;/strong&gt;:
+        Serve as the strategic bridge between Marketing, Product, Engineering,
+        and Analytics, ensuring alignment on priorities and scalable solution
+        delivery&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Optimize performance
+        &amp;amp; conversion&lt;/strong&gt;: Spearhead global Conversion Rate
+        Optimization (CRO) initiatives to drive double-digit improvements across
+        all markets. You will enhance the entire campaign funnel, from landing
+        pages and creative feedback loops to post-campaign analysis.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Drive automation &amp;amp;
+        efficiency&lt;/strong&gt;: Lead workflow and marketing automation
+        initiatives, enabling significant FTE savings and double-digit cost
+        efficiencies&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Ensure Governance
+        &amp;amp; Compliance&lt;/strong&gt;: Oversee marketing technology
+        compliance, ensuring our stack and practices adhere to GDPR, Apple ATT,
+        and other evolving global privacy regulations.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Enhance targeting &amp;amp;
+        measurement&lt;/strong&gt;: Power our omnichannel campaigns with
+        advanced targeting, CRM flows, and CDP segmentation. You will
+        collaborate with central MarTech and AdTech teams to champion the
+        development of custom bidding solutions and sophisticated measurement
+        frameworks&amp;nbsp; etc.&lt;/li&gt; &lt;/ul&gt;
+        &lt;h2&gt;&lt;strong&gt;What you’ll bring&lt;/strong&gt;&lt;/h2&gt;
+        &lt;ul&gt; &lt;li&gt;An expert in marketing and product/solution
+        development&lt;/li&gt; &lt;li&gt;You have solid experience in building
+        data platforms at scale, leading a cross-functional team in an agile
+        environment&lt;/li&gt; &lt;li&gt;Proficiency in making decisions based
+        on data and are familiar with experimentation frameworks&lt;/li&gt;
+        &lt;li&gt;Strong in problem-solving, with great attention to detail and
+        the ability to translate technical capabilities into tangible business
+        impact.&lt;/li&gt; &lt;li&gt;A natural hustler with a contagious
+        “can-do” attitude who thrives in fast-paced environments&lt;/li&gt;
+        &lt;li&gt;Analytically gifted with an ability to turn trends into
+        actionable insights and hypotheses&lt;/li&gt; &lt;li&gt;Responsible,
+        diligent and with a passion for owning projects from start to
+        finish&lt;/li&gt; &lt;li&gt;At ease with engaging with other Directors
+        and C-suite level executives to communicate&amp;nbsp; performance and
+        its impact on the revenue and profitability of the
+        business&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;At a
+        minimum, you’ ll have&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;8+
+        years of experience in product management, marketing technology, or
+        performance marketing, ideally with a mix of product/solution-building
+        and marketing expertise&lt;/li&gt; &lt;li&gt;Proven leadership
+        experience managing cross-functional teams, with the ability to coach
+        and grow high-performing specialists&lt;/li&gt; &lt;li&gt;Technical
+        Expertise and strong understanding of:&lt;/li&gt; &lt;li&gt;Online
+        &amp;amp; performance marketing platforms (Google Ads, Meta,
+        Programmatic, etc.)&lt;/li&gt; &lt;li&gt;Tracking and attribution (SDK,
+        server-to-server, SKAN, privacy frameworks)&lt;/li&gt; &lt;li&gt;Custom
+        bidding and optimization solutions&lt;/li&gt; &lt;li&gt;Track record of
+        leading product roadmaps, managing complex projects, and collaborating
+        with engineering / cross-channel teams&lt;/li&gt; &lt;li&gt;Ability to
+        balance long-term vision with short-term execution, leveraging data to
+        inform decisions.&lt;/li&gt; &lt;/ul&gt;"
+      score: 96
+      skill_hits: 1
+      bucket_id: digital_marketing
       fetched_at: 2026-03-04T18:00:41.130Z
       pulled_at: 2026-03-04T18:00:41.130Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -6841,7 +7361,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-03-03T18:03:13.895Z
       pulled_at: 2026-03-03T18:03:13.895Z
-      stale_days: 0
+      stale_days: 2
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -6923,14 +7443,14 @@ buckets:
         sexueller Orientierung, Alter, Religion, Gesundheit, familiärem oder
         veteranischem Status oder anderen geschützten Merkmalen. Find Jobs in
         Germany on Arbeitnow"
-      job_types: *a1
+      job_types: *a2
       remote: false
       score: 76
       skill_hits: 1
       bucket_id: digital_marketing
       fetched_at: 2026-03-03T18:03:13.895Z
       pulled_at: 2026-03-03T18:03:13.895Z
-      stale_days: 0
+      stale_days: 2
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -6995,14 +7515,14 @@ buckets:
         einzigartige Kundenbetreuung und starke Erfolgserlebnisse , sowohl für
         unsere Kunden als auch für unser Team. Find more English Speaking Jobs
         in Germany on Arbeitnow"
-      job_types: *a2
+      job_types: *a3
       remote: false
       score: 76
       skill_hits: 1
       bucket_id: digital_marketing
       fetched_at: 2026-03-02T18:01:39.683Z
       pulled_at: 2026-03-02T18:01:39.683Z
-      stale_days: 1
+      stale_days: 3
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -7142,7 +7662,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-03-01T17:43:33.699Z
       pulled_at: 2026-03-01T17:43:33.699Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -7203,14 +7723,14 @@ buckets:
         feedback within two weeks. The process includes interviews, a practical
         challenge, and conversations with our team. Find more English Speaking
         Jobs in Germany on Arbeitnow"
-      job_types: *a3
+      job_types: *a4
       remote: false
       score: 82
       skill_hits: 2
       bucket_id: digital_marketing
       fetched_at: 2026-02-28T17:41:38.344Z
       pulled_at: 2026-02-28T17:41:38.344Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -7350,7 +7870,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-02-28T17:41:38.344Z
       pulled_at: 2026-02-28T17:41:38.344Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -7411,14 +7931,14 @@ buckets:
         feedback within two weeks. The process includes interviews, a practical
         challenge, and conversations with our team. Find more English Speaking
         Jobs in Germany on Arbeitnow"
-      job_types: *a4
+      job_types: *a5
       remote: false
       score: 82
       skill_hits: 2
       bucket_id: digital_marketing
       fetched_at: 2026-02-27T17:57:25.246Z
       pulled_at: 2026-02-27T17:57:25.246Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -7488,14 +8008,14 @@ buckets:
         deine Unterlagen inklusive Gehaltsvorstellungen und frühestmöglichem
         Eintrittstermin! Wir sind offen für verschiedene Teilzeitmodelle von
         20-32 Wochenstunden. Find Jobs in Germany on Arbeitnow"
-      job_types: *a5
+      job_types: *a6
       remote: false
       score: 82
       skill_hits: 2
       bucket_id: digital_marketing
       fetched_at: 2026-02-26T18:07:50.817Z
       pulled_at: 2026-02-26T18:07:50.817Z
-      stale_days: 5
+      stale_days: 7
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -7582,7 +8102,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-02-26T18:07:50.817Z
       pulled_at: 2026-02-26T18:07:50.817Z
-      stale_days: 5
+      stale_days: 7
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -7628,119 +8148,13 @@ buckets:
         mehr als der perfekte Lebenslauf. Schick uns einfach deinen CV und ein
         kurzes Anschreiben, in dem du uns erzählst, warum du Lust auf SEO &#x26;
         Content bei DEIN RAUM hast! Find Jobs in Germany on Arbeitnow"
-      job_types: *a6
+      job_types: *a7
       remote: false
       score: 78
       skill_hits: 2
       bucket_id: digital_marketing
       fetched_at: 2026-02-23T18:16:53.135Z
       pulled_at: 2026-02-23T18:16:53.135Z
-      stale_days: 8
-      is_stale: false
-    - source: arbeitnow
-      source_note: ""
-      company: CAPULET Jewelry
-      title: E-Commerce & Growth Manager - Shopify & Performance Marketing (m/w/d)
-      location: Munich
-      url: https://www.arbeitnow.com/jobs/companies/capulet-jewelry/e-commerce-growth-manager-shopify-performance-marketing-munich-312465
-      updated_at: 1771677085
-      description: "Über CAPULET CAPULET ist eine unabhängige Luxus Schmuckmarke aus
-        Deutschland. Mit Headquarter in München und weiteren Werkstätten in
-        Pforzheim und Berlin. Seit über 15 Jahren stehen wir für hochwertigen
-        handgefertigten Schmuck aus Gold und Silber – mit klarer Haltung und
-        einem unverwechselbaren Stil. Unser Ziel: profitables Wachstum und die
-        Stärkung unserer Online-Präsenz. Dafür suchen wir ab sofort einen
-        erfahrenen E-Commerce &#x26; Performance Marketing Manager (m/w/d) , der
-        unser Marketing zielführend und eigenständig auf das nächste Level hebt.
-        Aufgaben Ziel der Position Volle Verantwortung für das digitale Wachstum
-        von CAPULET Jewelry. Diese Rolle kombiniert Shop-Optimierung ,
-        Performance Marketing und Conversion-Steigerung . Ziel ist, den
-        Shopify-Shop datenbasiert zu skalieren und den Umsatz messbar zu
-        erhöhen. Fachliche Kompetenzen: 🛍 Shopify &#x26; Shop-Optimierung
-        Tiefes Verständnis von Shopify (Themes, UX, Page Speed, Checkout-Flow,
-        Apps, Feeds) Aufbau und Pflege performanter Produktseiten
-        Conversion-Optimierung: A/B-Tests, Heatmaps, Funnel-Analyse
-        Grundkenntnisse in Liquid oder Zusammenarbeit mit Entwicklern 📈
-        Performance &#x26; Growth Marketing Planung, Umsetzung und Skalierung
-        von Meta- und Google-Ads-Kampagnen Retargeting, Lookalikes, Dynamic
-        Product Ads Tracking, UTM-Parameter, Conversion API, Pixel-Events
-        Budgetsteuerung &#x26; ROAS-Optimierung 📊 Analytics &#x26; Tracking
-        GA4, Google Tag Manager, Klaviyo, Shopify Analytics Dashboard-Erstellung
-        und Dateninterpretation Customer Journey &#x26; Funnel-Analyse 💌 CRM
-        &#x26; Retention Klaviyo-Flows (Abandoned Cart, Browse, Post-Purchase)
-        Segmentierung, Automatisierung, Lifecycle Marketing Qualifikation Dein
-        Profil Mehrjährige Shopify-Erfahrung im E-Commerce mit Fokus auf
-        Wachstum &#x26; Conversion Nachweisbare Erfolge in Performance
-        Marketing, CRO &#x26; Skalierung Mehrjährige Erfahrung in Meta Ads
-        &#x26; Google Ads Starke analytische Fähigkeiten &#x26; fundiertes
-        Verständnis für Tracking &#x26; Datenanalyse Erfahrung mit
-        Attributiontstool KLAR Erfahrung mit Klaviyo, Feed Management,
-        Retargeting &#x26; Funnel-Building Eigenständig, strategisch &#x26; mit
-        echter Growth-Mentalität Gespür für Ästhetik, Marke &#x26;
-        Luxus-Lifestyle Benefits 💎 Unsere Benefits Unbefristete Festanstellung
-        mit hervorragender Vergütung Mobiles Arbeiten / Remote-Option (auch aus
-        dem Ausland möglich) Betriebliche Altersvorsorge / Rentenzuschuss
-        Direkte Zusammenarbeit mit Founder Einblick in Strategie, Zahlen,
-        Wachstum Verantwortung statt Micromanagement Flexible Workation-Modelle
-        Nachhaltige Marke – CAPULET steht für ehrliche Werte, faire Produktion
-        und bewusstes Wachstum Team mit Herz &#x26; Haltung – persönliche
-        Atmosphäre, kreative Freiheit Rabatte auf CAPULET Schmuck &#x26; Friends
-        &#x26; Family Specials ⏱️ WIR SUCHEN AB SOFORT! Wir freuen uns auf Deine
-        ausführliche Bewerbung mit Foto und Deinen Erfahrungen! 😎 OPTION:: Wir
-        suchen festangestellt in Vollzeit . Optional ist auch Teilzeit oder
-        Freelance möglich. ‼️ WICHTIG: Bitte bewirb Dich nur, wenn Du sowohl
-        umfassende Shopify Expertise wie auch umfassende Perfomance Marketing
-        (Meta &#x26; Google) Erfahrung hast. Wir freuen uns auf einen
-        ausführlichen Lebenslauf mit Foto und gib bitte Deine
-        Gehaltsvorstellungen in Deiner Bewerbung an. Wir freuen uns auf Deine
-        Bewerbung Find more English Speaking Jobs in Germany on Arbeitnow"
-      job_types: *a7
-      remote: true
-      score: 78
-      skill_hits: 1
-      bucket_id: digital_marketing
-      fetched_at: 2026-02-22T17:47:42.002Z
-      pulled_at: 2026-02-22T17:47:42.002Z
-      stale_days: 10
-      is_stale: false
-    - source: arbeitnow
-      source_note: ""
-      company: ITSB Deutschland UG
-      title: Content & Growth Marketing (B2B)  (m/w/d)
-      location: Munich
-      url: https://www.arbeitnow.com/jobs/companies/itsb-deutschland-ug/content-growth-marketing-b2b-munich-139265
-      updated_at: 1771635542
-      description: "Du willst nicht nur Theorie – du willst Praxis, Verantwortung und
-        sichtbare Ergebnisse ? Willkommen bei der ITSB Deutschland. Wir suchen
-        Praktikant:innen, die ehrgeizig sind , Dinge wirklich umsetzen und
-        gleichzeitig Content verstehen : kurz, klar, hilfreich. Du hilfst uns,
-        ITSB als Marke aufzubauen – mit Content, der Vertrauen schafft und Leads
-        bringt. Egal ob Consulting, Marketing oder Sales – bei uns arbeitest du
-        an echten Fällen und baust Skills auf, die dir nach dem Praktikum
-        wirklich etwas bringen. Aufgaben Erstellung und Planung von
-        LinkedIn-Content (Posts, Carousels, kurze Skripte) Mithilfe bei
-        Landingpages , CTAs, Lead-Magneten (z. B. Quick-Checks, Checklisten)
-        Unterstützung bei Newsletter-Kampagnen (Brevo) und kleinen Automationen
-        Content-Repurposing: aus 1 Thema werden 5 Formate (Post, Reel-Skript,
-        Blog, FAQ, E-Mail) Analyse: Welche Inhalte performen – und warum?
-        Qualifikation Du arbeitest strukturiert, zuverlässig und kannst
-        Deadlines halten Du bist content-affin und kannst gut formulieren (klar,
-        nicht kompliziert) Bonus: Canva, CapCut, WordPress/Elementor, Brevo,
-        SEO-Basics Benefits Direkte Zusammenarbeit mit Geschäftsführung &#x26;
-        Vertrieb Möglichkeit, eigene Content-Reihen zu “ownen” Sichtbare
-        Ergebnisse (Reichweite, Leads, Landingpage-Performance) Flexible
-        Arbeitszeiten (auf Vorlesungszeiten abgestimmt) Lunch/Essenszuschuss an
-        Büro-Tagen Events/Messen : Ticket + Mitwirkung + Networking
-        Weiterbildungszeit : z. B. 2 Std./Woche Lernzeit fest eingeplant Wir
-        freuen uns auf deine Bewerbung! Find Jobs in Germany on Arbeitnow"
-      job_types:
-        - Internship
-      remote: false
-      score: 76
-      skill_hits: 1
-      bucket_id: digital_marketing
-      fetched_at: 2026-02-22T17:47:42.002Z
-      pulled_at: 2026-02-22T17:47:42.002Z
       stale_days: 10
       is_stale: false
     - source: arbeitnow
@@ -7805,9 +8219,115 @@ buckets:
       score: 78
       skill_hits: 1
       bucket_id: digital_marketing
+      fetched_at: 2026-02-22T17:47:42.002Z
+      pulled_at: 2026-02-22T17:47:42.002Z
+      stale_days: 11
+      is_stale: false
+    - source: arbeitnow
+      source_note: ""
+      company: ITSB Deutschland UG
+      title: Content & Growth Marketing (B2B)  (m/w/d)
+      location: Munich
+      url: https://www.arbeitnow.com/jobs/companies/itsb-deutschland-ug/content-growth-marketing-b2b-munich-139265
+      updated_at: 1771635542
+      description: "Du willst nicht nur Theorie – du willst Praxis, Verantwortung und
+        sichtbare Ergebnisse ? Willkommen bei der ITSB Deutschland. Wir suchen
+        Praktikant:innen, die ehrgeizig sind , Dinge wirklich umsetzen und
+        gleichzeitig Content verstehen : kurz, klar, hilfreich. Du hilfst uns,
+        ITSB als Marke aufzubauen – mit Content, der Vertrauen schafft und Leads
+        bringt. Egal ob Consulting, Marketing oder Sales – bei uns arbeitest du
+        an echten Fällen und baust Skills auf, die dir nach dem Praktikum
+        wirklich etwas bringen. Aufgaben Erstellung und Planung von
+        LinkedIn-Content (Posts, Carousels, kurze Skripte) Mithilfe bei
+        Landingpages , CTAs, Lead-Magneten (z. B. Quick-Checks, Checklisten)
+        Unterstützung bei Newsletter-Kampagnen (Brevo) und kleinen Automationen
+        Content-Repurposing: aus 1 Thema werden 5 Formate (Post, Reel-Skript,
+        Blog, FAQ, E-Mail) Analyse: Welche Inhalte performen – und warum?
+        Qualifikation Du arbeitest strukturiert, zuverlässig und kannst
+        Deadlines halten Du bist content-affin und kannst gut formulieren (klar,
+        nicht kompliziert) Bonus: Canva, CapCut, WordPress/Elementor, Brevo,
+        SEO-Basics Benefits Direkte Zusammenarbeit mit Geschäftsführung &#x26;
+        Vertrieb Möglichkeit, eigene Content-Reihen zu “ownen” Sichtbare
+        Ergebnisse (Reichweite, Leads, Landingpage-Performance) Flexible
+        Arbeitszeiten (auf Vorlesungszeiten abgestimmt) Lunch/Essenszuschuss an
+        Büro-Tagen Events/Messen : Ticket + Mitwirkung + Networking
+        Weiterbildungszeit : z. B. 2 Std./Woche Lernzeit fest eingeplant Wir
+        freuen uns auf deine Bewerbung! Find Jobs in Germany on Arbeitnow"
+      job_types:
+        - Internship
+      remote: false
+      score: 76
+      skill_hits: 1
+      bucket_id: digital_marketing
+      fetched_at: 2026-02-22T17:47:42.002Z
+      pulled_at: 2026-02-22T17:47:42.002Z
+      stale_days: 11
+      is_stale: false
+    - source: arbeitnow
+      source_note: ""
+      company: CAPULET Jewelry
+      title: E-Commerce & Growth Manager - Shopify & Performance Marketing (m/w/d)
+      location: Munich
+      url: https://www.arbeitnow.com/jobs/companies/capulet-jewelry/e-commerce-growth-manager-shopify-performance-marketing-munich-312465
+      updated_at: 1771677085
+      description: "Über CAPULET CAPULET ist eine unabhängige Luxus Schmuckmarke aus
+        Deutschland. Mit Headquarter in München und weiteren Werkstätten in
+        Pforzheim und Berlin. Seit über 15 Jahren stehen wir für hochwertigen
+        handgefertigten Schmuck aus Gold und Silber – mit klarer Haltung und
+        einem unverwechselbaren Stil. Unser Ziel: profitables Wachstum und die
+        Stärkung unserer Online-Präsenz. Dafür suchen wir ab sofort einen
+        erfahrenen E-Commerce &#x26; Performance Marketing Manager (m/w/d) , der
+        unser Marketing zielführend und eigenständig auf das nächste Level hebt.
+        Aufgaben Ziel der Position Volle Verantwortung für das digitale Wachstum
+        von CAPULET Jewelry. Diese Rolle kombiniert Shop-Optimierung ,
+        Performance Marketing und Conversion-Steigerung . Ziel ist, den
+        Shopify-Shop datenbasiert zu skalieren und den Umsatz messbar zu
+        erhöhen. Fachliche Kompetenzen: 🛍 Shopify &#x26; Shop-Optimierung
+        Tiefes Verständnis von Shopify (Themes, UX, Page Speed, Checkout-Flow,
+        Apps, Feeds) Aufbau und Pflege performanter Produktseiten
+        Conversion-Optimierung: A/B-Tests, Heatmaps, Funnel-Analyse
+        Grundkenntnisse in Liquid oder Zusammenarbeit mit Entwicklern 📈
+        Performance &#x26; Growth Marketing Planung, Umsetzung und Skalierung
+        von Meta- und Google-Ads-Kampagnen Retargeting, Lookalikes, Dynamic
+        Product Ads Tracking, UTM-Parameter, Conversion API, Pixel-Events
+        Budgetsteuerung &#x26; ROAS-Optimierung 📊 Analytics &#x26; Tracking
+        GA4, Google Tag Manager, Klaviyo, Shopify Analytics Dashboard-Erstellung
+        und Dateninterpretation Customer Journey &#x26; Funnel-Analyse 💌 CRM
+        &#x26; Retention Klaviyo-Flows (Abandoned Cart, Browse, Post-Purchase)
+        Segmentierung, Automatisierung, Lifecycle Marketing Qualifikation Dein
+        Profil Mehrjährige Shopify-Erfahrung im E-Commerce mit Fokus auf
+        Wachstum &#x26; Conversion Nachweisbare Erfolge in Performance
+        Marketing, CRO &#x26; Skalierung Mehrjährige Erfahrung in Meta Ads
+        &#x26; Google Ads Starke analytische Fähigkeiten &#x26; fundiertes
+        Verständnis für Tracking &#x26; Datenanalyse Erfahrung mit
+        Attributiontstool KLAR Erfahrung mit Klaviyo, Feed Management,
+        Retargeting &#x26; Funnel-Building Eigenständig, strategisch &#x26; mit
+        echter Growth-Mentalität Gespür für Ästhetik, Marke &#x26;
+        Luxus-Lifestyle Benefits 💎 Unsere Benefits Unbefristete Festanstellung
+        mit hervorragender Vergütung Mobiles Arbeiten / Remote-Option (auch aus
+        dem Ausland möglich) Betriebliche Altersvorsorge / Rentenzuschuss
+        Direkte Zusammenarbeit mit Founder Einblick in Strategie, Zahlen,
+        Wachstum Verantwortung statt Micromanagement Flexible Workation-Modelle
+        Nachhaltige Marke – CAPULET steht für ehrliche Werte, faire Produktion
+        und bewusstes Wachstum Team mit Herz &#x26; Haltung – persönliche
+        Atmosphäre, kreative Freiheit Rabatte auf CAPULET Schmuck &#x26; Friends
+        &#x26; Family Specials ⏱️ WIR SUCHEN AB SOFORT! Wir freuen uns auf Deine
+        ausführliche Bewerbung mit Foto und Deinen Erfahrungen! 😎 OPTION:: Wir
+        suchen festangestellt in Vollzeit . Optional ist auch Teilzeit oder
+        Freelance möglich. ‼️ WICHTIG: Bitte bewirb Dich nur, wenn Du sowohl
+        umfassende Shopify Expertise wie auch umfassende Perfomance Marketing
+        (Meta &#x26; Google) Erfahrung hast. Wir freuen uns auf einen
+        ausführlichen Lebenslauf mit Foto und gib bitte Deine
+        Gehaltsvorstellungen in Deiner Bewerbung an. Wir freuen uns auf Deine
+        Bewerbung Find more English Speaking Jobs in Germany on Arbeitnow"
+      job_types: *a9
+      remote: true
+      score: 78
+      skill_hits: 1
+      bucket_id: digital_marketing
       fetched_at: 2026-02-21T17:46:58.243Z
       pulled_at: 2026-02-21T17:46:58.243Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -7848,7 +8368,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-02-21T17:46:58.243Z
       pulled_at: 2026-02-21T17:46:58.243Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -7917,14 +8437,14 @@ buckets:
         Lebenslauf und ein kurzes Schreiben, warum gerade du die richtige Person
         für den Job bist. Wir freuen uns auf deine Bewerbung! 🚀 Find more
         English Speaking Jobs in Germany on Arbeitnow"
-      job_types: *a9
+      job_types: *a10
       remote: true
       score: 80
       skill_hits: 2
       bucket_id: digital_marketing
       fetched_at: 2026-02-19T18:09:36.225Z
       pulled_at: 2026-02-19T18:09:36.225Z
-      stale_days: 12
+      stale_days: 14
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -8013,7 +8533,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-02-18T18:05:51.668Z
       pulled_at: 2026-02-18T18:05:51.668Z
-      stale_days: 13
+      stale_days: 15
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -8082,7 +8602,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-02-18T18:05:51.668Z
       pulled_at: 2026-02-18T18:05:51.668Z
-      stale_days: 13
+      stale_days: 15
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -8140,7 +8660,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-02-14T17:47:32.325Z
       pulled_at: 2026-02-14T17:47:32.325Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -8217,7 +8737,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-02-09T18:08:29.869Z
       pulled_at: 2026-02-09T18:08:29.869Z
-      stale_days: 22
+      stale_days: 24
       is_stale: true
   video_editing:
     - source: arbeitnow
@@ -8273,7 +8793,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-03-03T18:03:13.895Z
       pulled_at: 2026-03-03T18:03:13.895Z
-      stale_days: 0
+      stale_days: 2
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -8345,7 +8865,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-03-01T17:43:33.699Z
       pulled_at: 2026-03-01T17:43:33.699Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -8417,7 +8937,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-02-28T17:41:38.344Z
       pulled_at: 2026-02-28T17:41:38.344Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -8464,7 +8984,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-02-22T17:47:42.002Z
       pulled_at: 2026-02-22T17:47:42.002Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -8502,14 +9022,14 @@ buckets:
         Content-Beispielen Gewünschte Stundenzahl pro Woche und
         Gehaltsvorstellung Lebenslauf (oder LinkedIn-Profil) Wir freueun uns von
         Dir zu hören! Find Jobs in Germany on Arbeitnow"
-      job_types: *a10
+      job_types: *a11
       remote: false
       score: 78
       skill_hits: 2
       bucket_id: video_editing
       fetched_at: 2026-02-15T17:48:29.497Z
       pulled_at: 2026-02-15T17:48:29.497Z
-      stale_days: 17
+      stale_days: 18
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -8559,7 +9079,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-02-14T17:47:32.325Z
       pulled_at: 2026-02-14T17:47:32.325Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -8597,14 +9117,14 @@ buckets:
         Content-Beispielen Gewünschte Stundenzahl pro Woche und
         Gehaltsvorstellung Lebenslauf (oder LinkedIn-Profil) Wir freueun uns von
         Dir zu hören! Find Jobs in Germany on Arbeitnow"
-      job_types: *a11
+      job_types: *a12
       remote: false
       score: 78
       skill_hits: 2
       bucket_id: video_editing
       fetched_at: 2026-02-14T17:47:32.325Z
       pulled_at: 2026-02-14T17:47:32.325Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
 archive:
   marketing_general: []
@@ -8617,11 +9137,11 @@ meta:
   source_counts:
     greenhouse: 7
     lever: 2
-    personio_xml_feeds: 70
+    personio_xml_feeds: 74
     smartrecruiters_companies: 2
     teamtailor_companies: 0
     recruitee_companies: 7
-    ashby_organizations: 8
+    ashby_organizations: 9
     stepstone_feeds: 0
     arbeitnow: 1
     remotive: 1
@@ -8642,5 +9162,5 @@ meta:
     digital_marketing: 0
     video_editing: 0
   timings_ms:
-    fetch: 15818
-    total: 82298
+    fetch: 19521
+    total: 128270
