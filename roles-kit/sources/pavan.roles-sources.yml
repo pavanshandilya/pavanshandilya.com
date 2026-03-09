@@ -1,4 +1,4 @@
-generated_at: 2026-03-08T17:44:50.829Z
+generated_at: 2026-03-09T18:05:20.769Z
 explicit:
   company_names:
     - SAP
@@ -92,6 +92,8 @@ discovered:
     - civey-gmbh
     - zattoo
     - mycolever
+    - consultport
+    - jbconsulting
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -189,6 +191,7 @@ discovered:
     - dataiku
     - cint
     - shit2power
+    - jbconsulting
   teamtailor_companies: []
   recruitee_companies:
     - sendcloud
@@ -199,6 +202,7 @@ discovered:
     - digistore24
     - burgermeister
     - saltybrands
+    - consultport
   ashby_organizations:
     - telus-digital
     - a-team
