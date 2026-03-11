@@ -1,4 +1,4 @@
-generated_at: 2026-03-09T18:05:20.769Z
+generated_at: 2026-03-11T18:07:59.166Z
 explicit:
   company_names:
     - SAP
@@ -94,6 +94,7 @@ discovered:
     - mycolever
     - consultport
     - jbconsulting
+    - meshcloud-gmbh
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -187,6 +188,8 @@ discovered:
     - https://zattoo.jobs.personio.com/xml
     - https://mycolever.jobs.personio.de/xml
     - https://mycolever.jobs.personio.com/xml
+    - https://meshcloud-gmbh.jobs.personio.de/xml
+    - https://meshcloud-gmbh.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
