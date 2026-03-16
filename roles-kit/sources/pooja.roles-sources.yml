@@ -1,4 +1,4 @@
-generated_at: 2026-03-15T17:52:47.203Z
+generated_at: 2026-03-16T18:15:26.795Z
 explicit:
   company_names:
     - SAP
@@ -97,6 +97,8 @@ discovered:
     - econsor-gmbh
     - dipl-kfm-hans-m-klein-partner-mbb
     - join
+    - skalar
+    - admkrs-gmbh
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -204,6 +206,8 @@ discovered:
     - https://dipl-kfm-hans-m-klein-partner-mbb.jobs.personio.com/xml
     - https://join.jobs.personio.de/xml
     - https://join.jobs.personio.com/xml
+    - https://admkrs-gmbh.jobs.personio.de/xml
+    - https://admkrs-gmbh.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -233,6 +237,7 @@ discovered:
     - buildlinx
     - astronomer
     - deel
+    - skalar
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
