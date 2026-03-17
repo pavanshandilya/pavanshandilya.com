@@ -1,4 +1,4 @@
-generated_at: 2026-03-16T18:15:26.795Z
+generated_at: 2026-03-17T18:13:12.911Z
 explicit:
   company_names:
     - SAP
@@ -99,6 +99,7 @@ discovered:
     - join
     - skalar
     - admkrs-gmbh
+    - lassie
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -238,6 +239,7 @@ discovered:
     - astronomer
     - deel
     - skalar
+    - lassie
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
