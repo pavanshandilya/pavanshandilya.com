@@ -1,4 +1,4 @@
-generated_at: 2026-03-23T18:07:49.210Z
+generated_at: 2026-03-24T18:13:05.321Z
 explicit:
   company_names:
     - SAP
@@ -114,6 +114,7 @@ discovered:
     - 8mylez-gmbh
     - meta
     - mgid
+    - hornetsecurity
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -233,6 +234,8 @@ discovered:
     - https://fleetster.jobs.personio.com/xml
     - https://8mylez-gmbh.jobs.personio.de/xml
     - https://8mylez-gmbh.jobs.personio.com/xml
+    - https://hornetsecurity.jobs.personio.de/xml
+    - https://hornetsecurity.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
