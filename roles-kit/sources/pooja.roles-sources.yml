@@ -1,4 +1,4 @@
-generated_at: 2026-03-25T18:15:16.631Z
+generated_at: 2026-03-26T18:16:03.080Z
 explicit:
   company_names:
     - SAP
@@ -112,6 +112,9 @@ discovered:
     - accenture
     - softgames
     - amber
+    - adstronauts-gmbh
+    - docplanner
+    - 1password
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -233,6 +236,8 @@ discovered:
     - https://8mylez-gmbh.jobs.personio.com/xml
     - https://hornetsecurity.jobs.personio.de/xml
     - https://hornetsecurity.jobs.personio.com/xml
+    - https://adstronauts-gmbh.jobs.personio.de/xml
+    - https://adstronauts-gmbh.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -240,6 +245,7 @@ discovered:
     - jbconsulting
     - jobportal
     - transperfect
+    - docplanner
   teamtailor_companies: []
   recruitee_companies:
     - sendcloud
@@ -271,6 +277,8 @@ discovered:
     - skalar
     - lassie
     - amber
+    - docplanner
+    - 1password
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
