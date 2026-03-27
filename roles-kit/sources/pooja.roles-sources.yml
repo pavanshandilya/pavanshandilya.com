@@ -1,4 +1,4 @@
-generated_at: 2026-03-26T18:16:03.080Z
+generated_at: 2026-03-27T18:10:11.632Z
 explicit:
   company_names:
     - SAP
@@ -115,6 +115,7 @@ discovered:
     - adstronauts-gmbh
     - docplanner
     - 1password
+    - aktivital-gmbh
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -238,6 +239,8 @@ discovered:
     - https://hornetsecurity.jobs.personio.com/xml
     - https://adstronauts-gmbh.jobs.personio.de/xml
     - https://adstronauts-gmbh.jobs.personio.com/xml
+    - https://aktivital-gmbh.jobs.personio.de/xml
+    - https://aktivital-gmbh.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
