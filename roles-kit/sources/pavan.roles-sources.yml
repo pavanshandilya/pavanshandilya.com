@@ -1,4 +1,4 @@
-generated_at: 2026-03-30T18:11:11.666Z
+generated_at: 2026-03-31T18:11:32.988Z
 explicit:
   company_names:
     - SAP
@@ -125,6 +125,7 @@ discovered:
     - wearedna
     - momox
     - bridger
+    - kinly
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -280,6 +281,7 @@ discovered:
     - mgid
     - accenture
     - softgames
+    - kinly
   ashby_organizations:
     - telus-digital
     - a-team
