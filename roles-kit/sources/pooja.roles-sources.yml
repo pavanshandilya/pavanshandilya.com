@@ -1,4 +1,4 @@
-generated_at: 2026-03-31T18:13:32.534Z
+generated_at: 2026-04-01T18:16:03.166Z
 explicit:
   company_names:
     - SAP
@@ -120,6 +120,9 @@ discovered:
     - momox
     - bridger
     - kinly
+    - alpinecars
+    - dcm
+    - filestage
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -249,6 +252,8 @@ discovered:
     - https://wearedna.jobs.personio.com/xml
     - https://momox.jobs.personio.de/xml
     - https://momox.jobs.personio.com/xml
+    - https://dcm.jobs.personio.de/xml
+    - https://dcm.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -275,6 +280,8 @@ discovered:
     - accenture
     - softgames
     - kinly
+    - alpinecars
+    - filestage
   ashby_organizations:
     - telus-digital
     - a-team
