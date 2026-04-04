@@ -1,4 +1,4 @@
-generated_at: 2026-04-02T18:06:11.041Z
+generated_at: 2026-04-04T17:54:00.122Z
 explicit:
   company_names:
     - SAP
@@ -131,6 +131,14 @@ discovered:
     - filestage
     - nomitri
     - cureosity-gmbh
+    - crisp
+    - sgs
+    - docusign
+    - enerex
+    - workflex
+    - ruby-labs
+    - masabi
+    - ashby
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -264,6 +272,8 @@ discovered:
     - https://dcm.jobs.personio.com/xml
     - https://cureosity-gmbh.jobs.personio.de/xml
     - https://cureosity-gmbh.jobs.personio.com/xml
+    - https://workflex.jobs.personio.de/xml
+    - https://workflex.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -272,6 +282,9 @@ discovered:
     - jobportal
     - transperfect
     - docplanner
+    - sgs
+    - docusign
+    - enerex
   teamtailor_companies: []
   recruitee_companies:
     - sendcloud
@@ -311,6 +324,10 @@ discovered:
     - docplanner
     - 1password
     - bridger
+    - crisp
+    - ruby-labs
+    - masabi
+    - ashby
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
