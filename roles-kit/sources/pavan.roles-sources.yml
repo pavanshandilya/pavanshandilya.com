@@ -1,4 +1,4 @@
-generated_at: 2026-04-09T18:16:24.230Z
+generated_at: 2026-04-10T18:05:31.144Z
 explicit:
   company_names:
     - SAP
@@ -144,6 +144,11 @@ discovered:
     - worldly
     - iolution-gmbh
     - novel
+    - motion
+    - rpa
+    - infisical
+    - quilter
+    - nielseniq
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -281,6 +286,8 @@ discovered:
     - https://workflex.jobs.personio.com/xml
     - https://iolution-gmbh.jobs.personio.de/xml
     - https://iolution-gmbh.jobs.personio.com/xml
+    - https://motion.jobs.personio.de/xml
+    - https://motion.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -293,6 +300,7 @@ discovered:
     - docusign
     - enerex
     - binance
+    - nielseniq
   teamtailor_companies: []
   recruitee_companies:
     - sendcloud
@@ -315,6 +323,7 @@ discovered:
     - alpinecars
     - filestage
     - nomitri
+    - rpa
   ashby_organizations:
     - telus-digital
     - a-team
@@ -339,6 +348,9 @@ discovered:
     - thumbtack
     - worldly
     - novel
+    - motion
+    - infisical
+    - quilter
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers

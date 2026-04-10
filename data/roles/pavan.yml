@@ -1,9 +1,161 @@
 schema_version: roles.v1
 profile_id: pavan
 profile_name: Pavan - marketing, digital marketing, video editing
-generated_at: 2026-04-09T18:16:24.230Z
+generated_at: 2026-04-10T18:05:31.144Z
 buckets:
   marketing_general:
+    - source: arbeitnow
+      source_note: ""
+      company: SolarEdge
+      title: Marketing Specialist, DACH
+      location: Munich
+      url: https://www.arbeitnow.com/jobs/companies/solaredge/remote-marketing-specialist-dach-munich-183919
+      updated_at: 1775832131
+      description: "Are you ready to power the future? At SolarEdge (NASDAQ: SEDG),
+        we're a global leader in smart energy technology, with over 4,000
+        employees, offices in 34 countries, and millions of installations
+        worldwide. Our innovative solutions include solar inverters, battery
+        storage, backup systems, EV charging, and AI-based energy management.
+        We're committed to making clean, green energy the primary power source
+        for homes, businesses, and beyond. With the growing demand for
+        electricity, the need for smart, clean energy sources is constantly
+        rising. SolarEdge offers amazing opportunities to develop your skills in
+        a multidisciplinary environment, covering everything from research and
+        development to production and customer supply. Work with talented
+        colleagues, tackle exciting challenges, and help create a sustainable
+        future in an industry that's always evolving and innovating. Join us and
+        be part of a company that values creativity, agility, and impactful
+        work.&nbsp; The EU Marketing team is made up of highly creative,
+        competent, marketing professionals, who are capable of thinking and
+        doing at the same time. In your role, you’ll be expected to support the
+        implementation of marketing activities and events to sustain the
+        SolarEdge’s marketing strategy with the vision based on SolarEdge being
+        the prosumers #1 choice for smart energy solutions. Your touch points
+        are mostly B2B but with increasing emphasis on B2B2C. You will report
+        directly to the Director of Marcom Europe and indirectly to the Country
+        Managers Germany and Austria/Switzerland. You will have marketing
+        responsibilities spanning the regional markets in DACH (Germany, Austria
+        and Switzerland).&nbsp; Key Responsibilities &nbsp; Plan and execute
+        quarterly lead‑generation campaigns designed to increase pipeline and
+        drive revenue growth, with one major strategic campaign per quarter.
+        Lead content development across newsletters, case studies, articles,
+        testimonials, sales presentations, and other marketing collateral.
+        Manage advertising and media planning , ensuring effective execution
+        across relevant channels. Develop localized and engaging social media
+        and digital content tailored to the DACH market. Oversee planning and
+        execution of events , including trade shows, customer events, and
+        partner activities. Ensure full compliance with SolarEdge brand and
+        corporate guidelines across all marketing activities in your region.
+        Support sales teams with marketing tools and lead‑generation initiatives
+        to enhance customer engagement and conversion. Manage the regional
+        marketing budget , including forecasting, tracking expenditures, and
+        optimizing ROI. Organize customer training programs and webinars in
+        collaboration with local sales and technical teams. Coordinate
+        production of artwork, booth materials, and marketing assets , ensuring
+        brand compliance, budget alignment, and timely delivery. Act as a proud
+        SolarEdge Brand Ambassador , confidently presenting to customers and
+        representing the company at industry events. Ensure accuracy and
+        cultural integrity of all translations from English into local DACH
+        languages. &nbsp; Country: Germany City: Munich Requirements Languages:
+        Native German speaker with fluency in English. Education: A university
+        degree is required . While no specific field is mandatory, disciplines
+        such as Marketing, Business Administration, Creative Arts, Technical
+        Design, or Engineering are viewed favorably. Marketing Experience:
+        Minimum of 2 years of professional marketing experience , including
+        digital marketing and event management. SolarEdge has traditionally
+        operated in a B2B environment but is increasingly expanding downstream;
+        therefore, experience in B2C technology is considered a valuable asset.
+        Industry Experience: Experience in renewable energy, high‑tech sectors,
+        power electronics, or electric vehicle industries is desirable but not
+        strictly required. Soft Skills &amp; Personal Attributes: Strategic and
+        creative thinker Excellent written and verbal communication skills
+        Strong planning and organizational abilities Highly reliable, committed
+        to delivering on promises and meeting deadlines Ability to multitask,
+        stay composed under pressure, and collaborate effectively across teams
+        Empathetic team player with a strong desire to empower others Solid
+        analytical skills, strong attention to detail, and confidence working
+        with numbers Strong presentation skills, with the ability to speak
+        confidently and inspire audiences of all sizes &nbsp; SolarEdge
+        recognizes its talented and diverse workforce as a key competitive
+        advantage. Our business success is a reflection of the quality and skill
+        of our people.&nbsp; SolarEdge is committed to seeking out and retaining
+        the finest human talent to ensure top business growth and
+        performance.&nbsp; &nbsp; Find Jobs in Germany on Arbeitnow"
+      job_types:
+        - Full-time
+      remote: true
+      score: 84
+      skill_hits: 3
+      bucket_id: marketing_general
+      fetched_at: 2026-04-10T18:05:31.144Z
+      pulled_at: 2026-04-10T18:05:31.144Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: TransPerfect
+      title: Recruitment Marketing Specialist, SEO & Digital Campaigns
+      location: Pune, Mahārāshtra, India, Pune, India
+      url: https://transperfect.recruitee.com/o/recruitment-marketing-specialist-seo-digital-campaigns
+      updated_at: 2026-03-25 09:54:24 UTC
+      description: "TransPerfect is the world’s largest provider of language and
+        technology solutions for global business. Operating in 100+ cities
+        worldwide, we support organizations in communicating and expanding
+        across international markets. Our Talent Acquisition team plays a
+        critical role in fueling this global growth. The Opportunity: We are
+        seeking an SEO &amp; Digital Campaigns Specialist to join our Talent
+        Acquisition team . You will sit within Talent Acquisition and focus
+        specifically on driving qualified candidate traffic , improving search
+        visibility of job opportunities, and executing digital campaigns that
+        directly impact hiring outcomes. You will own the strategy and execution
+        of SEO and paid digital initiatives that strengthen TransPerfect’s
+        employer brand and increase candidate conversion globally. Key
+        Responsibilities: SEO Strategy (Primary Focus):
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Develop and execute a
+        global SEO strategy for recruitment and careers content
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conduct keyword
+        research aligned with hiring priorities across regions and functions
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Optimize job
+        descriptions, landing pages, and career site content for organic
+        visibility ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Implement
+        structured data to improve search engine indexing
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Perform technical SEO
+        audits ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Track rankings,
+        traffic, and application conversion rates Digital Recruitment Campaigns:
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Plan and manage
+        digital campaigns ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        Build targeted talent attraction campaigns for priority hiring
+        initiatives ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Monitor
+        campaign ROI, cost-per-application, and conversion metrics Analytics
+        &amp; Optimization: ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        Use data to inform talent attraction strategy
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Create dashboards and
+        performance reports for Talent Acquisition leadership
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Identify opportunities
+        to improve candidate funnel performance
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Benchmark against
+        competitors for recruitment search presence What we’re looking for:
+        Required: 2+ years of experience in SEO and digital campaign management
+        Proven track record of driving measurable growth in organic traffic and
+        conversions Strong understanding of technical SEO and structured data
+        Data-driven mindset with strong analytical capabilities Preferred:
+        Experience supporting Talent Acquisition or HR teams Familiarity with
+        Applicant Tracking Systems (ATS) Experience optimizing global or
+        multilingual career sites Why Join the Talent Acquisition Team at
+        TransPerfect? Direct impact on global hiring strategy Ownership of SEO
+        and digital recruitment initiatives Opportunity to shape how candidates
+        discover TransPerfect worldwide Fast-paced, international environment
+        Career growth within a global organization Your Impact: &nbsp; In this
+        role, your work will directly influence how top talent finds and applies
+        to TransPerfect. You will help build a scalable, search-driven
+        recruitment engine that supports global expansion and business growth."
+      score: 80
+      skill_hits: 2
+      bucket_id: marketing_general
+      fetched_at: 2026-04-10T18:05:31.144Z
+      pulled_at: 2026-04-10T18:05:31.144Z
+      stale_days: 0
+      is_stale: false
     - source: jobicy
       source_note: ""
       company: Solplanet
@@ -445,7 +597,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-04-08T18:45:15.656Z
       pulled_at: 2026-04-08T18:45:15.656Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -510,7 +662,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-04-08T18:45:15.656Z
       pulled_at: 2026-04-08T18:45:15.656Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -586,7 +738,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-04-08T18:45:15.656Z
       pulled_at: 2026-04-08T18:45:15.656Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: jobicy
       source_note: ""
@@ -1102,7 +1254,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-04-05T17:54:11.059Z
       pulled_at: 2026-04-05T17:54:11.059Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1167,7 +1319,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-04-05T17:54:11.059Z
       pulled_at: 2026-04-05T17:54:11.059Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: jobicy
       source_note: ""
@@ -1356,7 +1508,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-04-04T17:54:00.122Z
       pulled_at: 2026-04-04T17:54:00.122Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1421,7 +1573,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-04-04T17:54:00.122Z
       pulled_at: 2026-04-04T17:54:00.122Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2113,7 +2265,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-03-29T17:54:22.542Z
       pulled_at: 2026-03-29T17:54:22.542Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2178,7 +2330,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-03-29T17:54:22.542Z
       pulled_at: 2026-03-29T17:54:22.542Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2233,7 +2385,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-03-28T17:52:17.353Z
       pulled_at: 2026-03-28T17:52:17.353Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2298,7 +2450,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-03-28T17:52:17.353Z
       pulled_at: 2026-03-28T17:52:17.353Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3427,7 +3579,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-03-21T17:47:02.356Z
       pulled_at: 2026-03-21T17:47:02.356Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3515,7 +3667,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-03-21T17:47:02.356Z
       pulled_at: 2026-03-21T17:47:02.356Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3580,7 +3732,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-03-21T17:47:02.356Z
       pulled_at: 2026-03-21T17:47:02.356Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3655,7 +3807,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-03-21T17:47:02.356Z
       pulled_at: 2026-03-21T17:47:02.356Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -3756,8 +3908,8 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-03-20T17:57:28.942Z
       pulled_at: 2026-03-20T17:57:28.942Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: arbeitnow
       source_note: ""
       company: SolarEdge
@@ -3844,8 +3996,8 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-03-20T17:57:28.942Z
       pulled_at: 2026-03-20T17:57:28.942Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: arbeitnow
       source_note: ""
       company: KoRo Handels GmbH
@@ -3919,8 +4071,8 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-03-20T17:57:28.942Z
       pulled_at: 2026-03-20T17:57:28.942Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: arbeitnow
       source_note: ""
       company: PYNEMA
@@ -3985,8 +4137,8 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-03-20T17:57:28.942Z
       pulled_at: 2026-03-20T17:57:28.942Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: greenhouse
       source_note: ""
       company: hellofresh
@@ -4871,7 +5023,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-03-15T17:50:54.832Z
       pulled_at: 2026-03-15T17:50:54.832Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -4958,7 +5110,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-03-15T17:50:54.832Z
       pulled_at: 2026-03-15T17:50:54.832Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -5017,7 +5169,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-03-15T17:50:54.832Z
       pulled_at: 2026-03-15T17:50:54.832Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -5118,7 +5270,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-03-14T17:48:07.526Z
       pulled_at: 2026-03-14T17:48:07.526Z
-      stale_days: 26
+      stale_days: 27
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -5177,7 +5329,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-03-14T17:48:07.526Z
       pulled_at: 2026-03-14T17:48:07.526Z
-      stale_days: 26
+      stale_days: 27
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -5278,7 +5430,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-03-13T17:55:49.129Z
       pulled_at: 2026-03-13T17:55:49.129Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -5365,7 +5517,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-03-13T17:55:49.129Z
       pulled_at: 2026-03-13T17:55:49.129Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -5877,6 +6029,210 @@ buckets:
       score: 96
       skill_hits: 1
       bucket_id: digital_marketing
+      fetched_at: 2026-04-10T18:05:31.144Z
+      pulled_at: 2026-04-10T18:05:31.144Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: Consultport
+      title: Growth Marketing Intern (m/f/d)
+      location: Berlin, Berlin, Germany, Berlin, Germany
+      url: https://consultport.recruitee.com/o/growth-marketing-intern-mfd
+      updated_at: 2026-03-25 10:51:32 UTC
+      description: "About Us Consultport is a global platform that connects companies
+        with top-tier freelance consultants, enabling businesses to advance
+        critical projects more efficiently and effectively than ever before.
+        Since 2018, we’ve grown to a network of 10,000+ pre-vetted experts
+        delivering impactful projects across 50+ countries. Our mission is to
+        become the world’s #1 platform where consultants and companies succeed
+        together, driven by a commitment to quality, reliability, and trust.
+        Trusted by over 100 leading companies annually, we provide tailored
+        expertise to corporates, consultancies, private equity firms, and
+        scale-ups. At Consultport, we redefine how businesses and consultants
+        collaborate to drive success. The Role As a Growth Marketing Intern at
+        Consultport, you’ll have the opportunity to significantly expand your
+        marketing skills. Our goal is to set the standard in innovation,
+        creativity, and performance. You’ll learn to craft cross-channel
+        marketing strategies, create engaging content, and effectively utilize
+        various media platforms. You’ll support communication plan development,
+        manage media relations, and lead initiatives to elevate our brand image
+        and increase our search rankings, all while gaining a comprehensive
+        understanding of the consulting market. Your Mission Marketing Strategy
+        – Develop and implement cross-channel marketing strategies to boost
+        Consultport's organic traffic and lead generation. Report, Drafting,
+        &amp; SEO Optimization – Create high-quality reports for the consulting
+        industry tailored to c-suite executives, optimize for search engines,
+        and enhance website performance using SEO tools like SEMrush.
+        Performance Marketing – Plan, execute, and optimize paid campaigns on
+        LinkedIn and Google Ads. Social Media Growth – Develop social media
+        content strategies (organic and paid) to engage executives and
+        strengthen brand authority. Marketing Analytics - Track and analyze
+        marketing metrics using Looker Studio &amp; Google Analytics to refine
+        strategy and provide actionable recommendations."
+      score: 94
+      skill_hits: 5
+      bucket_id: digital_marketing
+      fetched_at: 2026-04-10T18:05:31.144Z
+      pulled_at: 2026-04-10T18:05:31.144Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: TransPerfect
+      title: Recruitment Marketing Specialist, SEO & Digital Campaigns
+      location: Pune, Mahārāshtra, India, Pune, India
+      url: https://transperfect.recruitee.com/o/recruitment-marketing-specialist-seo-digital-campaigns
+      updated_at: 2026-03-25 09:54:24 UTC
+      description: "TransPerfect is the world’s largest provider of language and
+        technology solutions for global business. Operating in 100+ cities
+        worldwide, we support organizations in communicating and expanding
+        across international markets. Our Talent Acquisition team plays a
+        critical role in fueling this global growth. The Opportunity: We are
+        seeking an SEO &amp; Digital Campaigns Specialist to join our Talent
+        Acquisition team . You will sit within Talent Acquisition and focus
+        specifically on driving qualified candidate traffic , improving search
+        visibility of job opportunities, and executing digital campaigns that
+        directly impact hiring outcomes. You will own the strategy and execution
+        of SEO and paid digital initiatives that strengthen TransPerfect’s
+        employer brand and increase candidate conversion globally. Key
+        Responsibilities: SEO Strategy (Primary Focus):
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Develop and execute a
+        global SEO strategy for recruitment and careers content
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conduct keyword
+        research aligned with hiring priorities across regions and functions
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Optimize job
+        descriptions, landing pages, and career site content for organic
+        visibility ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Implement
+        structured data to improve search engine indexing
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Perform technical SEO
+        audits ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Track rankings,
+        traffic, and application conversion rates Digital Recruitment Campaigns:
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Plan and manage
+        digital campaigns ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        Build targeted talent attraction campaigns for priority hiring
+        initiatives ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Monitor
+        campaign ROI, cost-per-application, and conversion metrics Analytics
+        &amp; Optimization: ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        Use data to inform talent attraction strategy
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Create dashboards and
+        performance reports for Talent Acquisition leadership
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Identify opportunities
+        to improve candidate funnel performance
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Benchmark against
+        competitors for recruitment search presence What we’re looking for:
+        Required: 2+ years of experience in SEO and digital campaign management
+        Proven track record of driving measurable growth in organic traffic and
+        conversions Strong understanding of technical SEO and structured data
+        Data-driven mindset with strong analytical capabilities Preferred:
+        Experience supporting Talent Acquisition or HR teams Familiarity with
+        Applicant Tracking Systems (ATS) Experience optimizing global or
+        multilingual career sites Why Join the Talent Acquisition Team at
+        TransPerfect? Direct impact on global hiring strategy Ownership of SEO
+        and digital recruitment initiatives Opportunity to shape how candidates
+        discover TransPerfect worldwide Fast-paced, international environment
+        Career growth within a global organization Your Impact: &nbsp; In this
+        role, your work will directly influence how top talent finds and applies
+        to TransPerfect. You will help build a scalable, search-driven
+        recruitment engine that supports global expansion and business growth."
+      score: 80
+      skill_hits: 2
+      bucket_id: digital_marketing
+      fetched_at: 2026-04-10T18:05:31.144Z
+      pulled_at: 2026-04-10T18:05:31.144Z
+      stale_days: 0
+      is_stale: false
+    - source: greenhouse
+      source_note: ""
+      company: hellofresh
+      title: "Director of X-Channel - Performance Marketing "
+      location: Berlin, Berlin, Germany
+      url: https://careers.hellofresh.com/global/en/job/7192931?gh_jid=7192931
+      updated_at: 2026-04-08T14:03:43-04:00
+      description: "&lt;h2&gt;&lt;strong&gt;The role&lt;/strong&gt;&lt;/h2&gt;
+        &lt;p&gt;We are seeking a Paid Marketing X-Channel Director to lead a
+        global, cross-functional team that sits at the intersection of
+        marketing, product, and technology. This is a hybrid role that blends
+        product management, project management, and marketing expertise to drive
+        the development of scalable solutions, innovative marketing technology,
+        and data-driven acquisition strategies.&lt;/p&gt; &lt;p&gt;You will
+        oversee a team of specialists, including project managers, automation
+        engineers, audience managers, and conversion rate optimization experts.
+        You will partner with Product, Engineering, and Analytics to deliver the
+        next generation of performance marketing capabilities.&lt;/p&gt;
+        &lt;p&gt;Reporting to the Senior Director, Performance Marketing
+        International, you will help develop and execute strategic plans,
+        driving innovative solutions that elevate performance marketing to the
+        next level through advanced technology, scalable processes, and
+        data-driven strategies.&lt;/p&gt; &lt;p&gt;This role is ideal for
+        someone with a strong background in product or solution-oriented roles,
+        ideally with experience building or customizing platforms, bidding
+        systems, or marketing tools, who also brings solid expertise in online
+        and performance marketing platforms.&lt;/p&gt;
+        &lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt;
+        &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Lead a high performing
+        cross-functional team&lt;/strong&gt;: develop and mentor a team of 10,
+        with 3 direct reports, fostering collaboration, innovation and
+        accountability&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Define &amp;amp;
+        deliver the vision&lt;/strong&gt;: develop the strategic roadmap for the
+        marketing technology and performance stack, ensuring close alignment
+        with our business goals and global acquisition strategy&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Bridge cross-functional teams&lt;/strong&gt;:
+        Serve as the strategic bridge between Marketing, Product, Engineering,
+        and Analytics, ensuring alignment on priorities and scalable solution
+        delivery&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Optimize performance
+        &amp;amp; conversion&lt;/strong&gt;: Spearhead global Conversion Rate
+        Optimization (CRO) initiatives to drive double-digit improvements across
+        all markets. You will enhance the entire campaign funnel, from landing
+        pages and creative feedback loops to post-campaign analysis.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Drive automation &amp;amp;
+        efficiency&lt;/strong&gt;: Lead workflow and marketing automation
+        initiatives, enabling significant FTE savings and double-digit cost
+        efficiencies&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Ensure Governance
+        &amp;amp; Compliance&lt;/strong&gt;: Oversee marketing technology
+        compliance, ensuring our stack and practices adhere to GDPR, Apple ATT,
+        and other evolving global privacy regulations.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Enhance targeting &amp;amp;
+        measurement&lt;/strong&gt;: Power our omnichannel campaigns with
+        advanced targeting, CRM flows, and CDP segmentation. You will
+        collaborate with central MarTech and AdTech teams to champion the
+        development of custom bidding solutions and sophisticated measurement
+        frameworks&amp;nbsp; etc.&lt;/li&gt; &lt;/ul&gt;
+        &lt;h2&gt;&lt;strong&gt;What you’ll bring&lt;/strong&gt;&lt;/h2&gt;
+        &lt;ul&gt; &lt;li&gt;An expert in marketing and product/solution
+        development&lt;/li&gt; &lt;li&gt;You have solid experience in building
+        data platforms at scale, leading a cross-functional team in an agile
+        environment&lt;/li&gt; &lt;li&gt;Proficiency in making decisions based
+        on data and are familiar with experimentation frameworks&lt;/li&gt;
+        &lt;li&gt;Strong in problem-solving, with great attention to detail and
+        the ability to translate technical capabilities into tangible business
+        impact.&lt;/li&gt; &lt;li&gt;A natural hustler with a contagious
+        “can-do” attitude who thrives in fast-paced environments&lt;/li&gt;
+        &lt;li&gt;Analytically gifted with an ability to turn trends into
+        actionable insights and hypotheses&lt;/li&gt; &lt;li&gt;Responsible,
+        diligent and with a passion for owning projects from start to
+        finish&lt;/li&gt; &lt;li&gt;At ease with engaging with other Directors
+        and C-suite level executives to communicate&amp;nbsp; performance and
+        its impact on the revenue and profitability of the
+        business&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;At a
+        minimum, you’ ll have&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;8+
+        years of experience in product management, marketing technology, or
+        performance marketing, ideally with a mix of product/solution-building
+        and marketing expertise&lt;/li&gt; &lt;li&gt;Proven leadership
+        experience managing cross-functional teams, with the ability to coach
+        and grow high-performing specialists&lt;/li&gt; &lt;li&gt;Technical
+        Expertise and strong understanding of:&lt;/li&gt; &lt;li&gt;Online
+        &amp;amp; performance marketing platforms (Google Ads, Meta,
+        Programmatic, etc.)&lt;/li&gt; &lt;li&gt;Tracking and attribution (SDK,
+        server-to-server, SKAN, privacy frameworks)&lt;/li&gt; &lt;li&gt;Custom
+        bidding and optimization solutions&lt;/li&gt; &lt;li&gt;Track record of
+        leading product roadmaps, managing complex projects, and collaborating
+        with engineering / cross-channel teams&lt;/li&gt; &lt;li&gt;Ability to
+        balance long-term vision with short-term execution, leveraging data to
+        inform decisions.&lt;/li&gt; &lt;/ul&gt;"
+      score: 96
+      skill_hits: 1
+      bucket_id: digital_marketing
       fetched_at: 2026-04-09T18:16:24.230Z
       pulled_at: 2026-04-09T18:16:24.230Z
       stale_days: 0
@@ -6083,7 +6439,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-04-08T18:45:15.656Z
       pulled_at: 2026-04-08T18:45:15.656Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -6127,7 +6483,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-04-08T18:45:15.656Z
       pulled_at: 2026-04-08T18:45:15.656Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -6192,7 +6548,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-04-08T18:45:15.656Z
       pulled_at: 2026-04-08T18:45:15.656Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -6491,7 +6847,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-04-05T17:54:11.059Z
       pulled_at: 2026-04-05T17:54:11.059Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -6535,7 +6891,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-04-05T17:54:11.059Z
       pulled_at: 2026-04-05T17:54:11.059Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -6600,7 +6956,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-04-05T17:54:11.059Z
       pulled_at: 2026-04-05T17:54:11.059Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -6695,7 +7051,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-04-04T17:54:00.122Z
       pulled_at: 2026-04-04T17:54:00.122Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -6739,7 +7095,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-04-04T17:54:00.122Z
       pulled_at: 2026-04-04T17:54:00.122Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -6804,7 +7160,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-04-04T17:54:00.122Z
       pulled_at: 2026-04-04T17:54:00.122Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -7982,7 +8338,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-03-29T17:54:22.542Z
       pulled_at: 2026-03-29T17:54:22.542Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -8026,7 +8382,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-03-29T17:54:22.542Z
       pulled_at: 2026-03-29T17:54:22.542Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -8126,7 +8482,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-03-29T17:54:22.542Z
       pulled_at: 2026-03-29T17:54:22.542Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -8180,7 +8536,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-03-29T17:54:22.542Z
       pulled_at: 2026-03-29T17:54:22.542Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -8245,7 +8601,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-03-29T17:54:22.542Z
       pulled_at: 2026-03-29T17:54:22.542Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -8340,7 +8696,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-03-28T17:52:17.353Z
       pulled_at: 2026-03-28T17:52:17.353Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -8384,7 +8740,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-03-28T17:52:17.353Z
       pulled_at: 2026-03-28T17:52:17.353Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -8484,7 +8840,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-03-28T17:52:17.353Z
       pulled_at: 2026-03-28T17:52:17.353Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -8538,7 +8894,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-03-28T17:52:17.353Z
       pulled_at: 2026-03-28T17:52:17.353Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -8603,7 +8959,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-03-28T17:52:17.353Z
       pulled_at: 2026-03-28T17:52:17.353Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -10107,7 +10463,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-03-21T17:47:02.356Z
       pulled_at: 2026-03-21T17:47:02.356Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -10151,7 +10507,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-03-21T17:47:02.356Z
       pulled_at: 2026-03-21T17:47:02.356Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -10216,7 +10572,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-03-21T17:47:02.356Z
       pulled_at: 2026-03-21T17:47:02.356Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -10311,8 +10667,8 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-03-20T17:57:28.942Z
       pulled_at: 2026-03-20T17:57:28.942Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: Consultport
@@ -10355,8 +10711,8 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-03-20T17:57:28.942Z
       pulled_at: 2026-03-20T17:57:28.942Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: greenhouse
       source_note: ""
       company: hellofresh
@@ -11147,7 +11503,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-03-15T17:50:54.832Z
       pulled_at: 2026-03-15T17:50:54.832Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -11191,7 +11547,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-03-15T17:50:54.832Z
       pulled_at: 2026-03-15T17:50:54.832Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -11286,7 +11642,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-03-14T17:48:07.526Z
       pulled_at: 2026-03-14T17:48:07.526Z
-      stale_days: 26
+      stale_days: 27
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -11330,7 +11686,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-03-14T17:48:07.526Z
       pulled_at: 2026-03-14T17:48:07.526Z
-      stale_days: 26
+      stale_days: 27
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -11425,7 +11781,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-03-13T17:55:49.129Z
       pulled_at: 2026-03-13T17:55:49.129Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -11469,7 +11825,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-03-13T17:55:49.129Z
       pulled_at: 2026-03-13T17:55:49.129Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -11750,6 +12106,181 @@ buckets:
       stale_days: 29
       is_stale: true
   video_editing:
+    - source: arbeitnow
+      source_note: ""
+      company: Yami Studios UG
+      title: Short Form Video Editor (french &/ dutch)
+      location: Berlin
+      url: https://www.arbeitnow.com/jobs/companies/yami-studios-ug/short-form-video-editor-french-dutch-berlin-351269
+      updated_at: 1775824272
+      description: "Yami Studios seeks a talented Short Form Video Editor fluent in
+        French and/or Dutch. As a leading media production company, we create
+        captivating visual narratives globally. The ideal candidate has a keen
+        eye for detail, a passion for storytelling, and can transform raw
+        footage into polished videos. Tasks Edit and assemble raw footage into
+        polished short-form videos Collaborate with the creative team to
+        understand project goals and deliver engaging videos Incorporate
+        graphics, animations, and special effects to enhance the visual appeal
+        of videos. Requirements Must be fluent in at least one of these
+        languages: French, Dutch Proven work experience of previous video
+        editing projects in the short-form space Ability to work creatively and
+        efficiently under tight deadlines while maintaining high attention to
+        detail. Strong communication skills with the capability to collaborate
+        effectively in a remote team environment. Benefits Longterm potential to
+        grow into full time position Work in international brand campaigns that
+        reach millions of people worldwide Find Jobs in Germany on Arbeitnow"
+      job_types:
+        - professional / experienced
+      remote: true
+      score: 80
+      skill_hits: 2
+      bucket_id: video_editing
+      fetched_at: 2026-04-10T18:05:31.144Z
+      pulled_at: 2026-04-10T18:05:31.144Z
+      stale_days: 0
+      is_stale: false
+    - source: arbeitnow
+      source_note: ""
+      company: Gauder GmbH
+      title: Video Content Creator & Brand Personality (m/w/d) - Praktikum/Internship
+        + Performance Bonus
+      location: Berlin
+      url: https://www.arbeitnow.com/jobs/companies/gauder-gmbh/video-content-creator-brand-personality-praktikum-internship-performance-bonus-berlin-457635
+      updated_at: 1775829635
+      description: "🛠️ Wir sind Gauder. Wir machen DIY-Produkte besser. 🌍 Seit 2017
+        haben wir bereits über 2 Millionen Kunden überzeugt. Mit mehr als 70.000
+        monatlichen Bestellungen gehören wir heute zu den führenden
+        E-Commerce-Marken in unserem Segment. 📱 Bei Social Media fangen wir
+        gerade erst an – und genau dafür suchen wir dich. 🤝 Du gibst Gauder
+        eine Persönlichkeit auf Social Media. Anstatt nach Schablone zu
+        arbeiten, bringst du deine eigenen Ideen direkt in die Umsetzung. Bei
+        Gauder setzen wir auf Eigeninitiative und Teamgeist. Wir wollen
+        gemeinsam etwas aufbauen und dabei den Spaß nicht vergessen. Start: Ab
+        sofort Art: Praktikum / min. 6 Monate Ort: Berlin-Mitte Aufgaben Du bist
+        verantwortlich für den kompletten organischen Social Media Auftritt von
+        Gauder: Content Creation: Du produzierst Video- und Bildcontent von der
+        ersten Idee über den Dreh bis zum fertigen Schnitt. Brand Personality:
+        Du stehst regelmäßig selbst vor der Kamera und wirst zum vertrauten
+        Geischt von Gauder auf Social Media. Kreativität: Du entwickelst
+        eigenständig Formate und Serien mit hohem Wiedererkennungswert.
+        Strategie: Du baust unsere Social Media Kanäle von Grund auf auf und
+        entwickelst sie weiter. Produktkommunikation: Du machst unsere Produkte
+        verständlich und unterhaltsam für unsere Zielgruppe. Qualifikation
+        Erfahrung: Du hast bereits erfolgreich Video-Content für Social Media
+        erstellt. Dein Können und deine Arbeitsweise sind uns wichtiger als dein
+        Studium. Plattform-Verständnis: Du verstehst die Dynamiken von TikTok,
+        Instagram und YouTube und weißt, wie man Content plattformgerecht
+        aufbereitet. Präsenz: Du fühlst dich vor der Kamera wohl und hast eine
+        selbstsichere Ausstrahlung. Sprachgefühl: Du beherrschst Deutsch auf
+        C2-Niveau und hast sehr gute Englischkenntnisse (C1). Storytelling: Du
+        hast ein Gespür für Trends und ein Auge für visuelle Sprache.
+        Hands-on-Mentalität: Du ziehst Projekte vom ersten Entwurf bis zum
+        finalen Posting durch. Benefits Vergütung: Wir bieten ein faires
+        Fixgehalt sowie einen Performance-Bonus, der Follower-Wachstum direkt
+        belohnt. Echter Impact: Du baust unsere Social Media Kanäle
+        eigenverantwortlich auf. Dein Erfolg ist direkt messbar und hat direkten
+        Einfluss auf unser Wachstum. Arbeitsumfeld: Wir arbeiten schnell und
+        ohne Konzernpolitik. Wir bieten dir flexible Arbeitszeiten,
+        Home-Office-Optionen und ein modernes Büro in Berlin-Mitte. Equipment:
+        Wir liefern dir die nötige Technik – du lieferst die Ergebnisse. Bereit
+        loszulegen? Bewirb dich einfach mit deinem Lebenslauf. Ein kurzer
+        Überblick reicht uns völlig aus. Viel wichtiger ist uns zu sehen, was du
+        kannst: Schick uns Beispiele für Content , den du bereits produziert
+        hast. Schick uns Links zu deinen Social-Media-Profilen und Projekten.
+        Falls du im Team gearbeitet hast: Erkläre uns kurz deinen Anteil am
+        Projekt. Wir verzichten auf lange Prozesse. Überzeugt uns dein Profil,
+        erhältst du innerhalb von 48 Stunden Feedback und sprichst direkt im
+        ersten Termin mit unserem Head of Design. Find Jobs in Germany on
+        Arbeitnow"
+      job_types:
+        - Internship
+        - hilfstätigkeit / student
+      remote: false
+      score: 78
+      skill_hits: 2
+      bucket_id: video_editing
+      fetched_at: 2026-04-10T18:05:31.144Z
+      pulled_at: 2026-04-10T18:05:31.144Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: SALTYBRANDS
+      title: Content Creator (m/w/d) – Schwerpunkt Videoproduktion
+      location: Hamburg, Hamburg, Deutschland, Hamburg, Deutschland
+      url: https://karriere.saltybrands.de/o/content-creator-mwd
+      updated_at: 2026-03-25 14:33:24 UTC
+      description: "Content Creator (m/w/d) – Schwerpunkt Videoproduktion Vollzeit |
+        Employer Branding | Marktführer im Social Recruiting Du produzierst
+        gerne hochwertigen Social-Media-Content und hast Spaß daran, Menschen
+        vor der Kamera zu filmen? Du erkennst schnell, was auf Instagram oder
+        TikTok funktioniert und möchtest Inhalte erstellen, die nicht nur gut
+        aussehen, sondern wirklich was bewegen? Als Content Creator (m/w/d) bei
+        SALTYBRANDS bist Du regelmäßig deutschlandweit bei unseren Kunden vor
+        Ort und führst eigenständig Social-Media-Drehs durch. Dabei arbeitest du
+        mit klaren Contentformaten und produzierst daraus Reels,
+        Recruitingvideos und Beiträge für ihren Unternehmensauftritt auf Social
+        Media. SALTYBRANDS gehört zu den führenden Social Recruiting Unternehmen
+        in Deutschland. Wir unterstützen mittelständische Unternehmen dabei,
+        planbar neue Mitarbeiter zu gewinnen und ihre Arbeitgebermarke sichtbar
+        zu machen – mit klaren Systemen, starken Kampagnen und hochwertigem
+        Content. Deine Top-Vorteile bei SALTYBRANDS 🎬 Eigenverantwortliche
+        Social-Media-Drehs Du darfst deine Shootings selbständig planen und
+        durchführen. Durch die unterschiedlichsten Branchen entsteht dabei
+        abwechslungsreicher, spannender Content aus dem echten Arbeitsalltag
+        unserer Kunden. 📸 Interne Contentproduktion Als fester Bestandteil
+        unseres Marketingteams arbeitest Du direkt bei uns im Büro und
+        produzierst Content für SALTYBRANDS. Du darfst Shootings leiten und
+        spannende Events begleiten und stehst dabei auch selbst vor der Kamera.
+        ⚙️ Klare Systeme statt Chaos Du arbeitest mit erprobten Contentformaten,
+        Templates und klaren Prozessen. Statt alles neu zu erfinden, kannst Du
+        Dich auf die Produktion und schnelle Umsetzung von Content
+        konzentrieren. 🤝 Junges Team mit hohem Anspruch Du arbeitest in einem
+        Team, das sich an aktuellen Trends orientiert, ihnen oft einen Schritt
+        voraus ist und gemeinsam daran arbeitet, konstant besser und schneller
+        zu werden. Weitere Vorteile 🎬 Modernes Equipment: MacBook Pro, neuestes
+        iPhone, professionelles Foto- und Videoequipment, Zugriff auf moderne
+        KI-Editing-Tools uvm. 🎓 Strukturiertes Onboarding: Interne
+        Schulungsplattform mit Tipps zu Videoproduktion, Schnitt und
+        Social-Media-Content. 👥 Junges Team: Durchschnittsalter ca. 25 Jahre,
+        direkte Zusammenarbeit und offene Feedbackkultur. 💰 100 € Netto
+        monatlich: für private Ausgaben wie Fahrtkosten, Handyrechnung, WLAN
+        uvm. 🩺 900 € Gesundheitsbudget jährlich: z. B. für Physiotherapie,
+        Brillen oder Massagen uvm. 💻 Modernes, helles Büro in Hamburg-Wandsbek:
+        Ergonomische Arbeitsplätze, optimale Lichtverhältnisse für interne
+        Contentproduktion und eine Dachterrasse für entspannte Pausen. Weitere
+        Benefits Supermärkte, Restaurants und die Mercedes-Benz-Mensa direkt vor
+        der Tür. Regelmäßige Afterworks und Team-Events sowie ein starkes
+        Netzwerk mit namhaften Kunden aus unterschiedlichsten Branchen. Was
+        machen wir: Bei SALTYBRANDS entstehen täglich Recruitingkampagnen aus
+        dem echten Arbeitsalltag unserer Kunden – authentisch produziert und für
+        Social Media und Co. aufbereitet. Dabei gehen wir selbst als Vorreiter
+        voran und zeigen, wie eine moderne Arbeitgebermarke aussieht.
+        TÜV-zertifizierte Prozesse, der Deutsche Agenturpreis und die
+        Auszeichnung als Top-Arbeitgeber unterstreichen unseren Anspruch an
+        Qualität, Struktur und professionelle Umsetzung. Deine Aufgaben – von
+        der Planung bis zur Veröffentlichung 1. Contentplanung &amp; Umsetzung
+        von Social Media Formaten Du erstellst Feed- und Contentpläne und setzt
+        die SALTY-Contentstrategie für unterschiedliche Unternehmen und Branchen
+        um. Dazu gehören auch Captions sowie einfache Grafiken. 2. Planung und
+        Durchführung von Drehtagen Du planst und führst Social Media-Drehtage
+        bei Unternehmen in ganz Deutschland durch. Dabei produzierst Du Video-
+        und Fotomaterial und arbeitest direkt mit Mitarbeitern vor Ort. 3.
+        Postproduktion &amp; Contentaufbereitung In einem hohen Tempo schneidest
+        du Reels und TikToks, setzt Hooks, Untertitel und Formatierungen um und
+        bereitest den Content für die Veröffentlichung vor. 4. Foto-Content
+        &amp; Bearbeitung Du bist zuständig für Fotografie, Bildauswahl und
+        Bearbeitung. Dabei nutzt du moderne AI-Tools. 5. Interner Content &amp;
+        Repräsentation von SALTYBRANDS Neben Kundenprojekten produzierst Du auch
+        Content für unsere eigenen Kanäle, repräsentierst SALTYBRANDS nach außen
+        und stehst dabei auch selbst vor der Kamera."
+      score: 74
+      skill_hits: 1
+      bucket_id: video_editing
+      fetched_at: 2026-04-10T18:05:31.144Z
+      pulled_at: 2026-04-10T18:05:31.144Z
+      stale_days: 0
+      is_stale: false
     - source: recruitee
       source_note: ""
       company: SALTYBRANDS
@@ -11907,7 +12438,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-04-08T18:45:15.656Z
       pulled_at: 2026-04-08T18:45:15.656Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -11985,7 +12516,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-04-08T18:45:15.656Z
       pulled_at: 2026-04-08T18:45:15.656Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -12054,7 +12585,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-04-08T18:45:15.656Z
       pulled_at: 2026-04-08T18:45:15.656Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -12210,7 +12741,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-04-05T17:54:11.059Z
       pulled_at: 2026-04-05T17:54:11.059Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -12288,7 +12819,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-04-04T17:54:00.122Z
       pulled_at: 2026-04-04T17:54:00.122Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -12827,7 +13358,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-03-29T17:54:22.542Z
       pulled_at: 2026-03-29T17:54:22.542Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -12905,7 +13436,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-03-28T17:52:17.353Z
       pulled_at: 2026-03-28T17:52:17.353Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -13501,7 +14032,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-03-21T17:47:02.356Z
       pulled_at: 2026-03-21T17:47:02.356Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -13579,8 +14110,8 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-03-20T17:57:28.942Z
       pulled_at: 2026-03-20T17:57:28.942Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: SALTYBRANDS
@@ -13884,7 +14415,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-03-15T17:50:54.832Z
       pulled_at: 2026-03-15T17:50:54.832Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -13962,7 +14493,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-03-15T17:50:54.832Z
       pulled_at: 2026-03-15T17:50:54.832Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -14033,7 +14564,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-03-14T17:48:07.526Z
       pulled_at: 2026-03-14T17:48:07.526Z
-      stale_days: 26
+      stale_days: 27
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -14111,7 +14642,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-03-14T17:48:07.526Z
       pulled_at: 2026-03-14T17:48:07.526Z
-      stale_days: 26
+      stale_days: 27
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -14189,7 +14720,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-03-13T17:55:49.129Z
       pulled_at: 2026-03-13T17:55:49.129Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -14292,7 +14823,7 @@ meta:
     smartrecruiters_companies: 11
     teamtailor_companies: 0
     recruitee_companies: 20
-    ashby_organizations: 22
+    ashby_organizations: 23
     stepstone_feeds: 0
     arbeitnow: 1
     remotive: 1
@@ -14305,13 +14836,13 @@ meta:
     official_career_pages: 40
     search_queries: 24
   stale_counts:
-    marketing_general: 21
-    digital_marketing: 20
-    video_editing: 9
+    marketing_general: 25
+    digital_marketing: 22
+    video_editing: 10
   inactive_counts:
     marketing_general: 0
     digital_marketing: 0
     video_editing: 0
   timings_ms:
-    fetch: 55965
-    total: 166172
+    fetch: 50718
+    total: 150215
