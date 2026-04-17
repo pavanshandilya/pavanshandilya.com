@@ -1,9 +1,542 @@
 schema_version: roles.v1
 profile_id: pooja
 profile_name: Pooja - product/scrum now, EM later
-generated_at: 2026-04-16T18:43:32.856Z
+generated_at: 2026-04-17T18:12:18.039Z
 buckets:
   pm_product:
+    - source: recruitee
+      source_note: ""
+      company: TransPerfect
+      title: Associate Product Manager
+      location: Pune, Mahārāshtra, India, Pune, India
+      url: https://transperfect.com/o/associate-product-manager
+      updated_at: 2026-04-13 13:39:11 UTC
+      description: OVERVIEW TransPerfect helps organizations navigate the global
+        marketplace. It remains founder-led – and has striven to maintain the
+        ethos and drive that led them to grow organically year-on-year for the
+        past 30 years. Starting in an NYU dorm room in the early 1990s,
+        TransPerfect is today recognized as the largest translation and language
+        services company in the world with thousands of employees located in
+        100+ offices around the world – and over $1 billion in revenue in 2023.
+        &nbsp; The TransPerfect TechOps team has been a vital part of the
+        company’s success since its formation 10 years ago – delivering
+        technology and services that have drastically simplified the lives of
+        our clients and colleagues – from workflow improvements for colleagues,
+        to core services that form the basis of the company’s GlobalLink
+        platform, to creating scalable client interfaces that allow novice users
+        to navigate complex ecosystems. DESCRIPTION
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Work closely with the Product
+        Manager to align on product strategy and roadmap
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support the product roadmap that
+        meets user needs and corporate goals
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Write detailed user stories and
+        acceptance criteria ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prioritize and
+        groom the product backlog ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support
+        the product lifecycle from planning to release
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Participate in daily/weekly
+        (agile/scrum) software development process meetings
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support delivery schedules and
+        coordinate across cross-functional teams comprised of product, design,
+        development and QA, to deliver functional solutions
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Communicate daily with the
+        cross-functional team to clarify any questions and remove roadblocks
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support and evaluate product
+        progress at each stage of the software development process
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Perform any other special tasks
+        that are deemed appropriate for this role as assigned by the
+        manager/supervisor
+      score: 92
+      skill_hits: 5
+      bucket_id: pm_product
+      fetched_at: 2026-04-17T18:12:18.039Z
+      pulled_at: 2026-04-17T18:12:18.039Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: TransPerfect
+      title: Associate Product Manager
+      location: Pune, Mahārāshtra, India, Pune, India
+      url: https://transperfect.com/o/associate-product-manager-1
+      updated_at: 2026-03-25 10:40:12 UTC
+      description: OVERVIEW
+        TransPerfect&nbsp;helps&nbsp;organizations&nbsp;navigate&nbsp;the&nbsp;global&nbsp;marketplace.&nbsp;It&nbsp;remains&nbsp;founder-led&nbsp;–&nbsp;and&nbsp;has&nbsp;striven&nbsp;to&nbsp;maintain&nbsp;the&nbsp;ethos&nbsp;and&nbsp;drive&nbsp;that&nbsp;led&nbsp;them&nbsp;to&nbsp;grow&nbsp;organically&nbsp;year-on-year&nbsp;for&nbsp;the&nbsp;past&nbsp;30&nbsp;years.&nbsp;Starting&nbsp;in&nbsp;an&nbsp;NYU&nbsp;dorm&nbsp;room&nbsp;in&nbsp;the&nbsp;early&nbsp;1990s,&nbsp;TransPerfect&nbsp;is&nbsp;today&nbsp;recognized&nbsp;as&nbsp;the&nbsp;largest&nbsp;translation&nbsp;and&nbsp;language&nbsp;services&nbsp;company&nbsp;in&nbsp;the&nbsp;world&nbsp;with&nbsp;thousands&nbsp;of&nbsp;employees&nbsp;located&nbsp;in&nbsp;100+&nbsp;offices&nbsp;around&nbsp;the&nbsp;world&nbsp;–&nbsp;and&nbsp;over&nbsp;$1&nbsp;billion&nbsp;in&nbsp;revenue&nbsp;in&nbsp;2023.
+        The&nbsp;TransPerfect&nbsp;TechOps&nbsp;team&nbsp;has&nbsp;been&nbsp;a&nbsp;vital&nbsp;part&nbsp;of&nbsp;the&nbsp;company’s&nbsp;success&nbsp;since&nbsp;its&nbsp;formation&nbsp;10&nbsp;years&nbsp;ago&nbsp;–&nbsp;delivering&nbsp;technology&nbsp;and&nbsp;services&nbsp;that&nbsp;have&nbsp;drastically&nbsp;simplified&nbsp;the&nbsp;lives&nbsp;of&nbsp;our&nbsp;clients&nbsp;and&nbsp;colleagues&nbsp;–&nbsp;from&nbsp;workflow&nbsp;improvements&nbsp;for&nbsp;colleagues,&nbsp;to&nbsp;core&nbsp;services&nbsp;that&nbsp;form&nbsp;the&nbsp;basis&nbsp;of&nbsp;the&nbsp;company’s&nbsp;GlobalLink&nbsp;platform,&nbsp;to&nbsp;creating&nbsp;scalable&nbsp;client&nbsp;interfaces&nbsp;that&nbsp;allow&nbsp;novice&nbsp;users&nbsp;to&nbsp;navigate&nbsp;complex&nbsp;ecosystems.
+        DESCRIPTION
+        Work&nbsp;closely&nbsp;with&nbsp;the&nbsp;Product&nbsp;Manager&nbsp;to&nbsp;align&nbsp;on&nbsp;product&nbsp;strategy&nbsp;and&nbsp;roadmap
+        Support&nbsp;the&nbsp;product&nbsp;roadmap&nbsp;that&nbsp;meets&nbsp;user&nbsp;needs&nbsp;and&nbsp;corporate&nbsp;goals
+        Write&nbsp;detailed&nbsp;user&nbsp;stories&nbsp;and&nbsp;acceptance&nbsp;criteria
+        Prioritize&nbsp;and&nbsp;groom&nbsp;the&nbsp;product&nbsp;backlog
+        Support&nbsp;the&nbsp;product&nbsp;lifecycle&nbsp;from&nbsp;planning&nbsp;to&nbsp;release
+        Participate&nbsp;in&nbsp;daily/weekly&nbsp;(agile/scrum)&nbsp;software&nbsp;development&nbsp;process&nbsp;meetings
+        Support&nbsp;delivery&nbsp;schedules&nbsp;and&nbsp;coordinate&nbsp;across&nbsp;cross-functional&nbsp;teams&nbsp;comprised&nbsp;of&nbsp;product,&nbsp;design,&nbsp;development&nbsp;and&nbsp;QA,&nbsp;to&nbsp;deliver&nbsp;functional&nbsp;solutions
+        Communicate&nbsp;daily&nbsp;with&nbsp;the&nbsp;cross-functional&nbsp;team&nbsp;to&nbsp;clarify&nbsp;any&nbsp;questions&nbsp;and&nbsp;remove&nbsp;roadblocks
+        Support&nbsp;and&nbsp;evaluate&nbsp;product&nbsp;progress&nbsp;at&nbsp;each&nbsp;stage&nbsp;of&nbsp;the&nbsp;software&nbsp;development&nbsp;process
+        Perform&nbsp;any&nbsp;other&nbsp;special&nbsp;tasks&nbsp;that&nbsp;are&nbsp;deemed&nbsp;appropriate&nbsp;for&nbsp;this&nbsp;role&nbsp;as&nbsp;assigned&nbsp;by&nbsp;the&nbsp;manager/supervisor
+        REQUIRED&nbsp;SKILLS
+        Minimum&nbsp;Bachelor’s&nbsp;degree&nbsp;or&nbsp;its&nbsp;equivalent
+        1-2&nbsp;years&nbsp;of&nbsp;related&nbsp;experience&nbsp;in&nbsp;working&nbsp;in&nbsp;an&nbsp;agile&nbsp;development&nbsp;environment
+        A&nbsp;solid&nbsp;working&nbsp;knowledge&nbsp;of&nbsp;the&nbsp;product&nbsp;management&nbsp;lifecycle&nbsp;and&nbsp;an&nbsp;understanding&nbsp;of&nbsp;the&nbsp;tenets&nbsp;of&nbsp;software&nbsp;development&nbsp;using&nbsp;Agile&nbsp;methodologies
+        Experience&nbsp;managing&nbsp;products&nbsp;or&nbsp;projects&nbsp;using&nbsp;project&nbsp;management&nbsp;tools&nbsp;such&nbsp;as&nbsp;Jira,&nbsp;Azure&nbsp;DevOps&nbsp;Server,&nbsp;Confluence,&nbsp;Trello,&nbsp;etc.&nbsp;
+        Expert&nbsp;communication&nbsp;skills:&nbsp;ability&nbsp;to&nbsp;manage&nbsp;stakeholders’&nbsp;expectations,&nbsp;be&nbsp;prepared&nbsp;to&nbsp;justify&nbsp;delays&nbsp;or&nbsp;scope&nbsp;changes,&nbsp;and&nbsp;communicate&nbsp;technical&nbsp;information&nbsp;to&nbsp;business&nbsp;stakeholders&nbsp;in&nbsp;an&nbsp;easy&nbsp;to&nbsp;understand&nbsp;way
+      score: 90
+      skill_hits: 5
+      bucket_id: pm_product
+      fetched_at: 2026-04-17T18:12:18.039Z
+      pulled_at: 2026-04-17T18:12:18.039Z
+      stale_days: 0
+      is_stale: false
+    - source: greenhouse
+      source_note: ""
+      company: dataiku
+      title: "Sr Product Manager "
+      location: Europe, Middle East, and Africa; France, Paris; France, Remote;
+        Germany, Berlin - Munzstrasse 12; Germany, Remote; Netherlands,
+        Amsterdam; Netherlands, Remote; Spain, Remote; United Kingdom, London;
+        United Kingdom, Remote
+      url: https://job-boards.greenhouse.io/dataiku/jobs/5812604004
+      updated_at: 2026-04-16T12:04:00-04:00
+      description: "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;a
+        href=&quot;https://www.dataiku.com/?utm_source=newswire&amp;amp;utm_med\
+        ium=press-release&amp;amp;utm_campaign=PlatformforAISuccess&quot;
+        target=&quot;_blank&quot;&gt;Dataiku&lt;/a&gt; is the Platform for AI
+        Success, the enterprise orchestration layer for building, deploying, and
+        governing AI. In a single environment, teams design and operate
+        analytics, machine learning, and AI agents with the transparency,
+        collaboration, and control enterprises require. Sitting above data
+        platforms, cloud infrastructure, and AI services, Dataiku connects the
+        full enterprise AI stack — empowering organizations to run AI across
+        multi-vendor environments with centralized
+        governance.&lt;br&gt;&lt;br&gt;The world’s leading companies rely on
+        Dataiku to operationalize AI and run it as a true business performance
+        engine delivering measurable value. For more, visit the Dataiku &lt;a
+        href=&quot;https://blog.dataiku.com/?_gl=1*17edvf4*_ga*MjA1Mjk5NzY4OC4x\
+        NjY3MjMyMDUz*_ga_B3YXRYMY48*MTY2OTA1MDY5NS4xMi4xLjE2NjkwNTA2OTguNTcuMC4\
+        w&quot; target=&quot;_blank&quot;&gt;blog&lt;/a&gt;, &lt;a
+        href=&quot;https://www.linkedin.com/company/dataiku/&quot;
+        target=&quot;_blank&quot;&gt;LinkedIn&lt;/a&gt;, &lt;a
+        href=&quot;https://x.com/dataiku&quot;
+        target=&quot;_blank&quot;&gt;X&lt;/a&gt;, and &lt;a
+        href=&quot;https://www.youtube.com/dataiku&quot;
+        target=&quot;_blank&quot;&gt;YouTube&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&l\
+        t;h3&gt;How you&#39;ll make an impact&lt;/h3&gt; &lt;p&gt;You will play
+        a pivotal role in shaping Dataiku&#39;s product positioning, roadmap,
+        and requirements for predictive analytics, machine learning, and GenAI
+        under the responsibilities of the Director of Product Management in
+        charge of Dataiku AI/ML offering. You will work with stakeholders across
+        all parts of the business, including Engineering, Product, GTM,
+        Partners, Marketing Operations, and Customer Success teams, to execute
+        growth projects and new products and features.&lt;/p&gt; &lt;p&gt;Your
+        challenge is to identify and shape net new capabilities: innovations
+        that are core additions to the product, discovered through deep customer
+        engagement and validated before engineering commits. You are not here to
+        maintain what exists in the long run, you will work with Technical
+        Product Managers. You are here to find what&#39;s missing and make the
+        case for building it.&lt;/p&gt; &lt;p&gt;If you&#39;re ready to step
+        into a role where your expertise leads to tangible, wide-scale impact,
+        where every insight you gather shapes the future of our products,
+        we&#39;re waiting for you!&lt;/p&gt; &lt;h3&gt;What you’ll be
+        doing&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Embed with strategic customers to
+        run structured discovery (interviews, async collaboration, or on-site
+        visits) to surface unmet needs before they&#39;re obvious to
+        competitors.&lt;/li&gt; &lt;li&gt;Analyze usage and customer data to
+        identify gaps and opportunities to enhance customer success and to
+        deliver new capabilities with distinct business value propositions,
+        ultimately contributing to the company&#39;s financial goals.&lt;/li&gt;
+        &lt;li&gt;Analyze market forces and competition, engage with industry
+        analysts and Dataiku teams to execute on Dataiku’s product strategy.
+        Collaborate with the Product Marketing team to align and deliver on
+        product positioning messages.&lt;/li&gt; &lt;li&gt;Build working
+        prototypes (UI mockups, agentic pipeline demos, opportunity memos) to
+        validate hypotheses with customers before engineering
+        commits.&lt;/li&gt; &lt;li&gt;Synthesize field signals across accounts
+        to distinguish incremental customer requests from genuine innovation
+        opportunities (net new capabilities that would be core additions to the
+        platform.)&lt;/li&gt; &lt;li&gt;Define and champion innovation
+        initiatives from discovery through to launch, at which point ownership
+        transitions to Technical Product Managers for ongoing improvements and
+        maintenance.&lt;/li&gt; &lt;li&gt;At launch, partner with Technical
+        Product Managers to produce enablement material for internal customers
+        (Product Marketing and GTM Enablement) ensuring new capabilities and big
+        delighters land with the right positioning, messaging, and field
+        readiness.&lt;/li&gt; &lt;li&gt;Maintain the product backlog for the
+        initiatives you own, constantly anticipating and aligning with the
+        global product strategy and the software engineering delivery
+        capacity.&lt;/li&gt; &lt;li&gt;Participate in the development,
+        maintenance and education on the AI/ML roadmap. Articulate your team’s
+        technology vision, requirements, goals and milestones to
+        stakeholders.&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;What you will NOT be
+        doing&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Managing the full lifecycle of
+        every feature you touch, your focus ends when a capability reaches
+        steady state. You will focus on product discovery and prioritization to
+        maximize value creation and minimize the risk of shipping the right
+        solution to the wrong problem, not on managing maintenance priorities or
+        driving small incremental improvements to existing
+        capabilities.&lt;/li&gt; &lt;li&gt;Product management focused on feature
+        development, you work closely with your Technical Product Managers (PO)
+        counterparts to ensure the engineering team gets what they need to
+        deliver the capability at the right time, you do not dive into technical
+        analysis.&lt;/li&gt; &lt;li&gt;Shipping production solutions to
+        customers. You build prototypes and demos to get clarity about the
+        problem customers face or to support compelling roadmap
+        presentations.&lt;/li&gt; &lt;li&gt;Being evaluated on ARR. Example of
+        success metrics are # of validated opportunities that made it into
+        engineering commit, NPS of sessions with customers, time from discovery
+        to roadmap entry.&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;What you’ll need to
+        be successful&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;5+ years of experience in
+        a similar role and a demonstrated ability to learn and thrive in front
+        of a diverse audience in a very technical environment&lt;/li&gt;
+        &lt;li&gt;3+ years hands-on experience with building AI/ML solutions
+        (e.g. advanced analytics, predictive analytics, GenAI-powered
+        applications)&lt;/li&gt; &lt;li&gt;Can prototype: Build and demo agentic
+        applications in Dataiku or elsewhere, not just slides. You don&#39;t
+        need to be a software engineer, but you produce tangible artifacts that
+        make ideas testable.&lt;/li&gt; &lt;li&gt;Ability to engage with
+        business leaders and influence decisions&lt;/li&gt; &lt;li&gt;Proven
+        ability to influence cross-functional teams without formal
+        authority&lt;/li&gt; &lt;/ul&gt;&lt;div
+        class=&quot;content-conclusion&quot;&gt;&lt;div&gt;&amp;nbsp;&lt;/div&g\
+        t; &lt;div&gt;&lt;strong&gt;What are you waiting
+        for!&lt;/strong&gt;&lt;/div&gt; &lt;div&gt;At Dataiku, you&#39;ll be
+        part of a journey to shape the ever-evolving world of AI. We&#39;re not
+        just building a product; we&#39;re crafting the future of AI. If
+        you&#39;re ready to make a significant impact in a company that values
+        innovation, collaboration, and your personal growth, we can&#39;t wait
+        to welcome you to Dataiku! And if you’d like to learn even more about
+        working here, you can visit our &lt;a
+        href=&quot;https://www.linkedin.com/company/dataiku/&quot;&gt;Dataiku
+        LinkedIn page&lt;/a&gt;.&lt;/div&gt; &lt;div&gt;&amp;nbsp;&lt;/div&gt;
+        &lt;div&gt;&lt;em&gt;Our practices are rooted in the idea that everyone
+        should be treated with dignity, decency and fairness. Dataiku also
+        believes that a diverse identity is a source of strength and allows us
+        to optimize across the many dimensions that are needed for our success.
+        Therefore, we are proud to be an equal opportunity
+        employer.&amp;nbsp;All employment practices are based on business needs,
+        without regard to race, ethnicity, gender identity or expression, sexual
+        orientation, religion, age, neurodiversity, disability status,
+        citizenship, veteran status or any other aspect which makes an
+        individual unique or protected by laws and regulations in the locations
+        where we operate. This applies to all policies and procedures related to
+        recruitment and hiring, compensation, benefits, performance, promotion
+        and termination and all other conditions and terms of employment. If you
+        need assistance or an accommodation, please contact us at:
+        &lt;/em&gt;&lt;a class=&quot;postings-link&quot;
+        href=&quot;http://reasonable-accommodations@dataiku.com/&quot;&gt;reaso\
+        nable-accommodations@dataiku.com&lt;/a&gt;&lt;/div&gt;
+        &lt;div&gt;&amp;nbsp;&lt;/div&gt; &lt;div&gt;&lt;hr&gt;&lt;/div&gt;
+        &lt;div&gt; &lt;div&gt;&amp;nbsp;&lt;/div&gt;
+        &lt;div&gt;&lt;strong&gt;Protect yourself from fraudulent recruitment
+        activity&lt;/strong&gt;&lt;/div&gt; &lt;div&gt;&lt;em&gt;Dataiku will
+        never ask you for payment of any type during the interview or hiring
+        process. Other than our video-conference application, Zoom, we will also
+        never ask you to make purchases or download third-party applications
+        during the process. If you experience something out of the ordinary or
+        suspect fraudulent activity, please review our page on identifying and
+        reporting fraudulent activity&amp;nbsp;&lt;a
+        href=&quot;https://www.dataiku.com/legal/dataiku-recruitment-scams/&quo\
+        t; target=&quot;_blank&quot;&gt;here.&lt;/a&gt;&lt;/em&gt;&lt;/div&gt;
+        &lt;/div&gt;&lt;/div&gt;"
+      score: 84
+      skill_hits: 3
+      bucket_id: pm_product
+      fetched_at: 2026-04-17T18:12:18.039Z
+      pulled_at: 2026-04-17T18:12:18.039Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: TransPerfect
+      title: Senior Product Manager
+      location: Pune, Mahārāshtra, India, Pune, India
+      url: https://transperfect.com/o/senior-product-manager
+      updated_at: 2026-04-17 06:07:10 UTC
+      description: "OVERVIEW TransPerfect helps the world's leading brands thrive in
+        the global marketplace by offering a full range of solutions to ensure
+        the success of digital and mobile initiatives. Working in 170+
+        languages, our services include website and software localization, QA
+        and testing, international SEO/SEM, customer service and call center
+        solutions, multicultural marketing, multimedia services, and more.
+        RESPOSIBILITES: Transperfect is seeking a Senior Product Manager to
+        manage and own the product lifecycle for integration frameworks for CMS
+        &amp; e-commerce systems. This position will work with internal
+        development and QA teams and vendor partners to build integrations into
+        GlobalLink - our flagship cloud based translation management platform We
+        are looking for forward-thinking professionals who are more interested
+        in how things could become and who can thrive in an evolving and
+        fast-paced environment. Manage the entire product life cycle which
+        includes: Explore product functionality and recommend best strategy to
+        integrate Ability to individually carry out product deliveries from
+        inception to product roll out Ability to design/create product
+        specifications for functional and user requirements Closely monitor
+        development and QA progress for ontime deliverables Do active review of
+        test strategy Planning continuous upgrades for new features and adapt to
+        latest market releases. ollaborate with multiple teams in multiple time
+        zones including product managers, engineers, solutions engineers, QA and
+        customers for product strategy &amp; roadmap. Participate in UI/UX
+        design. Author &amp; review Documentation updates Perform and follow
+        agile methodologies practices Ability to train and mentor resources
+        within team Develop marketing collateral and assist tech sales Engage
+        stakeholders on necessary inputs, manage communications, expectations
+        and dependencies with customers. Perform competitor analysis Analyze
+        potential partner relationships with vendors."
+      score: 84
+      skill_hits: 3
+      bucket_id: pm_product
+      fetched_at: 2026-04-17T18:12:18.039Z
+      pulled_at: 2026-04-17T18:12:18.039Z
+      stale_days: 0
+      is_stale: false
+    - source: greenhouse
+      source_note: ""
+      company: typeform
+      title: Senior Product Manager - Blocks
+      location: "Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal
+        (Remote) ; Spain (Remote) ; United Kingdom (Remote) "
+      url: https://job-boards.greenhouse.io/typeform/jobs/7700210
+      updated_at: 2026-03-10T12:16:11-04:00
+      description: "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;Who we
+        are&lt;/h3&gt; &lt;p&gt;Typeform is a refreshingly different form
+        builder. We help over 150,000 businesses collect the data they need with
+        forms, surveys, and quizzes that people enjoy. Designed to look striking
+        and feel effortless to fill out, Typeform drives 500 million responses
+        every year—and integrates with essential tools like Slack, Zapier, and
+        Hubspot.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Senior Product
+        Manager, Blocks&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;About
+        the role&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;We are looking for a Senior
+        Product Manager to own and evolve Typeform’s core building blocks, the
+        foundation that powers every form experience on the platform.&lt;/p&gt;
+        &lt;p&gt;Typeform’s respondent experience is widely recognised as one of
+        the best in the market. Behind that experience sits the blocks system,
+        the primitives that power every question, interaction, and response
+        flow. As Typeform continues to expand into new use cases and AI powered
+        experiences, this system must evolve to support greater flexibility,
+        composability, and speed of innovation.&lt;/p&gt; &lt;p&gt;In this role,
+        you will lead the evolution of the blocks library and the architecture
+        that powers the respondent experience. You will deepen the block system,
+        introduce new high impact block types, and help shape the technical
+        foundation that allows Typeform to support conversational, page based,
+        embedded, and AI moderated experiences from a unified
+        platform.&lt;/p&gt; &lt;p&gt;Your work will create the modular
+        primitives that allow teams across Typeform to build faster while
+        maintaining the quality of experience that sets Typeform
+        apart.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;About the
+        team&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;The Blocks team owns the
+        foundational components that power the respondent experience across
+        Typeform. Every question type, interaction, and response flow is built
+        on top of this system.&lt;/p&gt; &lt;p&gt;The team works closely with
+        platform engineering, product design, and multiple product teams across
+        the company. Their mission is to ensure Typeform’s core building blocks
+        remain flexible, scalable, and capable of supporting the next generation
+        of product experiences.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Things you will
+        do&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;• Own and evolve Typeform’s blocks
+        library, the foundation of every form experience&lt;br&gt;• Lead the
+        strategic evolution of the respondent experience architecture&lt;br&gt;•
+        Expand the block library by introducing new high impact block types such
+        as scheduling, payments, and document signature&lt;br&gt;• Define the
+        product strategy for a major renderer refactoring initiative to improve
+        flexibility and reduce architectural constraints&lt;br&gt;• Partner
+        closely with engineering on architectural decisions that shape the
+        future of the platform&lt;br&gt;• Ensure the block system remains
+        scalable, performant, and easy for other teams to build on&lt;br&gt;•
+        Define sequencing and delivery plans for platform improvements and new
+        capabilities&lt;br&gt;• Work cross functionally with engineering,
+        design, and product leadership to align on priorities and technical
+        direction&lt;br&gt;• Use data and customer insight to identify
+        opportunities and measure product impact&lt;br&gt;• Leverage AI tools to
+        accelerate discovery, analysis, documentation, and decision
+        making&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What you already bring to the
+        table&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;• Strong product sense and the
+        ability to identify what creates a great creator and respondent
+        experience&lt;br&gt;• A high ownership mindset with a bias toward action
+        and proactive problem solving&lt;br&gt;• Experience partnering closely
+        with engineering teams on technically complex product
+        initiatives&lt;br&gt;• Comfort engaging in discussions around
+        architecture, performance, and scalability&lt;br&gt;• Experience working
+        on platform level product systems rather than isolated
+        features&lt;br&gt;• Ability to balance long term platform vision with
+        short term delivery needs&lt;br&gt;• Strong product craft, including
+        writing clear specifications and managing complex cross team
+        initiatives&lt;br&gt;• A data driven approach to decision making and
+        prioritisation&lt;br&gt;• Comfort operating in ambiguous environments
+        and defining direction where none exists&lt;br&gt;• An AI augmented
+        working style, using tools such as ChatGPT, Claude, coding assistants,
+        and research agents to accelerate workflows&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Nice to have&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;•
+        Experience building form builders, survey tools, or creator focused
+        products&lt;br&gt;• Experience working on products that serve both
+        creators and end users&lt;br&gt;• Familiarity with AI enhanced product
+        experiences such as AI moderated workflows or smart logic
+        systems&lt;br&gt;• Experience leading platform or infrastructure level
+        product initiatives&lt;br&gt;• Experience driving architectural or
+        platform refactoring initiatives&lt;/p&gt; &lt;p&gt;&lt;strong&gt;This
+        is where you will make an impact&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;You
+        will help define the core primitives that power every Typeform
+        experience. By evolving the blocks system and respondent architecture,
+        you will unlock faster innovation across the platform and shape how
+        millions of people interact with forms every day.&lt;/p&gt;&lt;div
+        class=&quot;content-conclusion&quot;&gt;&lt;p&gt;*Typeform drives
+        hundreds of millions of interactions each year, enabling conversational,
+        human-centered experiences across the globe. We &lt;strong&gt;move as
+        one team&lt;/strong&gt;, empowering our collective efforts by valuing
+        each individual’s unique perspective. This fosters &lt;strong&gt;strong
+        bonds&lt;/strong&gt; grounded in respect, transparency, and trust. We
+        &lt;strong&gt;champion our diverse customer base&lt;/strong&gt; by
+        anticipating their needs and addressing their challenges with priority.
+        Committed to excellence, we&lt;strong&gt; hold high expectations
+        &lt;/strong&gt;for ourselves and each other, continuously striving to
+        deliver exceptional results.&lt;/p&gt; &lt;p&gt;We are proud to be an
+        equal-opportunity employer. We celebrate diversity and stand firmly
+        against discrimination and harassment of any kind—whether based on race,
+        color, ancestry, religion, sex, national origin, sexual orientation,
+        age, citizenship, marital status, disability, gender identity or
+        expression, or veteran status. Everyone is welcome
+        here.&lt;/p&gt;&lt;/div&gt;"
+      score: 80
+      skill_hits: 2
+      bucket_id: pm_product
+      fetched_at: 2026-04-17T18:12:18.039Z
+      pulled_at: 2026-04-17T18:12:18.039Z
+      stale_days: 0
+      is_stale: false
+    - source: greenhouse
+      source_note: ""
+      company: typeform
+      title: Senior Product Manager - Analytics
+      location: "Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal
+        (Remote) ; Spain (Remote) ; United Kingdom (Remote) ; United States
+        (Remote) "
+      url: https://job-boards.greenhouse.io/typeform/jobs/7090089
+      updated_at: 2026-03-10T12:25:00-04:00
+      description: "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;Who we
+        are&lt;/h3&gt; &lt;p&gt;Typeform is a refreshingly different form
+        builder. We help over 150,000 businesses collect the data they need with
+        forms, surveys, and quizzes that people enjoy. Designed to look striking
+        and feel effortless to fill out, Typeform drives 500 million responses
+        every year—and integrates with essential tools like Slack, Zapier, and
+        Hubspot.&lt;/p&gt;&lt;/div&gt;&lt;p data-start=&quot;492&quot;
+        data-end=&quot;1020&quot;&gt;&lt;strong data-start=&quot;492&quot;
+        data-end=&quot;510&quot;&gt;About the Team&lt;/strong&gt;&lt;/p&gt;
+        &lt;p data-start=&quot;492&quot; data-end=&quot;1020&quot;&gt;We’re
+        looking for a Senior Product Manager to lead the transformation of
+        Typeform’s reporting and analytics
+        experience.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;strong&gt;About the
+        Role&lt;/strong&gt;&lt;/p&gt; &lt;p data-start=&quot;492&quot;
+        data-end=&quot;1020&quot;&gt;This role sits at the center of Typeform’s
+        strategy to turn data into a true market differentiator, driving
+        long-term revenue growth and customer satisfaction. You’ll own the
+        strategy and execution of AI-first analytics capabilities that deliver
+        clear, actionable insights—helping Typeform move beyond feature-parity
+        competitors with a smarter, faster reporting experience.&lt;/p&gt; &lt;p
+        data-start=&quot;1022&quot; data-end=&quot;1044&quot;&gt;&lt;strong
+        data-start=&quot;1022&quot; data-end=&quot;1042&quot;&gt;Things you’ll
+        do&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li
+        data-start=&quot;1047&quot; data-end=&quot;1198&quot;&gt;Lead the
+        delivery of a best-in-class reporting suite, including a redesigned
+        summary page, filtering, advanced visualisations, and AI-driven
+        insights&lt;/li&gt; &lt;li data-start=&quot;1201&quot;
+        data-end=&quot;1307&quot;&gt;Define and ship the MVP for our next-gen
+        Narrative Intelligence and “AI Copilot for Insights”
+        experience&lt;/li&gt; &lt;li data-start=&quot;1310&quot;
+        data-end=&quot;1415&quot;&gt;Partner with Data Science to land
+        foundational Copilot capabilities that scale to millions of
+        responses&lt;/li&gt; &lt;li data-start=&quot;1418&quot;
+        data-end=&quot;1502&quot;&gt;Set and drive a focused roadmap that
+        combines quick wins with long-term innovation&lt;/li&gt; &lt;li
+        data-start=&quot;1505&quot; data-end=&quot;1605&quot;&gt;Consolidate
+        onboarding learnings, customer insights, and market context to guide
+        product decisions&lt;/li&gt; &lt;li data-start=&quot;1608&quot;
+        data-end=&quot;1709&quot;&gt;Improve key metrics like usage rates,
+        satisfaction scores, and activation across reporting features&lt;/li&gt;
+        &lt;li data-start=&quot;1712&quot; data-end=&quot;1811&quot;&gt;Build
+        strong internal alignment and communicate product value clearly to
+        Sales, CS, and GTM teams&lt;/li&gt; &lt;li data-start=&quot;1814&quot;
+        data-end=&quot;1918&quot;&gt;Ensure commercial success by helping Sales
+        and CS articulate differentiated analytics value to customers&lt;/li&gt;
+        &lt;/ul&gt; &lt;p data-start=&quot;1920&quot;
+        data-end=&quot;1958&quot;&gt;&lt;strong data-start=&quot;1920&quot;
+        data-end=&quot;1956&quot;&gt;What you will bring to the
+        table&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li
+        data-start=&quot;1961&quot; data-end=&quot;2056&quot;&gt;Strong
+        strategic thinking with the ability to balance long-term vision with
+        near-term results&lt;/li&gt; &lt;li data-start=&quot;2059&quot;
+        data-end=&quot;2151&quot;&gt;High ownership mindset with a proactive
+        approach to removing blockers and driving progress&lt;/li&gt; &lt;li
+        data-start=&quot;2154&quot; data-end=&quot;2257&quot;&gt;Proven ability
+        to collaborate cross-functionally with Sales, CS, Data Science, Legal,
+        and Engineering&lt;/li&gt; &lt;li data-start=&quot;2260&quot;
+        data-end=&quot;2379&quot;&gt;Confident communicator with commercial
+        fluency and presence when interacting with leadership and enterprise
+        customers&lt;/li&gt; &lt;li data-start=&quot;2382&quot;
+        data-end=&quot;2476&quot;&gt;Customer-focused mindset with a passion for
+        solving real-world data and reporting challenges&lt;/li&gt; &lt;li
+        data-start=&quot;2479&quot; data-end=&quot;2580&quot;&gt;Deep product
+        knowledge in analytics, data visualisation, and reporting (especially
+        for SaaS or B2B)&lt;/li&gt; &lt;li data-start=&quot;2583&quot;
+        data-end=&quot;2674&quot;&gt;Familiarity with AI/LLM-enabled product
+        development and user-facing intelligence features&lt;/li&gt; &lt;li
+        data-start=&quot;2677&quot; data-end=&quot;2773&quot;&gt;Experience
+        working with large-scale data infrastructure (e.g., Clickhouse, columnar
+        databases)&lt;/li&gt; &lt;li data-start=&quot;2776&quot;
+        data-end=&quot;2862&quot;&gt;High data literacy and the ability to
+        influence roadmap through evidence and insight&lt;/li&gt; &lt;li
+        data-start=&quot;2865&quot; data-end=&quot;2928&quot;&gt;Experience
+        managing complex, multi-threaded product work-streams&lt;/li&gt;
+        &lt;/ul&gt; &lt;p data-start=&quot;2930&quot;
+        data-end=&quot;2949&quot;&gt;&lt;strong data-start=&quot;2930&quot;
+        data-end=&quot;2947&quot;&gt;Extra awesome&lt;/strong&gt;&lt;/p&gt;
+        &lt;ul&gt; &lt;li data-start=&quot;2952&quot;
+        data-end=&quot;3033&quot;&gt;A strong track record building or buying
+        advanced reporting and analytics tools&lt;/li&gt; &lt;li
+        data-start=&quot;3036&quot; data-end=&quot;3119&quot;&gt;Experience in
+        survey tooling or working with flexible, unstructured response
+        data&lt;/li&gt; &lt;li data-start=&quot;3122&quot;
+        data-end=&quot;3189&quot;&gt;Hands-on experience delivering modern
+        AI-powered product features&lt;/li&gt; &lt;/ul&gt;&lt;div
+        class=&quot;content-conclusion&quot;&gt;&lt;p&gt;*Typeform drives
+        hundreds of millions of interactions each year, enabling conversational,
+        human-centered experiences across the globe. We &lt;strong&gt;move as
+        one team&lt;/strong&gt;, empowering our collective efforts by valuing
+        each individual’s unique perspective. This fosters &lt;strong&gt;strong
+        bonds&lt;/strong&gt; grounded in respect, transparency, and trust. We
+        &lt;strong&gt;champion our diverse customer base&lt;/strong&gt; by
+        anticipating their needs and addressing their challenges with priority.
+        Committed to excellence, we&lt;strong&gt; hold high expectations
+        &lt;/strong&gt;for ourselves and each other, continuously striving to
+        deliver exceptional results.&lt;/p&gt; &lt;p&gt;We are proud to be an
+        equal-opportunity employer. We celebrate diversity and stand firmly
+        against discrimination and harassment of any kind—whether based on race,
+        color, ancestry, religion, sex, national origin, sexual orientation,
+        age, citizenship, marital status, disability, gender identity or
+        expression, or veteran status. Everyone is welcome
+        here.&lt;/p&gt;&lt;/div&gt;"
+      score: 78
+      skill_hits: 2
+      bucket_id: pm_product
+      fetched_at: 2026-04-17T18:12:18.039Z
+      pulled_at: 2026-04-17T18:12:18.039Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: Consultport
+      title: Product Manager (m/f/d)
+      location: Berlin, Berlin, Germany, Berlin, Germany
+      url: https://consultport.recruitee.com/o/product-manager-mfd
+      updated_at: 2026-03-24 17:10:00 UTC
+      description: Consultport is the leading digital platform that connects some of
+        the world's most iconic brands with world-class consultants. We're
+        scaling hard, and we need a PM obsessed with product-led growth (PLG).
+        This role is not about babysitting a roadmap but turning the product
+        itself into our best sales channel — removing friction, driving
+        activation, and making users fall in love before they ever talk to
+        sales.
+      score: 74
+      skill_hits: 1
+      bucket_id: pm_product
+      fetched_at: 2026-04-17T18:12:18.039Z
+      pulled_at: 2026-04-17T18:12:18.039Z
+      stale_days: 0
+      is_stale: false
     - source: recruitee
       source_note: ""
       company: TransPerfect
@@ -1100,7 +1633,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-14T18:49:38.398Z
       pulled_at: 2026-04-14T18:49:38.398Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1134,7 +1667,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-14T18:49:38.398Z
       pulled_at: 2026-04-14T18:49:38.398Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -1291,7 +1824,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-14T18:49:38.398Z
       pulled_at: 2026-04-14T18:49:38.398Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -1403,7 +1936,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-14T18:49:38.398Z
       pulled_at: 2026-04-14T18:49:38.398Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -1521,7 +2054,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-14T18:49:38.398Z
       pulled_at: 2026-04-14T18:49:38.398Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1542,7 +2075,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-14T18:49:38.398Z
       pulled_at: 2026-04-14T18:49:38.398Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1590,7 +2123,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-13T18:45:18.238Z
       pulled_at: 2026-04-13T18:45:18.238Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1624,7 +2157,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-13T18:45:18.238Z
       pulled_at: 2026-04-13T18:45:18.238Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -1781,7 +2314,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-13T18:45:18.238Z
       pulled_at: 2026-04-13T18:45:18.238Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -1893,7 +2426,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-13T18:45:18.238Z
       pulled_at: 2026-04-13T18:45:18.238Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -2011,7 +2544,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-13T18:45:18.238Z
       pulled_at: 2026-04-13T18:45:18.238Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2032,7 +2565,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-13T18:45:18.238Z
       pulled_at: 2026-04-13T18:45:18.238Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2080,7 +2613,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-12T17:58:53.081Z
       pulled_at: 2026-04-12T17:58:53.081Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2114,7 +2647,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-12T17:58:53.081Z
       pulled_at: 2026-04-12T17:58:53.081Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -2271,7 +2804,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-12T17:58:53.081Z
       pulled_at: 2026-04-12T17:58:53.081Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -2383,7 +2916,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-12T17:58:53.081Z
       pulled_at: 2026-04-12T17:58:53.081Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -2501,7 +3034,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-12T17:58:53.081Z
       pulled_at: 2026-04-12T17:58:53.081Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2522,7 +3055,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-12T17:58:53.081Z
       pulled_at: 2026-04-12T17:58:53.081Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2594,7 +3127,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-12T17:58:53.081Z
       pulled_at: 2026-04-12T17:58:53.081Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2642,7 +3175,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-11T17:56:24.270Z
       pulled_at: 2026-04-11T17:56:24.270Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2676,7 +3209,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-11T17:56:24.270Z
       pulled_at: 2026-04-11T17:56:24.270Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -2833,7 +3366,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-11T17:56:24.270Z
       pulled_at: 2026-04-11T17:56:24.270Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -2945,7 +3478,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-11T17:56:24.270Z
       pulled_at: 2026-04-11T17:56:24.270Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -3063,7 +3596,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-11T17:56:24.270Z
       pulled_at: 2026-04-11T17:56:24.270Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3084,7 +3617,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-11T17:56:24.270Z
       pulled_at: 2026-04-11T17:56:24.270Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3156,7 +3689,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-11T17:56:24.270Z
       pulled_at: 2026-04-11T17:56:24.270Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3204,7 +3737,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-10T18:08:02.317Z
       pulled_at: 2026-04-10T18:08:02.317Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3238,7 +3771,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-10T18:08:02.317Z
       pulled_at: 2026-04-10T18:08:02.317Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -3395,7 +3928,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-10T18:08:02.317Z
       pulled_at: 2026-04-10T18:08:02.317Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -3507,7 +4040,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-10T18:08:02.317Z
       pulled_at: 2026-04-10T18:08:02.317Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -3625,7 +4158,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-10T18:08:02.317Z
       pulled_at: 2026-04-10T18:08:02.317Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3646,7 +4179,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-10T18:08:02.317Z
       pulled_at: 2026-04-10T18:08:02.317Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3718,7 +4251,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-10T18:08:02.317Z
       pulled_at: 2026-04-10T18:08:02.317Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4256,7 +4789,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-08T18:47:07.630Z
       pulled_at: 2026-04-08T18:47:07.630Z
-      stale_days: 7
+      stale_days: 8
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4290,7 +4823,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-08T18:47:07.630Z
       pulled_at: 2026-04-08T18:47:07.630Z
-      stale_days: 7
+      stale_days: 8
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -4447,7 +4980,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-08T18:47:07.630Z
       pulled_at: 2026-04-08T18:47:07.630Z
-      stale_days: 7
+      stale_days: 8
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -4559,7 +5092,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-08T18:47:07.630Z
       pulled_at: 2026-04-08T18:47:07.630Z
-      stale_days: 7
+      stale_days: 8
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -4677,7 +5210,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-08T18:47:07.630Z
       pulled_at: 2026-04-08T18:47:07.630Z
-      stale_days: 7
+      stale_days: 8
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4698,7 +5231,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-08T18:47:07.630Z
       pulled_at: 2026-04-08T18:47:07.630Z
-      stale_days: 7
+      stale_days: 8
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -5386,7 +5919,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-05T17:56:02.075Z
       pulled_at: 2026-04-05T17:56:02.075Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -5489,7 +6022,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-05T17:56:02.075Z
       pulled_at: 2026-04-05T17:56:02.075Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -5523,7 +6056,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-05T17:56:02.075Z
       pulled_at: 2026-04-05T17:56:02.075Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -5582,7 +6115,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-05T17:56:02.075Z
       pulled_at: 2026-04-05T17:56:02.075Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -5739,7 +6272,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-05T17:56:02.075Z
       pulled_at: 2026-04-05T17:56:02.075Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -5851,7 +6384,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-05T17:56:02.075Z
       pulled_at: 2026-04-05T17:56:02.075Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -5969,7 +6502,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-05T17:56:02.075Z
       pulled_at: 2026-04-05T17:56:02.075Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -5990,7 +6523,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-05T17:56:02.075Z
       pulled_at: 2026-04-05T17:56:02.075Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -6038,7 +6571,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-04T18:01:33.556Z
       pulled_at: 2026-04-04T18:01:33.556Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -6141,7 +6674,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-04T18:01:33.556Z
       pulled_at: 2026-04-04T18:01:33.556Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -6175,7 +6708,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-04T18:01:33.556Z
       pulled_at: 2026-04-04T18:01:33.556Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -6234,7 +6767,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-04T18:01:33.556Z
       pulled_at: 2026-04-04T18:01:33.556Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -6391,7 +6924,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-04T18:01:33.556Z
       pulled_at: 2026-04-04T18:01:33.556Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -6503,7 +7036,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-04T18:01:33.556Z
       pulled_at: 2026-04-04T18:01:33.556Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -6621,7 +7154,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-04T18:01:33.556Z
       pulled_at: 2026-04-04T18:01:33.556Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -6642,7 +7175,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-04T18:01:33.556Z
       pulled_at: 2026-04-04T18:01:33.556Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -6690,7 +7223,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-02T18:08:02.981Z
       pulled_at: 2026-04-02T18:08:02.981Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -6724,7 +7257,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-02T18:08:02.981Z
       pulled_at: 2026-04-02T18:08:02.981Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -6881,7 +7414,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-02T18:08:02.981Z
       pulled_at: 2026-04-02T18:08:02.981Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -6993,7 +7526,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-02T18:08:02.981Z
       pulled_at: 2026-04-02T18:08:02.981Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -7111,7 +7644,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-02T18:08:02.981Z
       pulled_at: 2026-04-02T18:08:02.981Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -7132,7 +7665,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-04-02T18:08:02.981Z
       pulled_at: 2026-04-02T18:08:02.981Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -8650,7 +9183,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-03-29T17:56:40.964Z
       pulled_at: 2026-03-29T17:56:40.964Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -8684,7 +9217,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-03-29T17:56:40.964Z
       pulled_at: 2026-03-29T17:56:40.964Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -8841,7 +9374,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-03-29T17:56:40.964Z
       pulled_at: 2026-03-29T17:56:40.964Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -8953,7 +9486,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-03-29T17:56:40.964Z
       pulled_at: 2026-03-29T17:56:40.964Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -9008,7 +9541,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-03-29T17:56:40.964Z
       pulled_at: 2026-03-29T17:56:40.964Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -9126,7 +9659,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-03-29T17:56:40.964Z
       pulled_at: 2026-03-29T17:56:40.964Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -9147,7 +9680,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-03-29T17:56:40.964Z
       pulled_at: 2026-03-29T17:56:40.964Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -9203,7 +9736,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-03-29T17:56:40.964Z
       pulled_at: 2026-03-29T17:56:40.964Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -9251,7 +9784,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-03-28T17:54:48.104Z
       pulled_at: 2026-03-28T17:54:48.104Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -9285,7 +9818,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-03-28T17:54:48.104Z
       pulled_at: 2026-03-28T17:54:48.104Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -9442,7 +9975,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-03-28T17:54:48.104Z
       pulled_at: 2026-03-28T17:54:48.104Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -9554,7 +10087,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-03-28T17:54:48.104Z
       pulled_at: 2026-03-28T17:54:48.104Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -9609,7 +10142,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-03-28T17:54:48.104Z
       pulled_at: 2026-03-28T17:54:48.104Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -9727,7 +10260,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-03-28T17:54:48.104Z
       pulled_at: 2026-03-28T17:54:48.104Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -9748,7 +10281,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-03-28T17:54:48.104Z
       pulled_at: 2026-03-28T17:54:48.104Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -9796,8 +10329,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-03-27T18:10:11.632Z
       pulled_at: 2026-03-27T18:10:11.632Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: TransPerfect
@@ -9830,8 +10363,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-03-27T18:10:11.632Z
       pulled_at: 2026-03-27T18:10:11.632Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: greenhouse
       source_note: ""
       company: dataiku
@@ -9987,8 +10520,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-03-27T18:10:11.632Z
       pulled_at: 2026-03-27T18:10:11.632Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: greenhouse
       source_note: ""
       company: typeform
@@ -10099,8 +10632,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-03-27T18:10:11.632Z
       pulled_at: 2026-03-27T18:10:11.632Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: arbeitnow
       source_note: ""
       company: Privatize
@@ -10154,8 +10687,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-03-27T18:10:11.632Z
       pulled_at: 2026-03-27T18:10:11.632Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: greenhouse
       source_note: ""
       company: typeform
@@ -10272,8 +10805,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-03-27T18:10:11.632Z
       pulled_at: 2026-03-27T18:10:11.632Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: Consultport
@@ -10293,8 +10826,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-03-27T18:10:11.632Z
       pulled_at: 2026-03-27T18:10:11.632Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: TransPerfect
@@ -11751,7 +12284,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-03-23T18:09:41.867Z
       pulled_at: 2026-03-23T18:09:41.867Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -11785,7 +12318,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-03-23T18:09:41.867Z
       pulled_at: 2026-03-23T18:09:41.867Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -11897,7 +12430,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-03-23T18:09:41.867Z
       pulled_at: 2026-03-23T18:09:41.867Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -12015,7 +12548,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-03-23T18:09:41.867Z
       pulled_at: 2026-03-23T18:09:41.867Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -12036,7 +12569,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-03-23T18:09:41.867Z
       pulled_at: 2026-03-23T18:09:41.867Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -12084,7 +12617,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-03-21T17:49:17.055Z
       pulled_at: 2026-03-21T17:49:17.055Z
-      stale_days: 26
+      stale_days: 27
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -12118,7 +12651,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-03-21T17:49:17.055Z
       pulled_at: 2026-03-21T17:49:17.055Z
-      stale_days: 26
+      stale_days: 27
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -12230,7 +12763,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-03-21T17:49:17.055Z
       pulled_at: 2026-03-21T17:49:17.055Z
-      stale_days: 26
+      stale_days: 27
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -12348,7 +12881,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-03-21T17:49:17.055Z
       pulled_at: 2026-03-21T17:49:17.055Z
-      stale_days: 26
+      stale_days: 27
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -12369,7 +12902,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-03-21T17:49:17.055Z
       pulled_at: 2026-03-21T17:49:17.055Z
-      stale_days: 26
+      stale_days: 27
       is_stale: true
     - source: jobicy
       source_note: ""
@@ -12500,7 +13033,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-03-20T17:59:03.646Z
       pulled_at: 2026-03-20T17:59:03.646Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -12612,7 +13145,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-03-20T17:59:03.646Z
       pulled_at: 2026-03-20T17:59:03.646Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -12730,7 +13263,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-03-20T17:59:03.646Z
       pulled_at: 2026-03-20T17:59:03.646Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -12751,7 +13284,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-03-20T17:59:03.646Z
       pulled_at: 2026-03-20T17:59:03.646Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -13403,343 +13936,7 @@ buckets:
   scrum_agile: []
   program_management: []
 archive:
-  pm_product:
-    - source: recruitee
-      source_note: ""
-      company: Digistore24
-      title: Senior Growth Product Manager - 100% Remote (m/f/d)
-      location: Standort flexibel, Hannover, Deutschland
-      url: https://jobs.digistore24.com/o/growth-product-manager
-      updated_at: 2026-03-17 14:28:11 UTC
-      description: "This is not a Product Owner role focused on backlog management,
-        delivery coordination, or writing tickets. We are looking for a true
-        experienced Growth Product Manager who owns the why and what, works
-        closely with Engineering and Design on the how, collaborates strongly
-        with stakeholders, and leads through product discovery, strategy, and
-        execution. This is also not a growth marketing role . You will not run
-        campaigns or acquisition channels. Growth in this role is driven
-        primarily through product-led changes to the user experience ,
-        experimentation, and system-level improvements. 💔 Before you continue
-        reading: Please note that this role requires fluent English (German is a
-        plus) . If you’re not fully comfortable working in English , this
-        position may unfortunately not be the right fit, as both are essential
-        for the role. Who is Digistore24? At Digistore24, we’re building a
-        best-in-class ecommerce platform used by tens of thousands of
-        entrepreneurs and SMEs to sell digital products, courses, memberships,
-        and more. As a Senior Growth Product Manager, your mission is to drive
-        product-led growth across the Digistore24 platform, spanning activation,
-        onboarding, engagement, retention, and monetization. You will own growth
-        problems end to end: understanding user behavior, identifying
-        opportunities, running experiments, shipping improvements, and measuring
-        impact on activation, engagement, retention, and long-term value.
-        Success in this role is defined by measurable improvement in growth
-        metrics, not roadmap output. Your new dream job As a Product Manager at
-        Digistore24, you'll join one of our cross-functional product teams and
-        take ownership of a specific product domain. Your mission is to deeply
-        understand our users, uncover valuable opportunities, and lead your team
-        to deliver meaningful outcomes, all in alignment with the company’s
-        broader product strategy and business goals. Here’s what you’ll do: Own
-        growth outcomes across the user lifecycle Take ownership of one or more
-        core growth metrics across the user lifecycle, such as activation,
-        engagement, retention, or monetization. Identify friction, drop-offs,
-        and unmet user needs using data and user insights. Translate insights
-        into testable growth bets with clear success criteria. Define growth
-        models &amp; loops Build and evolve growth models that connect product
-        inputs to business outcomes. Identify and improve growth loops beyond
-        linear funnels. Make prioritization and tradeoffs explicit, aligning
-        initiatives with company OKRs and strategic goals. Lead experimentation
-        Design and run experiments (A/B tests, prototypes, staged rollouts) with
-        Design and Engineering. Apply sound experimentation practices, including
-        hypothesis definition, success metrics, and basic statistical reasoning.
-        Use learnings to iterate, double down, or stop initiatives decisively.
-        Be hands-on with product analytics Work daily with product analytics to
-        guide decisions and uncover opportunities. Use tools like PostHog
-        (strong plus), Amplitude, Mixpanel, or Pendo to analyze user behavior
-        and experiment results. Turn data into clear insights that inform
-        decisions. Drive end-to-end execution Lead initiatives from problem
-        framing through discovery, delivery, and measurement. Collaborate
-        closely with Engineering and Design on scope, tradeoffs, and sequencing.
-        Ensure learnings are documented and reused. Collaborate across the
-        company Work as a thought partner with stakeholders across Marketing,
-        Support, Analytics, and Leadership. Align teams around shared goals and
-        outcomes. Communicate clearly and proactively. Your benefits at
-        Digistore24 At Digistore24, we believe that great people do their best
-        work when given real autonomy, clarity of purpose, and a supportive
-        environment. Here’s what you can expect when you join us: Work from
-        anywhere, on your schedule : Whether from home or your favorite
-        coworking space (3 days a week): as long as you have a stable internet
-        connection, your work location and hours are flexible (MO-FR).
-        Continuous learning: Access to regular training opportunities and
-        development resources to grow your skills and career. Stable,
-        founder-led business: We’re a profitable German high-tech company,
-        funded by our successful product, not outside investors. Empowered,
-        outcome-focused teams : Join a product culture built on autonomy,
-        ownership, and direct feedback, not micromanagement. Tools that fit your
-        workflow : Choose the hardware that suits you best, whether MacBook Pro
-        or ThinkPad. International, collaborative culture : Work with an
-        international team of thoughtful, driven people Real human connection :
-        Enjoy spectacular in-person team events across Europe to build
-        relationships beyond screens. Ownership from day one : You’ll be trusted
-        to make decisions and drive impact right from the start. No dress code.
-        No egos. Just teams solving problems together."
-      score: 84
-      skill_hits: 3
-      bucket_id: pm_product
-      fetched_at: 2026-03-17T18:13:12.911Z
-      pulled_at: 2026-03-17T18:13:12.911Z
-      stale_days: 30
-      is_stale: true
-    - source: greenhouse
-      source_note: ""
-      company: typeform
-      title: Senior Product Manager - Blocks
-      location: "Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal
-        (Remote) ; Spain (Remote) ; United Kingdom (Remote) "
-      url: https://job-boards.greenhouse.io/typeform/jobs/7700210
-      updated_at: 2026-03-10T12:16:11-04:00
-      description: "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;Who we
-        are&lt;/h3&gt; &lt;p&gt;Typeform is a refreshingly different form
-        builder. We help over 150,000 businesses collect the data they need with
-        forms, surveys, and quizzes that people enjoy. Designed to look striking
-        and feel effortless to fill out, Typeform drives 500 million responses
-        every year—and integrates with essential tools like Slack, Zapier, and
-        Hubspot.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Senior Product
-        Manager, Blocks&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;About
-        the role&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;We are looking for a Senior
-        Product Manager to own and evolve Typeform’s core building blocks, the
-        foundation that powers every form experience on the platform.&lt;/p&gt;
-        &lt;p&gt;Typeform’s respondent experience is widely recognised as one of
-        the best in the market. Behind that experience sits the blocks system,
-        the primitives that power every question, interaction, and response
-        flow. As Typeform continues to expand into new use cases and AI powered
-        experiences, this system must evolve to support greater flexibility,
-        composability, and speed of innovation.&lt;/p&gt; &lt;p&gt;In this role,
-        you will lead the evolution of the blocks library and the architecture
-        that powers the respondent experience. You will deepen the block system,
-        introduce new high impact block types, and help shape the technical
-        foundation that allows Typeform to support conversational, page based,
-        embedded, and AI moderated experiences from a unified
-        platform.&lt;/p&gt; &lt;p&gt;Your work will create the modular
-        primitives that allow teams across Typeform to build faster while
-        maintaining the quality of experience that sets Typeform
-        apart.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;About the
-        team&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;The Blocks team owns the
-        foundational components that power the respondent experience across
-        Typeform. Every question type, interaction, and response flow is built
-        on top of this system.&lt;/p&gt; &lt;p&gt;The team works closely with
-        platform engineering, product design, and multiple product teams across
-        the company. Their mission is to ensure Typeform’s core building blocks
-        remain flexible, scalable, and capable of supporting the next generation
-        of product experiences.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Things you will
-        do&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;• Own and evolve Typeform’s blocks
-        library, the foundation of every form experience&lt;br&gt;• Lead the
-        strategic evolution of the respondent experience architecture&lt;br&gt;•
-        Expand the block library by introducing new high impact block types such
-        as scheduling, payments, and document signature&lt;br&gt;• Define the
-        product strategy for a major renderer refactoring initiative to improve
-        flexibility and reduce architectural constraints&lt;br&gt;• Partner
-        closely with engineering on architectural decisions that shape the
-        future of the platform&lt;br&gt;• Ensure the block system remains
-        scalable, performant, and easy for other teams to build on&lt;br&gt;•
-        Define sequencing and delivery plans for platform improvements and new
-        capabilities&lt;br&gt;• Work cross functionally with engineering,
-        design, and product leadership to align on priorities and technical
-        direction&lt;br&gt;• Use data and customer insight to identify
-        opportunities and measure product impact&lt;br&gt;• Leverage AI tools to
-        accelerate discovery, analysis, documentation, and decision
-        making&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What you already bring to the
-        table&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;• Strong product sense and the
-        ability to identify what creates a great creator and respondent
-        experience&lt;br&gt;• A high ownership mindset with a bias toward action
-        and proactive problem solving&lt;br&gt;• Experience partnering closely
-        with engineering teams on technically complex product
-        initiatives&lt;br&gt;• Comfort engaging in discussions around
-        architecture, performance, and scalability&lt;br&gt;• Experience working
-        on platform level product systems rather than isolated
-        features&lt;br&gt;• Ability to balance long term platform vision with
-        short term delivery needs&lt;br&gt;• Strong product craft, including
-        writing clear specifications and managing complex cross team
-        initiatives&lt;br&gt;• A data driven approach to decision making and
-        prioritisation&lt;br&gt;• Comfort operating in ambiguous environments
-        and defining direction where none exists&lt;br&gt;• An AI augmented
-        working style, using tools such as ChatGPT, Claude, coding assistants,
-        and research agents to accelerate workflows&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Nice to have&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;•
-        Experience building form builders, survey tools, or creator focused
-        products&lt;br&gt;• Experience working on products that serve both
-        creators and end users&lt;br&gt;• Familiarity with AI enhanced product
-        experiences such as AI moderated workflows or smart logic
-        systems&lt;br&gt;• Experience leading platform or infrastructure level
-        product initiatives&lt;br&gt;• Experience driving architectural or
-        platform refactoring initiatives&lt;/p&gt; &lt;p&gt;&lt;strong&gt;This
-        is where you will make an impact&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;You
-        will help define the core primitives that power every Typeform
-        experience. By evolving the blocks system and respondent architecture,
-        you will unlock faster innovation across the platform and shape how
-        millions of people interact with forms every day.&lt;/p&gt;&lt;div
-        class=&quot;content-conclusion&quot;&gt;&lt;p&gt;*Typeform drives
-        hundreds of millions of interactions each year, enabling conversational,
-        human-centered experiences across the globe. We &lt;strong&gt;move as
-        one team&lt;/strong&gt;, empowering our collective efforts by valuing
-        each individual’s unique perspective. This fosters &lt;strong&gt;strong
-        bonds&lt;/strong&gt; grounded in respect, transparency, and trust. We
-        &lt;strong&gt;champion our diverse customer base&lt;/strong&gt; by
-        anticipating their needs and addressing their challenges with priority.
-        Committed to excellence, we&lt;strong&gt; hold high expectations
-        &lt;/strong&gt;for ourselves and each other, continuously striving to
-        deliver exceptional results.&lt;/p&gt; &lt;p&gt;We are proud to be an
-        equal-opportunity employer. We celebrate diversity and stand firmly
-        against discrimination and harassment of any kind—whether based on race,
-        color, ancestry, religion, sex, national origin, sexual orientation,
-        age, citizenship, marital status, disability, gender identity or
-        expression, or veteran status. Everyone is welcome
-        here.&lt;/p&gt;&lt;/div&gt;"
-      score: 80
-      skill_hits: 2
-      bucket_id: pm_product
-      fetched_at: 2026-03-17T18:13:12.911Z
-      pulled_at: 2026-03-17T18:13:12.911Z
-      stale_days: 30
-      is_stale: true
-    - source: greenhouse
-      source_note: ""
-      company: typeform
-      title: Senior Product Manager - Analytics
-      location: "Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal
-        (Remote) ; Spain (Remote) ; United Kingdom (Remote) ; United States
-        (Remote) "
-      url: https://job-boards.greenhouse.io/typeform/jobs/7090089
-      updated_at: 2026-03-10T12:25:00-04:00
-      description: "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;Who we
-        are&lt;/h3&gt; &lt;p&gt;Typeform is a refreshingly different form
-        builder. We help over 150,000 businesses collect the data they need with
-        forms, surveys, and quizzes that people enjoy. Designed to look striking
-        and feel effortless to fill out, Typeform drives 500 million responses
-        every year—and integrates with essential tools like Slack, Zapier, and
-        Hubspot.&lt;/p&gt;&lt;/div&gt;&lt;p data-start=&quot;492&quot;
-        data-end=&quot;1020&quot;&gt;&lt;strong data-start=&quot;492&quot;
-        data-end=&quot;510&quot;&gt;About the Team&lt;/strong&gt;&lt;/p&gt;
-        &lt;p data-start=&quot;492&quot; data-end=&quot;1020&quot;&gt;We’re
-        looking for a Senior Product Manager to lead the transformation of
-        Typeform’s reporting and analytics
-        experience.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;strong&gt;About the
-        Role&lt;/strong&gt;&lt;/p&gt; &lt;p data-start=&quot;492&quot;
-        data-end=&quot;1020&quot;&gt;This role sits at the center of Typeform’s
-        strategy to turn data into a true market differentiator, driving
-        long-term revenue growth and customer satisfaction. You’ll own the
-        strategy and execution of AI-first analytics capabilities that deliver
-        clear, actionable insights—helping Typeform move beyond feature-parity
-        competitors with a smarter, faster reporting experience.&lt;/p&gt; &lt;p
-        data-start=&quot;1022&quot; data-end=&quot;1044&quot;&gt;&lt;strong
-        data-start=&quot;1022&quot; data-end=&quot;1042&quot;&gt;Things you’ll
-        do&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li
-        data-start=&quot;1047&quot; data-end=&quot;1198&quot;&gt;Lead the
-        delivery of a best-in-class reporting suite, including a redesigned
-        summary page, filtering, advanced visualisations, and AI-driven
-        insights&lt;/li&gt; &lt;li data-start=&quot;1201&quot;
-        data-end=&quot;1307&quot;&gt;Define and ship the MVP for our next-gen
-        Narrative Intelligence and “AI Copilot for Insights”
-        experience&lt;/li&gt; &lt;li data-start=&quot;1310&quot;
-        data-end=&quot;1415&quot;&gt;Partner with Data Science to land
-        foundational Copilot capabilities that scale to millions of
-        responses&lt;/li&gt; &lt;li data-start=&quot;1418&quot;
-        data-end=&quot;1502&quot;&gt;Set and drive a focused roadmap that
-        combines quick wins with long-term innovation&lt;/li&gt; &lt;li
-        data-start=&quot;1505&quot; data-end=&quot;1605&quot;&gt;Consolidate
-        onboarding learnings, customer insights, and market context to guide
-        product decisions&lt;/li&gt; &lt;li data-start=&quot;1608&quot;
-        data-end=&quot;1709&quot;&gt;Improve key metrics like usage rates,
-        satisfaction scores, and activation across reporting features&lt;/li&gt;
-        &lt;li data-start=&quot;1712&quot; data-end=&quot;1811&quot;&gt;Build
-        strong internal alignment and communicate product value clearly to
-        Sales, CS, and GTM teams&lt;/li&gt; &lt;li data-start=&quot;1814&quot;
-        data-end=&quot;1918&quot;&gt;Ensure commercial success by helping Sales
-        and CS articulate differentiated analytics value to customers&lt;/li&gt;
-        &lt;/ul&gt; &lt;p data-start=&quot;1920&quot;
-        data-end=&quot;1958&quot;&gt;&lt;strong data-start=&quot;1920&quot;
-        data-end=&quot;1956&quot;&gt;What you will bring to the
-        table&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li
-        data-start=&quot;1961&quot; data-end=&quot;2056&quot;&gt;Strong
-        strategic thinking with the ability to balance long-term vision with
-        near-term results&lt;/li&gt; &lt;li data-start=&quot;2059&quot;
-        data-end=&quot;2151&quot;&gt;High ownership mindset with a proactive
-        approach to removing blockers and driving progress&lt;/li&gt; &lt;li
-        data-start=&quot;2154&quot; data-end=&quot;2257&quot;&gt;Proven ability
-        to collaborate cross-functionally with Sales, CS, Data Science, Legal,
-        and Engineering&lt;/li&gt; &lt;li data-start=&quot;2260&quot;
-        data-end=&quot;2379&quot;&gt;Confident communicator with commercial
-        fluency and presence when interacting with leadership and enterprise
-        customers&lt;/li&gt; &lt;li data-start=&quot;2382&quot;
-        data-end=&quot;2476&quot;&gt;Customer-focused mindset with a passion for
-        solving real-world data and reporting challenges&lt;/li&gt; &lt;li
-        data-start=&quot;2479&quot; data-end=&quot;2580&quot;&gt;Deep product
-        knowledge in analytics, data visualisation, and reporting (especially
-        for SaaS or B2B)&lt;/li&gt; &lt;li data-start=&quot;2583&quot;
-        data-end=&quot;2674&quot;&gt;Familiarity with AI/LLM-enabled product
-        development and user-facing intelligence features&lt;/li&gt; &lt;li
-        data-start=&quot;2677&quot; data-end=&quot;2773&quot;&gt;Experience
-        working with large-scale data infrastructure (e.g., Clickhouse, columnar
-        databases)&lt;/li&gt; &lt;li data-start=&quot;2776&quot;
-        data-end=&quot;2862&quot;&gt;High data literacy and the ability to
-        influence roadmap through evidence and insight&lt;/li&gt; &lt;li
-        data-start=&quot;2865&quot; data-end=&quot;2928&quot;&gt;Experience
-        managing complex, multi-threaded product work-streams&lt;/li&gt;
-        &lt;/ul&gt; &lt;p data-start=&quot;2930&quot;
-        data-end=&quot;2949&quot;&gt;&lt;strong data-start=&quot;2930&quot;
-        data-end=&quot;2947&quot;&gt;Extra awesome&lt;/strong&gt;&lt;/p&gt;
-        &lt;ul&gt; &lt;li data-start=&quot;2952&quot;
-        data-end=&quot;3033&quot;&gt;A strong track record building or buying
-        advanced reporting and analytics tools&lt;/li&gt; &lt;li
-        data-start=&quot;3036&quot; data-end=&quot;3119&quot;&gt;Experience in
-        survey tooling or working with flexible, unstructured response
-        data&lt;/li&gt; &lt;li data-start=&quot;3122&quot;
-        data-end=&quot;3189&quot;&gt;Hands-on experience delivering modern
-        AI-powered product features&lt;/li&gt; &lt;/ul&gt;&lt;div
-        class=&quot;content-conclusion&quot;&gt;&lt;p&gt;*Typeform drives
-        hundreds of millions of interactions each year, enabling conversational,
-        human-centered experiences across the globe. We &lt;strong&gt;move as
-        one team&lt;/strong&gt;, empowering our collective efforts by valuing
-        each individual’s unique perspective. This fosters &lt;strong&gt;strong
-        bonds&lt;/strong&gt; grounded in respect, transparency, and trust. We
-        &lt;strong&gt;champion our diverse customer base&lt;/strong&gt; by
-        anticipating their needs and addressing their challenges with priority.
-        Committed to excellence, we&lt;strong&gt; hold high expectations
-        &lt;/strong&gt;for ourselves and each other, continuously striving to
-        deliver exceptional results.&lt;/p&gt; &lt;p&gt;We are proud to be an
-        equal-opportunity employer. We celebrate diversity and stand firmly
-        against discrimination and harassment of any kind—whether based on race,
-        color, ancestry, religion, sex, national origin, sexual orientation,
-        age, citizenship, marital status, disability, gender identity or
-        expression, or veteran status. Everyone is welcome
-        here.&lt;/p&gt;&lt;/div&gt;"
-      score: 78
-      skill_hits: 2
-      bucket_id: pm_product
-      fetched_at: 2026-03-17T18:13:12.911Z
-      pulled_at: 2026-03-17T18:13:12.911Z
-      stale_days: 30
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: Consultport
-      title: Product Manager (m/f/d)
-      location: Berlin, Berlin, Germany, Berlin, Germany
-      url: https://consultport.recruitee.com/o/product-manager-mfd
-      updated_at: 2026-03-11 09:49:02 UTC
-      description: Consultport is the leading digital platform that connects some of
-        the world's most iconic brands with world-class consultants. We're
-        scaling hard, and we need a PM obsessed with product-led growth (PLG).
-        This role is not about babysitting a roadmap but turning the product
-        itself into our best sales channel — removing friction, driving
-        activation, and making users fall in love before they ever talk to
-        sales.
-      score: 74
-      skill_hits: 1
-      bucket_id: pm_product
-      fetched_at: 2026-03-17T18:13:12.911Z
-      pulled_at: 2026-03-17T18:13:12.911Z
-      stale_days: 30
-      is_stale: true
+  pm_product: []
   scrum_agile: []
   program_management: []
 meta:
@@ -13749,10 +13946,10 @@ meta:
   source_counts:
     greenhouse: 7
     lever: 2
-    personio_xml_feeds: 142
+    personio_xml_feeds: 146
     smartrecruiters_companies: 11
     teamtailor_companies: 0
-    recruitee_companies: 21
+    recruitee_companies: 22
     ashby_organizations: 28
     stepstone_feeds: 0
     arbeitnow: 1
@@ -13766,13 +13963,13 @@ meta:
     official_career_pages: 20
     search_queries: 20
   stale_counts:
-    pm_product: 39
+    pm_product: 46
     scrum_agile: 0
     program_management: 0
   inactive_counts:
-    pm_product: 4
+    pm_product: 0
     scrum_agile: 0
     program_management: 0
   timings_ms:
-    fetch: 42560
-    total: 122105
+    fetch: 54519
+    total: 149992
