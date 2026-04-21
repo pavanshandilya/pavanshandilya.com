@@ -1,4 +1,4 @@
-generated_at: 2026-04-19T17:58:06.733Z
+generated_at: 2026-04-21T18:37:17.110Z
 explicit:
   company_names:
     - SAP
@@ -157,6 +157,10 @@ discovered:
     - mediadock-hamburg-gmbh
     - instagrid
     - soley-gmbh
+    - nt-neue-technologie-ag
+    - ingestro
+    - audibene
+    - interval-gmbh
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -306,6 +310,12 @@ discovered:
     - https://instagrid.jobs.personio.com/xml
     - https://soley-gmbh.jobs.personio.de/xml
     - https://soley-gmbh.jobs.personio.com/xml
+    - https://nt-neue-technologie-ag.jobs.personio.de/xml
+    - https://nt-neue-technologie-ag.jobs.personio.com/xml
+    - https://audibene.jobs.personio.de/xml
+    - https://audibene.jobs.personio.com/xml
+    - https://interval-gmbh.jobs.personio.de/xml
+    - https://interval-gmbh.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -344,6 +354,7 @@ discovered:
     - rpa
     - envipco
     - instagrid
+    - ingestro
   ashby_organizations:
     - telus-digital
     - a-team
