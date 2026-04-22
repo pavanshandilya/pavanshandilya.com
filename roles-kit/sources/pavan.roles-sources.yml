@@ -1,4 +1,4 @@
-generated_at: 2026-04-21T18:37:17.110Z
+generated_at: 2026-04-22T18:36:16.702Z
 explicit:
   company_names:
     - SAP
@@ -161,6 +161,8 @@ discovered:
     - ingestro
     - audibene
     - interval-gmbh
+    - evolve
+    - cheex
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -316,6 +318,8 @@ discovered:
     - https://audibene.jobs.personio.com/xml
     - https://interval-gmbh.jobs.personio.de/xml
     - https://interval-gmbh.jobs.personio.com/xml
+    - https://cheex.jobs.personio.de/xml
+    - https://cheex.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -355,6 +359,7 @@ discovered:
     - envipco
     - instagrid
     - ingestro
+    - cheex
   ashby_organizations:
     - telus-digital
     - a-team
@@ -384,6 +389,7 @@ discovered:
     - quilter
     - givebutter
     - buena
+    - evolve
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
