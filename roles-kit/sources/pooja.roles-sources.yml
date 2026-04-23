@@ -1,4 +1,4 @@
-generated_at: 2026-04-22T18:38:18.179Z
+generated_at: 2026-04-23T18:43:34.563Z
 explicit:
   company_names:
     - SAP
@@ -156,6 +156,9 @@ discovered:
     - interval-gmbh
     - evolve
     - cheex
+    - alexander-thamm-gmbh
+    - goya
+    - wasteant-gmbh
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -313,6 +316,12 @@ discovered:
     - https://interval-gmbh.jobs.personio.com/xml
     - https://cheex.jobs.personio.de/xml
     - https://cheex.jobs.personio.com/xml
+    - https://alexander-thamm-gmbh.jobs.personio.de/xml
+    - https://alexander-thamm-gmbh.jobs.personio.com/xml
+    - https://goya.jobs.personio.de/xml
+    - https://goya.jobs.personio.com/xml
+    - https://wasteant-gmbh.jobs.personio.de/xml
+    - https://wasteant-gmbh.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
