@@ -1,4 +1,4 @@
-generated_at: 2026-04-24T18:05:03.900Z
+generated_at: 2026-04-25T18:00:55.344Z
 explicit:
   company_names:
     - SAP
@@ -168,6 +168,9 @@ discovered:
     - wasteant-gmbh
     - montu
     - canva
+    - everai
+    - upstart
+    - fieldguide
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -331,6 +334,8 @@ discovered:
     - https://goya.jobs.personio.com/xml
     - https://wasteant-gmbh.jobs.personio.de/xml
     - https://wasteant-gmbh.jobs.personio.com/xml
+    - https://upstart.jobs.personio.de/xml
+    - https://upstart.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -403,6 +408,8 @@ discovered:
     - givebutter
     - buena
     - evolve
+    - everai
+    - fieldguide
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
