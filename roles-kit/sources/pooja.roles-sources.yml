@@ -1,4 +1,4 @@
-generated_at: 2026-04-27T18:49:54.671Z
+generated_at: 2026-04-28T19:02:10.697Z
 explicit:
   company_names:
     - SAP
@@ -167,6 +167,7 @@ discovered:
     - sayano-deutschland-gmbh
     - flexus-ag
     - implify
+    - principia-mentis-gmbh
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -338,6 +339,8 @@ discovered:
     - https://flexus-ag.jobs.personio.com/xml
     - https://implify.jobs.personio.de/xml
     - https://implify.jobs.personio.com/xml
+    - https://principia-mentis-gmbh.jobs.personio.de/xml
+    - https://principia-mentis-gmbh.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
