@@ -1,4 +1,4 @@
-generated_at: 2026-04-30T18:54:15.636Z
+generated_at: 2026-05-01T18:45:59.304Z
 explicit:
   company_names:
     - SAP
@@ -169,6 +169,8 @@ discovered:
     - implify
     - principia-mentis-gmbh
     - synaos-gmbh
+    - plstr-digital-gmbh
+    - close
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -344,6 +346,8 @@ discovered:
     - https://principia-mentis-gmbh.jobs.personio.com/xml
     - https://synaos-gmbh.jobs.personio.de/xml
     - https://synaos-gmbh.jobs.personio.com/xml
+    - https://plstr-digital-gmbh.jobs.personio.de/xml
+    - https://plstr-digital-gmbh.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -416,6 +420,7 @@ discovered:
     - evolve
     - everai
     - fieldguide
+    - close
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
