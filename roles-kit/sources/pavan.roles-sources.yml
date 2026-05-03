@@ -1,4 +1,4 @@
-generated_at: 2026-05-02T18:06:37.251Z
+generated_at: 2026-05-03T18:08:09.577Z
 explicit:
   company_names:
     - SAP
@@ -179,6 +179,8 @@ discovered:
     - plstr-digital-gmbh
     - close
     - elevenlabs
+    - mainwebsolutions
+    - upguard
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -356,6 +358,8 @@ discovered:
     - https://synaos-gmbh.jobs.personio.com/xml
     - https://plstr-digital-gmbh.jobs.personio.de/xml
     - https://plstr-digital-gmbh.jobs.personio.com/xml
+    - https://mainwebsolutions.jobs.personio.de/xml
+    - https://mainwebsolutions.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -398,6 +402,7 @@ discovered:
     - instagrid
     - ingestro
     - cheex
+    - mainwebsolutions
   ashby_organizations:
     - telus-digital
     - a-team
@@ -432,6 +437,7 @@ discovered:
     - fieldguide
     - close
     - elevenlabs
+    - upguard
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
