@@ -1,4 +1,4 @@
-generated_at: 2026-05-07T19:10:31.643Z
+generated_at: 2026-05-08T18:49:44.638Z
 explicit:
   company_names:
     - SAP
@@ -184,6 +184,9 @@ discovered:
     - pixelmechanics
     - myosotis-gmbh
     - advanced-store-gmbh
+    - maintainx
+    - trustonic
+    - gameloft
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -384,6 +387,8 @@ discovered:
     - nielseniq
     - montu
     - canva
+    - trustonic
+    - gameloft
   teamtailor_companies: []
   recruitee_companies:
     - sendcloud
@@ -448,6 +453,7 @@ discovered:
     - close
     - elevenlabs
     - upguard
+    - maintainx
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
