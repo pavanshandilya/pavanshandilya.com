@@ -1,4 +1,4 @@
-generated_at: 2026-05-15T19:03:28.960Z
+generated_at: 2026-05-16T18:14:17.590Z
 explicit:
   company_names:
     - SAP
@@ -193,6 +193,7 @@ discovered:
     - dandy
     - truelogic
     - affirm
+    - sphere
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -478,6 +479,7 @@ discovered:
     - dandy
     - truelogic
     - affirm
+    - sphere
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
