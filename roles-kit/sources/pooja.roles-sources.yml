@@ -1,4 +1,4 @@
-generated_at: 2026-05-17T18:18:31.522Z
+generated_at: 2026-05-18T19:11:56.593Z
 explicit:
   company_names:
     - SAP
@@ -194,6 +194,7 @@ discovered:
     - truelogic
     - affirm
     - sphere
+    - accantec-group
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -391,6 +392,8 @@ discovered:
     - https://lpe-immobilien-management-gmbh.jobs.personio.com/xml
     - https://hairfree.jobs.personio.de/xml
     - https://hairfree.jobs.personio.com/xml
+    - https://accantec-group.jobs.personio.de/xml
+    - https://accantec-group.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
