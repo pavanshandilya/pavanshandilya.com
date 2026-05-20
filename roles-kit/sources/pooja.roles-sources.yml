@@ -1,4 +1,4 @@
-generated_at: 2026-05-19T19:24:56.103Z
+generated_at: 2026-05-20T19:39:09.686Z
 explicit:
   company_names:
     - SAP
@@ -197,6 +197,9 @@ discovered:
     - accantec-group
     - bloom-future
     - stackfuel-gmbh
+    - jobrad-loop
+    - bodymedia
+    - maschinenraum
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -400,6 +403,10 @@ discovered:
     - https://bloom-future.jobs.personio.com/xml
     - https://stackfuel-gmbh.jobs.personio.de/xml
     - https://stackfuel-gmbh.jobs.personio.com/xml
+    - https://jobrad-loop.jobs.personio.de/xml
+    - https://jobrad-loop.jobs.personio.com/xml
+    - https://bodymedia.jobs.personio.de/xml
+    - https://bodymedia.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -448,6 +455,7 @@ discovered:
     - coursera
     - yenlo
     - hairfree
+    - maschinenraum
   ashby_organizations:
     - telus-digital
     - a-team
