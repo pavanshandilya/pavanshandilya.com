@@ -1,4 +1,4 @@
-generated_at: 2026-05-20T19:37:05.734Z
+generated_at: 2026-05-21T19:23:52.808Z
 explicit:
   company_names:
     - SAP
@@ -207,6 +207,8 @@ discovered:
     - jobrad-loop
     - bodymedia
     - maschinenraum
+    - enloc
+    - mural
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -465,6 +467,7 @@ discovered:
     - yenlo
     - hairfree
     - maschinenraum
+    - enloc
   ashby_organizations:
     - telus-digital
     - a-team
@@ -506,6 +509,7 @@ discovered:
     - truelogic
     - affirm
     - sphere
+    - mural
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
