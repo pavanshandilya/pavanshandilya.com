@@ -1,4 +1,4 @@
-generated_at: 2026-05-21T19:23:52.808Z
+generated_at: 2026-05-22T19:09:31.710Z
 explicit:
   company_names:
     - SAP
@@ -209,6 +209,10 @@ discovered:
     - maschinenraum
     - enloc
     - mural
+    - complori
+    - paddle
+    - redpanda-data
+    - sutherland
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -416,6 +420,8 @@ discovered:
     - https://jobrad-loop.jobs.personio.com/xml
     - https://bodymedia.jobs.personio.de/xml
     - https://bodymedia.jobs.personio.com/xml
+    - https://complori.jobs.personio.de/xml
+    - https://complori.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -434,6 +440,7 @@ discovered:
     - trustonic
     - gameloft
     - intuitive
+    - sutherland
   teamtailor_companies: []
   recruitee_companies:
     - sendcloud
@@ -510,6 +517,8 @@ discovered:
     - affirm
     - sphere
     - mural
+    - paddle
+    - redpanda-data
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
