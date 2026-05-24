@@ -1,4 +1,4 @@
-generated_at: 2026-05-23T18:15:14.092Z
+generated_at: 2026-05-24T18:16:11.347Z
 explicit:
   company_names:
     - SAP
@@ -213,6 +213,7 @@ discovered:
     - paddle
     - redpanda-data
     - sutherland
+    - hackerone
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -519,6 +520,7 @@ discovered:
     - mural
     - paddle
     - redpanda-data
+    - hackerone
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
