@@ -1,4 +1,4 @@
-generated_at: 2026-05-28T19:51:55.875Z
+generated_at: 2026-05-29T19:44:27.031Z
 explicit:
   company_names:
     - SAP
@@ -215,6 +215,12 @@ discovered:
     - sutherland
     - hackerone
     - nexoya
+    - oysho
+    - parto-group-gmbh
+    - joy
+    - vitals
+    - strava
+    - montu-uk
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -426,6 +432,10 @@ discovered:
     - https://complori.jobs.personio.com/xml
     - https://nexoya.jobs.personio.de/xml
     - https://nexoya.jobs.personio.com/xml
+    - https://parto-group-gmbh.jobs.personio.de/xml
+    - https://parto-group-gmbh.jobs.personio.com/xml
+    - https://joy.jobs.personio.de/xml
+    - https://joy.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -479,6 +489,8 @@ discovered:
     - hairfree
     - maschinenraum
     - enloc
+    - oysho
+    - vitals
   ashby_organizations:
     - telus-digital
     - a-team
@@ -524,6 +536,8 @@ discovered:
     - paddle
     - redpanda-data
     - hackerone
+    - strava
+    - montu-uk
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
