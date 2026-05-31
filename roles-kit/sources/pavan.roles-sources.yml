@@ -1,4 +1,4 @@
-generated_at: 2026-05-30T18:36:15.653Z
+generated_at: 2026-05-31T18:40:23.282Z
 explicit:
   company_names:
     - SAP
@@ -222,6 +222,8 @@ discovered:
     - strava
     - montu-uk
     - tremendous
+    - stacvalley
+    - experian
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -456,6 +458,7 @@ discovered:
     - gameloft
     - intuitive
     - sutherland
+    - experian
   teamtailor_companies: []
   recruitee_companies:
     - sendcloud
@@ -492,6 +495,7 @@ discovered:
     - enloc
     - oysho
     - vitals
+    - stacvalley
   ashby_organizations:
     - telus-digital
     - a-team
