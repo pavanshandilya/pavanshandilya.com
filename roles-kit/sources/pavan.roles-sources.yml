@@ -1,4 +1,4 @@
-generated_at: 2026-05-31T18:40:23.282Z
+generated_at: 2026-06-01T21:11:02.699Z
 explicit:
   company_names:
     - SAP
@@ -224,6 +224,8 @@ discovered:
     - tremendous
     - stacvalley
     - experian
+    - vound
+    - accurids-gmbh
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -439,6 +441,8 @@ discovered:
     - https://parto-group-gmbh.jobs.personio.com/xml
     - https://joy.jobs.personio.de/xml
     - https://joy.jobs.personio.com/xml
+    - https://accurids-gmbh.jobs.personio.de/xml
+    - https://accurids-gmbh.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -544,6 +548,7 @@ discovered:
     - strava
     - montu-uk
     - tremendous
+    - vound
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
