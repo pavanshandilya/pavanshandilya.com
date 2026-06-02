@@ -1,4 +1,4 @@
-generated_at: 2026-06-01T21:11:02.699Z
+generated_at: 2026-06-02T20:23:07.404Z
 explicit:
   company_names:
     - SAP
@@ -226,6 +226,7 @@ discovered:
     - experian
     - vound
     - accurids-gmbh
+    - remazing-gmbh
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -443,6 +444,8 @@ discovered:
     - https://joy.jobs.personio.com/xml
     - https://accurids-gmbh.jobs.personio.de/xml
     - https://accurids-gmbh.jobs.personio.com/xml
+    - https://remazing-gmbh.jobs.personio.de/xml
+    - https://remazing-gmbh.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
