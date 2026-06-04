@@ -1,4 +1,4 @@
-generated_at: 2026-06-03T20:32:13.414Z
+generated_at: 2026-06-04T19:35:05.634Z
 explicit:
   company_names:
     - SAP
@@ -229,6 +229,7 @@ discovered:
     - remazing-gmbh
     - nomios
     - ten-it-gmbh
+    - premote
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -450,6 +451,8 @@ discovered:
     - https://remazing-gmbh.jobs.personio.com/xml
     - https://ten-it-gmbh.jobs.personio.de/xml
     - https://ten-it-gmbh.jobs.personio.com/xml
+    - https://premote.jobs.personio.de/xml
+    - https://premote.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
