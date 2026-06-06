@@ -1,4 +1,4 @@
-generated_at: 2026-06-05T19:14:54.942Z
+generated_at: 2026-06-06T18:47:18.484Z
 explicit:
   company_names:
     - SAP
@@ -224,6 +224,8 @@ discovered:
     - ten-it-gmbh
     - premote
     - fritz-manke-gmbh
+    - mgid
+    - nielseniq
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -468,6 +470,7 @@ discovered:
     - intuitive
     - sutherland
     - experian
+    - nielseniq
   teamtailor_companies: []
   recruitee_companies:
     - sendcloud
@@ -505,6 +508,7 @@ discovered:
     - vitals
     - stacvalley
     - nomios
+    - mgid
   ashby_organizations:
     - telus-digital
     - a-team
