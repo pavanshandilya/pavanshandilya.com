@@ -1,4 +1,4 @@
-generated_at: 2026-06-10T19:47:44.909Z
+generated_at: 2026-06-11T20:04:35.288Z
 explicit:
   company_names:
     - SAP
@@ -228,6 +228,7 @@ discovered:
     - nielseniq
     - hopper
     - shan-gmbh
+    - concular
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -455,6 +456,8 @@ discovered:
     - https://fritz-manke-gmbh.jobs.personio.com/xml
     - https://shan-gmbh.jobs.personio.de/xml
     - https://shan-gmbh.jobs.personio.com/xml
+    - https://concular.jobs.personio.de/xml
+    - https://concular.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
