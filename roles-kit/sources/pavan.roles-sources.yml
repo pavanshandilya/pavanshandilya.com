@@ -1,4 +1,4 @@
-generated_at: 2026-06-12T19:26:40.144Z
+generated_at: 2026-06-13T18:50:19.172Z
 explicit:
   company_names:
     - SAP
@@ -236,6 +236,8 @@ discovered:
     - concular
     - supabase
     - axiom
+    - envoice
+    - wrapbook
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -523,6 +525,7 @@ discovered:
     - vitals
     - stacvalley
     - nomios
+    - envoice
   ashby_organizations:
     - telus-digital
     - a-team
@@ -575,6 +578,7 @@ discovered:
     - hopper
     - supabase
     - axiom
+    - wrapbook
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
