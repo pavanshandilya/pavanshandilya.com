@@ -1,4 +1,4 @@
-generated_at: 2026-06-14T18:49:30.708Z
+generated_at: 2026-06-15T20:36:58.214Z
 explicit:
   company_names:
     - SAP
@@ -238,6 +238,7 @@ discovered:
     - axiom
     - envoice
     - wrapbook
+    - edelstoff-media-gmbh
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -467,6 +468,8 @@ discovered:
     - https://shan-gmbh.jobs.personio.com/xml
     - https://concular.jobs.personio.de/xml
     - https://concular.jobs.personio.com/xml
+    - https://edelstoff-media-gmbh.jobs.personio.de/xml
+    - https://edelstoff-media-gmbh.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
