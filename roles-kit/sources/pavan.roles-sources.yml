@@ -1,4 +1,4 @@
-generated_at: 2026-06-18T19:37:46.146Z
+generated_at: 2026-06-19T19:13:07.173Z
 explicit:
   company_names:
     - SAP
@@ -242,6 +242,8 @@ discovered:
     - bonisoft-technologies-gmbh
     - ruby-gmbh
     - salted-gmbh
+    - familie-redlich
+    - revenuecat
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -479,6 +481,8 @@ discovered:
     - https://ruby-gmbh.jobs.personio.com/xml
     - https://salted-gmbh.jobs.personio.de/xml
     - https://salted-gmbh.jobs.personio.com/xml
+    - https://familie-redlich.jobs.personio.de/xml
+    - https://familie-redlich.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -591,6 +595,7 @@ discovered:
     - supabase
     - axiom
     - wrapbook
+    - revenuecat
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
