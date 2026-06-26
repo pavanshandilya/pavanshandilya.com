@@ -1,4 +1,4 @@
-generated_at: 2026-06-25T19:21:11.747Z
+generated_at: 2026-06-26T19:13:29.644Z
 explicit:
   company_names:
     - SAP
@@ -248,6 +248,7 @@ discovered:
     - dtad-gmbh
     - workist-gmbh
     - cell-labs
+    - speekly
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -552,6 +553,7 @@ discovered:
     - stacvalley
     - nomios
     - envoice
+    - speekly
   ashby_organizations:
     - telus-digital
     - a-team
