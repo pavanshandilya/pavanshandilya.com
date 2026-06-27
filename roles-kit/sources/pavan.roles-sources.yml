@@ -1,4 +1,4 @@
-generated_at: 2026-06-26T19:13:29.644Z
+generated_at: 2026-06-27T18:41:10.218Z
 explicit:
   company_names:
     - SAP
@@ -249,6 +249,9 @@ discovered:
     - workist-gmbh
     - cell-labs
     - speekly
+    - clickhouse
+    - lendingtree
+    - betterup
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -514,6 +517,7 @@ discovered:
     - intuitive
     - sutherland
     - experian
+    - lendingtree
   teamtailor_companies: []
   recruitee_companies:
     - sendcloud
@@ -609,6 +613,8 @@ discovered:
     - wrapbook
     - revenuecat
     - roboflow
+    - clickhouse
+    - betterup
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
