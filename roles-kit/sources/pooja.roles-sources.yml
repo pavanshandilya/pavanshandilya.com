@@ -1,4 +1,4 @@
-generated_at: 2026-06-28T18:42:03.269Z
+generated_at: 2026-06-29T19:20:52.263Z
 explicit:
   company_names:
     - SAP
@@ -247,6 +247,7 @@ discovered:
     - clickhouse
     - lendingtree
     - betterup
+    - fcf-fox-corporate-finance-gmbh
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -492,6 +493,8 @@ discovered:
     - https://workist-gmbh.jobs.personio.com/xml
     - https://cell-labs.jobs.personio.de/xml
     - https://cell-labs.jobs.personio.com/xml
+    - https://fcf-fox-corporate-finance-gmbh.jobs.personio.de/xml
+    - https://fcf-fox-corporate-finance-gmbh.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
