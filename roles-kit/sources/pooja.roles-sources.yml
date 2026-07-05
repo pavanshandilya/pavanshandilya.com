@@ -1,4 +1,4 @@
-generated_at: 2026-07-04T18:32:32.342Z
+generated_at: 2026-07-05T18:36:37.904Z
 explicit:
   company_names:
     - SAP
@@ -255,6 +255,7 @@ discovered:
     - invers
     - zartis
     - enode
+    - wtw
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -533,6 +534,7 @@ discovered:
     - experian
     - nielseniq
     - lendingtree
+    - wtw
   teamtailor_companies: []
   recruitee_companies:
     - sendcloud
