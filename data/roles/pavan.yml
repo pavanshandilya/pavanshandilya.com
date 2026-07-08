@@ -1,9 +1,121 @@
 schema_version: roles.v1
 profile_id: pavan
 profile_name: Pavan - marketing, digital marketing, video editing
-generated_at: 2026-07-07T19:19:03.580Z
+generated_at: 2026-07-08T18:52:10.619Z
 buckets:
   marketing_general:
+    - source: recruitee
+      source_note: ""
+      company: Consultport
+      title: Growth Marketing Manager
+      location: Berlin, Berlin, Germany, Berlin, Germany
+      url: https://consultport.recruitee.com/o/growth-marketing-manager
+      updated_at: 2026-06-19 08:27:33 UTC
+      description: "Who are we? Consultport is a global platform redefining how
+        businesses access top-tier consulting talent. We connect top companies
+        with world-class consultants and digital experts, helping them drive
+        critical initiatives faster, smarter, and more flexibly than ever
+        before. Join us at this growth stage. We're building the future of
+        consulting, and this is your chance to be part of shaping it. The role
+        As a Growth Marketing Manager (m/f/d) at Consultport, you'll own and
+        drive our digital marketing strategy across all channels, from
+        performance and paid media to content, SEO, and brand. You'll work
+        closely with our sales and business development teams to generate
+        high-quality demand and fuel our growth engine. This is a hands-on,
+        all-round marketing role that blends strategic thinking with executional
+        excellence, ideally suited to someone who has thrived in a fast-paced
+        agency or digital-first environment. We are currently ramping up our
+        Marketing team and this is where you come in! As Growth Marketing
+        Manager (m/f/d) at Consultport, you'll be responsible for: Digital
+        Strategy &amp; Execution Develop and own a 360° digital marketing
+        strategy across paid, owned, and earned channels Manage and optimise
+        marketing campaigns across Google Ads, LinkedIn, and Meta Drive SEO
+        strategy to ensure our content and web presence consistently ranks and
+        converts Demand Generation &amp; Lead Nurturing Own the full marketing
+        funnel from awareness through to qualified lead handoff to sales Build
+        campaigns for key customer segments to drive user acquisition and
+        engagement Manage and optimise our CRM and marketing automation
+        workflows (e.g. HubSpot) Analytics &amp; Performance Set up and maintain
+        robust tracking and reporting across all channels (Google Tag Manager,
+        Google Analytics) Use data-driven insights to improve campaign
+        performance, conversion rates, and ROI Run A/B tests and implement
+        optimisation strategies across the customer journey Brand &amp; Content
+        Oversee brand consistency across all digital touchpoints and
+        communications Develop content that speaks to our target audience of
+        senior business decision-makers Identify and act on market trends and
+        emerging digital marketing opportunities"
+      score: 84
+      skill_hits: 3
+      bucket_id: marketing_general
+      fetched_at: 2026-07-08T18:52:10.619Z
+      pulled_at: 2026-07-08T18:52:10.619Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: TransPerfect
+      title: Recruitment Marketing Specialist, SEO & Digital Campaigns
+      location: Pune, Mahārāshtra, India, Pune, India
+      url: https://transperfect.com/o/recruitment-marketing-specialist-seo-digital-campaigns
+      updated_at: 2026-03-25 09:54:24 UTC
+      description: "TransPerfect is the world’s largest provider of language and
+        technology solutions for global business. Operating in 100+ cities
+        worldwide, we support organizations in communicating and expanding
+        across international markets. Our Talent Acquisition team plays a
+        critical role in fueling this global growth. The Opportunity: We are
+        seeking an SEO &amp; Digital Campaigns Specialist to join our Talent
+        Acquisition team . You will sit within Talent Acquisition and focus
+        specifically on driving qualified candidate traffic , improving search
+        visibility of job opportunities, and executing digital campaigns that
+        directly impact hiring outcomes. You will own the strategy and execution
+        of SEO and paid digital initiatives that strengthen TransPerfect’s
+        employer brand and increase candidate conversion globally. Key
+        Responsibilities: SEO Strategy (Primary Focus):
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Develop and execute a
+        global SEO strategy for recruitment and careers content
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conduct keyword
+        research aligned with hiring priorities across regions and functions
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Optimize job
+        descriptions, landing pages, and career site content for organic
+        visibility ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Implement
+        structured data to improve search engine indexing
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Perform technical SEO
+        audits ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Track rankings,
+        traffic, and application conversion rates Digital Recruitment Campaigns:
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Plan and manage
+        digital campaigns ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        Build targeted talent attraction campaigns for priority hiring
+        initiatives ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Monitor
+        campaign ROI, cost-per-application, and conversion metrics Analytics
+        &amp; Optimization: ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        Use data to inform talent attraction strategy
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Create dashboards and
+        performance reports for Talent Acquisition leadership
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Identify opportunities
+        to improve candidate funnel performance
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Benchmark against
+        competitors for recruitment search presence What we’re looking for:
+        Required: 2+ years of experience in SEO and digital campaign management
+        Proven track record of driving measurable growth in organic traffic and
+        conversions Strong understanding of technical SEO and structured data
+        Data-driven mindset with strong analytical capabilities Preferred:
+        Experience supporting Talent Acquisition or HR teams Familiarity with
+        Applicant Tracking Systems (ATS) Experience optimizing global or
+        multilingual career sites Why Join the Talent Acquisition Team at
+        TransPerfect? Direct impact on global hiring strategy Ownership of SEO
+        and digital recruitment initiatives Opportunity to shape how candidates
+        discover TransPerfect worldwide Fast-paced, international environment
+        Career growth within a global organization Your Impact: &nbsp; In this
+        role, your work will directly influence how top talent finds and applies
+        to TransPerfect. You will help build a scalable, search-driven
+        recruitment engine that supports global expansion and business growth."
+      score: 80
+      skill_hits: 2
+      bucket_id: marketing_general
+      fetched_at: 2026-07-08T18:52:10.619Z
+      pulled_at: 2026-07-08T18:52:10.619Z
+      stale_days: 0
+      is_stale: false
     - source: recruitee
       source_note: ""
       company: Consultport
@@ -543,7 +655,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-07-05T18:34:42.026Z
       pulled_at: 2026-07-05T18:34:42.026Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -608,7 +720,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-07-05T18:34:42.026Z
       pulled_at: 2026-07-05T18:34:42.026Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -655,7 +767,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-07-04T18:30:33.492Z
       pulled_at: 2026-07-04T18:30:33.492Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -720,7 +832,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-07-04T18:30:33.492Z
       pulled_at: 2026-07-04T18:30:33.492Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -800,7 +912,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-07-04T18:30:33.492Z
       pulled_at: 2026-07-04T18:30:33.492Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -926,7 +1038,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-07-03T18:44:28.946Z
       pulled_at: 2026-07-03T18:44:28.946Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1050,7 +1162,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-07-03T18:44:28.946Z
       pulled_at: 2026-07-03T18:44:28.946Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1097,7 +1209,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-07-03T18:44:28.946Z
       pulled_at: 2026-07-03T18:44:28.946Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1162,7 +1274,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-07-03T18:44:28.946Z
       pulled_at: 2026-07-03T18:44:28.946Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1242,7 +1354,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-07-03T18:44:28.946Z
       pulled_at: 2026-07-03T18:44:28.946Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1331,7 +1443,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-07-03T18:44:28.946Z
       pulled_at: 2026-07-03T18:44:28.946Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1926,7 +2038,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-29T19:19:21.004Z
       pulled_at: 2026-06-29T19:19:21.004Z
-      stale_days: 7
+      stale_days: 8
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1973,7 +2085,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-29T19:19:21.004Z
       pulled_at: 2026-06-29T19:19:21.004Z
-      stale_days: 7
+      stale_days: 8
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2038,7 +2150,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-29T19:19:21.004Z
       pulled_at: 2026-06-29T19:19:21.004Z
-      stale_days: 7
+      stale_days: 8
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2086,7 +2198,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-29T19:19:21.004Z
       pulled_at: 2026-06-29T19:19:21.004Z
-      stale_days: 7
+      stale_days: 8
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2134,7 +2246,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-29T19:19:21.004Z
       pulled_at: 2026-06-29T19:19:21.004Z
-      stale_days: 7
+      stale_days: 8
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2181,7 +2293,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-28T18:40:12.395Z
       pulled_at: 2026-06-28T18:40:12.395Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2246,7 +2358,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-28T18:40:12.395Z
       pulled_at: 2026-06-28T18:40:12.395Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2297,7 +2409,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-28T18:40:12.395Z
       pulled_at: 2026-06-28T18:40:12.395Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2344,7 +2456,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-27T18:41:10.218Z
       pulled_at: 2026-06-27T18:41:10.218Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2409,7 +2521,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-27T18:41:10.218Z
       pulled_at: 2026-06-27T18:41:10.218Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2473,7 +2585,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-27T18:41:10.218Z
       pulled_at: 2026-06-27T18:41:10.218Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2696,7 +2808,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-25T19:21:11.747Z
       pulled_at: 2026-06-25T19:21:11.747Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2764,7 +2876,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-25T19:21:11.747Z
       pulled_at: 2026-06-25T19:21:11.747Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2829,7 +2941,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-25T19:21:11.747Z
       pulled_at: 2026-06-25T19:21:11.747Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2878,7 +2990,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-25T19:21:11.747Z
       pulled_at: 2026-06-25T19:21:11.747Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3037,7 +3149,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-23T19:22:34.655Z
       pulled_at: 2026-06-23T19:22:34.655Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3102,7 +3214,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-23T19:22:34.655Z
       pulled_at: 2026-06-23T19:22:34.655Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3181,7 +3293,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-23T19:22:34.655Z
       pulled_at: 2026-06-23T19:22:34.655Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3239,7 +3351,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-23T19:22:34.655Z
       pulled_at: 2026-06-23T19:22:34.655Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3286,7 +3398,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-22T20:18:41.606Z
       pulled_at: 2026-06-22T20:18:41.606Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3351,7 +3463,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-22T20:18:41.606Z
       pulled_at: 2026-06-22T20:18:41.606Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3400,7 +3512,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-22T20:18:41.606Z
       pulled_at: 2026-06-22T20:18:41.606Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3490,7 +3602,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-22T20:18:41.606Z
       pulled_at: 2026-06-22T20:18:41.606Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3915,7 +4027,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-18T19:37:46.146Z
       pulled_at: 2026-06-18T19:37:46.146Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3980,7 +4092,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-18T19:37:46.146Z
       pulled_at: 2026-06-18T19:37:46.146Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -4032,7 +4144,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-18T19:37:46.146Z
       pulled_at: 2026-06-18T19:37:46.146Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -4097,7 +4209,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-18T19:37:46.146Z
       pulled_at: 2026-06-18T19:37:46.146Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -4206,7 +4318,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-17T19:34:00.730Z
       pulled_at: 2026-06-17T19:34:00.730Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4253,7 +4365,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-17T19:34:00.730Z
       pulled_at: 2026-06-17T19:34:00.730Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4318,7 +4430,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-17T19:34:00.730Z
       pulled_at: 2026-06-17T19:34:00.730Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -4401,7 +4513,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-17T19:34:00.730Z
       pulled_at: 2026-06-17T19:34:00.730Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -4483,7 +4595,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-17T19:34:00.730Z
       pulled_at: 2026-06-17T19:34:00.730Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -4527,7 +4639,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-17T19:34:00.730Z
       pulled_at: 2026-06-17T19:34:00.730Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -4579,7 +4691,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-17T19:34:00.730Z
       pulled_at: 2026-06-17T19:34:00.730Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -4629,7 +4741,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-17T19:34:00.730Z
       pulled_at: 2026-06-17T19:34:00.730Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -4738,8 +4850,8 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-16T20:22:18.407Z
       pulled_at: 2026-06-16T20:22:18.407Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: Consultport
@@ -4785,8 +4897,8 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-16T20:22:18.407Z
       pulled_at: 2026-06-16T20:22:18.407Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: TransPerfect
@@ -4850,8 +4962,8 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-16T20:22:18.407Z
       pulled_at: 2026-06-16T20:22:18.407Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: arbeitnow
       source_note: ""
       company: Neuraum Ventures GmbH
@@ -4933,8 +5045,8 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-16T20:22:18.407Z
       pulled_at: 2026-06-16T20:22:18.407Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: arbeitnow
       source_note: ""
       company: Cyrus Digital GmbH
@@ -4982,8 +5094,8 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-16T20:22:18.407Z
       pulled_at: 2026-06-16T20:22:18.407Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: greenhouse
       source_note: ""
       company: hellofresh
@@ -5091,7 +5203,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-15T20:36:58.214Z
       pulled_at: 2026-06-15T20:36:58.214Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -5138,7 +5250,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-15T20:36:58.214Z
       pulled_at: 2026-06-15T20:36:58.214Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -5203,7 +5315,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-15T20:36:58.214Z
       pulled_at: 2026-06-15T20:36:58.214Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -5251,7 +5363,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-15T20:36:58.214Z
       pulled_at: 2026-06-15T20:36:58.214Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -5360,7 +5472,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-14T18:49:30.708Z
       pulled_at: 2026-06-14T18:49:30.708Z
-      stale_days: 23
+      stale_days: 24
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -5407,7 +5519,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-14T18:49:30.708Z
       pulled_at: 2026-06-14T18:49:30.708Z
-      stale_days: 23
+      stale_days: 24
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -5472,7 +5584,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-14T18:49:30.708Z
       pulled_at: 2026-06-14T18:49:30.708Z
-      stale_days: 23
+      stale_days: 24
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -5592,7 +5704,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-14T18:49:30.708Z
       pulled_at: 2026-06-14T18:49:30.708Z
-      stale_days: 23
+      stale_days: 24
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -5701,7 +5813,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-13T18:50:19.172Z
       pulled_at: 2026-06-13T18:50:19.172Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -5748,7 +5860,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-13T18:50:19.172Z
       pulled_at: 2026-06-13T18:50:19.172Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -5813,7 +5925,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-13T18:50:19.172Z
       pulled_at: 2026-06-13T18:50:19.172Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -5863,7 +5975,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-13T18:50:19.172Z
       pulled_at: 2026-06-13T18:50:19.172Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -5983,7 +6095,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-13T18:50:19.172Z
       pulled_at: 2026-06-13T18:50:19.172Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -6092,7 +6204,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-12T19:26:40.144Z
       pulled_at: 2026-06-12T19:26:40.144Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -6139,7 +6251,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-12T19:26:40.144Z
       pulled_at: 2026-06-12T19:26:40.144Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -6204,7 +6316,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-12T19:26:40.144Z
       pulled_at: 2026-06-12T19:26:40.144Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -6254,7 +6366,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-12T19:26:40.144Z
       pulled_at: 2026-06-12T19:26:40.144Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -6363,7 +6475,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-11T19:57:04.640Z
       pulled_at: 2026-06-11T19:57:04.640Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -6410,7 +6522,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-11T19:57:04.640Z
       pulled_at: 2026-06-11T19:57:04.640Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -6475,7 +6587,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-11T19:57:04.640Z
       pulled_at: 2026-06-11T19:57:04.640Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -6534,7 +6646,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-11T19:57:04.640Z
       pulled_at: 2026-06-11T19:57:04.640Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -6643,7 +6755,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-10T19:46:18.210Z
       pulled_at: 2026-06-10T19:46:18.210Z
-      stale_days: 26
+      stale_days: 27
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -6690,7 +6802,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-10T19:46:18.210Z
       pulled_at: 2026-06-10T19:46:18.210Z
-      stale_days: 26
+      stale_days: 27
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -6755,7 +6867,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-10T19:46:18.210Z
       pulled_at: 2026-06-10T19:46:18.210Z
-      stale_days: 26
+      stale_days: 27
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -6837,7 +6949,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-10T19:46:18.210Z
       pulled_at: 2026-06-10T19:46:18.210Z
-      stale_days: 26
+      stale_days: 27
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -6946,7 +7058,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-09T19:32:21.080Z
       pulled_at: 2026-06-09T19:32:21.080Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -6993,7 +7105,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-09T19:32:21.080Z
       pulled_at: 2026-06-09T19:32:21.080Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -7058,7 +7170,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-09T19:32:21.080Z
       pulled_at: 2026-06-09T19:32:21.080Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -7147,7 +7259,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-09T19:32:21.080Z
       pulled_at: 2026-06-09T19:32:21.080Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -7217,7 +7329,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-09T19:32:21.080Z
       pulled_at: 2026-06-09T19:32:21.080Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -7341,7 +7453,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-09T19:32:21.080Z
       pulled_at: 2026-06-09T19:32:21.080Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -7392,7 +7504,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-09T19:32:21.080Z
       pulled_at: 2026-06-09T19:32:21.080Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -7464,7 +7576,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-09T19:32:21.080Z
       pulled_at: 2026-06-09T19:32:21.080Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -7573,7 +7685,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-08T19:37:54.895Z
       pulled_at: 2026-06-08T19:37:54.895Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -7639,7 +7751,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-08T19:37:54.895Z
       pulled_at: 2026-06-08T19:37:54.895Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -7704,9 +7816,538 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-06-08T19:37:54.895Z
       pulled_at: 2026-06-08T19:37:54.895Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
   digital_marketing:
+    - source: greenhouse
+      source_note: ""
+      company: hellofresh
+      title: Senior SEO Manager (all genders)
+      location: Berlin, Berlin, Germany
+      url: https://careers.hellofresh.com/global/en/job/7858090?gh_jid=7858090
+      updated_at: 2026-07-08T11:13:34-04:00
+      description: "&lt;h2&gt;&lt;strong&gt;The role:
+        &lt;/strong&gt;&lt;strong&gt;What&#39;s in the
+        Box&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As search behavior evolves across
+        Google, AI Overviews, ChatGPT, Perplexity, Reddit, and other discovery
+        surfaces, our SEO team is expanding its focus from traditional organic
+        search to broader Organic Discovery: building the technical, content,
+        and measurement foundations that help customers find us wherever dinner
+        decisions are made.&lt;/p&gt; &lt;p&gt;As part of this team you’ll
+        strengthen the technical SEO foundation across high-impact surfaces such
+        as recipe pages, collections, and editorial content, as well as new
+        AI/GEO discovery formats.&lt;/p&gt; &lt;p&gt;Since this isn’t a purely
+        advisory role you’ll also diagnose complex SEO issues, translate them
+        into scalable product and engineering requirements, partner closely with
+        developers and product managers, and measure the impact of technical and
+        programmatic SEO improvements across international markets.&lt;/p&gt;
+        &lt;h2&gt;&lt;strong&gt;What you’ll do: &lt;/strong&gt;&lt;strong&gt;The
+        Recipe&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt;
+        &lt;li&gt;&lt;strong&gt;Own&lt;/strong&gt;&amp;nbsp;the technical SEO
+        strategy across HelloFresh Group websites, focused on crawlability,
+        indexation, site architecture, structured data, internal linking, and
+        international SEO.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Lead&lt;/strong&gt;&amp;nbsp;technical audits
+        and turning findings into prioritized roadmaps.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Partner&lt;/strong&gt;&amp;nbsp;with Product and
+        Engineering teams to define SEO requirements for templates, migrations,
+        content systems, automation, and sitewide technical changes.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Control&lt;/strong&gt;&amp;nbsp;international
+        SEO workstreams including hreflang, canonicals, URL structure, duplicate
+        content, and multilingual/multi-market visibility.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Build&lt;/strong&gt;&amp;nbsp;scalable SEO QA
+        processes for launches, including pre-launch validation, post-launch
+        monitoring, crawl checks, and structured data checks.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Drive&lt;/strong&gt;&amp;nbsp;programmatic SEO
+        and automation initiatives, including XML sitemaps, internal linking
+        logic, page creation workflows, and publishing guardrails.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Use&lt;/strong&gt;&amp;nbsp;SEO, analytics,
+        crawl, ranking, and internal data to diagnose issues, identify
+        opportunities, and measure impact.&lt;/li&gt; &lt;li&gt;&lt;strong
+        style=&quot;text-align:
+        justify;&quot;&gt;Communicate&lt;/strong&gt;&lt;span
+        style=&quot;text-align: justify;&quot;&gt;&amp;nbsp;technical SEO
+        priorities clearly to senior stakeholders, connecting recommendations to
+        traffic, conversion, crawl efficiency, and AI/GEO
+        visibility.&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;
+        &lt;h2&gt;&lt;strong&gt;What you’ll bring:
+        &lt;/strong&gt;&lt;strong&gt;The
+        Ingredients&amp;nbsp;&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;At
+        least 5 years of SEO experience, with strong hands-on technical SEO
+        ownership for large-scale websites as well as experience in working on
+        international or multi-market websites with complex language, country,
+        domain, or subdirectory structures.&lt;/li&gt; &lt;li&gt;Deep knowledge
+        of crawlability, indexation, canonicals, hreflang, redirects, structured
+        data, XML sitemaps, internal linking, JavaScript rendering, Core Web
+        Vitals, and site architecture.&lt;/li&gt; &lt;li&gt;Strong stakeholder
+        management and strategic thinking, with the ability to influence
+        Product, Engineering, and business stakeholders, independently drive SEO
+        initiatives, and connect technical SEO priorities to business
+        impact.&lt;/li&gt; &lt;li&gt;Proven ability to partner effectively with
+        Product and Engineering teams, write clear SEO requirements, influence
+        prioritization, validate implementation, and operate as a trusted senior
+        individual contributor across cross-functional teams.&lt;/li&gt;
+        &lt;li&gt;Advanced analytical skills using tools like Google Search
+        Console, Screaming Frog, Ahrefs, STAT, GA4, BigQuery, Looker, or similar
+        platforms.&lt;/li&gt; &lt;li&gt;Comfortable reading HTML, CSS,
+        JavaScript, structured data, and server responses; Python, SQL,
+        JavaScript, or Google Apps Script proficiency is a plus.&lt;/li&gt;
+        &lt;li&gt;Excellent communication and organizational skills, with the
+        ability to explain technical SEO concepts to non-SEO stakeholders and
+        effectively manage work across multiple brands, markets, and
+        teams.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Above all, we are looking for
+        people who will make HelloFresh better. There are many different ways of
+        developing skills, and we love diverse experiences! So even if you don’t
+        “tick all the boxes” but think you’d thrive in this role, we would
+        really like to learn more about you.&lt;/p&gt;
+        &lt;h2&gt;&lt;strong&gt;What we offer&lt;/strong&gt;&lt;/h2&gt;
+        &lt;p&gt;Elevate your lifestyle! Join one of Europe&#39;s
+        fastest-growing tech powerhouses in a dynamic phase of
+        expansion.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Immerse yourself in a diverse
+        global community of 90+ nationalities.&lt;/li&gt; &lt;li&gt;Enjoy a
+        competitive compensation package that goes beyond the norm, with perks
+        like a HelloFresh- subsidized Pension Scheme, Berlin relocation support,
+        and a Hybrid working model.&lt;/li&gt; &lt;li&gt;Exclusive discounts on
+        your weekly HelloFresh box and office meals.&lt;/li&gt; &lt;li&gt;Invest
+        in your growth with an annual learning &amp;amp; development budget,
+        German language learning budget, and access to the HelloFresh
+        Academy.&lt;/li&gt; &lt;li&gt;Plus, we&#39;ve got your well-being
+        covered with mental health support, transportation perks, and
+        working-parent-friendly benefits. From our 24/7 gym access,wellbeing
+        platforms like Headspace and Spill, to sabbatical leave options,
+        HelloFresh is not just a workplace; it&#39;s a lifestyle of perks and
+        possibilities!&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;Are you
+        the missing ingredient?&lt;/strong&gt;&lt;/h2&gt; &lt;p
+        style=&quot;text-align: justify;&quot;&gt;If this sounds like a tasty
+        opportunity, we’d be excited to hear from you.&amp;nbsp;We aim to review
+        your profile and respond within 5 business days.&lt;/p&gt; &lt;p
+        style=&quot;text-align: justify;&quot;&gt;&amp;nbsp;&lt;/p&gt; &lt;p
+        style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color:
+        rgb(206, 212, 217);&quot;&gt;#JD1002&lt;/span&gt;&lt;/p&gt;"
+      score: 96
+      skill_hits: 1
+      bucket_id: digital_marketing
+      fetched_at: 2026-07-08T18:52:10.619Z
+      pulled_at: 2026-07-08T18:52:10.619Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: Consultport
+      title: Growth Marketing Intern (m/f/d)
+      location: Berlin, Berlin, Germany, Berlin, Germany
+      url: https://consultport.recruitee.com/o/growth-marketing-intern-mfd
+      updated_at: 2026-03-25 10:51:32 UTC
+      description: "About Us Consultport is a global platform that connects companies
+        with top-tier freelance consultants, enabling businesses to advance
+        critical projects more efficiently and effectively than ever before.
+        Since 2018, we’ve grown to a network of 10,000+ pre-vetted experts
+        delivering impactful projects across 50+ countries. Our mission is to
+        become the world’s #1 platform where consultants and companies succeed
+        together, driven by a commitment to quality, reliability, and trust.
+        Trusted by over 100 leading companies annually, we provide tailored
+        expertise to corporates, consultancies, private equity firms, and
+        scale-ups. At Consultport, we redefine how businesses and consultants
+        collaborate to drive success. The Role As a Growth Marketing Intern at
+        Consultport, you’ll have the opportunity to significantly expand your
+        marketing skills. Our goal is to set the standard in innovation,
+        creativity, and performance. You’ll learn to craft cross-channel
+        marketing strategies, create engaging content, and effectively utilize
+        various media platforms. You’ll support communication plan development,
+        manage media relations, and lead initiatives to elevate our brand image
+        and increase our search rankings, all while gaining a comprehensive
+        understanding of the consulting market. Your Mission Marketing Strategy
+        – Develop and implement cross-channel marketing strategies to boost
+        Consultport's organic traffic and lead generation. Report, Drafting,
+        &amp; SEO Optimization – Create high-quality reports for the consulting
+        industry tailored to c-suite executives, optimize for search engines,
+        and enhance website performance using SEO tools like SEMrush.
+        Performance Marketing – Plan, execute, and optimize paid campaigns on
+        LinkedIn and Google Ads. Social Media Growth – Develop social media
+        content strategies (organic and paid) to engage executives and
+        strengthen brand authority. Marketing Analytics - Track and analyze
+        marketing metrics using Looker Studio &amp; Google Analytics to refine
+        strategy and provide actionable recommendations."
+      score: 94
+      skill_hits: 5
+      bucket_id: digital_marketing
+      fetched_at: 2026-07-08T18:52:10.619Z
+      pulled_at: 2026-07-08T18:52:10.619Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: Consultport
+      title: Growth Marketing Manager
+      location: Berlin, Berlin, Germany, Berlin, Germany
+      url: https://consultport.recruitee.com/o/growth-marketing-manager
+      updated_at: 2026-06-19 08:27:33 UTC
+      description: "Who are we? Consultport is a global platform redefining how
+        businesses access top-tier consulting talent. We connect top companies
+        with world-class consultants and digital experts, helping them drive
+        critical initiatives faster, smarter, and more flexibly than ever
+        before. Join us at this growth stage. We're building the future of
+        consulting, and this is your chance to be part of shaping it. The role
+        As a Growth Marketing Manager (m/f/d) at Consultport, you'll own and
+        drive our digital marketing strategy across all channels, from
+        performance and paid media to content, SEO, and brand. You'll work
+        closely with our sales and business development teams to generate
+        high-quality demand and fuel our growth engine. This is a hands-on,
+        all-round marketing role that blends strategic thinking with executional
+        excellence, ideally suited to someone who has thrived in a fast-paced
+        agency or digital-first environment. We are currently ramping up our
+        Marketing team and this is where you come in! As Growth Marketing
+        Manager (m/f/d) at Consultport, you'll be responsible for: Digital
+        Strategy &amp; Execution Develop and own a 360° digital marketing
+        strategy across paid, owned, and earned channels Manage and optimise
+        marketing campaigns across Google Ads, LinkedIn, and Meta Drive SEO
+        strategy to ensure our content and web presence consistently ranks and
+        converts Demand Generation &amp; Lead Nurturing Own the full marketing
+        funnel from awareness through to qualified lead handoff to sales Build
+        campaigns for key customer segments to drive user acquisition and
+        engagement Manage and optimise our CRM and marketing automation
+        workflows (e.g. HubSpot) Analytics &amp; Performance Set up and maintain
+        robust tracking and reporting across all channels (Google Tag Manager,
+        Google Analytics) Use data-driven insights to improve campaign
+        performance, conversion rates, and ROI Run A/B tests and implement
+        optimisation strategies across the customer journey Brand &amp; Content
+        Oversee brand consistency across all digital touchpoints and
+        communications Develop content that speaks to our target audience of
+        senior business decision-makers Identify and act on market trends and
+        emerging digital marketing opportunities"
+      score: 84
+      skill_hits: 3
+      bucket_id: digital_marketing
+      fetched_at: 2026-07-08T18:52:10.619Z
+      pulled_at: 2026-07-08T18:52:10.619Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: TransPerfect
+      title: Recruitment Marketing Specialist, SEO & Digital Campaigns
+      location: Pune, Mahārāshtra, India, Pune, India
+      url: https://transperfect.com/o/recruitment-marketing-specialist-seo-digital-campaigns
+      updated_at: 2026-03-25 09:54:24 UTC
+      description: "TransPerfect is the world’s largest provider of language and
+        technology solutions for global business. Operating in 100+ cities
+        worldwide, we support organizations in communicating and expanding
+        across international markets. Our Talent Acquisition team plays a
+        critical role in fueling this global growth. The Opportunity: We are
+        seeking an SEO &amp; Digital Campaigns Specialist to join our Talent
+        Acquisition team . You will sit within Talent Acquisition and focus
+        specifically on driving qualified candidate traffic , improving search
+        visibility of job opportunities, and executing digital campaigns that
+        directly impact hiring outcomes. You will own the strategy and execution
+        of SEO and paid digital initiatives that strengthen TransPerfect’s
+        employer brand and increase candidate conversion globally. Key
+        Responsibilities: SEO Strategy (Primary Focus):
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Develop and execute a
+        global SEO strategy for recruitment and careers content
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conduct keyword
+        research aligned with hiring priorities across regions and functions
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Optimize job
+        descriptions, landing pages, and career site content for organic
+        visibility ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Implement
+        structured data to improve search engine indexing
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Perform technical SEO
+        audits ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Track rankings,
+        traffic, and application conversion rates Digital Recruitment Campaigns:
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Plan and manage
+        digital campaigns ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        Build targeted talent attraction campaigns for priority hiring
+        initiatives ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Monitor
+        campaign ROI, cost-per-application, and conversion metrics Analytics
+        &amp; Optimization: ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        Use data to inform talent attraction strategy
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Create dashboards and
+        performance reports for Talent Acquisition leadership
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Identify opportunities
+        to improve candidate funnel performance
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Benchmark against
+        competitors for recruitment search presence What we’re looking for:
+        Required: 2+ years of experience in SEO and digital campaign management
+        Proven track record of driving measurable growth in organic traffic and
+        conversions Strong understanding of technical SEO and structured data
+        Data-driven mindset with strong analytical capabilities Preferred:
+        Experience supporting Talent Acquisition or HR teams Familiarity with
+        Applicant Tracking Systems (ATS) Experience optimizing global or
+        multilingual career sites Why Join the Talent Acquisition Team at
+        TransPerfect? Direct impact on global hiring strategy Ownership of SEO
+        and digital recruitment initiatives Opportunity to shape how candidates
+        discover TransPerfect worldwide Fast-paced, international environment
+        Career growth within a global organization Your Impact: &nbsp; In this
+        role, your work will directly influence how top talent finds and applies
+        to TransPerfect. You will help build a scalable, search-driven
+        recruitment engine that supports global expansion and business growth."
+      score: 80
+      skill_hits: 2
+      bucket_id: digital_marketing
+      fetched_at: 2026-07-08T18:52:10.619Z
+      pulled_at: 2026-07-08T18:52:10.619Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: Mainwebsolutions
+      title: Bezahltes E-Commerce Praktikum (m/w/d) für dein Praxissemester (Hybrid /
+        Würzburg)
+      location: Würzburg, Bayern, Deutschland, Würzburg, Deutschland
+      url: https://jobs.mainwebsolutions.de/o/bezahltes-e-commerce-praktikum-mwd-fur-dein-praxissemester-hybrid-wurzburg
+      updated_at: 2026-07-05 10:51:27 UTC
+      description: "Du bist wissbegierig, hast bereits erste Erfahrungen im Bereich
+        SEO/SEA gesammelt und suchst einen Praktikumsplatz für dein
+        Praxissemester im Studiengang E-Commerce? Du willst lernen, wie man
+        Unternehmen bei Google sichtbar macht und interessierst dich dafür, wie
+        moderne KI- und LLM-Tools das Online-Marketing revolutionieren? Dann
+        zögere nicht und bewirb dich auf eine attraktive Stelle bei der
+        Mainwebsolutions. Was erwartet dich bei uns? Wir sind Mainwebsolutions –
+        eine Agentur, die professionelle Softwareentwicklung und
+        Online-Marketing unter einem Dach vereint. Unser Team besteht aus einer
+        gesunden Mischung aus Marketern und Entwicklern, die gemeinsam an der
+        Spitze der digitalen Trends arbeiten. Den Tag starten wir mit einer
+        ordentlichen Portion Humor und einem morgendlichen Team-Meeting, in dem
+        wir uns zu aktuellen Themen und Projekten austauschen. Neben spannenden
+        Kundenprojekten arbeiten wir regelmäßig an eigenen Produkten und setzen
+        dabei verstärkt auf den Einsatz von KI-Lösungen und maßgeschneiderten
+        Tools wie z.B. unseren Mainwebsolutions-AiHub. Auch außerhalb der
+        Projektarbeit kommt der Teamspirit bei uns nicht zu kurz: Ob Grillen auf
+        der Dachterrasse, Yoga, gemeinsames Kochen oder gesellige Events – bei
+        uns steht das Team im Vordergrund! #workatmws Dein Aufgabenbereich?
+        Deine Aufgaben bei uns drehen sich rund um das Thema digitale
+        Sichtbarkeit bei Google. Dabei unterstützt du unser SEO-/SEA-Team bei
+        der Analyse, Konzeption und Umsetzung von Maßnahmen zur Verbesserung der
+        Sichtbarkeit und Performance unserer Kunden. Du wirkst mit bei der
+        Erstellung von SEO-Analysen und hilfst bei der Entwicklung von SEO- und
+        SEA-Strategien. In enger Abstimmung mit dem Team arbeitest du an
+        Content-Optimierungen, Technical SEO und dem Aufbau von Backlinks.
+        Darüber hinaus unterstützt du bei der Planung und Optimierung von Google
+        Ads-Kampagnen. Ein besonderes Highlight: Bei uns lernst du auch den
+        Einsatz von KI-/LLM-Tools im Online-Marketing kennen und kannst aktiv an
+        deren Anwendung für Content-Optimierung, Automatisierung und
+        datenbasierte Analysen mitwirken. Du und dein Team betreut dabei
+        unterschiedliche mittelständische Unternehmen, Dienstleister sowie
+        E-Commerce-Systeme als Kunden — so erhältst du spannende und praxisnahe
+        Einblicke in die vielfältige Welt des digitalen Marketings."
+      score: 78
+      skill_hits: 2
+      bucket_id: digital_marketing
+      fetched_at: 2026-07-08T18:52:10.619Z
+      pulled_at: 2026-07-08T18:52:10.619Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: Mainwebsolutions
+      title: SEO/SEA Manager (m/w/d) mit Fokus auf Sichtbarkeit in KI-Suchen (Remote
+        oder Würzburg)
+      location: Homeoffice, Würzburg, Deutschland
+      url: https://jobs.mainwebsolutions.de/o/seosea-manager-mwd-mit-fokus-auf-sichtbarkeit-in-ki-suchen-remote-oder-wurzburg
+      updated_at: 2026-07-05 10:51:01 UTC
+      description: "Du bist Online-Marketing-Experte mit fundierter Erfahrung in SEO /
+        SEA und willst Sichtbarkeit nicht mehr nur für Google, sondern auch für
+        ChatGPT, Perplexity und Google AI Overviews schaffen? Themen wie GEO,
+        Linkbuilding, Technical-SEO und Conversion-Tracking liegen dir, und du
+        arbeitest gerne selbstorganisiert mit deinen eigenen Kunden? Dann bist
+        du bei uns genau richtig! Wir suchen einen SEO/SEA Manager (m/w/d), der
+        klassisches Google-SEO/SEA beherrscht und mit uns die Pionierarbeit im
+        Bereich KI-Suchen mitgestaltet. Was erwartet dich bei uns? Willkommen
+        bei Mainwebsolutions, der Agentur, die Softwareentwicklung und
+        Onlinemarketing auf ein neues Level hebt! Unser Team aus Marketern und
+        Entwicklern startet jeden Tag mit einer ordentlichen Portion Humor und
+        einem morgendlichen Meeting, in dem wir uns über aktuelle Themen und
+        Fortschritte abstimmen. Anschließend tauchen wir in die Projekte ein und
+        arbeiten gemeinsam daran, den Erfolg unserer Kunden weiter zu steigern.
+        Zudem entwickeln wir laufend eigene Produkte, bei denen du mit deinen
+        Ideen und Fähigkeiten mitwirken kannst. Doch bei uns geht es nicht nur
+        um Arbeit! Wir feiern unsere Erfolge regelmäßig mit coolen Teamevents –
+        von Grillpartys auf der Dachterrasse bis zu geselligen Weinfesten. Du
+        arbeitest remote? Kein Problem - Transfer- und Übernachtungskosten für
+        Office-Besuche und Teamevents übernehmen wir selbstverständlich. Eines
+        ist sicher: Bei uns steht das Team an erster Stelle. Erlebe den Spirit
+        von Mainwebsolutions! #workatmws Dein&nbsp;Aufgabenbereich? Deine
+        Aufgaben fokussieren sich auf die digitale Sichtbarkeit deiner Kunden,
+        sowohl bei Google als auch in KI-Suchen wie ChatGPT, Perplexity und
+        Google AI Overviews. Innerhalb eines gemeinsam definierten Frameworks
+        werden dir, abhängig von Präferenz und Skill-Level, Kunden zugeteilt,
+        für deren SEO/SEA- und GEO-Betreuung du verantwortlich bist. Das umfasst
+        Analyse, Konzeption und Umsetzung: von Technical-SEO-Audits,
+        Content-Strategien und Linkbuilding über Google Ads-Kampagnen (Search,
+        Performance Max, Shopping, Demand Gen) bis hin zur Optimierung für
+        KI-Sichtbarkeit (Schema-Markup, llms.txt, Entity-Optimierung,
+        Citability-Checks). Dabei nutzt du täglich unseren hauseigenen KI-Stack,
+        den AiHub als zentrale KI-Plattform, eigene SEA-Agenten für
+        Kampagnen-Audits und Bid-Anpassungen sowie maßgeschneiderte Claude
+        Skills für GEO-Audits, Topical Cluster, Content-Briefings und vieles
+        mehr. Eigene Ideen für neue Workflows sind ausdrücklich erwünscht.
+        Wichtig ist, dass dir selbstorganisiertes, eigenständiges Arbeiten
+        liegt, wenn du mal nicht weiterkommst, stehen dir deine Kolleginnen und
+        Kollegen mit Rat und Tat zur Seite. Ready for departure? 🚀"
+      score: 74
+      skill_hits: 1
+      bucket_id: digital_marketing
+      fetched_at: 2026-07-08T18:52:10.619Z
+      pulled_at: 2026-07-08T18:52:10.619Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: Mainwebsolutions
+      title: SEO/SEA Werkstudent (m/w/d) mit Fokus auf Sichtbarkeit in KI-Suchen
+        (Remote oder Würzburg)
+      location: Homeoffice, Würzburg, Deutschland
+      url: https://jobs.mainwebsolutions.de/o/seosea-werkstudent-mwd-mit-fokus-auf-sichtbarkeit-in-ki-suchen-remote-oder-wurzburg
+      updated_at: 2026-07-05 10:51:10 UTC
+      description: "Du studierst, hast erste Erfahrungen in SEO oder SEA gesammelt und
+        suchst eine Werkstudentenstelle, bei der du an echten Kundenprojekten
+        mitarbeitest? Du willst dein Wissen im Google-Universum vertiefen, mit
+        modernen KI- und LLM-Tools im Marketing arbeiten und verstehen, wie
+        Marken nicht mehr nur in Google, sondern auch in ChatGPT, Perplexity und
+        Google AI Overviews sichtbar werden? Dann bewirb dich bei
+        Mainwebsolutions. Bei uns lernst du klassisches SEO/SEA von Grund auf
+        und steigst direkt in den Bereich KI-Sichtbarkeit (GEO) ein, in dem wir
+        aktuell echte Pionierarbeit leisten. Was erwartet dich bei uns?
+        Willkommen bei Mainwebsolutions, der Agentur, die Softwareentwicklung
+        und Onlinemarketing unter einem Dach vereint. Unser Team aus Marketern
+        und Entwicklern startet jeden Tag mit einer Portion Humor und einem
+        morgendlichen Team-Meeting, in dem wir uns über aktuelle Themen und
+        Fortschritte abstimmen. Anschließend tauchen wir in die Projekte ein und
+        arbeiten gemeinsam daran, den Erfolg unserer Kunden weiter zu steigern.
+        Zudem entwickeln wir laufend eigene Produkte und KI-Tools, bei denen du
+        mit deinen Ideen mitwirken kannst. Doch bei uns geht es nicht nur um
+        Arbeit. Wir feiern unsere Erfolge regelmäßig mit coolen Teamevents, von
+        Grillpartys auf der Dachterrasse über Yoga und gemeinsames Kochen bis zu
+        geselligen Weinfesten. Du arbeitest remote? Kein Problem. Transfer- und
+        Übernachtungskosten für Office-Besuche und Teamevents übernehmen wir
+        selbstverständlich. Eines ist sicher: Bei uns steht das Team an erster
+        Stelle. Erlebe den Spirit von Mainwebsolutions! #workatmws Dein
+        Aufgabenbereich? Als Werkstudent im SEO/SEA-Team unterstützt du uns
+        dabei, die digitale Sichtbarkeit unserer Kunden zu steigern, sowohl bei
+        Google als auch in KI-Suchen wie ChatGPT, Perplexity und Google AI
+        Overviews. Du arbeitest eng mit dem Team zusammen und übernimmst
+        schrittweise eigene Aufgaben in Kundenprojekten. Du führst SEO- und
+        GEO-Analysen durch, erstellst Keyword-Recherchen und Content-Briefings,
+        kümmerst dich um Content-Optimierung, Technical SEO und Linkbuilding und
+        unterstützt bei der Planung und Optimierung von Google Ads-Kampagnen.
+        Dabei arbeitest du täglich mit unserem hauseigenen KI-Stack: dem AiHub
+        als zentraler KI-Plattform, eigenen SEA-Agenten für Kampagnen-Audits und
+        maßgeschneiderten Claude Skills für GEO-Audits, Topical Cluster,
+        Content-Briefings und mehr. Du erstellst Reportings, leitest daraus
+        konkrete Optimierungspotenziale ab und kannst aktiv an der
+        Weiterentwicklung unserer internen Marketing-Tools mitwirken. Wer Lust
+        hat, eigene Workflows oder neue Claude Skills zu bauen, ist hier genau
+        richtig. Ready for departure? 🚀"
+      score: 74
+      skill_hits: 1
+      bucket_id: digital_marketing
+      fetched_at: 2026-07-08T18:52:10.619Z
+      pulled_at: 2026-07-08T18:52:10.619Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: Mainwebsolutions
+      title: SEO/SEA Manager (m/w/d) mit Fokus auf AI-gestütztes Online-Marketing
+        (Remote oder Würzburg)
+      location: Homeoffice, Würzburg, Deutschland
+      url: https://jobs.mainwebsolutions.de/o/seosea-manager-mwd-mit-fokus-auf-ai-gestutztes-online-marketing-remote-o-wurzburg
+      updated_at: 2026-07-05 10:51:18 UTC
+      description: "Du bist ein Online-Marketing-Experte mit tiefgehender Erfahrung in
+        SEO und SEA? Themen wie Linkbuilding, Technical-SEO oder
+        Conversion-Tracking liegen dir ebenso wie selbstorganisiertes Arbeiten
+        mit deinen zugeteilten Kunden? Du verfügst über sehr
+        gute&nbsp;organisatorische Fähigkeiten, um Maßnahmen und Aufgaben
+        eigenständig zu planen und zu verwalten? Dann bist du bei uns genau
+        richtig! Wir suchen einen SEO/SEA Manager (m/w/d) mit fundierten
+        Kenntnissen im Google-Universum und praktischer Agenturerfahrung. Was
+        erwartet dich bei uns? Willkommen bei Mainwebsolutions – der Agentur,
+        die Softwareentwicklung und Onlinemarketing auf ein neues Level hebt!
+        Unser Team besteht aus talentierten Marketern und Entwicklern, die
+        gemeinsam durchstarten. Jeder Tag beginnt mit einer ordentlichen Portion
+        Humor und einem morgendlichen Meeting, in dem wir einander über aktuelle
+        Themen und Fortschritte informieren.&nbsp;Anschließend tauchen wir in
+        die Projekte ein und arbeiten gemeinsam daran, den Erfolg unserer Kunden
+        weiter zu steigern. Zudem arbeiten wir immer wieder an eigenen
+        Produkten, bei denen du mit deinen&nbsp;Ideen und Fähigkeiten mitwirken
+        kannst.&nbsp;Doch bei uns geht es nicht nur um Arbeit! Wir feiern unsere
+        Erfolge regelmäßig mit coolen Teamevents. Von Grillpartys auf der
+        Dachterrasse bis zu geselligen Weinfesten – jeder kann sich an unseren
+        Aktivitäten beteiligen. Du arbeitest remote? Kein Problem! Runde deinen
+        Besuch bei uns doch mit ein paar Tagen im Office ab – die Transfer- und
+        Übernachtungskosten übernehmen selbstverständlich wir. Eines ist sicher:
+        Bei uns steht das Team an erster Stelle. Erlebe den Spirit von
+        Mainwebsolutions! #workatmws Dein&nbsp;Aufgabenbereich? Deine Aufgaben
+        fokussieren sich auf die digitale Sichtbarkeit bei Google. Innerhalb
+        eines gemeinsam definierten Frameworks arbeitest du an verschiedenen
+        Projekten. Was bedeutet das? Abhängig von deiner persönlichen Präferenz
+        und deinem Skill-Level werden dir Kunden zugeteilt, für deren
+        SEO/SEA-Betreuung du zuständig bist. Deine Aufgaben umfassen die
+        Analyse, Konzeption und Umsetzung von SEO- und SEA-Maßnahmen. Wichtig
+        ist hierbei, dass dir selbstorganisiertes, eigenständiges Arbeiten liegt
+        und du über notwendige organisatorische Fähigkeiten verfügst.&nbsp;Wir
+        sind überzeugt, dass du das meisterst! Und keine Sorge – wenn du mal
+        nicht weiterkommst, stehen dir deine Kolleginnen mit Rat und Tat zur
+        Seite. Unsere Mission ist es, die beste Dienstleistung zu erbringen und
+        sowohl unsere Kunden als auch eigene&nbsp;Produkte&nbsp;noch
+        erfolgreicher zu machen. Hierfür setzen wir modernste KI-Lösungen ein
+        und entwickeln eigene maßgeschneiderte KI-Tools wie beispielsweise den
+        Mainwebsolutions-AiHub.&nbsp;Ready for departure?&nbsp;🚀"
+      score: 74
+      skill_hits: 1
+      bucket_id: digital_marketing
+      fetched_at: 2026-07-08T18:52:10.619Z
+      pulled_at: 2026-07-08T18:52:10.619Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: hairfree
+      title: Jeder Unternehmer sollte von diesem erfolgreichen Franchise gehört haben!
+      location: Darmstadt, Hessen, Deutschland, Darmstadt, Deutschland
+      url: https://recruiting.hairfree.de/o/jeder-unternehmer-sollte-von-diesem-erfolgreichen-franchise-gehort-haben
+      updated_at: 2026-05-06 11:35:21 UTC
+      description: "Wir sind der Marktführer im Bereich der dauerhaften Haarentfernung
+        ¹ mit über&nbsp; 60 Standorte in Deutschland, Österreich und der
+        Schweiz. Unser Ziel ist es, Menschen das Gefühl von Freiheit und
+        Selbstbewusstsein durch glatte Haut zu schenken. Wir setzen dabei auf
+        innovative Technologien und höchste Qualitätsstandards, um unseren
+        Kunden ein einzigartiges Lebensgefühl zu bieten. Egal, ob du bereits
+        Erfahrung hast oder als QuereinsteigerIn starten möchtest - dank unseres
+        erfolgreichen Franchisekonzeptes &nbsp;bist auch du bei hairfree genau
+        richtig! Hört sich gut an? Dann bewirb dich jetzt! Das sind wir: 1 Der
+        Erfolg der Haarentfernung hängt vom individuellen Haut- und Haartypen ab
+        und kann nicht garantiert werden. Weitere Infos auf hairfree.de .
+        Franchise-Details: Anzahl Partner:&nbsp;über 60 Notwendiges
+        Eigenkapital: 25.000 € Eintrittsgebühr: 24.900 € Gesamtinvestition:
+        70.000 € Laufende Gebühren: 10% vom mtl. Netto-Zahlungseingang Deine
+        Aufgaben als Franchisepartner:&nbsp; Als Franchisepartner übernimmst du
+        die Verantwortung für deinen&nbsp;hairfree&nbsp;Standort und setzt unser
+        bewährtes Geschäftskonzept vor Ort um. Du profitierst von unserer
+        umfangreichen Erfahrung und unserer starken Marke . Aufbau und Leitung
+        eines neuen hairfree Standorts Rekrutierung, Führung und Motivation
+        deines Teams Umsetzung der hairfree Qualitätsstandards und -richtlinien
+        Kundenberatung und -betreuung auf höchstem Niveau Umsetzung von
+        Marketing- und Vertriebsstrategien zur Kundengewinnung Verwaltung und
+        Organisation der täglichen Abläufe Das bieten wir dir: Ein erfolgreiches
+        und bewährtes Franchise-Konzept (Franchising seit 2004) Professionelle
+        Beratung für die Finanzierung deiner Existenzgründung Unterstützung bei
+        der Erstellung deines Investitionsplans Hilfe bei der Standortsuche und
+        Standortanalyse für deine hairfree Lounge Unterstützung bei der
+        Einrichtungsplanung Umfassende Schulung und Einarbeitung in der internen
+        hairfree Academy Hilfreicher Erfahrungsaustausch auf Netzwerkmeetings
+        Telefonische Beratung durch den Franchisegeber Individuelle
+        Unterstützung beim Marketing&nbsp; Zentraler Einkauf für
+        FranchisenehmerInnen Gebietsschutz für deinen hairfree Standort Das
+        sagen unsere Franchisepartner: Du möchtest deine eigene
+        Erfolgsgeschichte schreiben? Wir freuen uns auf dich! Irini Kettern,
+        Daniel Haberkorn, Chris Kettern, Christine Heller"
+      score: 74
+      skill_hits: 1
+      bucket_id: digital_marketing
+      fetched_at: 2026-07-08T18:52:10.619Z
+      pulled_at: 2026-07-08T18:52:10.619Z
+      stale_days: 0
+      is_stale: false
     - source: recruitee
       source_note: ""
       company: Consultport
@@ -8657,7 +9298,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-07-05T18:34:42.026Z
       pulled_at: 2026-07-05T18:34:42.026Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -8704,7 +9345,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-07-05T18:34:42.026Z
       pulled_at: 2026-07-05T18:34:42.026Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -8769,7 +9410,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-07-05T18:34:42.026Z
       pulled_at: 2026-07-05T18:34:42.026Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -8818,7 +9459,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-07-05T18:34:42.026Z
       pulled_at: 2026-07-05T18:34:42.026Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -8872,7 +9513,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-07-05T18:34:42.026Z
       pulled_at: 2026-07-05T18:34:42.026Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -8926,7 +9567,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-07-05T18:34:42.026Z
       pulled_at: 2026-07-05T18:34:42.026Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -8981,7 +9622,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-07-05T18:34:42.026Z
       pulled_at: 2026-07-05T18:34:42.026Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -9030,7 +9671,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-07-05T18:34:42.026Z
       pulled_at: 2026-07-05T18:34:42.026Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -9074,7 +9715,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-07-04T18:30:33.492Z
       pulled_at: 2026-07-04T18:30:33.492Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -9121,7 +9762,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-07-04T18:30:33.492Z
       pulled_at: 2026-07-04T18:30:33.492Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -9186,7 +9827,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-07-04T18:30:33.492Z
       pulled_at: 2026-07-04T18:30:33.492Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -9235,7 +9876,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-07-04T18:30:33.492Z
       pulled_at: 2026-07-04T18:30:33.492Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -9289,7 +9930,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-07-04T18:30:33.492Z
       pulled_at: 2026-07-04T18:30:33.492Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -9343,7 +9984,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-07-04T18:30:33.492Z
       pulled_at: 2026-07-04T18:30:33.492Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -9398,7 +10039,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-07-04T18:30:33.492Z
       pulled_at: 2026-07-04T18:30:33.492Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -9447,7 +10088,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-07-04T18:30:33.492Z
       pulled_at: 2026-07-04T18:30:33.492Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -9491,7 +10132,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-07-03T18:44:28.946Z
       pulled_at: 2026-07-03T18:44:28.946Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -9617,7 +10258,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-07-03T18:44:28.946Z
       pulled_at: 2026-07-03T18:44:28.946Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -9741,7 +10382,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-07-03T18:44:28.946Z
       pulled_at: 2026-07-03T18:44:28.946Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -9788,7 +10429,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-07-03T18:44:28.946Z
       pulled_at: 2026-07-03T18:44:28.946Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -9853,7 +10494,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-07-03T18:44:28.946Z
       pulled_at: 2026-07-03T18:44:28.946Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -9902,7 +10543,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-07-03T18:44:28.946Z
       pulled_at: 2026-07-03T18:44:28.946Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -9956,7 +10597,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-07-03T18:44:28.946Z
       pulled_at: 2026-07-03T18:44:28.946Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -10010,7 +10651,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-07-03T18:44:28.946Z
       pulled_at: 2026-07-03T18:44:28.946Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -10065,7 +10706,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-07-03T18:44:28.946Z
       pulled_at: 2026-07-03T18:44:28.946Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -10114,7 +10755,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-07-03T18:44:28.946Z
       pulled_at: 2026-07-03T18:44:28.946Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -11847,7 +12488,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-29T19:19:21.004Z
       pulled_at: 2026-06-29T19:19:21.004Z
-      stale_days: 7
+      stale_days: 8
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -11891,7 +12532,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-29T19:19:21.004Z
       pulled_at: 2026-06-29T19:19:21.004Z
-      stale_days: 7
+      stale_days: 8
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -11938,7 +12579,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-29T19:19:21.004Z
       pulled_at: 2026-06-29T19:19:21.004Z
-      stale_days: 7
+      stale_days: 8
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -12003,7 +12644,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-29T19:19:21.004Z
       pulled_at: 2026-06-29T19:19:21.004Z
-      stale_days: 7
+      stale_days: 8
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -12052,7 +12693,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-29T19:19:21.004Z
       pulled_at: 2026-06-29T19:19:21.004Z
-      stale_days: 7
+      stale_days: 8
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -12106,7 +12747,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-29T19:19:21.004Z
       pulled_at: 2026-06-29T19:19:21.004Z
-      stale_days: 7
+      stale_days: 8
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -12160,7 +12801,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-29T19:19:21.004Z
       pulled_at: 2026-06-29T19:19:21.004Z
-      stale_days: 7
+      stale_days: 8
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -12215,7 +12856,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-29T19:19:21.004Z
       pulled_at: 2026-06-29T19:19:21.004Z
-      stale_days: 7
+      stale_days: 8
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -12259,7 +12900,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-28T18:40:12.395Z
       pulled_at: 2026-06-28T18:40:12.395Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -12306,7 +12947,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-28T18:40:12.395Z
       pulled_at: 2026-06-28T18:40:12.395Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -12371,7 +13012,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-28T18:40:12.395Z
       pulled_at: 2026-06-28T18:40:12.395Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -12420,7 +13061,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-28T18:40:12.395Z
       pulled_at: 2026-06-28T18:40:12.395Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -12474,7 +13115,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-28T18:40:12.395Z
       pulled_at: 2026-06-28T18:40:12.395Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -12528,7 +13169,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-28T18:40:12.395Z
       pulled_at: 2026-06-28T18:40:12.395Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -12583,7 +13224,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-28T18:40:12.395Z
       pulled_at: 2026-06-28T18:40:12.395Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -12627,7 +13268,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-27T18:41:10.218Z
       pulled_at: 2026-06-27T18:41:10.218Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -12674,7 +13315,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-27T18:41:10.218Z
       pulled_at: 2026-06-27T18:41:10.218Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -12739,7 +13380,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-27T18:41:10.218Z
       pulled_at: 2026-06-27T18:41:10.218Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -12788,7 +13429,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-27T18:41:10.218Z
       pulled_at: 2026-06-27T18:41:10.218Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -12842,7 +13483,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-27T18:41:10.218Z
       pulled_at: 2026-06-27T18:41:10.218Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -12896,7 +13537,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-27T18:41:10.218Z
       pulled_at: 2026-06-27T18:41:10.218Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -12951,7 +13592,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-27T18:41:10.218Z
       pulled_at: 2026-06-27T18:41:10.218Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -13363,7 +14004,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-25T19:21:11.747Z
       pulled_at: 2026-06-25T19:21:11.747Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -13410,7 +14051,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-25T19:21:11.747Z
       pulled_at: 2026-06-25T19:21:11.747Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -13475,7 +14116,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-25T19:21:11.747Z
       pulled_at: 2026-06-25T19:21:11.747Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -13524,7 +14165,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-25T19:21:11.747Z
       pulled_at: 2026-06-25T19:21:11.747Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -13645,7 +14286,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-25T19:21:11.747Z
       pulled_at: 2026-06-25T19:21:11.747Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -13699,7 +14340,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-25T19:21:11.747Z
       pulled_at: 2026-06-25T19:21:11.747Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -13753,7 +14394,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-25T19:21:11.747Z
       pulled_at: 2026-06-25T19:21:11.747Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -13808,7 +14449,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-25T19:21:11.747Z
       pulled_at: 2026-06-25T19:21:11.747Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -14220,7 +14861,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-23T19:22:34.655Z
       pulled_at: 2026-06-23T19:22:34.655Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -14267,7 +14908,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-23T19:22:34.655Z
       pulled_at: 2026-06-23T19:22:34.655Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -14332,7 +14973,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-23T19:22:34.655Z
       pulled_at: 2026-06-23T19:22:34.655Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -14381,7 +15022,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-23T19:22:34.655Z
       pulled_at: 2026-06-23T19:22:34.655Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -14435,7 +15076,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-23T19:22:34.655Z
       pulled_at: 2026-06-23T19:22:34.655Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -14489,7 +15130,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-23T19:22:34.655Z
       pulled_at: 2026-06-23T19:22:34.655Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -14544,7 +15185,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-23T19:22:34.655Z
       pulled_at: 2026-06-23T19:22:34.655Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -14593,7 +15234,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-23T19:22:34.655Z
       pulled_at: 2026-06-23T19:22:34.655Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -14637,7 +15278,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-22T20:18:41.606Z
       pulled_at: 2026-06-22T20:18:41.606Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -14684,7 +15325,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-22T20:18:41.606Z
       pulled_at: 2026-06-22T20:18:41.606Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -14749,7 +15390,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-22T20:18:41.606Z
       pulled_at: 2026-06-22T20:18:41.606Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -14798,7 +15439,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-22T20:18:41.606Z
       pulled_at: 2026-06-22T20:18:41.606Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -14852,7 +15493,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-22T20:18:41.606Z
       pulled_at: 2026-06-22T20:18:41.606Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -14906,7 +15547,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-22T20:18:41.606Z
       pulled_at: 2026-06-22T20:18:41.606Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -14961,7 +15602,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-22T20:18:41.606Z
       pulled_at: 2026-06-22T20:18:41.606Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -15010,7 +15651,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-22T20:18:41.606Z
       pulled_at: 2026-06-22T20:18:41.606Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -15091,7 +15732,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-22T20:18:41.606Z
       pulled_at: 2026-06-22T20:18:41.606Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -16427,7 +17068,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-18T19:37:46.146Z
       pulled_at: 2026-06-18T19:37:46.146Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -16474,7 +17115,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-18T19:37:46.146Z
       pulled_at: 2026-06-18T19:37:46.146Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -16540,7 +17181,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-18T19:37:46.146Z
       pulled_at: 2026-06-18T19:37:46.146Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -16605,7 +17246,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-18T19:37:46.146Z
       pulled_at: 2026-06-18T19:37:46.146Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -16654,7 +17295,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-18T19:37:46.146Z
       pulled_at: 2026-06-18T19:37:46.146Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -16713,7 +17354,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-18T19:37:46.146Z
       pulled_at: 2026-06-18T19:37:46.146Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -16762,7 +17403,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-18T19:37:46.146Z
       pulled_at: 2026-06-18T19:37:46.146Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -16816,7 +17457,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-18T19:37:46.146Z
       pulled_at: 2026-06-18T19:37:46.146Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -16870,7 +17511,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-18T19:37:46.146Z
       pulled_at: 2026-06-18T19:37:46.146Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -16925,7 +17566,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-18T19:37:46.146Z
       pulled_at: 2026-06-18T19:37:46.146Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -16974,7 +17615,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-18T19:37:46.146Z
       pulled_at: 2026-06-18T19:37:46.146Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -17038,7 +17679,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-18T19:37:46.146Z
       pulled_at: 2026-06-18T19:37:46.146Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -17082,7 +17723,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-17T19:34:00.730Z
       pulled_at: 2026-06-17T19:34:00.730Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -17129,7 +17770,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-17T19:34:00.730Z
       pulled_at: 2026-06-17T19:34:00.730Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -17194,7 +17835,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-17T19:34:00.730Z
       pulled_at: 2026-06-17T19:34:00.730Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -17243,7 +17884,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-17T19:34:00.730Z
       pulled_at: 2026-06-17T19:34:00.730Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -17325,7 +17966,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-17T19:34:00.730Z
       pulled_at: 2026-06-17T19:34:00.730Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: smartrecruiters
       source_note: ""
@@ -17340,7 +17981,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-17T19:34:00.730Z
       pulled_at: 2026-06-17T19:34:00.730Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -17394,7 +18035,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-17T19:34:00.730Z
       pulled_at: 2026-06-17T19:34:00.730Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -17448,7 +18089,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-17T19:34:00.730Z
       pulled_at: 2026-06-17T19:34:00.730Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -17503,7 +18144,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-17T19:34:00.730Z
       pulled_at: 2026-06-17T19:34:00.730Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -17552,7 +18193,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-17T19:34:00.730Z
       pulled_at: 2026-06-17T19:34:00.730Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -17596,8 +18237,8 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-16T20:22:18.407Z
       pulled_at: 2026-06-16T20:22:18.407Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: Consultport
@@ -17643,8 +18284,8 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-16T20:22:18.407Z
       pulled_at: 2026-06-16T20:22:18.407Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: TransPerfect
@@ -17708,8 +18349,8 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-16T20:22:18.407Z
       pulled_at: 2026-06-16T20:22:18.407Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: arbeitnow
       source_note: ""
       company: Dvision
@@ -17801,8 +18442,8 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-16T20:22:18.407Z
       pulled_at: 2026-06-16T20:22:18.407Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: Mainwebsolutions
@@ -17850,8 +18491,8 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-16T20:22:18.407Z
       pulled_at: 2026-06-16T20:22:18.407Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: arbeitnow
       source_note: ""
       company: Neuraum Ventures GmbH
@@ -17932,8 +18573,8 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-16T20:22:18.407Z
       pulled_at: 2026-06-16T20:22:18.407Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: Mainwebsolutions
@@ -17986,8 +18627,8 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-16T20:22:18.407Z
       pulled_at: 2026-06-16T20:22:18.407Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: Mainwebsolutions
@@ -18040,8 +18681,8 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-16T20:22:18.407Z
       pulled_at: 2026-06-16T20:22:18.407Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: Mainwebsolutions
@@ -18095,8 +18736,8 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-16T20:22:18.407Z
       pulled_at: 2026-06-16T20:22:18.407Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: hairfree
@@ -18144,8 +18785,8 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-16T20:22:18.407Z
       pulled_at: 2026-06-16T20:22:18.407Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: Consultport
@@ -18188,7 +18829,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-15T20:36:58.214Z
       pulled_at: 2026-06-15T20:36:58.214Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -18235,7 +18876,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-15T20:36:58.214Z
       pulled_at: 2026-06-15T20:36:58.214Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -18300,7 +18941,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-15T20:36:58.214Z
       pulled_at: 2026-06-15T20:36:58.214Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -18349,7 +18990,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-15T20:36:58.214Z
       pulled_at: 2026-06-15T20:36:58.214Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -18403,7 +19044,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-15T20:36:58.214Z
       pulled_at: 2026-06-15T20:36:58.214Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -18457,7 +19098,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-15T20:36:58.214Z
       pulled_at: 2026-06-15T20:36:58.214Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -18512,7 +19153,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-15T20:36:58.214Z
       pulled_at: 2026-06-15T20:36:58.214Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -18561,7 +19202,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-15T20:36:58.214Z
       pulled_at: 2026-06-15T20:36:58.214Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -18605,7 +19246,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-14T18:49:30.708Z
       pulled_at: 2026-06-14T18:49:30.708Z
-      stale_days: 23
+      stale_days: 24
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -18652,7 +19293,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-14T18:49:30.708Z
       pulled_at: 2026-06-14T18:49:30.708Z
-      stale_days: 23
+      stale_days: 24
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -18717,7 +19358,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-14T18:49:30.708Z
       pulled_at: 2026-06-14T18:49:30.708Z
-      stale_days: 23
+      stale_days: 24
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -18766,7 +19407,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-14T18:49:30.708Z
       pulled_at: 2026-06-14T18:49:30.708Z
-      stale_days: 23
+      stale_days: 24
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -18820,7 +19461,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-14T18:49:30.708Z
       pulled_at: 2026-06-14T18:49:30.708Z
-      stale_days: 23
+      stale_days: 24
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -18874,7 +19515,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-14T18:49:30.708Z
       pulled_at: 2026-06-14T18:49:30.708Z
-      stale_days: 23
+      stale_days: 24
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -18929,7 +19570,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-14T18:49:30.708Z
       pulled_at: 2026-06-14T18:49:30.708Z
-      stale_days: 23
+      stale_days: 24
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -18978,7 +19619,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-14T18:49:30.708Z
       pulled_at: 2026-06-14T18:49:30.708Z
-      stale_days: 23
+      stale_days: 24
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -19022,7 +19663,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-13T18:50:19.172Z
       pulled_at: 2026-06-13T18:50:19.172Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -19069,7 +19710,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-13T18:50:19.172Z
       pulled_at: 2026-06-13T18:50:19.172Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -19134,7 +19775,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-13T18:50:19.172Z
       pulled_at: 2026-06-13T18:50:19.172Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -19183,7 +19824,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-13T18:50:19.172Z
       pulled_at: 2026-06-13T18:50:19.172Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -19233,7 +19874,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-13T18:50:19.172Z
       pulled_at: 2026-06-13T18:50:19.172Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -19287,7 +19928,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-13T18:50:19.172Z
       pulled_at: 2026-06-13T18:50:19.172Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -19341,7 +19982,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-13T18:50:19.172Z
       pulled_at: 2026-06-13T18:50:19.172Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -19396,7 +20037,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-13T18:50:19.172Z
       pulled_at: 2026-06-13T18:50:19.172Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -19445,7 +20086,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-13T18:50:19.172Z
       pulled_at: 2026-06-13T18:50:19.172Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -19489,7 +20130,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-12T19:26:40.144Z
       pulled_at: 2026-06-12T19:26:40.144Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -19536,7 +20177,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-12T19:26:40.144Z
       pulled_at: 2026-06-12T19:26:40.144Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -19601,7 +20242,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-12T19:26:40.144Z
       pulled_at: 2026-06-12T19:26:40.144Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -19650,7 +20291,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-12T19:26:40.144Z
       pulled_at: 2026-06-12T19:26:40.144Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -19700,7 +20341,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-12T19:26:40.144Z
       pulled_at: 2026-06-12T19:26:40.144Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -19754,7 +20395,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-12T19:26:40.144Z
       pulled_at: 2026-06-12T19:26:40.144Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -19808,7 +20449,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-12T19:26:40.144Z
       pulled_at: 2026-06-12T19:26:40.144Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -19863,7 +20504,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-12T19:26:40.144Z
       pulled_at: 2026-06-12T19:26:40.144Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -19912,7 +20553,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-12T19:26:40.144Z
       pulled_at: 2026-06-12T19:26:40.144Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -19956,7 +20597,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-11T19:57:04.640Z
       pulled_at: 2026-06-11T19:57:04.640Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -20003,7 +20644,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-11T19:57:04.640Z
       pulled_at: 2026-06-11T19:57:04.640Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -20068,7 +20709,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-11T19:57:04.640Z
       pulled_at: 2026-06-11T19:57:04.640Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -20117,7 +20758,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-11T19:57:04.640Z
       pulled_at: 2026-06-11T19:57:04.640Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: smartrecruiters
       source_note: ""
@@ -20132,7 +20773,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-11T19:57:04.640Z
       pulled_at: 2026-06-11T19:57:04.640Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -20186,7 +20827,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-11T19:57:04.640Z
       pulled_at: 2026-06-11T19:57:04.640Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -20240,7 +20881,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-11T19:57:04.640Z
       pulled_at: 2026-06-11T19:57:04.640Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -20295,7 +20936,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-11T19:57:04.640Z
       pulled_at: 2026-06-11T19:57:04.640Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -20344,7 +20985,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-11T19:57:04.640Z
       pulled_at: 2026-06-11T19:57:04.640Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -20388,7 +21029,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-10T19:46:18.210Z
       pulled_at: 2026-06-10T19:46:18.210Z
-      stale_days: 26
+      stale_days: 27
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -20435,7 +21076,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-10T19:46:18.210Z
       pulled_at: 2026-06-10T19:46:18.210Z
-      stale_days: 26
+      stale_days: 27
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -20500,7 +21141,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-10T19:46:18.210Z
       pulled_at: 2026-06-10T19:46:18.210Z
-      stale_days: 26
+      stale_days: 27
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -20549,7 +21190,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-10T19:46:18.210Z
       pulled_at: 2026-06-10T19:46:18.210Z
-      stale_days: 26
+      stale_days: 27
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -20603,7 +21244,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-10T19:46:18.210Z
       pulled_at: 2026-06-10T19:46:18.210Z
-      stale_days: 26
+      stale_days: 27
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -20657,7 +21298,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-10T19:46:18.210Z
       pulled_at: 2026-06-10T19:46:18.210Z
-      stale_days: 26
+      stale_days: 27
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -20712,7 +21353,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-10T19:46:18.210Z
       pulled_at: 2026-06-10T19:46:18.210Z
-      stale_days: 26
+      stale_days: 27
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -20761,7 +21402,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-10T19:46:18.210Z
       pulled_at: 2026-06-10T19:46:18.210Z
-      stale_days: 26
+      stale_days: 27
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -20811,7 +21452,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-10T19:46:18.210Z
       pulled_at: 2026-06-10T19:46:18.210Z
-      stale_days: 26
+      stale_days: 27
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -20855,7 +21496,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-09T19:32:21.080Z
       pulled_at: 2026-06-09T19:32:21.080Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -20902,7 +21543,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-09T19:32:21.080Z
       pulled_at: 2026-06-09T19:32:21.080Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -20967,7 +21608,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-09T19:32:21.080Z
       pulled_at: 2026-06-09T19:32:21.080Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -21016,7 +21657,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-09T19:32:21.080Z
       pulled_at: 2026-06-09T19:32:21.080Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -21085,7 +21726,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-09T19:32:21.080Z
       pulled_at: 2026-06-09T19:32:21.080Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -21156,7 +21797,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-09T19:32:21.080Z
       pulled_at: 2026-06-09T19:32:21.080Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -21232,7 +21873,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-09T19:32:21.080Z
       pulled_at: 2026-06-09T19:32:21.080Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -21286,7 +21927,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-09T19:32:21.080Z
       pulled_at: 2026-06-09T19:32:21.080Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -21340,7 +21981,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-09T19:32:21.080Z
       pulled_at: 2026-06-09T19:32:21.080Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -21395,7 +22036,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-09T19:32:21.080Z
       pulled_at: 2026-06-09T19:32:21.080Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -21444,7 +22085,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-09T19:32:21.080Z
       pulled_at: 2026-06-09T19:32:21.080Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -21488,7 +22129,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-08T19:37:54.895Z
       pulled_at: 2026-06-08T19:37:54.895Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -21553,7 +22194,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-08T19:37:54.895Z
       pulled_at: 2026-06-08T19:37:54.895Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -21602,7 +22243,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-08T19:37:54.895Z
       pulled_at: 2026-06-08T19:37:54.895Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -21656,7 +22297,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-08T19:37:54.895Z
       pulled_at: 2026-06-08T19:37:54.895Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -21710,7 +22351,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-08T19:37:54.895Z
       pulled_at: 2026-06-08T19:37:54.895Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -21764,7 +22405,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-08T19:37:54.895Z
       pulled_at: 2026-06-08T19:37:54.895Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -21819,7 +22460,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-08T19:37:54.895Z
       pulled_at: 2026-06-08T19:37:54.895Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -21868,7 +22509,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-06-08T19:37:54.895Z
       pulled_at: 2026-06-08T19:37:54.895Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
   video_editing:
     - source: arbeitnow
@@ -22080,7 +22721,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-06-18T19:37:46.146Z
       pulled_at: 2026-06-18T19:37:46.146Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -22139,7 +22780,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-06-18T19:37:46.146Z
       pulled_at: 2026-06-18T19:37:46.146Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -22193,7 +22834,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-06-18T19:37:46.146Z
       pulled_at: 2026-06-18T19:37:46.146Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -22273,7 +22914,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-06-13T18:50:19.172Z
       pulled_at: 2026-06-13T18:50:19.172Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -22353,7 +22994,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-06-12T19:26:40.144Z
       pulled_at: 2026-06-12T19:26:40.144Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -22435,7 +23076,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-06-11T19:57:04.640Z
       pulled_at: 2026-06-11T19:57:04.640Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -22531,7 +23172,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-06-11T19:57:04.640Z
       pulled_at: 2026-06-11T19:57:04.640Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -22643,867 +23284,11 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-06-10T19:46:18.210Z
       pulled_at: 2026-06-10T19:46:18.210Z
-      stale_days: 26
+      stale_days: 27
       is_stale: true
 archive:
-  marketing_general:
-    - source: greenhouse
-      source_note: ""
-      company: hellofresh
-      title: (Senior) Growth Marketing Manager (all genders)
-      location: Berlin, Berlin, Germany
-      url: https://careers.hellofresh.com/global/en/job/7831405?gh_jid=7831405
-      updated_at: 2026-05-26T15:12:05-04:00
-      description: "&lt;h2&gt;&lt;strong&gt;Deine Rolle&lt;/strong&gt;&lt;/h2&gt;
-        &lt;p&gt;Als (Senior) Growth Marketing Manager (all genders) spielst Du
-        eine entscheidende Rolle bei der Skalierung unserer
-        Paid-Marketing-Aktivitäten innerhalb der DACH-Region. In enger
-        Abstimmung mit unserem Director Paid Marketing DACH übersetzt Du unsere
-        globale Wachstumsstrategie in effektive Kampagnen und lokale
-        Marktansätze. Dabei liegt Dein Fokus nicht nur auf der operativen
-        Umsetzung, sondern auch auf der aktiven Hinterfragung bestehender
-        Strukturen, der eigenständigen Identifikation von
-        Optimierungspotenzialen und der präzisen Steuerung der
-        Performance-Ziele.&lt;/p&gt; &lt;p&gt;Bitte beachte, diese Stelle auf 24
-        Monate befristet ist (eine anschließende Entfristung wird
-        angestrebt).&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Dein
-        Verantwortungsbereich&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt;
-        &lt;li&gt;&lt;strong&gt;Strategie &amp;amp; Wachstum:
-        &lt;/strong&gt;Kanalübergreifende Evaluierung des Marketing-Mix,
-        Identifikation ungenutzter Wachstumspotenziale und Nutzung von
-        Markt-Benchmarks sowie Analysen zur kontinuierlichen Skalierung der
-        DACH-Strategie unter Berücksichtigung von Akquise- und
-        Retention-KPIs.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;KPI-Monitoring
-        &amp;amp; Spend Pacing:&lt;/strong&gt; Sicherstellung eines effizienten
-        Channel-Mixes durch regelmäßige Budget-Reallokationen und Validierung
-        des Maßnahmen-Impacts mit Hilfe von Inkrementalitäts- und Lift-Tests
-        sowie Unterstützung des Marketing Analytics Teams&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Creative Strategy &amp;amp; Optimierung:
-        &lt;/strong&gt;Analyse der Creative-Performance in Kollaboration mit
-        unseren Design-Teams, Ableitung von Messaging-Optimierungen und
-        kontinuierliche Iteration zur Maximierung der Relevanz von
-        Performance-Ads&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Stakeholder
-        Management &amp;amp; Kampagnensteuerung: &lt;/strong&gt;Planung der
-        Kampagnenumsetzung in Abstimmung mit relevanten Marketing-Stakeholdern
-        (Design- und Discount-Teams) und Bewältigung operativer
-        Herausforderungen durch lösungsorientiertes Vorgehen sowie
-        strukturiertes Projektmanagement&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Innovation &amp;amp;
-        Channel-Expansion:&amp;nbsp;&lt;/strong&gt;Proaktive Identifikation
-        neuer Marketing-Potenziale, Bewertung ihrer Relevanz für unsere
-        Wachstumsziele und operative Verantwortung der End-to-End Rollouts
-        innovativer Kanäle und Strategien&lt;/li&gt; &lt;/ul&gt;
-        &lt;h2&gt;&lt;strong&gt;Dein Profil&amp;nbsp;&lt;/strong&gt;&lt;/h2&gt;
-        &lt;ul&gt; &lt;li&gt;Abgeschlossenes Studium in Marketing, BWL,
-        Wirtschaftswissenschaften oder einem vergleichbaren Bereich.&lt;/li&gt;
-        &lt;li&gt;Mindestens 3 Jahre Berufserfahrung im Growth oder Performance
-        Marketing, insbesondere in der erfolgreichen Skalierung von Kampagnen
-        und Kanälen&lt;/li&gt; &lt;li&gt;Tiefgreifendes Verständnis von
-        Marketing-Attribution und Analyse-Methoden sowie sichere Ableitung
-        business-relevanter Insights aus komplexen Datensätzen&lt;/li&gt;
-        &lt;li&gt;Erfahrung in der strategischen Budgetplanung und operativen
-        Steuerung von (digitalen) Multi-Channel-Kampagnen&lt;/li&gt;
-        &lt;li&gt;Hohe Eigeninitiative und Ownership sowie die Fähigkeit,
-        Optimierungspotenziale selbstständig zu identifizieren und konsequent
-        umzusetzen&lt;/li&gt; &lt;li&gt;Souveränes und überzeugendes Auftreten
-        im Umgang mit komplexen Stakeholdern&lt;/li&gt; &lt;li&gt;Fließende
-        Deutsch- und Englischkenntnisse (jeweils mindestens auf C1
-        Niveau)&lt;/li&gt; &lt;/ul&gt; &lt;p class=&quot;p1&quot;&gt;Vor allem
-        suchen wir Menschen, die HelloFresh besser machen. Wir lieben
-        vielfältige Erfahrungen und glauben, dass es viele Wege gibt,
-        Fähigkeiten zu entwickeln.&amp;nbsp;Wenn Du also nicht alle Kriterien
-        erfüllst, aber glaubst, in dieser Rolle überzeugen zu können, möchten
-        wir gerne mehr über Dich erfahren.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Das
-        bieten wir Dir&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt;
-        &lt;li&gt;&lt;strong&gt;Einen Wohlfühlarbeitsplatz &lt;/strong&gt;mit
-        einem tollen Team&amp;nbsp;in Berlin-Kreuzberg&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Rabatte&lt;/strong&gt; auf unsere HelloFresh
-        Kochboxen und Convini-Produkte&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Weiterentwicklungsmöglichkeiten&lt;/strong&gt;
-        durch interne Trainings sowie ein jährliches Team-Budget für
-        Weiterbildung &lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Ein flexibles Arbeitsumfeld&lt;/strong&gt; mit
-        Vertrauensarbeitszeit, Work From Home/Work From Abroad und Sabbatical
-        Policy&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Ein umfassendes
-        Onboarding&lt;/strong&gt; inkl. Buddy-Programm&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Spaß&lt;/strong&gt; bei Teamevents, Friday
-        Beers, Company Runs, Buchclub u.v.m.&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Vergünstigte Fitnessangebote&lt;/strong&gt; bei
-        Urban Sports Club bzw. John Reed, regelmäßige Yoga-Sessions&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Initiativen für das Wohlbefinden&lt;/strong&gt;
-        durch Kooperationen mit der Headspace-App und Spill&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Unterstützungsangebote&lt;/strong&gt; bei der
-        Kinderbetreuung&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Betriebliche
-        Altersvorsorge&lt;/strong&gt;&amp;nbsp;&lt;/li&gt; &lt;li
-        style=&quot;font-weight: bold;&quot;&gt;&lt;strong&gt;Einen monatlichen
-        Zuschuss zum Deutschlandticket&lt;/strong&gt;&lt;/li&gt; &lt;/ul&gt;
-        &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Bist du die
-        fehlende Zutat?&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Wenn diese
-        Gelegenheit für Dich lecker klingt, freuen wir uns darauf, von Dir zu
-        hören.Wir bemühen uns, dein Profil zu prüfen und Dir innerhalb von 5
-        Werktagen zu antworten.&lt;/p&gt; &lt;p&gt;&lt;br&gt;&lt;span
-        style=&quot;color: rgb(206, 212,
-        217);&quot;&gt;#JD1002&lt;/span&gt;&lt;/p&gt;"
-      score: 98
-      skill_hits: 1
-      bucket_id: marketing_general
-      fetched_at: 2026-06-07T18:45:15.639Z
-      pulled_at: 2026-06-07T18:45:15.639Z
-      stale_days: 30
-      is_stale: true
-    - source: greenhouse
-      source_note: ""
-      company: hellofresh
-      title: (Senior) Marketing Manager (all genders)
-      location: Berlin, Berlin, Germany
-      url: https://careers.hellofresh.com/global/en/job/7870471?gh_jid=7870471
-      updated_at: 2026-05-26T15:12:05-04:00
-      description: "&lt;h2&gt;&lt;strong&gt;Deine Rolle&lt;/strong&gt;&lt;/h2&gt;
-        &lt;p&gt;Als (Senior) Marketing Manager (all genders) spielst Du eine
-        entscheidende Rolle bei der Skalierung unserer
-        Paid-Marketing-Aktivitäten innerhalb der DACH-Region. In enger
-        Abstimmung mit unserem Director Paid Marketing DACH übersetzt Du unsere
-        globale Wachstumsstrategie in effektive Kampagnen und lokale
-        Marktansätze. Dabei liegt Dein Fokus nicht nur auf der operativen
-        Umsetzung, sondern auch auf der aktiven Hinterfragung bestehender
-        Strukturen, der eigenständigen Identifikation von
-        Optimierungspotenzialen und der präzisen Steuerung der
-        Performance-Ziele.&lt;/p&gt; &lt;p&gt;Bitte beachte, diese Stelle auf 24
-        Monate befristet ist (eine anschließende Entfristung wird
-        angestrebt).&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Dein
-        Verantwortungsbereich&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt;
-        &lt;li&gt;&lt;strong&gt;Strategie &amp;amp; Wachstum:
-        &lt;/strong&gt;Kanalübergreifende Evaluierung des Marketing-Mix,
-        Identifikation ungenutzter Wachstumspotenziale und Nutzung von
-        Markt-Benchmarks sowie Analysen zur kontinuierlichen Skalierung der
-        DACH-Strategie unter Berücksichtigung von Akquise- und
-        Retention-KPIs.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;KPI-Monitoring
-        &amp;amp; Spend Pacing:&lt;/strong&gt; Sicherstellung eines effizienten
-        Channel-Mixes durch regelmäßige Budget-Reallokationen und Validierung
-        des Maßnahmen-Impacts mit Hilfe von Inkrementalitäts- und Lift-Tests
-        sowie Unterstützung des Marketing Analytics Teams&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Creative Strategy &amp;amp; Optimierung:
-        &lt;/strong&gt;Analyse der Creative-Performance in Kollaboration mit
-        unseren Design-Teams, Ableitung von Messaging-Optimierungen und
-        kontinuierliche Iteration zur Maximierung der Relevanz von
-        Performance-Ads&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Stakeholder
-        Management &amp;amp; Kampagnensteuerung: &lt;/strong&gt;Planung der
-        Kampagnenumsetzung in Abstimmung mit relevanten Marketing-Stakeholdern
-        (Design- und Discount-Teams) und Bewältigung operativer
-        Herausforderungen durch lösungsorientiertes Vorgehen sowie
-        strukturiertes Projektmanagement&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Innovation &amp;amp;
-        Channel-Expansion:&amp;nbsp;&lt;/strong&gt;Proaktive Identifikation
-        neuer Marketing-Potenziale, Bewertung ihrer Relevanz für unsere
-        Wachstumsziele und operative Verantwortung der End-to-End Rollouts
-        innovativer Kanäle und Strategien&lt;/li&gt; &lt;/ul&gt;
-        &lt;h2&gt;&lt;strong&gt;Dein Profil&amp;nbsp;&lt;/strong&gt;&lt;/h2&gt;
-        &lt;ul&gt; &lt;li&gt;Abgeschlossenes Studium in Marketing, BWL,
-        Wirtschaftswissenschaften oder einem vergleichbaren Bereich.&lt;/li&gt;
-        &lt;li&gt;Mindestens 3 Jahre Berufserfahrung im Growth oder Performance
-        Marketing, insbesondere in der erfolgreichen Skalierung von Kampagnen
-        und Kanälen&lt;/li&gt; &lt;li&gt;Tiefgreifendes Verständnis von
-        Marketing-Attribution und Analyse-Methoden sowie sichere Ableitung
-        business-relevanter Insights aus komplexen Datensätzen&lt;/li&gt;
-        &lt;li&gt;Erfahrung in der strategischen Budgetplanung und operativen
-        Steuerung von (digitalen) Multi-Channel-Kampagnen&lt;/li&gt;
-        &lt;li&gt;Hohe Eigeninitiative und Ownership sowie die Fähigkeit,
-        Optimierungspotenziale selbstständig zu identifizieren und konsequent
-        umzusetzen&lt;/li&gt; &lt;li&gt;Souveränes und überzeugendes Auftreten
-        im Umgang mit komplexen Stakeholdern&lt;/li&gt; &lt;li&gt;Fließende
-        Deutsch- und Englischkenntnisse (jeweils mindestens auf C1
-        Niveau)&lt;/li&gt; &lt;/ul&gt; &lt;p class=&quot;p1&quot;&gt;Vor allem
-        suchen wir Menschen, die HelloFresh besser machen. Wir lieben
-        vielfältige Erfahrungen und glauben, dass es viele Wege gibt,
-        Fähigkeiten zu entwickeln.&amp;nbsp;Wenn Du also nicht alle Kriterien
-        erfüllst, aber glaubst, in dieser Rolle überzeugen zu können, möchten
-        wir gerne mehr über Dich erfahren.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Das
-        bieten wir Dir&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt;
-        &lt;li&gt;&lt;strong&gt;Einen Wohlfühlarbeitsplatz &lt;/strong&gt;mit
-        einem tollen Team&amp;nbsp;in Berlin-Kreuzberg&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Rabatte&lt;/strong&gt; auf unsere HelloFresh
-        Kochboxen und Convini-Produkte&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Weiterentwicklungsmöglichkeiten&lt;/strong&gt;
-        durch interne Trainings sowie ein jährliches Team-Budget für
-        Weiterbildung &lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Ein flexibles Arbeitsumfeld&lt;/strong&gt; mit
-        Vertrauensarbeitszeit, Work From Home/Work From Abroad und Sabbatical
-        Policy&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Ein umfassendes
-        Onboarding&lt;/strong&gt; inkl. Buddy-Programm&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Spaß&lt;/strong&gt; bei Teamevents, Friday
-        Beers, Company Runs, Buchclub u.v.m.&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Vergünstigte Fitnessangebote&lt;/strong&gt; bei
-        Urban Sports Club bzw. John Reed, regelmäßige Yoga-Sessions&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Initiativen für das Wohlbefinden&lt;/strong&gt;
-        durch Kooperationen mit der Headspace-App und Spill&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Unterstützungsangebote&lt;/strong&gt; bei der
-        Kinderbetreuung&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Betriebliche
-        Altersvorsorge&lt;/strong&gt;&amp;nbsp;&lt;/li&gt; &lt;li
-        style=&quot;font-weight: bold;&quot;&gt;&lt;strong&gt;Einen monatlichen
-        Zuschuss zum Deutschlandticket&lt;/strong&gt;&lt;/li&gt; &lt;/ul&gt;
-        &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Bist du die
-        fehlende Zutat?&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Wenn diese
-        Gelegenheit für Dich lecker klingt, freuen wir uns darauf, von Dir zu
-        hören.Wir bemühen uns, dein Profil zu prüfen und Dir innerhalb von 5
-        Werktagen zu antworten.&lt;/p&gt; &lt;p&gt;&lt;br&gt;&lt;span
-        style=&quot;color: rgb(206, 212,
-        217);&quot;&gt;#JD1002&lt;/span&gt;&lt;/p&gt;"
-      score: 98
-      skill_hits: 1
-      bucket_id: marketing_general
-      fetched_at: 2026-06-07T18:45:15.639Z
-      pulled_at: 2026-06-07T18:45:15.639Z
-      stale_days: 30
-      is_stale: true
-    - source: greenhouse
-      source_note: ""
-      company: hellofresh
-      title: " Senior Marketing Manager, Virality (all genders)"
-      location: Berlin, Berlin, Germany
-      url: https://careers.hellofresh.com/global/en/job/7570562?gh_jid=7570562
-      updated_at: 2026-05-26T15:12:05-04:00
-      description: "&lt;h2&gt;&lt;strong&gt;The role&lt;/strong&gt;&lt;/h2&gt;
-        &lt;p&gt;As a Senior Marketing Manager, Virality, you’ll join the global
-        Referrals team — one of HelloFresh Group’s key growth engines. Your
-        mission: build customer journeys and referral experiences that people
-        actually want to share.&lt;/p&gt; &lt;p&gt;This role sits at the
-        intersection of CRM, product marketing, growth and performance
-        marketing. You’ll own customer-facing referral communications across CRM
-        and in-product touchpoints, turning happy customers into active
-        advocates and driving measurable customer acquisition through
-        referrals.&lt;/p&gt; &lt;p&gt;In our customer-centric and data-driven
-        Referrals team, you will be responsible for planning, executing, and
-        analyzing referral campaigns across digital and product touchpoints for
-        34 markets and 8 brands globally. You’ll collaborate cross-functionally
-        with Product, CRM Operations, Analytics, Pricing &amp;amp; Discounts,
-        Creative and local market teams to deliver seamless and scalable
-        referral experiences across the customer journey.&lt;/p&gt;
-        &lt;p&gt;You’ll work closely with Product, CRM, Analytics, Pricing and
-        local market teams across the globe to shape referral strategies, launch
-        experiments, optimize customer journeys, and improve conversion
-        performance.&lt;/p&gt; &lt;p&gt;If you love combining creativity with
-        data, enjoy solving complex marketing challenges, and thrive in
-        fast-paced, evolving environments — this role is for you&lt;/p&gt;
-        &lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt;
-        &lt;p&gt;Build Referral Experiences People Want to Share&lt;/p&gt;
-        &lt;ul&gt; &lt;li&gt;Develop and execute referral communication
-        strategies across CRM and product touchpoints that encourage customers
-        to invite friends and drive new customer growth.&lt;/li&gt;
-        &lt;li&gt;Orchestrate customer journeys across multiple touchpoints to
-        ensure seamless messaging, consistent UX, and cohesive&amp;nbsp;
-        end-to-end referral experiences.&lt;/li&gt; &lt;li&gt;Partner closely
-        with Product teams to improve referral UX/UI and launch new referral
-        features and experiences.&lt;/li&gt; &lt;li&gt;Work with local market
-        teams to deliver culturally relevant campaigns while maintaining a
-        scalable global strategy and consistent brand experience.&lt;/li&gt;
-        &lt;/ul&gt; &lt;p&gt;Turn Data Into Growth:&lt;/p&gt; &lt;ul&gt;
-        &lt;li&gt;Own and optimize referral performance across channels with a
-        strong focus on conversion and customer behavior.&lt;/li&gt;
-        &lt;li&gt;Analyze performance trends and identify what drives
-        engagement, referral invites, and successful referrals.&lt;/li&gt;
-        &lt;li&gt;Run experiments to continuously improve customer journeys and
-        campaign effectiveness.&lt;/li&gt; &lt;li&gt;Collaborate with Analytics
-        and Pricing teams to optimize incentives and unlock new growth
-        opportunities.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Drive
-        innovation:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Help shape the future
-        strategy of HelloFresh’s global referral and virality
-        programs.&lt;/li&gt; &lt;li&gt;Find smarter, faster, and more scalable
-        ways of working — including automation and AI opportunities.&lt;/li&gt;
-        &lt;li&gt;Connect CRM, product marketing, and growth into one cohesive
-        customer experience.&lt;/li&gt; &lt;li&gt;Navigate project complexity,
-        shifting priorities, and cross-functional collaboration with confidence
-        and curiosity.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;What
-        you’ll bring&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;4+ years of
-        experience in CRM, lifecycle marketing, product marketing, growth
-        marketing, referrals/virality, or similar areas–ideally in tech,
-        e-commerce, subscription, or marketplace businesses.&lt;/li&gt;
-        &lt;li&gt;Degree in marketing, business, statistics, or a STEM-related
-        field.&lt;/li&gt; &lt;li&gt;Strong analytical and commercial mindset
-        with experience working with performance data, customer journeys,
-        experimentation, and conversion-focused marketing.&lt;/li&gt;
-        &lt;li&gt;Strong communication and stakeholder management skills, with
-        the ability to influence and collaborate across Product, CRM, Analytics,
-        Creative, and local market teams.&lt;/li&gt; &lt;li&gt;Confidence
-        leading discussions, presentations, and alignment with senior
-        stakeholders in cross-functional environments.&lt;/li&gt;
-        &lt;li&gt;Ownership-driven attitude with strong prioritization skills,
-        adaptability, resilience, and the ability to thrive in fast-paced,
-        evolving, and sometimes ambiguous environments.&lt;/li&gt;
-        &lt;li&gt;Excellent technical skills including strong
-        Excel/spreadsheet-based modeling capabilities&lt;/li&gt; &lt;/ul&gt;
-        &lt;h2&gt;&lt;strong&gt;What we offer&lt;/strong&gt;&lt;/h2&gt;
-        &lt;p&gt;Elevate your lifestyle! Join one of Europe&#39;s
-        fastest-growing tech powerhouses in a dynamic phase of
-        expansion.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Immerse yourself in a diverse
-        global community of 90+ nationalities.&lt;/li&gt; &lt;li&gt;Enjoy a
-        competitive compensation package that goes beyond the norm, with perks
-        like a HelloFresh- subsidized Pension Scheme, Berlin relocation support,
-        and a Hybrid working model.&lt;/li&gt; &lt;li&gt;Elevate your lifestyle
-        with exclusive discounts on your weekly HelloFresh box and office
-        meals.&lt;/li&gt; &lt;li&gt;Invest in your growth with an annual
-        learning &amp;amp; development budget, German language learning budget,
-        and access to the HelloFresh Academy.&lt;/li&gt; &lt;li&gt;Plus,
-        we&#39;ve got your well-being covered with mental health support,
-        transportation perks, and working-parent-friendly benefits. From our
-        24/7 gym access,wellbeing platforms like Headspace and Spill, to
-        sabbatical leave options, HelloFresh is not just a workplace; it&#39;s a
-        lifestyle of perks and possibilities!&lt;/li&gt; &lt;/ul&gt;
-        &lt;h2&gt;&lt;strong&gt;Are you up for the
-        challenge?&lt;/strong&gt;&lt;/h2&gt; &lt;p style=&quot;text-align:
-        justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Please
-        submit your complete application below including your salary
-        expectations and earliest starting date.&lt;/span&gt;&lt;/p&gt; &lt;p
-        style=&quot;text-align: justify;&quot;&gt;&lt;span
-        style=&quot;font-weight: 400;&quot;&gt;After submitting an application
-        our team will review this and get back to you within 5 business
-        days.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;"
-      score: 98
-      skill_hits: 1
-      bucket_id: marketing_general
-      fetched_at: 2026-06-07T18:45:15.639Z
-      pulled_at: 2026-06-07T18:45:15.639Z
-      stale_days: 30
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: TransPerfect
-      title: Recruitment Marketing Specialist, SEO & Digital Campaigns
-      location: Pune, Mahārāshtra, India, Pune, India
-      url: https://transperfect.com/o/recruitment-marketing-specialist-seo-digital-campaigns
-      updated_at: 2026-03-25 09:54:24 UTC
-      description: "TransPerfect is the world’s largest provider of language and
-        technology solutions for global business. Operating in 100+ cities
-        worldwide, we support organizations in communicating and expanding
-        across international markets. Our Talent Acquisition team plays a
-        critical role in fueling this global growth. The Opportunity: We are
-        seeking an SEO &amp; Digital Campaigns Specialist to join our Talent
-        Acquisition team . You will sit within Talent Acquisition and focus
-        specifically on driving qualified candidate traffic , improving search
-        visibility of job opportunities, and executing digital campaigns that
-        directly impact hiring outcomes. You will own the strategy and execution
-        of SEO and paid digital initiatives that strengthen TransPerfect’s
-        employer brand and increase candidate conversion globally. Key
-        Responsibilities: SEO Strategy (Primary Focus):
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Develop and execute a
-        global SEO strategy for recruitment and careers content
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conduct keyword
-        research aligned with hiring priorities across regions and functions
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Optimize job
-        descriptions, landing pages, and career site content for organic
-        visibility ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Implement
-        structured data to improve search engine indexing
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Perform technical SEO
-        audits ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Track rankings,
-        traffic, and application conversion rates Digital Recruitment Campaigns:
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Plan and manage
-        digital campaigns ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        Build targeted talent attraction campaigns for priority hiring
-        initiatives ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Monitor
-        campaign ROI, cost-per-application, and conversion metrics Analytics
-        &amp; Optimization: ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        Use data to inform talent attraction strategy
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Create dashboards and
-        performance reports for Talent Acquisition leadership
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Identify opportunities
-        to improve candidate funnel performance
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Benchmark against
-        competitors for recruitment search presence What we’re looking for:
-        Required: 2+ years of experience in SEO and digital campaign management
-        Proven track record of driving measurable growth in organic traffic and
-        conversions Strong understanding of technical SEO and structured data
-        Data-driven mindset with strong analytical capabilities Preferred:
-        Experience supporting Talent Acquisition or HR teams Familiarity with
-        Applicant Tracking Systems (ATS) Experience optimizing global or
-        multilingual career sites Why Join the Talent Acquisition Team at
-        TransPerfect? Direct impact on global hiring strategy Ownership of SEO
-        and digital recruitment initiatives Opportunity to shape how candidates
-        discover TransPerfect worldwide Fast-paced, international environment
-        Career growth within a global organization Your Impact: &nbsp; In this
-        role, your work will directly influence how top talent finds and applies
-        to TransPerfect. You will help build a scalable, search-driven
-        recruitment engine that supports global expansion and business growth."
-      score: 80
-      skill_hits: 2
-      bucket_id: marketing_general
-      fetched_at: 2026-06-07T18:45:15.639Z
-      pulled_at: 2026-06-07T18:45:15.639Z
-      stale_days: 30
-      is_stale: true
-  digital_marketing:
-    - source: greenhouse
-      source_note: ""
-      company: hellofresh
-      title: (Senior) Growth Marketing Manager (all genders)
-      location: Berlin, Berlin, Germany
-      url: https://careers.hellofresh.com/global/en/job/7831405?gh_jid=7831405
-      updated_at: 2026-05-26T15:12:05-04:00
-      description: "&lt;h2&gt;&lt;strong&gt;Deine Rolle&lt;/strong&gt;&lt;/h2&gt;
-        &lt;p&gt;Als (Senior) Growth Marketing Manager (all genders) spielst Du
-        eine entscheidende Rolle bei der Skalierung unserer
-        Paid-Marketing-Aktivitäten innerhalb der DACH-Region. In enger
-        Abstimmung mit unserem Director Paid Marketing DACH übersetzt Du unsere
-        globale Wachstumsstrategie in effektive Kampagnen und lokale
-        Marktansätze. Dabei liegt Dein Fokus nicht nur auf der operativen
-        Umsetzung, sondern auch auf der aktiven Hinterfragung bestehender
-        Strukturen, der eigenständigen Identifikation von
-        Optimierungspotenzialen und der präzisen Steuerung der
-        Performance-Ziele.&lt;/p&gt; &lt;p&gt;Bitte beachte, diese Stelle auf 24
-        Monate befristet ist (eine anschließende Entfristung wird
-        angestrebt).&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Dein
-        Verantwortungsbereich&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt;
-        &lt;li&gt;&lt;strong&gt;Strategie &amp;amp; Wachstum:
-        &lt;/strong&gt;Kanalübergreifende Evaluierung des Marketing-Mix,
-        Identifikation ungenutzter Wachstumspotenziale und Nutzung von
-        Markt-Benchmarks sowie Analysen zur kontinuierlichen Skalierung der
-        DACH-Strategie unter Berücksichtigung von Akquise- und
-        Retention-KPIs.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;KPI-Monitoring
-        &amp;amp; Spend Pacing:&lt;/strong&gt; Sicherstellung eines effizienten
-        Channel-Mixes durch regelmäßige Budget-Reallokationen und Validierung
-        des Maßnahmen-Impacts mit Hilfe von Inkrementalitäts- und Lift-Tests
-        sowie Unterstützung des Marketing Analytics Teams&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Creative Strategy &amp;amp; Optimierung:
-        &lt;/strong&gt;Analyse der Creative-Performance in Kollaboration mit
-        unseren Design-Teams, Ableitung von Messaging-Optimierungen und
-        kontinuierliche Iteration zur Maximierung der Relevanz von
-        Performance-Ads&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Stakeholder
-        Management &amp;amp; Kampagnensteuerung: &lt;/strong&gt;Planung der
-        Kampagnenumsetzung in Abstimmung mit relevanten Marketing-Stakeholdern
-        (Design- und Discount-Teams) und Bewältigung operativer
-        Herausforderungen durch lösungsorientiertes Vorgehen sowie
-        strukturiertes Projektmanagement&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Innovation &amp;amp;
-        Channel-Expansion:&amp;nbsp;&lt;/strong&gt;Proaktive Identifikation
-        neuer Marketing-Potenziale, Bewertung ihrer Relevanz für unsere
-        Wachstumsziele und operative Verantwortung der End-to-End Rollouts
-        innovativer Kanäle und Strategien&lt;/li&gt; &lt;/ul&gt;
-        &lt;h2&gt;&lt;strong&gt;Dein Profil&amp;nbsp;&lt;/strong&gt;&lt;/h2&gt;
-        &lt;ul&gt; &lt;li&gt;Abgeschlossenes Studium in Marketing, BWL,
-        Wirtschaftswissenschaften oder einem vergleichbaren Bereich.&lt;/li&gt;
-        &lt;li&gt;Mindestens 3 Jahre Berufserfahrung im Growth oder Performance
-        Marketing, insbesondere in der erfolgreichen Skalierung von Kampagnen
-        und Kanälen&lt;/li&gt; &lt;li&gt;Tiefgreifendes Verständnis von
-        Marketing-Attribution und Analyse-Methoden sowie sichere Ableitung
-        business-relevanter Insights aus komplexen Datensätzen&lt;/li&gt;
-        &lt;li&gt;Erfahrung in der strategischen Budgetplanung und operativen
-        Steuerung von (digitalen) Multi-Channel-Kampagnen&lt;/li&gt;
-        &lt;li&gt;Hohe Eigeninitiative und Ownership sowie die Fähigkeit,
-        Optimierungspotenziale selbstständig zu identifizieren und konsequent
-        umzusetzen&lt;/li&gt; &lt;li&gt;Souveränes und überzeugendes Auftreten
-        im Umgang mit komplexen Stakeholdern&lt;/li&gt; &lt;li&gt;Fließende
-        Deutsch- und Englischkenntnisse (jeweils mindestens auf C1
-        Niveau)&lt;/li&gt; &lt;/ul&gt; &lt;p class=&quot;p1&quot;&gt;Vor allem
-        suchen wir Menschen, die HelloFresh besser machen. Wir lieben
-        vielfältige Erfahrungen und glauben, dass es viele Wege gibt,
-        Fähigkeiten zu entwickeln.&amp;nbsp;Wenn Du also nicht alle Kriterien
-        erfüllst, aber glaubst, in dieser Rolle überzeugen zu können, möchten
-        wir gerne mehr über Dich erfahren.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Das
-        bieten wir Dir&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt;
-        &lt;li&gt;&lt;strong&gt;Einen Wohlfühlarbeitsplatz &lt;/strong&gt;mit
-        einem tollen Team&amp;nbsp;in Berlin-Kreuzberg&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Rabatte&lt;/strong&gt; auf unsere HelloFresh
-        Kochboxen und Convini-Produkte&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Weiterentwicklungsmöglichkeiten&lt;/strong&gt;
-        durch interne Trainings sowie ein jährliches Team-Budget für
-        Weiterbildung &lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Ein flexibles Arbeitsumfeld&lt;/strong&gt; mit
-        Vertrauensarbeitszeit, Work From Home/Work From Abroad und Sabbatical
-        Policy&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Ein umfassendes
-        Onboarding&lt;/strong&gt; inkl. Buddy-Programm&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Spaß&lt;/strong&gt; bei Teamevents, Friday
-        Beers, Company Runs, Buchclub u.v.m.&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Vergünstigte Fitnessangebote&lt;/strong&gt; bei
-        Urban Sports Club bzw. John Reed, regelmäßige Yoga-Sessions&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Initiativen für das Wohlbefinden&lt;/strong&gt;
-        durch Kooperationen mit der Headspace-App und Spill&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Unterstützungsangebote&lt;/strong&gt; bei der
-        Kinderbetreuung&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Betriebliche
-        Altersvorsorge&lt;/strong&gt;&amp;nbsp;&lt;/li&gt; &lt;li
-        style=&quot;font-weight: bold;&quot;&gt;&lt;strong&gt;Einen monatlichen
-        Zuschuss zum Deutschlandticket&lt;/strong&gt;&lt;/li&gt; &lt;/ul&gt;
-        &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Bist du die
-        fehlende Zutat?&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Wenn diese
-        Gelegenheit für Dich lecker klingt, freuen wir uns darauf, von Dir zu
-        hören.Wir bemühen uns, dein Profil zu prüfen und Dir innerhalb von 5
-        Werktagen zu antworten.&lt;/p&gt; &lt;p&gt;&lt;br&gt;&lt;span
-        style=&quot;color: rgb(206, 212,
-        217);&quot;&gt;#JD1002&lt;/span&gt;&lt;/p&gt;"
-      score: 98
-      skill_hits: 1
-      bucket_id: digital_marketing
-      fetched_at: 2026-06-07T18:45:15.639Z
-      pulled_at: 2026-06-07T18:45:15.639Z
-      stale_days: 30
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: Consultport
-      title: Growth Marketing Intern (m/f/d)
-      location: Berlin, Berlin, Germany, Berlin, Germany
-      url: https://consultport.recruitee.com/o/growth-marketing-intern-mfd
-      updated_at: 2026-03-25 10:51:32 UTC
-      description: "About Us Consultport is a global platform that connects companies
-        with top-tier freelance consultants, enabling businesses to advance
-        critical projects more efficiently and effectively than ever before.
-        Since 2018, we’ve grown to a network of 10,000+ pre-vetted experts
-        delivering impactful projects across 50+ countries. Our mission is to
-        become the world’s #1 platform where consultants and companies succeed
-        together, driven by a commitment to quality, reliability, and trust.
-        Trusted by over 100 leading companies annually, we provide tailored
-        expertise to corporates, consultancies, private equity firms, and
-        scale-ups. At Consultport, we redefine how businesses and consultants
-        collaborate to drive success. The Role As a Growth Marketing Intern at
-        Consultport, you’ll have the opportunity to significantly expand your
-        marketing skills. Our goal is to set the standard in innovation,
-        creativity, and performance. You’ll learn to craft cross-channel
-        marketing strategies, create engaging content, and effectively utilize
-        various media platforms. You’ll support communication plan development,
-        manage media relations, and lead initiatives to elevate our brand image
-        and increase our search rankings, all while gaining a comprehensive
-        understanding of the consulting market. Your Mission Marketing Strategy
-        – Develop and implement cross-channel marketing strategies to boost
-        Consultport's organic traffic and lead generation. Report, Drafting,
-        &amp; SEO Optimization – Create high-quality reports for the consulting
-        industry tailored to c-suite executives, optimize for search engines,
-        and enhance website performance using SEO tools like SEMrush.
-        Performance Marketing – Plan, execute, and optimize paid campaigns on
-        LinkedIn and Google Ads. Social Media Growth – Develop social media
-        content strategies (organic and paid) to engage executives and
-        strengthen brand authority. Marketing Analytics - Track and analyze
-        marketing metrics using Looker Studio &amp; Google Analytics to refine
-        strategy and provide actionable recommendations."
-      score: 94
-      skill_hits: 5
-      bucket_id: digital_marketing
-      fetched_at: 2026-06-07T18:45:15.639Z
-      pulled_at: 2026-06-07T18:45:15.639Z
-      stale_days: 30
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: TransPerfect
-      title: Recruitment Marketing Specialist, SEO & Digital Campaigns
-      location: Pune, Mahārāshtra, India, Pune, India
-      url: https://transperfect.com/o/recruitment-marketing-specialist-seo-digital-campaigns
-      updated_at: 2026-03-25 09:54:24 UTC
-      description: "TransPerfect is the world’s largest provider of language and
-        technology solutions for global business. Operating in 100+ cities
-        worldwide, we support organizations in communicating and expanding
-        across international markets. Our Talent Acquisition team plays a
-        critical role in fueling this global growth. The Opportunity: We are
-        seeking an SEO &amp; Digital Campaigns Specialist to join our Talent
-        Acquisition team . You will sit within Talent Acquisition and focus
-        specifically on driving qualified candidate traffic , improving search
-        visibility of job opportunities, and executing digital campaigns that
-        directly impact hiring outcomes. You will own the strategy and execution
-        of SEO and paid digital initiatives that strengthen TransPerfect’s
-        employer brand and increase candidate conversion globally. Key
-        Responsibilities: SEO Strategy (Primary Focus):
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Develop and execute a
-        global SEO strategy for recruitment and careers content
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conduct keyword
-        research aligned with hiring priorities across regions and functions
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Optimize job
-        descriptions, landing pages, and career site content for organic
-        visibility ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Implement
-        structured data to improve search engine indexing
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Perform technical SEO
-        audits ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Track rankings,
-        traffic, and application conversion rates Digital Recruitment Campaigns:
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Plan and manage
-        digital campaigns ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        Build targeted talent attraction campaigns for priority hiring
-        initiatives ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Monitor
-        campaign ROI, cost-per-application, and conversion metrics Analytics
-        &amp; Optimization: ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        Use data to inform talent attraction strategy
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Create dashboards and
-        performance reports for Talent Acquisition leadership
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Identify opportunities
-        to improve candidate funnel performance
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Benchmark against
-        competitors for recruitment search presence What we’re looking for:
-        Required: 2+ years of experience in SEO and digital campaign management
-        Proven track record of driving measurable growth in organic traffic and
-        conversions Strong understanding of technical SEO and structured data
-        Data-driven mindset with strong analytical capabilities Preferred:
-        Experience supporting Talent Acquisition or HR teams Familiarity with
-        Applicant Tracking Systems (ATS) Experience optimizing global or
-        multilingual career sites Why Join the Talent Acquisition Team at
-        TransPerfect? Direct impact on global hiring strategy Ownership of SEO
-        and digital recruitment initiatives Opportunity to shape how candidates
-        discover TransPerfect worldwide Fast-paced, international environment
-        Career growth within a global organization Your Impact: &nbsp; In this
-        role, your work will directly influence how top talent finds and applies
-        to TransPerfect. You will help build a scalable, search-driven
-        recruitment engine that supports global expansion and business growth."
-      score: 80
-      skill_hits: 2
-      bucket_id: digital_marketing
-      fetched_at: 2026-06-07T18:45:15.639Z
-      pulled_at: 2026-06-07T18:45:15.639Z
-      stale_days: 30
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: Mainwebsolutions
-      title: Bezahltes E-Commerce Praktikum (m/w/d) für dein Praxissemester (Hybrid /
-        Würzburg)
-      location: Würzburg, Bayern, Deutschland, Würzburg, Deutschland
-      url: https://jobs.mainwebsolutions.de/o/bezahltes-e-commerce-praktikum-mwd-fur-dein-praxissemester-hybrid-wurzburg
-      updated_at: 2026-03-11 19:13:28 UTC
-      description: "Du bist wissbegierig, hast bereits erste Erfahrungen im Bereich
-        SEO/SEA gesammelt und suchst einen Praktikumsplatz für dein
-        Praxissemester im Studiengang E-Commerce? Du willst lernen, wie man
-        Unternehmen bei Google sichtbar macht und interessierst dich dafür, wie
-        moderne KI- und LLM-Tools das Online-Marketing revolutionieren? Dann
-        zögere nicht und bewirb dich auf eine attraktive Stelle bei der
-        Mainwebsolutions. Was erwartet dich bei uns? Wir sind Mainwebsolutions –
-        eine Agentur, die professionelle Softwareentwicklung und
-        Online-Marketing unter einem Dach vereint. Unser Team besteht aus einer
-        gesunden Mischung aus Marketern und Entwicklern, die gemeinsam an der
-        Spitze der digitalen Trends arbeiten. Den Tag starten wir mit einer
-        ordentlichen Portion Humor und einem morgendlichen Team-Meeting, in dem
-        wir uns zu aktuellen Themen und Projekten austauschen. Neben spannenden
-        Kundenprojekten arbeiten wir regelmäßig an eigenen Produkten und setzen
-        dabei verstärkt auf den Einsatz von KI-Lösungen und maßgeschneiderten
-        Tools wie z.B. unseren Mainwebsolutions-AiHub. Auch außerhalb der
-        Projektarbeit kommt der Teamspirit bei uns nicht zu kurz: Ob Grillen auf
-        der Dachterrasse, Yoga, gemeinsames Kochen oder gesellige Events – bei
-        uns steht das Team im Vordergrund! #workatmws Dein Aufgabenbereich?
-        Deine Aufgaben bei uns drehen sich rund um das Thema digitale
-        Sichtbarkeit bei Google. Dabei unterstützt du unser SEO-/SEA-Team bei
-        der Analyse, Konzeption und Umsetzung von Maßnahmen zur Verbesserung der
-        Sichtbarkeit und Performance unserer Kunden. Du wirkst mit bei der
-        Erstellung von SEO-Analysen und hilfst bei der Entwicklung von SEO- und
-        SEA-Strategien. In enger Abstimmung mit dem Team arbeitest du an
-        Content-Optimierungen, Technical SEO und dem Aufbau von Backlinks.
-        Darüber hinaus unterstützt du bei der Planung und Optimierung von Google
-        Ads-Kampagnen. Ein besonderes Highlight: Bei uns lernst du auch den
-        Einsatz von KI-/LLM-Tools im Online-Marketing kennen und kannst aktiv an
-        deren Anwendung für Content-Optimierung, Automatisierung und
-        datenbasierte Analysen mitwirken. Du und dein Team betreut dabei
-        unterschiedliche mittelständische Unternehmen, Dienstleister sowie
-        E-Commerce-Systeme als Kunden — so erhältst du spannende und praxisnahe
-        Einblicke in die vielfältige Welt des digitalen Marketings."
-      score: 78
-      skill_hits: 2
-      bucket_id: digital_marketing
-      fetched_at: 2026-06-07T18:45:15.639Z
-      pulled_at: 2026-06-07T18:45:15.639Z
-      stale_days: 30
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: Mainwebsolutions
-      title: SEO/SEA Manager (m/w/d) mit Fokus auf Sichtbarkeit in KI-Suchen (Remote
-        oder Würzburg)
-      location: Homeoffice, Würzburg, Deutschland
-      url: https://jobs.mainwebsolutions.de/o/seosea-manager-mwd-mit-fokus-auf-sichtbarkeit-in-ki-suchen-remote-oder-wurzburg
-      updated_at: 2026-05-01 11:10:18 UTC
-      description: "Du bist Online-Marketing-Experte mit fundierter Erfahrung in SEO /
-        SEA und willst Sichtbarkeit nicht mehr nur für Google, sondern auch für
-        ChatGPT, Perplexity und Google AI Overviews schaffen? Themen wie GEO,
-        Linkbuilding, Technical-SEO und Conversion-Tracking liegen dir, und du
-        arbeitest gerne selbstorganisiert mit deinen eigenen Kunden? Dann bist
-        du bei uns genau richtig! Wir suchen einen SEO/SEA Manager (m/w/d), der
-        klassisches Google-SEO/SEA beherrscht und mit uns die Pionierarbeit im
-        Bereich KI-Suchen mitgestaltet. Was erwartet dich bei uns? Willkommen
-        bei Mainwebsolutions, der Agentur, die Softwareentwicklung und
-        Onlinemarketing auf ein neues Level hebt! Unser Team aus Marketern und
-        Entwicklern startet jeden Tag mit einer ordentlichen Portion Humor und
-        einem morgendlichen Meeting, in dem wir uns über aktuelle Themen und
-        Fortschritte abstimmen. Anschließend tauchen wir in die Projekte ein und
-        arbeiten gemeinsam daran, den Erfolg unserer Kunden weiter zu steigern.
-        Zudem entwickeln wir laufend eigene Produkte, bei denen du mit deinen
-        Ideen und Fähigkeiten mitwirken kannst. Doch bei uns geht es nicht nur
-        um Arbeit! Wir feiern unsere Erfolge regelmäßig mit coolen Teamevents –
-        von Grillpartys auf der Dachterrasse bis zu geselligen Weinfesten. Du
-        arbeitest remote? Kein Problem - Transfer- und Übernachtungskosten für
-        Office-Besuche und Teamevents übernehmen wir selbstverständlich. Eines
-        ist sicher: Bei uns steht das Team an erster Stelle. Erlebe den Spirit
-        von Mainwebsolutions! #workatmws Dein&nbsp;Aufgabenbereich? Deine
-        Aufgaben fokussieren sich auf die digitale Sichtbarkeit deiner Kunden,
-        sowohl bei Google als auch in KI-Suchen wie ChatGPT, Perplexity und
-        Google AI Overviews. Innerhalb eines gemeinsam definierten Frameworks
-        werden dir, abhängig von Präferenz und Skill-Level, Kunden zugeteilt,
-        für deren SEO/SEA- und GEO-Betreuung du verantwortlich bist. Das umfasst
-        Analyse, Konzeption und Umsetzung: von Technical-SEO-Audits,
-        Content-Strategien und Linkbuilding über Google Ads-Kampagnen (Search,
-        Performance Max, Shopping, Demand Gen) bis hin zur Optimierung für
-        KI-Sichtbarkeit (Schema-Markup, llms.txt, Entity-Optimierung,
-        Citability-Checks). Dabei nutzt du täglich unseren hauseigenen KI-Stack,
-        den AiHub als zentrale KI-Plattform, eigene SEA-Agenten für
-        Kampagnen-Audits und Bid-Anpassungen sowie maßgeschneiderte Claude
-        Skills für GEO-Audits, Topical Cluster, Content-Briefings und vieles
-        mehr. Eigene Ideen für neue Workflows sind ausdrücklich erwünscht.
-        Wichtig ist, dass dir selbstorganisiertes, eigenständiges Arbeiten
-        liegt, wenn du mal nicht weiterkommst, stehen dir deine Kolleginnen und
-        Kollegen mit Rat und Tat zur Seite. Ready for departure? 🚀"
-      score: 74
-      skill_hits: 1
-      bucket_id: digital_marketing
-      fetched_at: 2026-06-07T18:45:15.639Z
-      pulled_at: 2026-06-07T18:45:15.639Z
-      stale_days: 30
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: Mainwebsolutions
-      title: SEO/SEA Werkstudent (m/w/d) mit Fokus auf Sichtbarkeit in KI-Suchen
-        (Remote oder Würzburg)
-      location: Homeoffice, Würzburg, Deutschland
-      url: https://jobs.mainwebsolutions.de/o/seosea-werkstudent-mwd-mit-fokus-auf-sichtbarkeit-in-ki-suchen-remote-oder-wurzburg
-      updated_at: 2026-05-03 15:17:49 UTC
-      description: "Du studierst, hast erste Erfahrungen in SEO oder SEA gesammelt und
-        suchst eine Werkstudentenstelle, bei der du an echten Kundenprojekten
-        mitarbeitest? Du willst dein Wissen im Google-Universum vertiefen, mit
-        modernen KI- und LLM-Tools im Marketing arbeiten und verstehen, wie
-        Marken nicht mehr nur in Google, sondern auch in ChatGPT, Perplexity und
-        Google AI Overviews sichtbar werden? Dann bewirb dich bei
-        Mainwebsolutions. Bei uns lernst du klassisches SEO/SEA von Grund auf
-        und steigst direkt in den Bereich KI-Sichtbarkeit (GEO) ein, in dem wir
-        aktuell echte Pionierarbeit leisten. Was erwartet dich bei uns?
-        Willkommen bei Mainwebsolutions, der Agentur, die Softwareentwicklung
-        und Onlinemarketing unter einem Dach vereint. Unser Team aus Marketern
-        und Entwicklern startet jeden Tag mit einer Portion Humor und einem
-        morgendlichen Team-Meeting, in dem wir uns über aktuelle Themen und
-        Fortschritte abstimmen. Anschließend tauchen wir in die Projekte ein und
-        arbeiten gemeinsam daran, den Erfolg unserer Kunden weiter zu steigern.
-        Zudem entwickeln wir laufend eigene Produkte und KI-Tools, bei denen du
-        mit deinen Ideen mitwirken kannst. Doch bei uns geht es nicht nur um
-        Arbeit. Wir feiern unsere Erfolge regelmäßig mit coolen Teamevents, von
-        Grillpartys auf der Dachterrasse über Yoga und gemeinsames Kochen bis zu
-        geselligen Weinfesten. Du arbeitest remote? Kein Problem. Transfer- und
-        Übernachtungskosten für Office-Besuche und Teamevents übernehmen wir
-        selbstverständlich. Eines ist sicher: Bei uns steht das Team an erster
-        Stelle. Erlebe den Spirit von Mainwebsolutions! #workatmws Dein
-        Aufgabenbereich? Als Werkstudent im SEO/SEA-Team unterstützt du uns
-        dabei, die digitale Sichtbarkeit unserer Kunden zu steigern, sowohl bei
-        Google als auch in KI-Suchen wie ChatGPT, Perplexity und Google AI
-        Overviews. Du arbeitest eng mit dem Team zusammen und übernimmst
-        schrittweise eigene Aufgaben in Kundenprojekten. Du führst SEO- und
-        GEO-Analysen durch, erstellst Keyword-Recherchen und Content-Briefings,
-        kümmerst dich um Content-Optimierung, Technical SEO und Linkbuilding und
-        unterstützt bei der Planung und Optimierung von Google Ads-Kampagnen.
-        Dabei arbeitest du täglich mit unserem hauseigenen KI-Stack: dem AiHub
-        als zentraler KI-Plattform, eigenen SEA-Agenten für Kampagnen-Audits und
-        maßgeschneiderten Claude Skills für GEO-Audits, Topical Cluster,
-        Content-Briefings und mehr. Du erstellst Reportings, leitest daraus
-        konkrete Optimierungspotenziale ab und kannst aktiv an der
-        Weiterentwicklung unserer internen Marketing-Tools mitwirken. Wer Lust
-        hat, eigene Workflows oder neue Claude Skills zu bauen, ist hier genau
-        richtig. Ready for departure? 🚀"
-      score: 74
-      skill_hits: 1
-      bucket_id: digital_marketing
-      fetched_at: 2026-06-07T18:45:15.639Z
-      pulled_at: 2026-06-07T18:45:15.639Z
-      stale_days: 30
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: Mainwebsolutions
-      title: SEO/SEA Manager (m/w/d) mit Fokus auf AI-gestütztes Online-Marketing
-        (Remote oder Würzburg)
-      location: Homeoffice, Würzburg, Deutschland
-      url: https://jobs.mainwebsolutions.de/o/seosea-manager-mwd-mit-fokus-auf-ai-gestutztes-online-marketing-remote-o-wurzburg
-      updated_at: 2026-04-28 13:00:26 UTC
-      description: "Du bist ein Online-Marketing-Experte mit tiefgehender Erfahrung in
-        SEO und SEA? Themen wie Linkbuilding, Technical-SEO oder
-        Conversion-Tracking liegen dir ebenso wie selbstorganisiertes Arbeiten
-        mit deinen zugeteilten Kunden? Du verfügst über sehr
-        gute&nbsp;organisatorische Fähigkeiten, um Maßnahmen und Aufgaben
-        eigenständig zu planen und zu verwalten? Dann bist du bei uns genau
-        richtig! Wir suchen einen SEO/SEA Manager (m/w/d) mit fundierten
-        Kenntnissen im Google-Universum und praktischer Agenturerfahrung. Was
-        erwartet dich bei uns? Willkommen bei Mainwebsolutions – der Agentur,
-        die Softwareentwicklung und Onlinemarketing auf ein neues Level hebt!
-        Unser Team besteht aus talentierten Marketern und Entwicklern, die
-        gemeinsam durchstarten. Jeder Tag beginnt mit einer ordentlichen Portion
-        Humor und einem morgendlichen Meeting, in dem wir einander über aktuelle
-        Themen und Fortschritte informieren.&nbsp;Anschließend tauchen wir in
-        die Projekte ein und arbeiten gemeinsam daran, den Erfolg unserer Kunden
-        weiter zu steigern. Zudem arbeiten wir immer wieder an eigenen
-        Produkten, bei denen du mit deinen&nbsp;Ideen und Fähigkeiten mitwirken
-        kannst.&nbsp;Doch bei uns geht es nicht nur um Arbeit! Wir feiern unsere
-        Erfolge regelmäßig mit coolen Teamevents. Von Grillpartys auf der
-        Dachterrasse bis zu geselligen Weinfesten – jeder kann sich an unseren
-        Aktivitäten beteiligen. Du arbeitest remote? Kein Problem! Runde deinen
-        Besuch bei uns doch mit ein paar Tagen im Office ab – die Transfer- und
-        Übernachtungskosten übernehmen selbstverständlich wir. Eines ist sicher:
-        Bei uns steht das Team an erster Stelle. Erlebe den Spirit von
-        Mainwebsolutions! #workatmws Dein&nbsp;Aufgabenbereich? Deine Aufgaben
-        fokussieren sich auf die digitale Sichtbarkeit bei Google. Innerhalb
-        eines gemeinsam definierten Frameworks arbeitest du an verschiedenen
-        Projekten. Was bedeutet das? Abhängig von deiner persönlichen Präferenz
-        und deinem Skill-Level werden dir Kunden zugeteilt, für deren
-        SEO/SEA-Betreuung du zuständig bist. Deine Aufgaben umfassen die
-        Analyse, Konzeption und Umsetzung von SEO- und SEA-Maßnahmen. Wichtig
-        ist hierbei, dass dir selbstorganisiertes, eigenständiges Arbeiten liegt
-        und du über notwendige organisatorische Fähigkeiten verfügst.&nbsp;Wir
-        sind überzeugt, dass du das meisterst! Und keine Sorge – wenn du mal
-        nicht weiterkommst, stehen dir deine Kolleginnen mit Rat und Tat zur
-        Seite. Unsere Mission ist es, die beste Dienstleistung zu erbringen und
-        sowohl unsere Kunden als auch eigene&nbsp;Produkte&nbsp;noch
-        erfolgreicher zu machen. Hierfür setzen wir modernste KI-Lösungen ein
-        und entwickeln eigene maßgeschneiderte KI-Tools wie beispielsweise den
-        Mainwebsolutions-AiHub.&nbsp;Ready for departure?&nbsp;🚀"
-      score: 74
-      skill_hits: 1
-      bucket_id: digital_marketing
-      fetched_at: 2026-06-07T18:45:15.639Z
-      pulled_at: 2026-06-07T18:45:15.639Z
-      stale_days: 30
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: hairfree
-      title: Jeder Unternehmer sollte von diesem erfolgreichen Franchise gehört haben!
-      location: Darmstadt, Hessen, Deutschland, Darmstadt, Deutschland
-      url: https://recruiting.hairfree.de/o/jeder-unternehmer-sollte-von-diesem-erfolgreichen-franchise-gehort-haben
-      updated_at: 2026-05-06 11:35:21 UTC
-      description: "Wir sind der Marktführer im Bereich der dauerhaften Haarentfernung
-        ¹ mit über&nbsp; 60 Standorte in Deutschland, Österreich und der
-        Schweiz. Unser Ziel ist es, Menschen das Gefühl von Freiheit und
-        Selbstbewusstsein durch glatte Haut zu schenken. Wir setzen dabei auf
-        innovative Technologien und höchste Qualitätsstandards, um unseren
-        Kunden ein einzigartiges Lebensgefühl zu bieten. Egal, ob du bereits
-        Erfahrung hast oder als QuereinsteigerIn starten möchtest - dank unseres
-        erfolgreichen Franchisekonzeptes &nbsp;bist auch du bei hairfree genau
-        richtig! Hört sich gut an? Dann bewirb dich jetzt! Das sind wir: 1 Der
-        Erfolg der Haarentfernung hängt vom individuellen Haut- und Haartypen ab
-        und kann nicht garantiert werden. Weitere Infos auf hairfree.de .
-        Franchise-Details: Anzahl Partner:&nbsp;über 60 Notwendiges
-        Eigenkapital: 25.000 € Eintrittsgebühr: 24.900 € Gesamtinvestition:
-        70.000 € Laufende Gebühren: 10% vom mtl. Netto-Zahlungseingang Deine
-        Aufgaben als Franchisepartner:&nbsp; Als Franchisepartner übernimmst du
-        die Verantwortung für deinen&nbsp;hairfree&nbsp;Standort und setzt unser
-        bewährtes Geschäftskonzept vor Ort um. Du profitierst von unserer
-        umfangreichen Erfahrung und unserer starken Marke . Aufbau und Leitung
-        eines neuen hairfree Standorts Rekrutierung, Führung und Motivation
-        deines Teams Umsetzung der hairfree Qualitätsstandards und -richtlinien
-        Kundenberatung und -betreuung auf höchstem Niveau Umsetzung von
-        Marketing- und Vertriebsstrategien zur Kundengewinnung Verwaltung und
-        Organisation der täglichen Abläufe Das bieten wir dir: Ein erfolgreiches
-        und bewährtes Franchise-Konzept (Franchising seit 2004) Professionelle
-        Beratung für die Finanzierung deiner Existenzgründung Unterstützung bei
-        der Erstellung deines Investitionsplans Hilfe bei der Standortsuche und
-        Standortanalyse für deine hairfree Lounge Unterstützung bei der
-        Einrichtungsplanung Umfassende Schulung und Einarbeitung in der internen
-        hairfree Academy Hilfreicher Erfahrungsaustausch auf Netzwerkmeetings
-        Telefonische Beratung durch den Franchisegeber Individuelle
-        Unterstützung beim Marketing&nbsp; Zentraler Einkauf für
-        FranchisenehmerInnen Gebietsschutz für deinen hairfree Standort Das
-        sagen unsere Franchisepartner: Du möchtest deine eigene
-        Erfolgsgeschichte schreiben? Wir freuen uns auf dich! Irini Kettern,
-        Daniel Haberkorn, Chris Kettern, Christine Heller"
-      score: 74
-      skill_hits: 1
-      bucket_id: digital_marketing
-      fetched_at: 2026-06-07T18:45:15.639Z
-      pulled_at: 2026-06-07T18:45:15.639Z
-      stale_days: 30
-      is_stale: true
+  marketing_general: []
+  digital_marketing: []
   video_editing: []
 meta:
   stale_after_days: 21
@@ -23529,13 +23314,13 @@ meta:
     official_career_pages: 40
     search_queries: 24
   stale_counts:
-    marketing_general: 36
-    digital_marketing: 71
+    marketing_general: 41
+    digital_marketing: 81
     video_editing: 5
   inactive_counts:
-    marketing_general: 4
-    digital_marketing: 8
+    marketing_general: 0
+    digital_marketing: 0
     video_editing: 0
   timings_ms:
-    fetch: 52645
-    total: 87450
+    fetch: 55220
+    total: 90164
