@@ -1,9 +1,371 @@
 schema_version: roles.v1
 profile_id: pooja
 profile_name: Pooja - product/scrum now, EM later
-generated_at: 2026-07-08T18:53:39.260Z
+generated_at: 2026-07-09T19:04:39.466Z
 buckets:
   pm_product:
+    - source: greenhouse
+      source_note: ""
+      company: dataiku
+      title: "Sr Product Manager "
+      location: Europe, Middle East, and Africa; France, Paris; France, Remote;
+        Germany, Berlin - Munzstrasse 12; Germany, Remote; Netherlands,
+        Amsterdam; Netherlands, Remote; Spain, Remote; United Kingdom, London;
+        United Kingdom, Remote
+      url: https://job-boards.greenhouse.io/dataiku/jobs/5812604004
+      updated_at: 2026-06-23T12:06:31-04:00
+      description: "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;a
+        href=&quot;https://www.dataiku.com/?utm_source=newswire&amp;amp;utm_med\
+        ium=press-release&amp;amp;utm_campaign=PlatformforAISuccess&quot;
+        target=&quot;_blank&quot;&gt;Dataiku&lt;/a&gt; is the Platform for AI
+        Success, the enterprise orchestration layer for building, deploying, and
+        governing AI. In a single environment, teams design and operate
+        analytics, machine learning, and AI agents with the transparency,
+        collaboration, and control enterprises require. Sitting above data
+        platforms, cloud infrastructure, and AI services, Dataiku connects the
+        full enterprise AI stack — empowering organizations to run AI across
+        multi-vendor environments with centralized
+        governance.&lt;br&gt;&lt;br&gt;The world’s leading companies rely on
+        Dataiku to operationalize AI and run it as a true business performance
+        engine delivering measurable value. For more, visit the Dataiku &lt;a
+        href=&quot;https://blog.dataiku.com/?_gl=1*17edvf4*_ga*MjA1Mjk5NzY4OC4x\
+        NjY3MjMyMDUz*_ga_B3YXRYMY48*MTY2OTA1MDY5NS4xMi4xLjE2NjkwNTA2OTguNTcuMC4\
+        w&quot; target=&quot;_blank&quot;&gt;blog&lt;/a&gt;, &lt;a
+        href=&quot;https://www.linkedin.com/company/dataiku/&quot;
+        target=&quot;_blank&quot;&gt;LinkedIn&lt;/a&gt;, &lt;a
+        href=&quot;https://x.com/dataiku&quot;
+        target=&quot;_blank&quot;&gt;X&lt;/a&gt;, and &lt;a
+        href=&quot;https://www.youtube.com/dataiku&quot;
+        target=&quot;_blank&quot;&gt;YouTube&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&l\
+        t;h3&gt;How you&#39;ll make an impact&lt;/h3&gt; &lt;p&gt;You will play
+        a pivotal role in shaping Dataiku&#39;s product positioning, roadmap,
+        and requirements for predictive analytics, machine learning, and GenAI
+        under the responsibilities of the Director of Product Management in
+        charge of Dataiku AI/ML offering. You will work with stakeholders across
+        all parts of the business, including Engineering, Product, GTM,
+        Partners, Marketing Operations, and Customer Success teams, to execute
+        growth projects and new products and features.&lt;/p&gt; &lt;p&gt;Your
+        challenge is to identify and shape net new capabilities: innovations
+        that are core additions to the product, discovered through deep customer
+        engagement and validated before engineering commits. You are not here to
+        maintain what exists in the long run, you will work with Technical
+        Product Managers. You are here to find what&#39;s missing and make the
+        case for building it.&lt;/p&gt; &lt;p&gt;If you&#39;re ready to step
+        into a role where your expertise leads to tangible, wide-scale impact,
+        where every insight you gather shapes the future of our products,
+        we&#39;re waiting for you!&lt;/p&gt; &lt;h3&gt;What you’ll be
+        doing&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Embed with strategic customers to
+        run structured discovery (interviews, async collaboration, or on-site
+        visits) to surface unmet needs before they&#39;re obvious to
+        competitors.&lt;/li&gt; &lt;li&gt;Analyze usage and customer data to
+        identify gaps and opportunities to enhance customer success and to
+        deliver new capabilities with distinct business value propositions,
+        ultimately contributing to the company&#39;s financial goals.&lt;/li&gt;
+        &lt;li&gt;Analyze market forces and competition, engage with industry
+        analysts and Dataiku teams to execute on Dataiku’s product strategy.
+        Collaborate with the Product Marketing team to align and deliver on
+        product positioning messages.&lt;/li&gt; &lt;li&gt;Build working
+        prototypes (UI mockups, agentic pipeline demos, opportunity memos) to
+        validate hypotheses with customers before engineering
+        commits.&lt;/li&gt; &lt;li&gt;Synthesize field signals across accounts
+        to distinguish incremental customer requests from genuine innovation
+        opportunities (net new capabilities that would be core additions to the
+        platform.)&lt;/li&gt; &lt;li&gt;Define and champion innovation
+        initiatives from discovery through to launch, at which point ownership
+        transitions to Technical Product Managers for ongoing improvements and
+        maintenance.&lt;/li&gt; &lt;li&gt;At launch, partner with Technical
+        Product Managers to produce enablement material for internal customers
+        (Product Marketing and GTM Enablement) ensuring new capabilities and big
+        delighters land with the right positioning, messaging, and field
+        readiness.&lt;/li&gt; &lt;li&gt;Maintain the product backlog for the
+        initiatives you own, constantly anticipating and aligning with the
+        global product strategy and the software engineering delivery
+        capacity.&lt;/li&gt; &lt;li&gt;Participate in the development,
+        maintenance and education on the AI/ML roadmap. Articulate your team’s
+        technology vision, requirements, goals and milestones to
+        stakeholders.&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;What you will NOT be
+        doing&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Managing the full lifecycle of
+        every feature you touch, your focus ends when a capability reaches
+        steady state. You will focus on product discovery and prioritization to
+        maximize value creation and minimize the risk of shipping the right
+        solution to the wrong problem, not on managing maintenance priorities or
+        driving small incremental improvements to existing
+        capabilities.&lt;/li&gt; &lt;li&gt;Product management focused on feature
+        development, you work closely with your Technical Product Managers (PO)
+        counterparts to ensure the engineering team gets what they need to
+        deliver the capability at the right time, you do not dive into technical
+        analysis.&lt;/li&gt; &lt;li&gt;Shipping production solutions to
+        customers. You build prototypes and demos to get clarity about the
+        problem customers face or to support compelling roadmap
+        presentations.&lt;/li&gt; &lt;li&gt;Being evaluated on ARR. Example of
+        success metrics are # of validated opportunities that made it into
+        engineering commit, NPS of sessions with customers, time from discovery
+        to roadmap entry.&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;What you’ll need to
+        be successful&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;5+ years of experience in
+        a similar role and a demonstrated ability to learn and thrive in front
+        of a diverse audience in a very technical environment&lt;/li&gt;
+        &lt;li&gt;3+ years hands-on experience with building AI/ML solutions
+        (e.g. advanced analytics, predictive analytics, GenAI-powered
+        applications)&lt;/li&gt; &lt;li&gt;Can prototype: Build and demo agentic
+        applications in Dataiku or elsewhere, not just slides. You don&#39;t
+        need to be a software engineer, but you produce tangible artifacts that
+        make ideas testable.&lt;/li&gt; &lt;li&gt;Ability to engage with
+        business leaders and influence decisions&lt;/li&gt; &lt;li&gt;Proven
+        ability to influence cross-functional teams without formal
+        authority&lt;/li&gt; &lt;/ul&gt;&lt;div
+        class=&quot;content-conclusion&quot;&gt;&lt;div&gt;&amp;nbsp;&lt;/div&g\
+        t; &lt;div&gt;&lt;strong&gt;What are you waiting
+        for!&lt;/strong&gt;&lt;/div&gt; &lt;div&gt;At Dataiku, you&#39;ll be
+        part of a journey to shape the ever-evolving world of AI. We&#39;re not
+        just building a product; we&#39;re crafting the future of AI. If
+        you&#39;re ready to make a significant impact in a company that values
+        innovation, collaboration, and your personal growth, we can&#39;t wait
+        to welcome you to Dataiku! And if you’d like to learn even more about
+        working here, you can visit our &lt;a
+        href=&quot;https://www.linkedin.com/company/dataiku/&quot;&gt;Dataiku
+        LinkedIn page&lt;/a&gt;.&lt;/div&gt; &lt;div&gt;&amp;nbsp;&lt;/div&gt;
+        &lt;div&gt;&lt;em&gt;Our practices are rooted in the idea that everyone
+        should be treated with dignity, decency and fairness. Dataiku also
+        believes that a diverse identity is a source of strength and allows us
+        to optimize across the many dimensions that are needed for our success.
+        Therefore, we are proud to be an equal opportunity
+        employer.&amp;nbsp;All employment practices are based on business needs,
+        without regard to race, ethnicity, gender identity or expression, sexual
+        orientation, religion, age, neurodiversity, disability status,
+        citizenship, veteran status or any other aspect which makes an
+        individual unique or protected by laws and regulations in the locations
+        where we operate. This applies to all policies and procedures related to
+        recruitment and hiring, compensation, benefits, performance, promotion
+        and termination and all other conditions and terms of employment. If you
+        need assistance or an accommodation, please contact us at:
+        &lt;/em&gt;&lt;a class=&quot;postings-link&quot;
+        href=&quot;http://reasonable-accommodations@dataiku.com/&quot;&gt;reaso\
+        nable-accommodations@dataiku.com&lt;/a&gt;&lt;/div&gt;
+        &lt;div&gt;&amp;nbsp;&lt;/div&gt; &lt;div&gt;&lt;hr&gt;&lt;/div&gt;
+        &lt;div&gt; &lt;div&gt;&amp;nbsp;&lt;/div&gt;
+        &lt;div&gt;&lt;strong&gt;Protect yourself from fraudulent recruitment
+        activity&lt;/strong&gt;&lt;/div&gt; &lt;div&gt;&lt;em&gt;Dataiku will
+        never ask you for payment of any type during the interview or hiring
+        process. Other than our video-conference application, Zoom, we will also
+        never ask you to make purchases or download third-party applications
+        during the process. If you experience something out of the ordinary or
+        suspect fraudulent activity, please review our page on identifying and
+        reporting fraudulent activity&amp;nbsp;&lt;a
+        href=&quot;https://www.dataiku.com/legal/dataiku-recruitment-scams/&quo\
+        t; target=&quot;_blank&quot;&gt;here.&lt;/a&gt;&lt;/em&gt;&lt;/div&gt;
+        &lt;/div&gt;&lt;/div&gt;"
+      score: 84
+      skill_hits: 3
+      bucket_id: pm_product
+      fetched_at: 2026-07-09T19:04:39.466Z
+      pulled_at: 2026-07-09T19:04:39.466Z
+      stale_days: 0
+      is_stale: false
+    - source: greenhouse
+      source_note: ""
+      company: typeform
+      title: Senior Product Manager - Analytics
+      location: "Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal
+        (Remote) ; Spain (Remote) ; United Kingdom (Remote) ; United States
+        (Remote) "
+      url: https://job-boards.greenhouse.io/typeform/jobs/7090089
+      updated_at: 2026-07-03T07:16:25-04:00
+      description: "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;Who we
+        are&lt;/h3&gt; &lt;p&gt;Typeform is a refreshingly different form
+        builder. We help over 150,000 businesses collect the data they need with
+        forms, surveys, and quizzes that people enjoy. Designed to look striking
+        and feel effortless to fill out, Typeform drives 500 million responses
+        every year—and integrates with essential tools like Slack, Zapier, and
+        Hubspot.&lt;/p&gt;&lt;/div&gt;&lt;p data-start=&quot;492&quot;
+        data-end=&quot;1020&quot;&gt;&lt;strong data-start=&quot;492&quot;
+        data-end=&quot;510&quot;&gt;About the Team&lt;/strong&gt;&lt;/p&gt;
+        &lt;p data-start=&quot;492&quot; data-end=&quot;1020&quot;&gt;We’re
+        looking for a Senior Product Manager to lead the transformation of
+        Typeform’s reporting and analytics
+        experience.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;strong&gt;About the
+        Role&lt;/strong&gt;&lt;/p&gt; &lt;p data-start=&quot;492&quot;
+        data-end=&quot;1020&quot;&gt;This role sits at the center of Typeform’s
+        strategy to turn data into a true market differentiator, driving
+        long-term revenue growth and customer satisfaction. You’ll own the
+        strategy and execution of AI-first analytics capabilities that deliver
+        clear, actionable insights—helping Typeform move beyond feature-parity
+        competitors with a smarter, faster reporting experience.&lt;/p&gt; &lt;p
+        data-start=&quot;1022&quot; data-end=&quot;1044&quot;&gt;&lt;strong
+        data-start=&quot;1022&quot; data-end=&quot;1042&quot;&gt;Things you’ll
+        do&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li
+        data-start=&quot;1047&quot; data-end=&quot;1198&quot;&gt;Lead the
+        delivery of a best-in-class reporting suite, including a redesigned
+        summary page, filtering, advanced visualisations, and AI-driven
+        insights&lt;/li&gt; &lt;li data-start=&quot;1201&quot;
+        data-end=&quot;1307&quot;&gt;Define and ship the MVP for our next-gen
+        Narrative Intelligence and “AI Copilot for Insights”
+        experience&lt;/li&gt; &lt;li data-start=&quot;1310&quot;
+        data-end=&quot;1415&quot;&gt;Partner with Data Science to land
+        foundational Copilot capabilities that scale to millions of
+        responses&lt;/li&gt; &lt;li data-start=&quot;1418&quot;
+        data-end=&quot;1502&quot;&gt;Set and drive a focused roadmap that
+        combines quick wins with long-term innovation&lt;/li&gt; &lt;li
+        data-start=&quot;1505&quot; data-end=&quot;1605&quot;&gt;Consolidate
+        onboarding learnings, customer insights, and market context to guide
+        product decisions&lt;/li&gt; &lt;li data-start=&quot;1608&quot;
+        data-end=&quot;1709&quot;&gt;Improve key metrics like usage rates,
+        satisfaction scores, and activation across reporting features&lt;/li&gt;
+        &lt;li data-start=&quot;1712&quot; data-end=&quot;1811&quot;&gt;Build
+        strong internal alignment and communicate product value clearly to
+        Sales, CS, and GTM teams&lt;/li&gt; &lt;li data-start=&quot;1814&quot;
+        data-end=&quot;1918&quot;&gt;Ensure commercial success by helping Sales
+        and CS articulate differentiated analytics value to customers&lt;/li&gt;
+        &lt;/ul&gt; &lt;p data-start=&quot;1920&quot;
+        data-end=&quot;1958&quot;&gt;&lt;strong data-start=&quot;1920&quot;
+        data-end=&quot;1956&quot;&gt;What you will bring to the
+        table&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li
+        data-start=&quot;1961&quot; data-end=&quot;2056&quot;&gt;Strong
+        strategic thinking with the ability to balance long-term vision with
+        near-term results&lt;/li&gt; &lt;li data-start=&quot;2059&quot;
+        data-end=&quot;2151&quot;&gt;High ownership mindset with a proactive
+        approach to removing blockers and driving progress&lt;/li&gt; &lt;li
+        data-start=&quot;2154&quot; data-end=&quot;2257&quot;&gt;Proven ability
+        to collaborate cross-functionally with Sales, CS, Data Science, Legal,
+        and Engineering&lt;/li&gt; &lt;li data-start=&quot;2260&quot;
+        data-end=&quot;2379&quot;&gt;Confident communicator with commercial
+        fluency and presence when interacting with leadership and enterprise
+        customers&lt;/li&gt; &lt;li data-start=&quot;2382&quot;
+        data-end=&quot;2476&quot;&gt;Customer-focused mindset with a passion for
+        solving real-world data and reporting challenges&lt;/li&gt; &lt;li
+        data-start=&quot;2479&quot; data-end=&quot;2580&quot;&gt;Deep product
+        knowledge in analytics, data visualisation, and reporting (especially
+        for SaaS or B2B)&lt;/li&gt; &lt;li data-start=&quot;2583&quot;
+        data-end=&quot;2674&quot;&gt;Familiarity with AI/LLM-enabled product
+        development and user-facing intelligence features&lt;/li&gt; &lt;li
+        data-start=&quot;2677&quot; data-end=&quot;2773&quot;&gt;Experience
+        working with large-scale data infrastructure (e.g., Clickhouse, columnar
+        databases)&lt;/li&gt; &lt;li data-start=&quot;2776&quot;
+        data-end=&quot;2862&quot;&gt;High data literacy and the ability to
+        influence roadmap through evidence and insight&lt;/li&gt; &lt;li
+        data-start=&quot;2865&quot; data-end=&quot;2928&quot;&gt;Experience
+        managing complex, multi-threaded product work-streams&lt;/li&gt;
+        &lt;/ul&gt; &lt;p data-start=&quot;2930&quot;
+        data-end=&quot;2949&quot;&gt;&lt;strong data-start=&quot;2930&quot;
+        data-end=&quot;2947&quot;&gt;Extra awesome&lt;/strong&gt;&lt;/p&gt;
+        &lt;ul&gt; &lt;li data-start=&quot;2952&quot;
+        data-end=&quot;3033&quot;&gt;A strong track record building or buying
+        advanced reporting and analytics tools&lt;/li&gt; &lt;li
+        data-start=&quot;3036&quot; data-end=&quot;3119&quot;&gt;Experience in
+        survey tooling or working with flexible, unstructured response
+        data&lt;/li&gt; &lt;li data-start=&quot;3122&quot;
+        data-end=&quot;3189&quot;&gt;Hands-on experience delivering modern
+        AI-powered product features&lt;/li&gt; &lt;/ul&gt;&lt;div
+        class=&quot;content-conclusion&quot;&gt;&lt;p&gt;*Typeform drives
+        hundreds of millions of interactions each year, enabling conversational,
+        human-centered experiences across the globe. We &lt;strong&gt;move as
+        one team&lt;/strong&gt;, empowering our collective efforts by valuing
+        each individual’s unique perspective. This fosters &lt;strong&gt;strong
+        bonds&lt;/strong&gt; grounded in respect, transparency, and trust. We
+        &lt;strong&gt;champion our diverse customer base&lt;/strong&gt; by
+        anticipating their needs and addressing their challenges with priority.
+        Committed to excellence, we&lt;strong&gt; hold high expectations
+        &lt;/strong&gt;for ourselves and each other, continuously striving to
+        deliver exceptional results.&lt;/p&gt; &lt;p&gt;We are proud to be an
+        equal-opportunity employer. We celebrate diversity and stand firmly
+        against discrimination and harassment of any kind—whether based on race,
+        color, ancestry, religion, sex, national origin, sexual orientation,
+        age, citizenship, marital status, disability, gender identity or
+        expression, or veteran status. Everyone is welcome
+        here.&lt;/p&gt;&lt;/div&gt;"
+      score: 78
+      skill_hits: 2
+      bucket_id: pm_product
+      fetched_at: 2026-07-09T19:04:39.466Z
+      pulled_at: 2026-07-09T19:04:39.466Z
+      stale_days: 0
+      is_stale: false
+    - source: greenhouse
+      source_note: ""
+      company: typeform
+      title: Lead Product Manager - Growth
+      location: "Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal
+        (Remote) ; Spain (Remote) ; United Kingdom (Remote) ; United States
+        (Remote) "
+      url: https://job-boards.greenhouse.io/typeform/jobs/7947181
+      updated_at: 2026-06-18T10:32:55-04:00
+      description: "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;Who we
+        are&lt;/h3&gt; &lt;p&gt;Typeform is a refreshingly different form
+        builder. We help over 150,000 businesses collect the data they need with
+        forms, surveys, and quizzes that people enjoy. Designed to look striking
+        and feel effortless to fill out, Typeform drives 500 million responses
+        every year—and integrates with essential tools like Slack, Zapier, and
+        Hubspot.&lt;/p&gt;&lt;/div&gt;&lt;h1&gt;&lt;span class=&quot;s1&quot;
+        style=&quot;font-size: 14pt;&quot;&gt;&lt;strong&gt;About the
+        Role&lt;/strong&gt;&lt;/span&gt;&lt;/h1&gt; &lt;p
+        class=&quot;p2&quot;&gt;We’re looking for a Lead Product Manager to own
+        our onboarding, retention, and engagement strategy end to end.&lt;/p&gt;
+        &lt;p class=&quot;p2&quot;&gt;This is a hands on leadership role sitting
+        at the intersection of Product and Marketing, bringing focus and
+        coordination to one of our highest impact growth areas. You’ll lead a
+        small team of PMs while partnering closely with Lifecycle Marketing,
+        PMM, Data, and Engineering to drive measurable business outcomes across
+        the user journey.&lt;/p&gt; &lt;p class=&quot;p2&quot;&gt;This role is
+        ideal for someone who thrives in fast moving environments, brings
+        clarity to ambiguity, and knows how to align teams around execution and
+        results.&lt;/p&gt; &lt;h2&gt;&lt;span class=&quot;s1&quot;
+        style=&quot;font-size: 14pt;&quot;&gt;&lt;strong&gt;Things You Will
+        Do&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Own and
+        evolve our product led growth strategy across onboarding, retention, and
+        engagement&lt;/li&gt; &lt;li&gt;Define and drive a measurable roadmap
+        focused on activation, user adoption, and long term retention&lt;/li&gt;
+        &lt;li&gt;Align stakeholders across Product, Lifecycle Marketing, PMM,
+        Data, and Engineering&lt;/li&gt; &lt;li&gt;Lead and coach 1 to 2 Product
+        Managers working across growth initiatives&lt;/li&gt; &lt;li&gt;Partner
+        with Data teams to identify friction points, opportunities, and key
+        behavioural insights&lt;/li&gt; &lt;li&gt;Collaborate with Marketing and
+        PMM on shared initiatives, messaging, and KPIs&lt;/li&gt;
+        &lt;li&gt;Design, run, and evaluate experiments to validate and optimise
+        growth initiatives&lt;/li&gt; &lt;li&gt;Drive accountability,
+        prioritisation, and execution discipline across the roadmap&lt;/li&gt;
+        &lt;li&gt;Act as the go to product leader for growth initiatives across
+        the business&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;span
+        class=&quot;s1&quot; style=&quot;font-size:
+        14pt;&quot;&gt;&lt;strong&gt;What You Already Bring to the
+        Table&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Strong
+        PLG experience across the full product lifecycle, from discovery through
+        optimisation&lt;/li&gt; &lt;li&gt;Clear track record of improving
+        onboarding, activation, engagement, or retention through product
+        initiatives&lt;/li&gt; &lt;li&gt;Hands on experience running A/B tests
+        and analysing experiment outcomes&lt;/li&gt; &lt;li&gt;High data fluency
+        with the ability to use metrics and insights to inform decision
+        making&lt;/li&gt; &lt;li&gt;Strong communication skills with the ability
+        to simplify complex problems for different audiences&lt;/li&gt;
+        &lt;li&gt;Experience leading and developing Product Managers with a
+        coaching mindset&lt;/li&gt; &lt;li&gt;Proven ability to influence cross
+        functional teams and drive alignment without direct authority&lt;/li&gt;
+        &lt;li&gt;Comfortable operating at the intersection of Product and
+        Marketing&lt;/li&gt; &lt;li&gt;Operationally strong, highly organised,
+        and outcome focused with a bias toward action&lt;/li&gt;
+        &lt;/ul&gt;&lt;div
+        class=&quot;content-conclusion&quot;&gt;&lt;p&gt;*Typeform drives
+        hundreds of millions of interactions each year, enabling conversational,
+        human-centered experiences across the globe. We &lt;strong&gt;move as
+        one team&lt;/strong&gt;, empowering our collective efforts by valuing
+        each individual’s unique perspective. This fosters &lt;strong&gt;strong
+        bonds&lt;/strong&gt; grounded in respect, transparency, and trust. We
+        &lt;strong&gt;champion our diverse customer base&lt;/strong&gt; by
+        anticipating their needs and addressing their challenges with priority.
+        Committed to excellence, we&lt;strong&gt; hold high expectations
+        &lt;/strong&gt;for ourselves and each other, continuously striving to
+        deliver exceptional results.&lt;/p&gt; &lt;p&gt;We are proud to be an
+        equal-opportunity employer. We celebrate diversity and stand firmly
+        against discrimination and harassment of any kind—whether based on race,
+        color, ancestry, religion, sex, national origin, sexual orientation,
+        age, citizenship, marital status, disability, gender identity or
+        expression, or veteran status. Everyone is welcome
+        here.&lt;/p&gt;&lt;/div&gt;"
+      score: 74
+      skill_hits: 1
+      bucket_id: pm_product
+      fetched_at: 2026-07-09T19:04:39.466Z
+      pulled_at: 2026-07-09T19:04:39.466Z
+      stale_days: 0
+      is_stale: false
     - source: recruitee
       source_note: ""
       company: TransPerfect
@@ -50,7 +412,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-08T18:53:39.260Z
       pulled_at: 2026-07-08T18:53:39.260Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -84,7 +446,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-08T18:53:39.260Z
       pulled_at: 2026-07-08T18:53:39.260Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -158,7 +520,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-08T18:53:39.260Z
       pulled_at: 2026-07-08T18:53:39.260Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -315,7 +677,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-08T18:53:39.260Z
       pulled_at: 2026-07-08T18:53:39.260Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -358,7 +720,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-08T18:53:39.260Z
       pulled_at: 2026-07-08T18:53:39.260Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -476,7 +838,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-08T18:53:39.260Z
       pulled_at: 2026-07-08T18:53:39.260Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -563,7 +925,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-08T18:53:39.260Z
       pulled_at: 2026-07-08T18:53:39.260Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -584,7 +946,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-08T18:53:39.260Z
       pulled_at: 2026-07-08T18:53:39.260Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -632,7 +994,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-07T19:20:29.161Z
       pulled_at: 2026-07-07T19:20:29.161Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -666,7 +1028,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-07T19:20:29.161Z
       pulled_at: 2026-07-07T19:20:29.161Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -823,7 +1185,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-07T19:20:29.161Z
       pulled_at: 2026-07-07T19:20:29.161Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -866,7 +1228,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-07T19:20:29.161Z
       pulled_at: 2026-07-07T19:20:29.161Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -984,7 +1346,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-07T19:20:29.161Z
       pulled_at: 2026-07-07T19:20:29.161Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -1071,7 +1433,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-07T19:20:29.161Z
       pulled_at: 2026-07-07T19:20:29.161Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1092,7 +1454,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-07T19:20:29.161Z
       pulled_at: 2026-07-07T19:20:29.161Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1166,7 +1528,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-07T19:20:29.161Z
       pulled_at: 2026-07-07T19:20:29.161Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1214,7 +1576,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-06T19:14:10.066Z
       pulled_at: 2026-07-06T19:14:10.066Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1248,7 +1610,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-06T19:14:10.066Z
       pulled_at: 2026-07-06T19:14:10.066Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -1405,7 +1767,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-06T19:14:10.066Z
       pulled_at: 2026-07-06T19:14:10.066Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -1504,7 +1866,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-06T19:14:10.066Z
       pulled_at: 2026-07-06T19:14:10.066Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1547,7 +1909,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-06T19:14:10.066Z
       pulled_at: 2026-07-06T19:14:10.066Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -1665,7 +2027,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-06T19:14:10.066Z
       pulled_at: 2026-07-06T19:14:10.066Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -1752,7 +2114,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-06T19:14:10.066Z
       pulled_at: 2026-07-06T19:14:10.066Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1773,7 +2135,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-06T19:14:10.066Z
       pulled_at: 2026-07-06T19:14:10.066Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1847,7 +2209,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-06T19:14:10.066Z
       pulled_at: 2026-07-06T19:14:10.066Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1895,7 +2257,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-05T18:36:37.904Z
       pulled_at: 2026-07-05T18:36:37.904Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1929,7 +2291,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-05T18:36:37.904Z
       pulled_at: 2026-07-05T18:36:37.904Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -2086,7 +2448,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-05T18:36:37.904Z
       pulled_at: 2026-07-05T18:36:37.904Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2199,7 +2561,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-05T18:36:37.904Z
       pulled_at: 2026-07-05T18:36:37.904Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -2298,7 +2660,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-05T18:36:37.904Z
       pulled_at: 2026-07-05T18:36:37.904Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2341,7 +2703,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-05T18:36:37.904Z
       pulled_at: 2026-07-05T18:36:37.904Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -2459,7 +2821,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-05T18:36:37.904Z
       pulled_at: 2026-07-05T18:36:37.904Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -2546,7 +2908,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-05T18:36:37.904Z
       pulled_at: 2026-07-05T18:36:37.904Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2567,7 +2929,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-05T18:36:37.904Z
       pulled_at: 2026-07-05T18:36:37.904Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2615,7 +2977,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-04T18:32:32.342Z
       pulled_at: 2026-07-04T18:32:32.342Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2649,7 +3011,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-04T18:32:32.342Z
       pulled_at: 2026-07-04T18:32:32.342Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -2806,7 +3168,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-04T18:32:32.342Z
       pulled_at: 2026-07-04T18:32:32.342Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2919,7 +3281,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-04T18:32:32.342Z
       pulled_at: 2026-07-04T18:32:32.342Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -3018,7 +3380,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-04T18:32:32.342Z
       pulled_at: 2026-07-04T18:32:32.342Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3061,7 +3423,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-04T18:32:32.342Z
       pulled_at: 2026-07-04T18:32:32.342Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -3179,7 +3541,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-04T18:32:32.342Z
       pulled_at: 2026-07-04T18:32:32.342Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -3266,7 +3628,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-04T18:32:32.342Z
       pulled_at: 2026-07-04T18:32:32.342Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3287,7 +3649,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-04T18:32:32.342Z
       pulled_at: 2026-07-04T18:32:32.342Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3335,7 +3697,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-03T18:46:25.853Z
       pulled_at: 2026-07-03T18:46:25.853Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3369,7 +3731,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-03T18:46:25.853Z
       pulled_at: 2026-07-03T18:46:25.853Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -3526,7 +3888,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-03T18:46:25.853Z
       pulled_at: 2026-07-03T18:46:25.853Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -3625,7 +3987,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-03T18:46:25.853Z
       pulled_at: 2026-07-03T18:46:25.853Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3668,7 +4030,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-03T18:46:25.853Z
       pulled_at: 2026-07-03T18:46:25.853Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -3786,7 +4148,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-03T18:46:25.853Z
       pulled_at: 2026-07-03T18:46:25.853Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -3873,7 +4235,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-03T18:46:25.853Z
       pulled_at: 2026-07-03T18:46:25.853Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3894,7 +4256,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-03T18:46:25.853Z
       pulled_at: 2026-07-03T18:46:25.853Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -4051,7 +4413,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-02T18:55:47.324Z
       pulled_at: 2026-07-02T18:55:47.324Z
-      stale_days: 5
+      stale_days: 7
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -4150,7 +4512,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-02T18:55:47.324Z
       pulled_at: 2026-07-02T18:55:47.324Z
-      stale_days: 5
+      stale_days: 7
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -4268,7 +4630,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-02T18:55:47.324Z
       pulled_at: 2026-07-02T18:55:47.324Z
-      stale_days: 5
+      stale_days: 7
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -4355,7 +4717,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-02T18:55:47.324Z
       pulled_at: 2026-07-02T18:55:47.324Z
-      stale_days: 5
+      stale_days: 7
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4403,7 +4765,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-01T19:17:10.804Z
       pulled_at: 2026-07-01T19:17:10.804Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4437,7 +4799,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-01T19:17:10.804Z
       pulled_at: 2026-07-01T19:17:10.804Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -4594,7 +4956,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-01T19:17:10.804Z
       pulled_at: 2026-07-01T19:17:10.804Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -4693,7 +5055,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-01T19:17:10.804Z
       pulled_at: 2026-07-01T19:17:10.804Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4736,7 +5098,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-01T19:17:10.804Z
       pulled_at: 2026-07-01T19:17:10.804Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -4854,7 +5216,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-01T19:17:10.804Z
       pulled_at: 2026-07-01T19:17:10.804Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -4941,7 +5303,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-01T19:17:10.804Z
       pulled_at: 2026-07-01T19:17:10.804Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4962,7 +5324,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-07-01T19:17:10.804Z
       pulled_at: 2026-07-01T19:17:10.804Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -5010,7 +5372,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-30T19:16:14.254Z
       pulled_at: 2026-06-30T19:16:14.254Z
-      stale_days: 7
+      stale_days: 8
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -5044,7 +5406,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-30T19:16:14.254Z
       pulled_at: 2026-06-30T19:16:14.254Z
-      stale_days: 7
+      stale_days: 8
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -5201,7 +5563,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-30T19:16:14.254Z
       pulled_at: 2026-06-30T19:16:14.254Z
-      stale_days: 7
+      stale_days: 8
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -5300,7 +5662,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-30T19:16:14.254Z
       pulled_at: 2026-06-30T19:16:14.254Z
-      stale_days: 7
+      stale_days: 8
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -5343,7 +5705,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-30T19:16:14.254Z
       pulled_at: 2026-06-30T19:16:14.254Z
-      stale_days: 7
+      stale_days: 8
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -5437,7 +5799,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-30T19:16:14.254Z
       pulled_at: 2026-06-30T19:16:14.254Z
-      stale_days: 7
+      stale_days: 8
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -5555,7 +5917,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-30T19:16:14.254Z
       pulled_at: 2026-06-30T19:16:14.254Z
-      stale_days: 7
+      stale_days: 8
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -5642,7 +6004,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-30T19:16:14.254Z
       pulled_at: 2026-06-30T19:16:14.254Z
-      stale_days: 7
+      stale_days: 8
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -5663,7 +6025,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-30T19:16:14.254Z
       pulled_at: 2026-06-30T19:16:14.254Z
-      stale_days: 7
+      stale_days: 8
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -5768,7 +6130,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-30T19:16:14.254Z
       pulled_at: 2026-06-30T19:16:14.254Z
-      stale_days: 7
+      stale_days: 8
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -5822,7 +6184,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-30T19:16:14.254Z
       pulled_at: 2026-06-30T19:16:14.254Z
-      stale_days: 7
+      stale_days: 8
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -5870,7 +6232,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-29T19:20:52.263Z
       pulled_at: 2026-06-29T19:20:52.263Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -5904,7 +6266,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-29T19:20:52.263Z
       pulled_at: 2026-06-29T19:20:52.263Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -6061,7 +6423,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-29T19:20:52.263Z
       pulled_at: 2026-06-29T19:20:52.263Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -6160,7 +6522,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-29T19:20:52.263Z
       pulled_at: 2026-06-29T19:20:52.263Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -6203,7 +6565,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-29T19:20:52.263Z
       pulled_at: 2026-06-29T19:20:52.263Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -6321,7 +6683,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-29T19:20:52.263Z
       pulled_at: 2026-06-29T19:20:52.263Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -6414,7 +6776,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-29T19:20:52.263Z
       pulled_at: 2026-06-29T19:20:52.263Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -6501,7 +6863,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-29T19:20:52.263Z
       pulled_at: 2026-06-29T19:20:52.263Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -6522,7 +6884,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-29T19:20:52.263Z
       pulled_at: 2026-06-29T19:20:52.263Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -6570,7 +6932,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-28T18:42:03.269Z
       pulled_at: 2026-06-28T18:42:03.269Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -6604,7 +6966,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-28T18:42:03.269Z
       pulled_at: 2026-06-28T18:42:03.269Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -6761,7 +7123,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-28T18:42:03.269Z
       pulled_at: 2026-06-28T18:42:03.269Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -6860,7 +7222,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-28T18:42:03.269Z
       pulled_at: 2026-06-28T18:42:03.269Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -6903,7 +7265,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-28T18:42:03.269Z
       pulled_at: 2026-06-28T18:42:03.269Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -7021,7 +7383,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-28T18:42:03.269Z
       pulled_at: 2026-06-28T18:42:03.269Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -7108,7 +7470,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-28T18:42:03.269Z
       pulled_at: 2026-06-28T18:42:03.269Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -7129,7 +7491,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-28T18:42:03.269Z
       pulled_at: 2026-06-28T18:42:03.269Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -7177,7 +7539,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-27T18:42:58.290Z
       pulled_at: 2026-06-27T18:42:58.290Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -7211,7 +7573,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-27T18:42:58.290Z
       pulled_at: 2026-06-27T18:42:58.290Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -7368,7 +7730,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-27T18:42:58.290Z
       pulled_at: 2026-06-27T18:42:58.290Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -7467,7 +7829,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-27T18:42:58.290Z
       pulled_at: 2026-06-27T18:42:58.290Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -7510,7 +7872,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-27T18:42:58.290Z
       pulled_at: 2026-06-27T18:42:58.290Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -7628,7 +7990,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-27T18:42:58.290Z
       pulled_at: 2026-06-27T18:42:58.290Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -7715,7 +8077,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-27T18:42:58.290Z
       pulled_at: 2026-06-27T18:42:58.290Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -7736,7 +8098,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-27T18:42:58.290Z
       pulled_at: 2026-06-27T18:42:58.290Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -7784,7 +8146,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-26T19:14:51.438Z
       pulled_at: 2026-06-26T19:14:51.438Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -7818,7 +8180,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-26T19:14:51.438Z
       pulled_at: 2026-06-26T19:14:51.438Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -7975,7 +8337,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-26T19:14:51.438Z
       pulled_at: 2026-06-26T19:14:51.438Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -8074,7 +8436,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-26T19:14:51.438Z
       pulled_at: 2026-06-26T19:14:51.438Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -8117,7 +8479,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-26T19:14:51.438Z
       pulled_at: 2026-06-26T19:14:51.438Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -8235,7 +8597,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-26T19:14:51.438Z
       pulled_at: 2026-06-26T19:14:51.438Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -8322,7 +8684,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-26T19:14:51.438Z
       pulled_at: 2026-06-26T19:14:51.438Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -8343,7 +8705,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-26T19:14:51.438Z
       pulled_at: 2026-06-26T19:14:51.438Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -8391,7 +8753,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-25T19:22:33.914Z
       pulled_at: 2026-06-25T19:22:33.914Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -8425,7 +8787,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-25T19:22:33.914Z
       pulled_at: 2026-06-25T19:22:33.914Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -8582,7 +8944,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-25T19:22:33.914Z
       pulled_at: 2026-06-25T19:22:33.914Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -8681,7 +9043,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-25T19:22:33.914Z
       pulled_at: 2026-06-25T19:22:33.914Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -8724,7 +9086,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-25T19:22:33.914Z
       pulled_at: 2026-06-25T19:22:33.914Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -8842,7 +9204,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-25T19:22:33.914Z
       pulled_at: 2026-06-25T19:22:33.914Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -8929,7 +9291,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-25T19:22:33.914Z
       pulled_at: 2026-06-25T19:22:33.914Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -8950,7 +9312,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-25T19:22:33.914Z
       pulled_at: 2026-06-25T19:22:33.914Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -8998,7 +9360,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-24T19:08:02.708Z
       pulled_at: 2026-06-24T19:08:02.708Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -9032,7 +9394,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-24T19:08:02.708Z
       pulled_at: 2026-06-24T19:08:02.708Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -9189,7 +9551,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-24T19:08:02.708Z
       pulled_at: 2026-06-24T19:08:02.708Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -9288,7 +9650,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-24T19:08:02.708Z
       pulled_at: 2026-06-24T19:08:02.708Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -9331,7 +9693,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-24T19:08:02.708Z
       pulled_at: 2026-06-24T19:08:02.708Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -9449,7 +9811,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-24T19:08:02.708Z
       pulled_at: 2026-06-24T19:08:02.708Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -9536,7 +9898,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-24T19:08:02.708Z
       pulled_at: 2026-06-24T19:08:02.708Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -9557,7 +9919,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-24T19:08:02.708Z
       pulled_at: 2026-06-24T19:08:02.708Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -9605,7 +9967,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-23T19:23:59.183Z
       pulled_at: 2026-06-23T19:23:59.183Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -9639,7 +10001,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-23T19:23:59.183Z
       pulled_at: 2026-06-23T19:23:59.183Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -9796,7 +10158,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-23T19:23:59.183Z
       pulled_at: 2026-06-23T19:23:59.183Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -9895,7 +10257,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-23T19:23:59.183Z
       pulled_at: 2026-06-23T19:23:59.183Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -9938,7 +10300,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-23T19:23:59.183Z
       pulled_at: 2026-06-23T19:23:59.183Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -10056,7 +10418,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-23T19:23:59.183Z
       pulled_at: 2026-06-23T19:23:59.183Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -10143,7 +10505,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-23T19:23:59.183Z
       pulled_at: 2026-06-23T19:23:59.183Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -10164,7 +10526,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-23T19:23:59.183Z
       pulled_at: 2026-06-23T19:23:59.183Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -10212,7 +10574,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-22T20:20:12.679Z
       pulled_at: 2026-06-22T20:20:12.679Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -10246,7 +10608,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-22T20:20:12.679Z
       pulled_at: 2026-06-22T20:20:12.679Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -10403,7 +10765,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-22T20:20:12.679Z
       pulled_at: 2026-06-22T20:20:12.679Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -10502,7 +10864,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-22T20:20:12.679Z
       pulled_at: 2026-06-22T20:20:12.679Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -10545,7 +10907,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-22T20:20:12.679Z
       pulled_at: 2026-06-22T20:20:12.679Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -10620,7 +10982,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-22T20:20:12.679Z
       pulled_at: 2026-06-22T20:20:12.679Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -10738,7 +11100,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-22T20:20:12.679Z
       pulled_at: 2026-06-22T20:20:12.679Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -10825,7 +11187,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-22T20:20:12.679Z
       pulled_at: 2026-06-22T20:20:12.679Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -10846,7 +11208,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-22T20:20:12.679Z
       pulled_at: 2026-06-22T20:20:12.679Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -10894,7 +11256,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-21T18:58:11.702Z
       pulled_at: 2026-06-21T18:58:11.702Z
-      stale_days: 16
+      stale_days: 18
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -10928,7 +11290,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-21T18:58:11.702Z
       pulled_at: 2026-06-21T18:58:11.702Z
-      stale_days: 16
+      stale_days: 18
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -11085,7 +11447,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-21T18:58:11.702Z
       pulled_at: 2026-06-21T18:58:11.702Z
-      stale_days: 16
+      stale_days: 18
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -11184,7 +11546,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-21T18:58:11.702Z
       pulled_at: 2026-06-21T18:58:11.702Z
-      stale_days: 16
+      stale_days: 18
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -11227,7 +11589,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-21T18:58:11.702Z
       pulled_at: 2026-06-21T18:58:11.702Z
-      stale_days: 16
+      stale_days: 18
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -11345,7 +11707,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-21T18:58:11.702Z
       pulled_at: 2026-06-21T18:58:11.702Z
-      stale_days: 16
+      stale_days: 18
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -11432,7 +11794,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-21T18:58:11.702Z
       pulled_at: 2026-06-21T18:58:11.702Z
-      stale_days: 16
+      stale_days: 18
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -11453,7 +11815,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-21T18:58:11.702Z
       pulled_at: 2026-06-21T18:58:11.702Z
-      stale_days: 16
+      stale_days: 18
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -11501,7 +11863,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-20T18:54:36.949Z
       pulled_at: 2026-06-20T18:54:36.949Z
-      stale_days: 17
+      stale_days: 19
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -11535,7 +11897,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-20T18:54:36.949Z
       pulled_at: 2026-06-20T18:54:36.949Z
-      stale_days: 17
+      stale_days: 19
       is_stale: false
     - source: jobicy
       source_note: ""
@@ -11635,7 +11997,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-20T18:54:36.949Z
       pulled_at: 2026-06-20T18:54:36.949Z
-      stale_days: 17
+      stale_days: 19
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -11792,7 +12154,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-20T18:54:36.949Z
       pulled_at: 2026-06-20T18:54:36.949Z
-      stale_days: 17
+      stale_days: 19
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -11891,7 +12253,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-20T18:54:36.949Z
       pulled_at: 2026-06-20T18:54:36.949Z
-      stale_days: 17
+      stale_days: 19
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -11934,7 +12296,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-20T18:54:36.949Z
       pulled_at: 2026-06-20T18:54:36.949Z
-      stale_days: 17
+      stale_days: 19
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -12052,7 +12414,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-20T18:54:36.949Z
       pulled_at: 2026-06-20T18:54:36.949Z
-      stale_days: 17
+      stale_days: 19
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -12139,7 +12501,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-20T18:54:36.949Z
       pulled_at: 2026-06-20T18:54:36.949Z
-      stale_days: 17
+      stale_days: 19
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -12160,7 +12522,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-20T18:54:36.949Z
       pulled_at: 2026-06-20T18:54:36.949Z
-      stale_days: 17
+      stale_days: 19
       is_stale: false
     - source: jobicy
       source_note: ""
@@ -12260,7 +12622,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-19T19:14:46.820Z
       pulled_at: 2026-06-19T19:14:46.820Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -12417,7 +12779,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-19T19:14:46.820Z
       pulled_at: 2026-06-19T19:14:46.820Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -12516,7 +12878,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-19T19:14:46.820Z
       pulled_at: 2026-06-19T19:14:46.820Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -12634,7 +12996,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-19T19:14:46.820Z
       pulled_at: 2026-06-19T19:14:46.820Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -12721,7 +13083,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-19T19:14:46.820Z
       pulled_at: 2026-06-19T19:14:46.820Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -12742,7 +13104,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-19T19:14:46.820Z
       pulled_at: 2026-06-19T19:14:46.820Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -12790,7 +13152,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-18T19:45:14.033Z
       pulled_at: 2026-06-18T19:45:14.033Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -12824,7 +13186,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-18T19:45:14.033Z
       pulled_at: 2026-06-18T19:45:14.033Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: jobicy
       source_note: ""
@@ -12924,7 +13286,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-18T19:45:14.033Z
       pulled_at: 2026-06-18T19:45:14.033Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -13081,7 +13443,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-18T19:45:14.033Z
       pulled_at: 2026-06-18T19:45:14.033Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -13180,7 +13542,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-18T19:45:14.033Z
       pulled_at: 2026-06-18T19:45:14.033Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -13223,7 +13585,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-18T19:45:14.033Z
       pulled_at: 2026-06-18T19:45:14.033Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -13341,7 +13703,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-18T19:45:14.033Z
       pulled_at: 2026-06-18T19:45:14.033Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -13428,7 +13790,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-18T19:45:14.033Z
       pulled_at: 2026-06-18T19:45:14.033Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -13449,7 +13811,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-18T19:45:14.033Z
       pulled_at: 2026-06-18T19:45:14.033Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -13505,7 +13867,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-18T19:45:14.033Z
       pulled_at: 2026-06-18T19:45:14.033Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -13553,8 +13915,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-17T19:35:53.786Z
       pulled_at: 2026-06-17T19:35:53.786Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: TransPerfect
@@ -13587,8 +13949,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-17T19:35:53.786Z
       pulled_at: 2026-06-17T19:35:53.786Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: jobicy
       source_note: ""
       company: Autodesk
@@ -13687,8 +14049,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-17T19:35:53.786Z
       pulled_at: 2026-06-17T19:35:53.786Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: greenhouse
       source_note: ""
       company: dataiku
@@ -13844,8 +14206,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-17T19:35:53.786Z
       pulled_at: 2026-06-17T19:35:53.786Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: greenhouse
       source_note: ""
       company: typeform
@@ -13943,8 +14305,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-17T19:35:53.786Z
       pulled_at: 2026-06-17T19:35:53.786Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: TransPerfect
@@ -13986,8 +14348,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-17T19:35:53.786Z
       pulled_at: 2026-06-17T19:35:53.786Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: greenhouse
       source_note: ""
       company: typeform
@@ -14104,8 +14466,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-17T19:35:53.786Z
       pulled_at: 2026-06-17T19:35:53.786Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: greenhouse
       source_note: ""
       company: typeform
@@ -14191,8 +14553,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-17T19:35:53.786Z
       pulled_at: 2026-06-17T19:35:53.786Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: Consultport
@@ -14212,8 +14574,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-17T19:35:53.786Z
       pulled_at: 2026-06-17T19:35:53.786Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: arbeitnow
       source_note: ""
       company: Framewoorks
@@ -14263,8 +14625,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-17T19:35:53.786Z
       pulled_at: 2026-06-17T19:35:53.786Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: TransPerfect
@@ -14311,7 +14673,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-16T20:23:36.772Z
       pulled_at: 2026-06-16T20:23:36.772Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -14345,7 +14707,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-16T20:23:36.772Z
       pulled_at: 2026-06-16T20:23:36.772Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -14502,7 +14864,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-16T20:23:36.772Z
       pulled_at: 2026-06-16T20:23:36.772Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -14601,7 +14963,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-16T20:23:36.772Z
       pulled_at: 2026-06-16T20:23:36.772Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -14644,7 +15006,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-16T20:23:36.772Z
       pulled_at: 2026-06-16T20:23:36.772Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -14762,7 +15124,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-16T20:23:36.772Z
       pulled_at: 2026-06-16T20:23:36.772Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -14819,7 +15181,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-16T20:23:36.772Z
       pulled_at: 2026-06-16T20:23:36.772Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -14876,7 +15238,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-16T20:23:36.772Z
       pulled_at: 2026-06-16T20:23:36.772Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -14963,7 +15325,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-16T20:23:36.772Z
       pulled_at: 2026-06-16T20:23:36.772Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -14984,7 +15346,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-16T20:23:36.772Z
       pulled_at: 2026-06-16T20:23:36.772Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -15032,7 +15394,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-15T20:44:27.140Z
       pulled_at: 2026-06-15T20:44:27.140Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -15066,7 +15428,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-15T20:44:27.140Z
       pulled_at: 2026-06-15T20:44:27.140Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -15223,7 +15585,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-15T20:44:27.140Z
       pulled_at: 2026-06-15T20:44:27.140Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -15322,7 +15684,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-15T20:44:27.140Z
       pulled_at: 2026-06-15T20:44:27.140Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -15365,7 +15727,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-15T20:44:27.140Z
       pulled_at: 2026-06-15T20:44:27.140Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -15483,7 +15845,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-15T20:44:27.140Z
       pulled_at: 2026-06-15T20:44:27.140Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -15570,7 +15932,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-15T20:44:27.140Z
       pulled_at: 2026-06-15T20:44:27.140Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -15591,7 +15953,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-15T20:44:27.140Z
       pulled_at: 2026-06-15T20:44:27.140Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -15649,7 +16011,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-15T20:44:27.140Z
       pulled_at: 2026-06-15T20:44:27.140Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -15697,7 +16059,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-14T18:50:57.310Z
       pulled_at: 2026-06-14T18:50:57.310Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -15731,7 +16093,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-14T18:50:57.310Z
       pulled_at: 2026-06-14T18:50:57.310Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -15888,7 +16250,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-14T18:50:57.310Z
       pulled_at: 2026-06-14T18:50:57.310Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -15987,7 +16349,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-14T18:50:57.310Z
       pulled_at: 2026-06-14T18:50:57.310Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -16030,7 +16392,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-14T18:50:57.310Z
       pulled_at: 2026-06-14T18:50:57.310Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -16148,7 +16510,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-14T18:50:57.310Z
       pulled_at: 2026-06-14T18:50:57.310Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -16235,7 +16597,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-14T18:50:57.310Z
       pulled_at: 2026-06-14T18:50:57.310Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -16256,7 +16618,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-14T18:50:57.310Z
       pulled_at: 2026-06-14T18:50:57.310Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -16304,7 +16666,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-13T18:51:53.063Z
       pulled_at: 2026-06-13T18:51:53.063Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -16338,7 +16700,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-13T18:51:53.063Z
       pulled_at: 2026-06-13T18:51:53.063Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -16495,7 +16857,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-13T18:51:53.063Z
       pulled_at: 2026-06-13T18:51:53.063Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -16594,7 +16956,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-13T18:51:53.063Z
       pulled_at: 2026-06-13T18:51:53.063Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -16637,7 +16999,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-13T18:51:53.063Z
       pulled_at: 2026-06-13T18:51:53.063Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -16755,7 +17117,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-13T18:51:53.063Z
       pulled_at: 2026-06-13T18:51:53.063Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -16842,7 +17204,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-13T18:51:53.063Z
       pulled_at: 2026-06-13T18:51:53.063Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -16863,7 +17225,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-13T18:51:53.063Z
       pulled_at: 2026-06-13T18:51:53.063Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -16911,7 +17273,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-12T19:28:06.095Z
       pulled_at: 2026-06-12T19:28:06.095Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -16945,7 +17307,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-12T19:28:06.095Z
       pulled_at: 2026-06-12T19:28:06.095Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -17058,7 +17420,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-12T19:28:06.095Z
       pulled_at: 2026-06-12T19:28:06.095Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -17176,7 +17538,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-12T19:28:06.095Z
       pulled_at: 2026-06-12T19:28:06.095Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -17333,7 +17695,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-12T19:28:06.095Z
       pulled_at: 2026-06-12T19:28:06.095Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -17432,7 +17794,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-12T19:28:06.095Z
       pulled_at: 2026-06-12T19:28:06.095Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -17475,7 +17837,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-12T19:28:06.095Z
       pulled_at: 2026-06-12T19:28:06.095Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -17593,7 +17955,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-12T19:28:06.095Z
       pulled_at: 2026-06-12T19:28:06.095Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -17680,7 +18042,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-12T19:28:06.095Z
       pulled_at: 2026-06-12T19:28:06.095Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -17701,7 +18063,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-12T19:28:06.095Z
       pulled_at: 2026-06-12T19:28:06.095Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -17749,7 +18111,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-11T20:04:35.288Z
       pulled_at: 2026-06-11T20:04:35.288Z
-      stale_days: 26
+      stale_days: 27
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -17783,7 +18145,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-11T20:04:35.288Z
       pulled_at: 2026-06-11T20:04:35.288Z
-      stale_days: 26
+      stale_days: 27
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -17940,7 +18302,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-11T20:04:35.288Z
       pulled_at: 2026-06-11T20:04:35.288Z
-      stale_days: 26
+      stale_days: 27
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -18039,7 +18401,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-11T20:04:35.288Z
       pulled_at: 2026-06-11T20:04:35.288Z
-      stale_days: 26
+      stale_days: 27
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -18082,7 +18444,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-11T20:04:35.288Z
       pulled_at: 2026-06-11T20:04:35.288Z
-      stale_days: 26
+      stale_days: 27
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -18200,7 +18562,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-11T20:04:35.288Z
       pulled_at: 2026-06-11T20:04:35.288Z
-      stale_days: 26
+      stale_days: 27
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -18350,7 +18712,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-11T20:04:35.288Z
       pulled_at: 2026-06-11T20:04:35.288Z
-      stale_days: 26
+      stale_days: 27
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -18437,7 +18799,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-11T20:04:35.288Z
       pulled_at: 2026-06-11T20:04:35.288Z
-      stale_days: 26
+      stale_days: 27
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -18458,7 +18820,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-11T20:04:35.288Z
       pulled_at: 2026-06-11T20:04:35.288Z
-      stale_days: 26
+      stale_days: 27
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -18506,7 +18868,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-10T19:47:44.909Z
       pulled_at: 2026-06-10T19:47:44.909Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -18540,7 +18902,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-10T19:47:44.909Z
       pulled_at: 2026-06-10T19:47:44.909Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -18697,7 +19059,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-10T19:47:44.909Z
       pulled_at: 2026-06-10T19:47:44.909Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -18796,7 +19158,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-10T19:47:44.909Z
       pulled_at: 2026-06-10T19:47:44.909Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -18839,7 +19201,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-10T19:47:44.909Z
       pulled_at: 2026-06-10T19:47:44.909Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -18957,7 +19319,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-10T19:47:44.909Z
       pulled_at: 2026-06-10T19:47:44.909Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -19107,7 +19469,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-10T19:47:44.909Z
       pulled_at: 2026-06-10T19:47:44.909Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -19194,7 +19556,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-10T19:47:44.909Z
       pulled_at: 2026-06-10T19:47:44.909Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -19215,7 +19577,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-10T19:47:44.909Z
       pulled_at: 2026-06-10T19:47:44.909Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -19309,7 +19671,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-10T19:47:44.909Z
       pulled_at: 2026-06-10T19:47:44.909Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -19357,7 +19719,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-09T19:33:46.704Z
       pulled_at: 2026-06-09T19:33:46.704Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -19391,7 +19753,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-09T19:33:46.704Z
       pulled_at: 2026-06-09T19:33:46.704Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -19548,7 +19910,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-09T19:33:46.704Z
       pulled_at: 2026-06-09T19:33:46.704Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -19647,7 +20009,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-09T19:33:46.704Z
       pulled_at: 2026-06-09T19:33:46.704Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -19690,7 +20052,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-09T19:33:46.704Z
       pulled_at: 2026-06-09T19:33:46.704Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -19808,7 +20170,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-09T19:33:46.704Z
       pulled_at: 2026-06-09T19:33:46.704Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -19958,7 +20320,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-09T19:33:46.704Z
       pulled_at: 2026-06-09T19:33:46.704Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -20045,7 +20407,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-09T19:33:46.704Z
       pulled_at: 2026-06-09T19:33:46.704Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -20066,7 +20428,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-09T19:33:46.704Z
       pulled_at: 2026-06-09T19:33:46.704Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -20185,8 +20547,102 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-09T19:33:46.704Z
       pulled_at: 2026-06-09T19:33:46.704Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
+  scrum_agile:
+    - source: smartrecruiters
+      source_note: ""
+      company: NielsenIQ
+      title: Senior Agile Coach
+      location: Pune, MH, India
+      url: https://api.smartrecruiters.com/v1/companies/nielseniq/postings/744000131614400
+      updated_at: 2026-06-11T08:29:30.555Z
+      description: ""
+      score: 74
+      skill_hits: 1
+      bucket_id: scrum_agile
+      fetched_at: 2026-06-15T20:44:27.140Z
+      pulled_at: 2026-06-15T20:44:27.140Z
+      stale_days: 23
+      is_stale: true
+    - source: smartrecruiters
+      source_note: ""
+      company: NielsenIQ
+      title: Senior Agile Coach
+      location: Pune, MH, India
+      url: https://api.smartrecruiters.com/v1/companies/nielseniq/postings/744000131614400
+      updated_at: 2026-06-11T08:29:30.555Z
+      description: ""
+      score: 74
+      skill_hits: 1
+      bucket_id: scrum_agile
+      fetched_at: 2026-06-14T18:50:57.310Z
+      pulled_at: 2026-06-14T18:50:57.310Z
+      stale_days: 25
+      is_stale: true
+    - source: smartrecruiters
+      source_note: ""
+      company: NielsenIQ
+      title: Senior Agile Coach
+      location: Pune, MH, India
+      url: https://api.smartrecruiters.com/v1/companies/nielseniq/postings/744000131614400
+      updated_at: 2026-06-11T08:29:30.555Z
+      description: ""
+      score: 74
+      skill_hits: 1
+      bucket_id: scrum_agile
+      fetched_at: 2026-06-13T18:51:53.063Z
+      pulled_at: 2026-06-13T18:51:53.063Z
+      stale_days: 26
+      is_stale: true
+    - source: smartrecruiters
+      source_note: ""
+      company: NielsenIQ
+      title: Senior Agile Coach
+      location: Pune, MH, India
+      url: https://api.smartrecruiters.com/v1/companies/nielseniq/postings/744000131614400
+      updated_at: 2026-06-11T08:29:30.555Z
+      description: ""
+      score: 74
+      skill_hits: 1
+      bucket_id: scrum_agile
+      fetched_at: 2026-06-12T19:28:06.095Z
+      pulled_at: 2026-06-12T19:28:06.095Z
+      stale_days: 26
+      is_stale: true
+    - source: smartrecruiters
+      source_note: ""
+      company: NielsenIQ
+      title: Senior Agile Coach
+      location: Pune, MH, India
+      url: https://api.smartrecruiters.com/v1/companies/nielseniq/postings/744000131614400
+      updated_at: 2026-06-11T08:29:30.555Z
+      description: ""
+      score: 74
+      skill_hits: 1
+      bucket_id: scrum_agile
+      fetched_at: 2026-06-11T20:04:35.288Z
+      pulled_at: 2026-06-11T20:04:35.288Z
+      stale_days: 27
+      is_stale: true
+    - source: smartrecruiters
+      source_note: ""
+      company: NielsenIQ
+      title: Senior Agile Coach
+      location: Pune, MH, India
+      url: https://api.smartrecruiters.com/v1/companies/nielseniq/postings/744000130736930
+      updated_at: 2026-06-08T08:48:18.194Z
+      description: ""
+      score: 74
+      skill_hits: 1
+      bucket_id: scrum_agile
+      fetched_at: 2026-06-09T19:33:46.704Z
+      pulled_at: 2026-06-09T19:33:46.704Z
+      stale_days: 29
+      is_stale: true
+  program_management: []
+archive:
+  pm_product:
     - source: recruitee
       source_note: ""
       company: TransPerfect
@@ -20233,7 +20689,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-08T19:45:00.245Z
       pulled_at: 2026-06-08T19:45:00.245Z
-      stale_days: 29
+      stale_days: 30
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -20267,7 +20723,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-08T19:45:00.245Z
       pulled_at: 2026-06-08T19:45:00.245Z
-      stale_days: 29
+      stale_days: 30
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -20424,7 +20880,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-08T19:45:00.245Z
       pulled_at: 2026-06-08T19:45:00.245Z
-      stale_days: 29
+      stale_days: 30
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -20523,7 +20979,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-08T19:45:00.245Z
       pulled_at: 2026-06-08T19:45:00.245Z
-      stale_days: 29
+      stale_days: 30
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -20566,7 +21022,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-08T19:45:00.245Z
       pulled_at: 2026-06-08T19:45:00.245Z
-      stale_days: 29
+      stale_days: 30
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -20684,7 +21140,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-08T19:45:00.245Z
       pulled_at: 2026-06-08T19:45:00.245Z
-      stale_days: 29
+      stale_days: 30
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -20834,7 +21290,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-08T19:45:00.245Z
       pulled_at: 2026-06-08T19:45:00.245Z
-      stale_days: 29
+      stale_days: 30
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -20921,7 +21377,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-08T19:45:00.245Z
       pulled_at: 2026-06-08T19:45:00.245Z
-      stale_days: 29
+      stale_days: 30
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -20942,7 +21398,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-08T19:45:00.245Z
       pulled_at: 2026-06-08T19:45:00.245Z
-      stale_days: 29
+      stale_days: 30
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -21023,99 +21479,9 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-06-08T19:45:00.245Z
       pulled_at: 2026-06-08T19:45:00.245Z
-      stale_days: 29
+      stale_days: 30
       is_stale: true
   scrum_agile:
-    - source: smartrecruiters
-      source_note: ""
-      company: NielsenIQ
-      title: Senior Agile Coach
-      location: Pune, MH, India
-      url: https://api.smartrecruiters.com/v1/companies/nielseniq/postings/744000131614400
-      updated_at: 2026-06-11T08:29:30.555Z
-      description: ""
-      score: 74
-      skill_hits: 1
-      bucket_id: scrum_agile
-      fetched_at: 2026-06-15T20:44:27.140Z
-      pulled_at: 2026-06-15T20:44:27.140Z
-      stale_days: 22
-      is_stale: true
-    - source: smartrecruiters
-      source_note: ""
-      company: NielsenIQ
-      title: Senior Agile Coach
-      location: Pune, MH, India
-      url: https://api.smartrecruiters.com/v1/companies/nielseniq/postings/744000131614400
-      updated_at: 2026-06-11T08:29:30.555Z
-      description: ""
-      score: 74
-      skill_hits: 1
-      bucket_id: scrum_agile
-      fetched_at: 2026-06-14T18:50:57.310Z
-      pulled_at: 2026-06-14T18:50:57.310Z
-      stale_days: 24
-      is_stale: true
-    - source: smartrecruiters
-      source_note: ""
-      company: NielsenIQ
-      title: Senior Agile Coach
-      location: Pune, MH, India
-      url: https://api.smartrecruiters.com/v1/companies/nielseniq/postings/744000131614400
-      updated_at: 2026-06-11T08:29:30.555Z
-      description: ""
-      score: 74
-      skill_hits: 1
-      bucket_id: scrum_agile
-      fetched_at: 2026-06-13T18:51:53.063Z
-      pulled_at: 2026-06-13T18:51:53.063Z
-      stale_days: 25
-      is_stale: true
-    - source: smartrecruiters
-      source_note: ""
-      company: NielsenIQ
-      title: Senior Agile Coach
-      location: Pune, MH, India
-      url: https://api.smartrecruiters.com/v1/companies/nielseniq/postings/744000131614400
-      updated_at: 2026-06-11T08:29:30.555Z
-      description: ""
-      score: 74
-      skill_hits: 1
-      bucket_id: scrum_agile
-      fetched_at: 2026-06-12T19:28:06.095Z
-      pulled_at: 2026-06-12T19:28:06.095Z
-      stale_days: 25
-      is_stale: true
-    - source: smartrecruiters
-      source_note: ""
-      company: NielsenIQ
-      title: Senior Agile Coach
-      location: Pune, MH, India
-      url: https://api.smartrecruiters.com/v1/companies/nielseniq/postings/744000131614400
-      updated_at: 2026-06-11T08:29:30.555Z
-      description: ""
-      score: 74
-      skill_hits: 1
-      bucket_id: scrum_agile
-      fetched_at: 2026-06-11T20:04:35.288Z
-      pulled_at: 2026-06-11T20:04:35.288Z
-      stale_days: 26
-      is_stale: true
-    - source: smartrecruiters
-      source_note: ""
-      company: NielsenIQ
-      title: Senior Agile Coach
-      location: Pune, MH, India
-      url: https://api.smartrecruiters.com/v1/companies/nielseniq/postings/744000130736930
-      updated_at: 2026-06-08T08:48:18.194Z
-      description: ""
-      score: 74
-      skill_hits: 1
-      bucket_id: scrum_agile
-      fetched_at: 2026-06-09T19:33:46.704Z
-      pulled_at: 2026-06-09T19:33:46.704Z
-      stale_days: 28
-      is_stale: true
     - source: smartrecruiters
       source_note: ""
       company: NielsenIQ
@@ -21129,12 +21495,8 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-06-08T19:45:00.245Z
       pulled_at: 2026-06-08T19:45:00.245Z
-      stale_days: 29
+      stale_days: 30
       is_stale: true
-  program_management: []
-archive:
-  pm_product: []
-  scrum_agile: []
   program_management: []
 meta:
   stale_after_days: 21
@@ -21161,12 +21523,12 @@ meta:
     search_queries: 20
   stale_counts:
     pm_product: 84
-    scrum_agile: 7
+    scrum_agile: 6
     program_management: 0
   inactive_counts:
-    pm_product: 0
-    scrum_agile: 0
+    pm_product: 10
+    scrum_agile: 1
     program_management: 0
   timings_ms:
-    fetch: 52260
-    total: 96077
+    fetch: 49376
+    total: 79804
