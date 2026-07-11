@@ -1,4 +1,4 @@
-generated_at: 2026-07-10T18:54:49.550Z
+generated_at: 2026-07-11T18:13:28.376Z
 explicit:
   company_names:
     - SAP
@@ -265,6 +265,7 @@ discovered:
     - thebase-fol-group-gmbh
     - orbit
     - quora
+    - test
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -590,6 +591,7 @@ discovered:
     - speekly
     - limeflight
     - invers
+    - test
   ashby_organizations:
     - telus-digital
     - a-team
