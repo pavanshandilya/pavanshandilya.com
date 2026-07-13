@@ -1,4 +1,4 @@
-generated_at: 2026-07-12T18:14:43.069Z
+generated_at: 2026-07-13T18:53:11.034Z
 explicit:
   company_names:
     - SAP
@@ -268,6 +268,9 @@ discovered:
     - test
     - nash
     - playson
+    - peregrine-technologies-gmbh
+    - signode
+    - theobald-software-gmbh
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -529,6 +532,10 @@ discovered:
     - https://4screen.jobs.personio.com/xml
     - https://thebase-fol-group-gmbh.jobs.personio.de/xml
     - https://thebase-fol-group-gmbh.jobs.personio.com/xml
+    - https://peregrine-technologies-gmbh.jobs.personio.de/xml
+    - https://peregrine-technologies-gmbh.jobs.personio.com/xml
+    - https://theobald-software-gmbh.jobs.personio.de/xml
+    - https://theobald-software-gmbh.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -551,6 +558,7 @@ discovered:
     - experian
     - lendingtree
     - wtw
+    - signode
   teamtailor_companies: []
   recruitee_companies:
     - sendcloud
@@ -594,6 +602,7 @@ discovered:
     - limeflight
     - invers
     - test
+    - signode
   ashby_organizations:
     - telus-digital
     - a-team
