@@ -1,4 +1,4 @@
-generated_at: 2026-07-16T18:38:17.372Z
+generated_at: 2026-07-17T18:33:35.953Z
 explicit:
   company_names:
     - SAP
@@ -268,6 +268,7 @@ discovered:
     - signode
     - theobald-software-gmbh
     - logicc
+    - steman-gmbh
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -535,6 +536,8 @@ discovered:
     - https://theobald-software-gmbh.jobs.personio.com/xml
     - https://logicc.jobs.personio.de/xml
     - https://logicc.jobs.personio.com/xml
+    - https://steman-gmbh.jobs.personio.de/xml
+    - https://steman-gmbh.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
