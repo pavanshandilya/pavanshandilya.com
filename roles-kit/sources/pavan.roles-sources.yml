@@ -1,4 +1,4 @@
-generated_at: 2026-07-17T18:31:32.374Z
+generated_at: 2026-07-18T18:13:45.487Z
 explicit:
   company_names:
     - SAP
@@ -273,6 +273,10 @@ discovered:
     - theobald-software-gmbh
     - logicc
     - steman-gmbh
+    - syntivis-ag
+    - salesforce
+    - socotec
+    - mirantis
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -542,6 +546,8 @@ discovered:
     - https://logicc.jobs.personio.com/xml
     - https://steman-gmbh.jobs.personio.de/xml
     - https://steman-gmbh.jobs.personio.com/xml
+    - https://syntivis-ag.jobs.personio.de/xml
+    - https://syntivis-ag.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -565,6 +571,8 @@ discovered:
     - lendingtree
     - wtw
     - signode
+    - socotec
+    - mirantis
   teamtailor_companies: []
   recruitee_companies:
     - sendcloud
@@ -609,6 +617,7 @@ discovered:
     - invers
     - test
     - signode
+    - salesforce
   ashby_organizations:
     - telus-digital
     - a-team
