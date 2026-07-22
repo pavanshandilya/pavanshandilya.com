@@ -1,4 +1,4 @@
-generated_at: 2026-07-21T18:49:07.882Z
+generated_at: 2026-07-22T18:39:49.221Z
 explicit:
   company_names:
     - SAP
@@ -277,6 +277,7 @@ discovered:
     - ropa-gmbh
     - ergotopia
     - onward-gmbh
+    - zara
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -626,6 +627,7 @@ discovered:
     - test
     - signode
     - ergotopia
+    - zara
   ashby_organizations:
     - telus-digital
     - a-team
