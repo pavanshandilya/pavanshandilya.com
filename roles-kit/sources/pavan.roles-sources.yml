@@ -1,4 +1,4 @@
-generated_at: 2026-07-23T18:42:50.061Z
+generated_at: 2026-07-24T18:53:46.441Z
 explicit:
   company_names:
     - SAP
@@ -284,6 +284,8 @@ discovered:
     - onward-gmbh
     - zara
     - suchmeisterei-gmbh
+    - fase
+    - deepgram
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -589,6 +591,7 @@ discovered:
     - socotec
     - mirantis
     - clinchoice
+    - fase
   teamtailor_companies: []
   recruitee_companies:
     - sendcloud
@@ -699,6 +702,7 @@ discovered:
     - nash
     - playson
     - synthesia
+    - deepgram
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
