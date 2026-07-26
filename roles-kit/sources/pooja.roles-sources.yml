@@ -1,4 +1,4 @@
-generated_at: 2026-07-25T18:15:26.383Z
+generated_at: 2026-07-26T18:32:25.979Z
 explicit:
   company_names:
     - SAP
@@ -281,6 +281,7 @@ discovered:
     - suchmeisterei-gmbh
     - fase
     - deepgram
+    - zapier
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -698,6 +699,7 @@ discovered:
     - playson
     - synthesia
     - deepgram
+    - zapier
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
