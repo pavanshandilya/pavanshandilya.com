@@ -1,4 +1,4 @@
-generated_at: 2026-07-26T18:32:25.979Z
+generated_at: 2026-07-27T18:54:14.184Z
 explicit:
   company_names:
     - SAP
@@ -282,6 +282,12 @@ discovered:
     - fase
     - deepgram
     - zapier
+    - doo
+    - cargobeamer
+    - scholarshipowl
+    - myty
+    - temedica
+    - sti
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -561,6 +567,16 @@ discovered:
     - https://onward-gmbh.jobs.personio.com/xml
     - https://suchmeisterei-gmbh.jobs.personio.de/xml
     - https://suchmeisterei-gmbh.jobs.personio.com/xml
+    - https://doo.jobs.personio.de/xml
+    - https://doo.jobs.personio.com/xml
+    - https://cargobeamer.jobs.personio.de/xml
+    - https://cargobeamer.jobs.personio.com/xml
+    - https://myty.jobs.personio.de/xml
+    - https://myty.jobs.personio.com/xml
+    - https://temedica.jobs.personio.de/xml
+    - https://temedica.jobs.personio.com/xml
+    - https://sti.jobs.personio.de/xml
+    - https://sti.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -635,6 +651,7 @@ discovered:
     - signode
     - ergotopia
     - zara
+    - scholarshipowl
   ashby_organizations:
     - telus-digital
     - a-team
