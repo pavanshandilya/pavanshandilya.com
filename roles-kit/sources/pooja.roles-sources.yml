@@ -1,4 +1,4 @@
-generated_at: 2026-07-27T18:54:14.184Z
+generated_at: 2026-07-28T18:54:46.630Z
 explicit:
   company_names:
     - SAP
@@ -288,6 +288,11 @@ discovered:
     - myty
     - temedica
     - sti
+    - doctolib
+    - fact-finder
+    - peter-park
+    - feverup
+    - zvoove
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -577,6 +582,14 @@ discovered:
     - https://temedica.jobs.personio.com/xml
     - https://sti.jobs.personio.de/xml
     - https://sti.jobs.personio.com/xml
+    - https://fact-finder.jobs.personio.de/xml
+    - https://fact-finder.jobs.personio.com/xml
+    - https://peter-park.jobs.personio.de/xml
+    - https://peter-park.jobs.personio.com/xml
+    - https://feverup.jobs.personio.de/xml
+    - https://feverup.jobs.personio.com/xml
+    - https://zvoove.jobs.personio.de/xml
+    - https://zvoove.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -717,6 +730,7 @@ discovered:
     - synthesia
     - deepgram
     - zapier
+    - doctolib
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
