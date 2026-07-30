@@ -1,4 +1,4 @@
-generated_at: 2026-07-29T18:29:55.803Z
+generated_at: 2026-07-30T18:53:20.906Z
 explicit:
   company_names:
     - SAP
@@ -300,6 +300,9 @@ discovered:
     - zvoove
     - ecoplanet-green-operations-gmbh
     - kooku
+    - wppmedia
+    - vamo
+    - framestore
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -601,6 +604,8 @@ discovered:
     - https://ecoplanet-green-operations-gmbh.jobs.personio.com/xml
     - https://kooku.jobs.personio.de/xml
     - https://kooku.jobs.personio.com/xml
+    - https://vamo.jobs.personio.de/xml
+    - https://vamo.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -676,6 +681,8 @@ discovered:
     - ergotopia
     - zara
     - scholarshipowl
+    - wppmedia
+    - framestore
   ashby_organizations:
     - telus-digital
     - a-team
