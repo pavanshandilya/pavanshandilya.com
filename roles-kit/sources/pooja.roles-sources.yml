@@ -1,4 +1,4 @@
-generated_at: 2026-07-30T18:55:27.972Z
+generated_at: 2026-07-31T18:51:19.672Z
 explicit:
   company_names:
     - SAP
@@ -298,6 +298,17 @@ discovered:
     - wppmedia
     - vamo
     - framestore
+    - casavi
+    - legalhero
+    - prologistik-group
+    - yoyaba-gmbh
+    - lindalgroup
+    - schiller-international-university
+    - newrelic
+    - boardwise
+    - alphapet-ventures
+    - partspace
+    - toogoodtogo
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -601,6 +612,24 @@ discovered:
     - https://kooku.jobs.personio.com/xml
     - https://vamo.jobs.personio.de/xml
     - https://vamo.jobs.personio.com/xml
+    - https://casavi.jobs.personio.de/xml
+    - https://casavi.jobs.personio.com/xml
+    - https://legalhero.jobs.personio.de/xml
+    - https://legalhero.jobs.personio.com/xml
+    - https://prologistik-group.jobs.personio.de/xml
+    - https://prologistik-group.jobs.personio.com/xml
+    - https://yoyaba-gmbh.jobs.personio.de/xml
+    - https://yoyaba-gmbh.jobs.personio.com/xml
+    - https://lindalgroup.jobs.personio.de/xml
+    - https://lindalgroup.jobs.personio.com/xml
+    - https://schiller-international-university.jobs.personio.de/xml
+    - https://schiller-international-university.jobs.personio.com/xml
+    - https://boardwise.jobs.personio.de/xml
+    - https://boardwise.jobs.personio.com/xml
+    - https://alphapet-ventures.jobs.personio.de/xml
+    - https://alphapet-ventures.jobs.personio.com/xml
+    - https://partspace.jobs.personio.de/xml
+    - https://partspace.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -628,6 +657,7 @@ discovered:
     - mirantis
     - clinchoice
     - fase
+    - newrelic
   teamtailor_companies: []
   recruitee_companies:
     - sendcloud
@@ -744,6 +774,7 @@ discovered:
     - deepgram
     - zapier
     - doctolib
+    - toogoodtogo
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
