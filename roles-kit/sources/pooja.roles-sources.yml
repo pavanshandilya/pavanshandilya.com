@@ -1,4 +1,4 @@
-generated_at: 2026-07-31T18:51:19.672Z
+generated_at: 2026-08-01T18:29:41.019Z
 explicit:
   company_names:
     - SAP
@@ -309,6 +309,15 @@ discovered:
     - alphapet-ventures
     - partspace
     - toogoodtogo
+    - westwing
+    - q-energy
+    - flatpay
+    - workato
+    - chaos
+    - 1komma5grad
+    - userlane
+    - neoom
+    - beyondtrust
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -630,6 +639,18 @@ discovered:
     - https://alphapet-ventures.jobs.personio.com/xml
     - https://partspace.jobs.personio.de/xml
     - https://partspace.jobs.personio.com/xml
+    - https://westwing.jobs.personio.de/xml
+    - https://westwing.jobs.personio.com/xml
+    - https://q-energy.jobs.personio.de/xml
+    - https://q-energy.jobs.personio.com/xml
+    - https://flatpay.jobs.personio.de/xml
+    - https://flatpay.jobs.personio.com/xml
+    - https://1komma5grad.jobs.personio.de/xml
+    - https://1komma5grad.jobs.personio.com/xml
+    - https://userlane.jobs.personio.de/xml
+    - https://userlane.jobs.personio.com/xml
+    - https://neoom.jobs.personio.de/xml
+    - https://neoom.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -658,6 +679,8 @@ discovered:
     - clinchoice
     - fase
     - newrelic
+    - workato
+    - beyondtrust
   teamtailor_companies: []
   recruitee_companies:
     - sendcloud
@@ -708,6 +731,7 @@ discovered:
     - scholarshipowl
     - wppmedia
     - framestore
+    - chaos
   ashby_organizations:
     - telus-digital
     - a-team
