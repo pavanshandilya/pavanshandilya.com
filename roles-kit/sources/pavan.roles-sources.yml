@@ -1,4 +1,4 @@
-generated_at: 2026-08-01T18:28:01.013Z
+generated_at: 2026-08-02T18:28:34.791Z
 explicit:
   company_names:
     - SAP
@@ -323,6 +323,26 @@ discovered:
     - userlane
     - neoom
     - beyondtrust
+    - flh
+    - melotech
+    - eye-security
+    - carwow
+    - leapsome
+    - illumio
+    - zip
+    - bliro
+    - lemon-markets
+    - horizon3ai
+    - litmus
+    - mapbox
+    - siteminder
+    - moss
+    - multiplier-holdings
+    - gismart
+    - openai
+    - share
+    - 3e
+    - watershed
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -656,6 +676,10 @@ discovered:
     - https://userlane.jobs.personio.com/xml
     - https://neoom.jobs.personio.de/xml
     - https://neoom.jobs.personio.com/xml
+    - https://flh.jobs.personio.de/xml
+    - https://flh.jobs.personio.com/xml
+    - https://lemon-markets.jobs.personio.de/xml
+    - https://lemon-markets.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -686,6 +710,8 @@ discovered:
     - newrelic
     - workato
     - beyondtrust
+    - siteminder
+    - lingraphica
   teamtailor_companies: []
   recruitee_companies:
     - sendcloud
@@ -737,6 +763,7 @@ discovered:
     - wppmedia
     - framestore
     - chaos
+    - share
   ashby_organizations:
     - telus-digital
     - a-team
@@ -804,6 +831,25 @@ discovered:
     - zapier
     - doctolib
     - toogoodtogo
+    - melotech
+    - eye-security
+    - carwow
+    - leapsome
+    - illumio
+    - zip
+    - bliro
+    - lemon-markets
+    - horizon3ai
+    - litmus
+    - mapbox
+    - siteminder
+    - moss
+    - multiplier-holdings
+    - gismart
+    - openai
+    - share
+    - 3e
+    - watershed
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
