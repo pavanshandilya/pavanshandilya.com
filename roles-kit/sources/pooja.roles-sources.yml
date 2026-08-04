@@ -1,4 +1,4 @@
-generated_at: 2026-08-03T19:02:38.177Z
+generated_at: 2026-08-04T19:04:18.071Z
 explicit:
   company_names:
     - SAP
@@ -350,6 +350,24 @@ discovered:
     - hirehire
     - omnea
     - sanity
+    - vrey
+    - amboss
+    - sunday-natural
+    - almedia
+    - sosafe
+    - workerbase
+    - clera
+    - absorblms
+    - relationrx
+    - parity
+    - netholabs
+    - foresightdatamachines
+    - taptapsend
+    - legal-500
+    - mercor
+    - adthena
+    - investa
+    - sierra
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -689,6 +707,8 @@ discovered:
     - https://lemon-markets.jobs.personio.com/xml
     - https://acture-germany.jobs.personio.de/xml
     - https://acture-germany.jobs.personio.com/xml
+    - https://investa.jobs.personio.de/xml
+    - https://investa.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -870,6 +890,24 @@ discovered:
     - hirehire
     - omnea
     - sanity
+    - vrey
+    - amboss
+    - sunday-natural
+    - almedia
+    - sosafe
+    - workerbase
+    - clera
+    - absorblms
+    - relationrx
+    - parity
+    - netholabs
+    - foresightdatamachines
+    - taptapsend
+    - legal-500
+    - mercor
+    - adthena
+    - investa
+    - sierra
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
