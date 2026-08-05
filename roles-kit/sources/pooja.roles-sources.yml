@@ -1,4 +1,4 @@
-generated_at: 2026-08-04T19:04:18.071Z
+generated_at: 2026-08-05T19:02:27.554Z
 explicit:
   company_names:
     - SAP
@@ -368,6 +368,26 @@ discovered:
     - adthena
     - investa
     - sierra
+    - robco
+    - satispay
+    - legora
+    - trawa
+    - rapid-data
+    - planqc-gmbh
+    - bit-consulting
+    - rivada-space-networks-gmbh
+    - stackfuel
+    - voize
+    - kayak
+    - neoshare
+    - spotmyenergy
+    - holoplot
+    - timetoact-group
+    - auxmoney-gmbh
+    - lovable
+    - airwallex
+    - faculty
+    - cartesia
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -709,6 +729,26 @@ discovered:
     - https://acture-germany.jobs.personio.com/xml
     - https://investa.jobs.personio.de/xml
     - https://investa.jobs.personio.com/xml
+    - https://rapid-data.jobs.personio.de/xml
+    - https://rapid-data.jobs.personio.com/xml
+    - https://planqc-gmbh.jobs.personio.de/xml
+    - https://planqc-gmbh.jobs.personio.com/xml
+    - https://bit-consulting.jobs.personio.de/xml
+    - https://bit-consulting.jobs.personio.com/xml
+    - https://rivada-space-networks-gmbh.jobs.personio.de/xml
+    - https://rivada-space-networks-gmbh.jobs.personio.com/xml
+    - https://voize.jobs.personio.de/xml
+    - https://voize.jobs.personio.com/xml
+    - https://neoshare.jobs.personio.de/xml
+    - https://neoshare.jobs.personio.com/xml
+    - https://spotmyenergy.jobs.personio.de/xml
+    - https://spotmyenergy.jobs.personio.com/xml
+    - https://holoplot.jobs.personio.de/xml
+    - https://holoplot.jobs.personio.com/xml
+    - https://timetoact-group.jobs.personio.de/xml
+    - https://timetoact-group.jobs.personio.com/xml
+    - https://auxmoney-gmbh.jobs.personio.de/xml
+    - https://auxmoney-gmbh.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -908,6 +948,18 @@ discovered:
     - adthena
     - investa
     - sierra
+    - robco
+    - satispay
+    - legora
+    - trawa
+    - stackfuel
+    - voize
+    - kayak
+    - lovable
+    - airwallex
+    - faculty
+    - cartesia
+    - quantexa
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
