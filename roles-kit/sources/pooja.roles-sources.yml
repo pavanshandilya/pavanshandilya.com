@@ -1,4 +1,4 @@
-generated_at: 2026-08-05T19:02:27.554Z
+generated_at: 2026-08-07T18:12:09.191Z
 explicit:
   company_names:
     - SAP
@@ -388,6 +388,18 @@ discovered:
     - airwallex
     - faculty
     - cartesia
+    - bunch
+    - imk-management-services-gmbh
+    - writer
+    - ben
+    - deliveroo
+    - unmind
+    - unity-advisory
+    - shield-ai
+    - ankar
+    - multiverse
+    - cloudscaler
+    - xyz-reality
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -749,6 +761,10 @@ discovered:
     - https://timetoact-group.jobs.personio.com/xml
     - https://auxmoney-gmbh.jobs.personio.de/xml
     - https://auxmoney-gmbh.jobs.personio.com/xml
+    - https://bunch.jobs.personio.de/xml
+    - https://bunch.jobs.personio.com/xml
+    - https://imk-management-services-gmbh.jobs.personio.de/xml
+    - https://imk-management-services-gmbh.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -960,6 +976,17 @@ discovered:
     - faculty
     - cartesia
     - quantexa
+    - bunch
+    - writer
+    - ben
+    - deliveroo
+    - unmind
+    - unity-advisory
+    - shield-ai
+    - ankar
+    - multiverse
+    - cloudscaler
+    - xyz-reality
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
