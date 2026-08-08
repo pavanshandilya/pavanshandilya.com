@@ -1,4 +1,4 @@
-generated_at: 2026-08-07T18:12:09.191Z
+generated_at: 2026-08-08T17:56:15.310Z
 explicit:
   company_names:
     - SAP
@@ -400,6 +400,16 @@ discovered:
     - multiverse
     - cloudscaler
     - xyz-reality
+    - stark
+    - omaze
+    - anyone-ai
+    - constructor
+    - ionity-gmbh
+    - andela
+    - flock
+    - hawkeyeinnovations
+    - quantum
+    - double
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -765,6 +775,10 @@ discovered:
     - https://bunch.jobs.personio.com/xml
     - https://imk-management-services-gmbh.jobs.personio.de/xml
     - https://imk-management-services-gmbh.jobs.personio.com/xml
+    - https://stark.jobs.personio.de/xml
+    - https://stark.jobs.personio.com/xml
+    - https://ionity-gmbh.jobs.personio.de/xml
+    - https://ionity-gmbh.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -987,6 +1001,14 @@ discovered:
     - multiverse
     - cloudscaler
     - xyz-reality
+    - omaze
+    - anyone-ai
+    - constructor
+    - andela
+    - flock
+    - hawkeyeinnovations
+    - quantum
+    - double
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
