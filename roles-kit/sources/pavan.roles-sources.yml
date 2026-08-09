@@ -1,4 +1,4 @@
-generated_at: 2026-08-08T17:54:29.571Z
+generated_at: 2026-08-09T17:55:02.513Z
 explicit:
   company_names:
     - SAP
@@ -415,6 +415,25 @@ discovered:
     - hawkeyeinnovations
     - quantum
     - double
+    - flinn
+    - cosuno
+    - vclusterlabs
+    - tacto
+    - navflex
+    - klickpiloten
+    - travelcircus
+    - bettermarks
+    - michael-wessel
+    - deepl
+    - aios
+    - gus
+    - bettermile
+    - sandboxaq
+    - aptura
+    - clipboard
+    - buah
+    - industrious
+    - lightspeedhq
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -784,6 +803,22 @@ discovered:
     - https://stark.jobs.personio.com/xml
     - https://ionity-gmbh.jobs.personio.de/xml
     - https://ionity-gmbh.jobs.personio.com/xml
+    - https://cosuno.jobs.personio.de/xml
+    - https://cosuno.jobs.personio.com/xml
+    - https://klickpiloten.jobs.personio.de/xml
+    - https://klickpiloten.jobs.personio.com/xml
+    - https://travelcircus.jobs.personio.de/xml
+    - https://travelcircus.jobs.personio.com/xml
+    - https://bettermarks.jobs.personio.de/xml
+    - https://bettermarks.jobs.personio.com/xml
+    - https://michael-wessel.jobs.personio.de/xml
+    - https://michael-wessel.jobs.personio.com/xml
+    - https://aios.jobs.personio.de/xml
+    - https://aios.jobs.personio.com/xml
+    - https://gus.jobs.personio.de/xml
+    - https://gus.jobs.personio.com/xml
+    - https://buah.jobs.personio.de/xml
+    - https://buah.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -1014,6 +1049,19 @@ discovered:
     - hawkeyeinnovations
     - quantum
     - double
+    - flinn
+    - cosuno
+    - vclusterlabs
+    - tacto
+    - navflex
+    - deepl
+    - aios
+    - bettermile
+    - sandboxaq
+    - aptura
+    - clipboard
+    - industrious
+    - lightspeedhq
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
