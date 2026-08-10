@@ -1,4 +1,4 @@
-generated_at: 2026-08-09T17:56:56.113Z
+generated_at: 2026-08-10T18:12:13.209Z
 explicit:
   company_names:
     - SAP
@@ -429,6 +429,18 @@ discovered:
     - buah
     - industrious
     - lightspeedhq
+    - oper
+    - enpal
+    - id1
+    - adsquare
+    - doehle
+    - trusteq-gmbh
+    - hygh
+    - mamahealth
+    - dedicom
+    - hasenkamp
+    - conveo
+    - loveholidays
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -814,6 +826,24 @@ discovered:
     - https://gus.jobs.personio.com/xml
     - https://buah.jobs.personio.de/xml
     - https://buah.jobs.personio.com/xml
+    - https://oper.jobs.personio.de/xml
+    - https://oper.jobs.personio.com/xml
+    - https://id1.jobs.personio.de/xml
+    - https://id1.jobs.personio.com/xml
+    - https://adsquare.jobs.personio.de/xml
+    - https://adsquare.jobs.personio.com/xml
+    - https://doehle.jobs.personio.de/xml
+    - https://doehle.jobs.personio.com/xml
+    - https://trusteq-gmbh.jobs.personio.de/xml
+    - https://trusteq-gmbh.jobs.personio.com/xml
+    - https://hygh.jobs.personio.de/xml
+    - https://hygh.jobs.personio.com/xml
+    - https://mamahealth.jobs.personio.de/xml
+    - https://mamahealth.jobs.personio.com/xml
+    - https://dedicom.jobs.personio.de/xml
+    - https://dedicom.jobs.personio.com/xml
+    - https://hasenkamp.jobs.personio.de/xml
+    - https://hasenkamp.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -1057,6 +1087,9 @@ discovered:
     - clipboard
     - industrious
     - lightspeedhq
+    - enpal
+    - conveo
+    - loveholidays
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
