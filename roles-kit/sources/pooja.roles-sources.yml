@@ -1,4 +1,4 @@
-generated_at: 2026-08-10T18:12:13.209Z
+generated_at: 2026-08-11T18:16:49.691Z
 explicit:
   company_names:
     - SAP
@@ -441,6 +441,19 @@ discovered:
     - hasenkamp
     - conveo
     - loveholidays
+    - camunda
+    - galvany
+    - zenjob
+    - remberg
+    - the-exploration-company
+    - limehome
+    - virtual-solution-ag
+    - lasting-brands-gmbh
+    - vogel
+    - telli
+    - certa
+    - raysono
+    - voleon
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -844,6 +857,16 @@ discovered:
     - https://dedicom.jobs.personio.com/xml
     - https://hasenkamp.jobs.personio.de/xml
     - https://hasenkamp.jobs.personio.com/xml
+    - https://galvany.jobs.personio.de/xml
+    - https://galvany.jobs.personio.com/xml
+    - https://limehome.jobs.personio.de/xml
+    - https://limehome.jobs.personio.com/xml
+    - https://virtual-solution-ag.jobs.personio.de/xml
+    - https://virtual-solution-ag.jobs.personio.com/xml
+    - https://lasting-brands-gmbh.jobs.personio.de/xml
+    - https://lasting-brands-gmbh.jobs.personio.com/xml
+    - https://raysono.jobs.personio.de/xml
+    - https://raysono.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -928,6 +951,7 @@ discovered:
     - framestore
     - chaos
     - share
+    - limehome
   ashby_organizations:
     - telus-digital
     - a-team
@@ -1090,6 +1114,15 @@ discovered:
     - enpal
     - conveo
     - loveholidays
+    - camunda
+    - galvany
+    - zenjob
+    - remberg
+    - the-exploration-company
+    - vogel
+    - telli
+    - certa
+    - voleon
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
