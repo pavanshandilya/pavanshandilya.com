@@ -1,4 +1,4 @@
-generated_at: 2026-08-12T18:15:38.564Z
+generated_at: 2026-08-13T18:17:09.676Z
 explicit:
   company_names:
     - SAP
@@ -461,6 +461,12 @@ discovered:
     - the-rec-hub
     - gravity9
     - vivid
+    - wire-1
+    - lupp-partner
+    - wordsmith
+    - mutabor
+    - platoapp
+    - open-xchange-gmbh
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -876,6 +882,16 @@ discovered:
     - https://raysono.jobs.personio.com/xml
     - https://vivid.jobs.personio.de/xml
     - https://vivid.jobs.personio.com/xml
+    - https://wire-1.jobs.personio.de/xml
+    - https://wire-1.jobs.personio.com/xml
+    - https://lupp-partner.jobs.personio.de/xml
+    - https://lupp-partner.jobs.personio.com/xml
+    - https://mutabor.jobs.personio.de/xml
+    - https://mutabor.jobs.personio.com/xml
+    - https://platoapp.jobs.personio.de/xml
+    - https://platoapp.jobs.personio.com/xml
+    - https://open-xchange-gmbh.jobs.personio.de/xml
+    - https://open-xchange-gmbh.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -1139,6 +1155,7 @@ discovered:
     - saltz
     - the-rec-hub
     - vivid
+    - wordsmith
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
