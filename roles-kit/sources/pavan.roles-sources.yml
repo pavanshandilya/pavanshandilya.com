@@ -1,4 +1,4 @@
-generated_at: 2026-08-14T18:12:23.838Z
+generated_at: 2026-08-15T17:42:41.999Z
 explicit:
   company_names:
     - SAP
@@ -477,6 +477,26 @@ discovered:
     - yepoda
     - brandung
     - suitepad
+    - statista
+    - urano
+    - edri
+    - kalo-vor-ort
+    - steadforce
+    - envelio
+    - armedangels
+    - maxsolar
+    - vestigas
+    - aampere
+    - teliogroup
+    - fsc
+    - holy
+    - eqs-group
+    - neko-health
+    - flatrock
+    - keyrock
+    - metaview
+    - escape
+    - lyrebird-health
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -906,6 +926,26 @@ discovered:
     - https://brandung.jobs.personio.com/xml
     - https://suitepad.jobs.personio.de/xml
     - https://suitepad.jobs.personio.com/xml
+    - https://urano.jobs.personio.de/xml
+    - https://urano.jobs.personio.com/xml
+    - https://edri.jobs.personio.de/xml
+    - https://edri.jobs.personio.com/xml
+    - https://kalo-vor-ort.jobs.personio.de/xml
+    - https://kalo-vor-ort.jobs.personio.com/xml
+    - https://steadforce.jobs.personio.de/xml
+    - https://steadforce.jobs.personio.com/xml
+    - https://envelio.jobs.personio.de/xml
+    - https://envelio.jobs.personio.com/xml
+    - https://armedangels.jobs.personio.de/xml
+    - https://armedangels.jobs.personio.com/xml
+    - https://maxsolar.jobs.personio.de/xml
+    - https://maxsolar.jobs.personio.com/xml
+    - https://vestigas.jobs.personio.de/xml
+    - https://vestigas.jobs.personio.com/xml
+    - https://aampere.jobs.personio.de/xml
+    - https://aampere.jobs.personio.com/xml
+    - https://teliogroup.jobs.personio.de/xml
+    - https://teliogroup.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -993,6 +1033,7 @@ discovered:
     - limehome
     - rewire
     - gravity9
+    - escape
   ashby_organizations:
     - telus-digital
     - a-team
@@ -1173,6 +1214,16 @@ discovered:
     - aurorasolar
     - mollie
     - yepoda
+    - statista
+    - neko-health
+    - keyrock
+    - metaview
+    - escape
+    - lyrebird-health
+    - kyra
+    - fundingcircle
+    - pmmalliance
+    - decagon
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
