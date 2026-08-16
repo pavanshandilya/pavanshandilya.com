@@ -1,4 +1,4 @@
-generated_at: 2026-08-15T17:42:41.999Z
+generated_at: 2026-08-16T17:42:04.612Z
 explicit:
   company_names:
     - SAP
@@ -497,6 +497,26 @@ discovered:
     - metaview
     - escape
     - lyrebird-health
+    - ratepay
+    - stp-one
+    - greenwind-group
+    - wattfox
+    - bikeleasing
+    - metro-markets-gmbh
+    - yoummday-gmbh
+    - furo
+    - applied
+    - fuchs-eule
+    - sanovio
+    - integral-de
+    - gambit
+    - adjoe
+    - lilt-production
+    - hoppe-marine-gmbh
+    - xitaso
+    - feld-m
+    - unitelabs
+    - adclear
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -946,6 +966,26 @@ discovered:
     - https://aampere.jobs.personio.com/xml
     - https://teliogroup.jobs.personio.de/xml
     - https://teliogroup.jobs.personio.com/xml
+    - https://ratepay.jobs.personio.de/xml
+    - https://ratepay.jobs.personio.com/xml
+    - https://stp-one.jobs.personio.de/xml
+    - https://stp-one.jobs.personio.com/xml
+    - https://greenwind-group.jobs.personio.de/xml
+    - https://greenwind-group.jobs.personio.com/xml
+    - https://wattfox.jobs.personio.de/xml
+    - https://wattfox.jobs.personio.com/xml
+    - https://bikeleasing.jobs.personio.de/xml
+    - https://bikeleasing.jobs.personio.com/xml
+    - https://metro-markets-gmbh.jobs.personio.de/xml
+    - https://metro-markets-gmbh.jobs.personio.com/xml
+    - https://yoummday-gmbh.jobs.personio.de/xml
+    - https://yoummday-gmbh.jobs.personio.com/xml
+    - https://fuchs-eule.jobs.personio.de/xml
+    - https://fuchs-eule.jobs.personio.com/xml
+    - https://gambit.jobs.personio.de/xml
+    - https://gambit.jobs.personio.com/xml
+    - https://hoppe-marine-gmbh.jobs.personio.de/xml
+    - https://hoppe-marine-gmbh.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -1224,6 +1264,22 @@ discovered:
     - fundingcircle
     - pmmalliance
     - decagon
+    - furo
+    - applied
+    - sanovio
+    - integral-de
+    - adjoe
+    - lilt-production
+    - adclear
+    - paymentology
+    - comind
+    - pleo
+    - trainline
+    - midnite
+    - harvey
+    - livekit
+    - lilt-corporate
+    - dex
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
