@@ -1,4 +1,4 @@
-generated_at: 2026-08-16T17:50:00.282Z
+generated_at: 2026-08-17T17:55:20.621Z
 explicit:
   company_names:
     - SAP
@@ -512,6 +512,15 @@ discovered:
     - feld-m
     - unitelabs
     - adclear
+    - almetra
+    - ecdb-gmbh-latest
+    - mway
+    - quantum-diamond
+    - doonails
+    - fincite-gmbh
+    - meierhofer
+    - q-ant-gmbh
+    - exegy
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -981,6 +990,20 @@ discovered:
     - https://gambit.jobs.personio.com/xml
     - https://hoppe-marine-gmbh.jobs.personio.de/xml
     - https://hoppe-marine-gmbh.jobs.personio.com/xml
+    - https://ecdb-gmbh-latest.jobs.personio.de/xml
+    - https://ecdb-gmbh-latest.jobs.personio.com/xml
+    - https://mway.jobs.personio.de/xml
+    - https://mway.jobs.personio.com/xml
+    - https://quantum-diamond.jobs.personio.de/xml
+    - https://quantum-diamond.jobs.personio.com/xml
+    - https://doonails.jobs.personio.de/xml
+    - https://doonails.jobs.personio.com/xml
+    - https://fincite-gmbh.jobs.personio.de/xml
+    - https://fincite-gmbh.jobs.personio.com/xml
+    - https://meierhofer.jobs.personio.de/xml
+    - https://meierhofer.jobs.personio.com/xml
+    - https://q-ant-gmbh.jobs.personio.de/xml
+    - https://q-ant-gmbh.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -1275,6 +1298,8 @@ discovered:
     - livekit
     - lilt-corporate
     - dex
+    - almetra
+    - exegy
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
