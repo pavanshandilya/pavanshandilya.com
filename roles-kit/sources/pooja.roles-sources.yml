@@ -1,4 +1,4 @@
-generated_at: 2026-08-17T17:55:20.621Z
+generated_at: 2026-08-19T17:51:40.393Z
 explicit:
   company_names:
     - SAP
@@ -521,6 +521,17 @@ discovered:
     - meierhofer
     - q-ant-gmbh
     - exegy
+    - linro
+    - thorit
+    - dezernat-zukunft
+    - niboline-gmbh
+    - talos-trading
+    - motorway
+    - axle-careers
+    - kota
+    - rillet
+    - cohere
+    - heim
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -1004,6 +1015,12 @@ discovered:
     - https://meierhofer.jobs.personio.com/xml
     - https://q-ant-gmbh.jobs.personio.de/xml
     - https://q-ant-gmbh.jobs.personio.com/xml
+    - https://thorit.jobs.personio.de/xml
+    - https://thorit.jobs.personio.com/xml
+    - https://dezernat-zukunft.jobs.personio.de/xml
+    - https://dezernat-zukunft.jobs.personio.com/xml
+    - https://niboline-gmbh.jobs.personio.de/xml
+    - https://niboline-gmbh.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -1092,6 +1109,8 @@ discovered:
     - rewire
     - gravity9
     - escape
+    - thorit
+    - heim
   ashby_organizations:
     - telus-digital
     - a-team
@@ -1300,6 +1319,14 @@ discovered:
     - dex
     - almetra
     - exegy
+    - linro
+    - thorit
+    - talos-trading
+    - motorway
+    - axle-careers
+    - kota
+    - rillet
+    - cohere
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
