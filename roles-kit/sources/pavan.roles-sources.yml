@@ -1,4 +1,4 @@
-generated_at: 2026-08-19T17:48:30.090Z
+generated_at: 2026-08-20T17:53:49.344Z
 explicit:
   company_names:
     - SAP
@@ -536,6 +536,20 @@ discovered:
     - kota
     - rillet
     - cohere
+    - luminovo
+    - workidentity
+    - arsipa-gmbh
+    - rebuy
+    - neumeier-ag
+    - eraneos
+    - creatoriq
+    - lemfi
+    - jellyfish
+    - arcticrd
+    - algo1
+    - fonio
+    - callosum
+    - freetrade
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -1025,6 +1039,14 @@ discovered:
     - https://dezernat-zukunft.jobs.personio.com/xml
     - https://niboline-gmbh.jobs.personio.de/xml
     - https://niboline-gmbh.jobs.personio.com/xml
+    - https://workidentity.jobs.personio.de/xml
+    - https://workidentity.jobs.personio.com/xml
+    - https://arsipa-gmbh.jobs.personio.de/xml
+    - https://arsipa-gmbh.jobs.personio.com/xml
+    - https://neumeier-ag.jobs.personio.de/xml
+    - https://neumeier-ag.jobs.personio.com/xml
+    - https://eraneos.jobs.personio.de/xml
+    - https://eraneos.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -1114,6 +1136,7 @@ discovered:
     - gravity9
     - escape
     - thorit
+    - rebuy
   ashby_organizations:
     - telus-digital
     - a-team
@@ -1330,6 +1353,16 @@ discovered:
     - kota
     - rillet
     - cohere
+    - luminovo
+    - rebuy
+    - creatoriq
+    - lemfi
+    - jellyfish
+    - arcticrd
+    - algo1
+    - fonio
+    - callosum
+    - freetrade
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
