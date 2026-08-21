@@ -1,4 +1,4 @@
-generated_at: 2026-08-20T17:55:58.817Z
+generated_at: 2026-08-21T17:57:15.004Z
 explicit:
   company_names:
     - SAP
@@ -545,6 +545,21 @@ discovered:
     - algo1
     - fonio
     - callosum
+    - deltavision
+    - peakpeak
+    - eorbit-gmbh
+    - bitcap
+    - pmone
+    - phrase
+    - swap
+    - m-kopa
+    - cube
+    - vanta
+    - fullstory
+    - smarkets
+    - siena
+    - leovegasgroup
+    - ema
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -1042,6 +1057,20 @@ discovered:
     - https://neumeier-ag.jobs.personio.com/xml
     - https://eraneos.jobs.personio.de/xml
     - https://eraneos.jobs.personio.com/xml
+    - https://deltavision.jobs.personio.de/xml
+    - https://deltavision.jobs.personio.com/xml
+    - https://peakpeak.jobs.personio.de/xml
+    - https://peakpeak.jobs.personio.com/xml
+    - https://eorbit-gmbh.jobs.personio.de/xml
+    - https://eorbit-gmbh.jobs.personio.com/xml
+    - https://bitcap.jobs.personio.de/xml
+    - https://bitcap.jobs.personio.com/xml
+    - https://pmone.jobs.personio.de/xml
+    - https://pmone.jobs.personio.com/xml
+    - https://phrase.jobs.personio.de/xml
+    - https://phrase.jobs.personio.com/xml
+    - https://smarkets.jobs.personio.de/xml
+    - https://smarkets.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -1358,6 +1387,16 @@ discovered:
     - algo1
     - fonio
     - callosum
+    - phrase
+    - swap
+    - m-kopa
+    - cube
+    - vanta
+    - fullstory
+    - smarkets
+    - siena
+    - leovegasgroup
+    - ema
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
