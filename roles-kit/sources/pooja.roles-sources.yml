@@ -1,4 +1,4 @@
-generated_at: 2026-08-21T17:57:15.004Z
+generated_at: 2026-08-22T17:46:03.728Z
 explicit:
   company_names:
     - SAP
@@ -560,6 +560,26 @@ discovered:
     - siena
     - leovegasgroup
     - ema
+    - iwell
+    - proteros-biostructures-gmbh
+    - dmrz
+    - black-forest-labs
+    - berlitz
+    - gotphoto
+    - liqid-lig
+    - tonies
+    - hypatos-gmbh
+    - swissbit
+    - qplix
+    - visiolab
+    - certivity
+    - asgoodasnew-electronics-gmbh
+    - rebike-mobility
+    - promos-consult-gmbh
+    - empit
+    - dci
+    - foundational
+    - healf
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -1071,6 +1091,26 @@ discovered:
     - https://phrase.jobs.personio.com/xml
     - https://smarkets.jobs.personio.de/xml
     - https://smarkets.jobs.personio.com/xml
+    - https://proteros-biostructures-gmbh.jobs.personio.de/xml
+    - https://proteros-biostructures-gmbh.jobs.personio.com/xml
+    - https://dmrz.jobs.personio.de/xml
+    - https://dmrz.jobs.personio.com/xml
+    - https://tonies.jobs.personio.de/xml
+    - https://tonies.jobs.personio.com/xml
+    - https://hypatos-gmbh.jobs.personio.de/xml
+    - https://hypatos-gmbh.jobs.personio.com/xml
+    - https://swissbit.jobs.personio.de/xml
+    - https://swissbit.jobs.personio.com/xml
+    - https://qplix.jobs.personio.de/xml
+    - https://qplix.jobs.personio.com/xml
+    - https://visiolab.jobs.personio.de/xml
+    - https://visiolab.jobs.personio.com/xml
+    - https://certivity.jobs.personio.de/xml
+    - https://certivity.jobs.personio.com/xml
+    - https://asgoodasnew-electronics-gmbh.jobs.personio.de/xml
+    - https://asgoodasnew-electronics-gmbh.jobs.personio.com/xml
+    - https://rebike-mobility.jobs.personio.de/xml
+    - https://rebike-mobility.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -1103,6 +1143,7 @@ discovered:
     - beyondtrust
     - siteminder
     - lingraphica
+    - dci
   teamtailor_companies: []
   recruitee_companies:
     - sendcloud
@@ -1162,6 +1203,8 @@ discovered:
     - thorit
     - heim
     - rebuy
+    - iwell
+    - dualentry
   ashby_organizations:
     - telus-digital
     - a-team
@@ -1397,6 +1440,18 @@ discovered:
     - siena
     - leovegasgroup
     - ema
+    - black-forest-labs
+    - berlitz
+    - gotphoto
+    - liqid-lig
+    - tonies
+    - foundational
+    - healf
+    - checkly
+    - dualentry
+    - everfield
+    - flagstone
+    - encord
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
