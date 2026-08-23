@@ -1,4 +1,4 @@
-generated_at: 2026-08-22T17:46:03.728Z
+generated_at: 2026-08-23T17:44:48.450Z
 explicit:
   company_names:
     - SAP
@@ -580,6 +580,26 @@ discovered:
     - dci
     - foundational
     - healf
+    - xibix-solutions-gmbh
+    - yoursquares
+    - piabo
+    - appliedai
+    - semdor-pharma-group-gmbh
+    - mawave-marketing-gmbh
+    - vulcan-energie-ressourcen-gmbh
+    - getpress-gmbh
+    - contabo
+    - aam2core-holding-ag
+    - autonomous-teaming
+    - socialimpact
+    - invesdor
+    - sereni-deutschland-gmbh
+    - transfermarkt
+    - projecttogether-ggmbh
+    - prematch-sports-gmbh
+    - ee-fabrik
+    - spaitial
+    - plexal
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -1111,6 +1131,26 @@ discovered:
     - https://asgoodasnew-electronics-gmbh.jobs.personio.com/xml
     - https://rebike-mobility.jobs.personio.de/xml
     - https://rebike-mobility.jobs.personio.com/xml
+    - https://xibix-solutions-gmbh.jobs.personio.de/xml
+    - https://xibix-solutions-gmbh.jobs.personio.com/xml
+    - https://yoursquares.jobs.personio.de/xml
+    - https://yoursquares.jobs.personio.com/xml
+    - https://piabo.jobs.personio.de/xml
+    - https://piabo.jobs.personio.com/xml
+    - https://appliedai.jobs.personio.de/xml
+    - https://appliedai.jobs.personio.com/xml
+    - https://semdor-pharma-group-gmbh.jobs.personio.de/xml
+    - https://semdor-pharma-group-gmbh.jobs.personio.com/xml
+    - https://mawave-marketing-gmbh.jobs.personio.de/xml
+    - https://mawave-marketing-gmbh.jobs.personio.com/xml
+    - https://vulcan-energie-ressourcen-gmbh.jobs.personio.de/xml
+    - https://vulcan-energie-ressourcen-gmbh.jobs.personio.com/xml
+    - https://getpress-gmbh.jobs.personio.de/xml
+    - https://getpress-gmbh.jobs.personio.com/xml
+    - https://contabo.jobs.personio.de/xml
+    - https://contabo.jobs.personio.com/xml
+    - https://aam2core-holding-ag.jobs.personio.de/xml
+    - https://aam2core-holding-ag.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -1144,6 +1184,7 @@ discovered:
     - siteminder
     - lingraphica
     - dci
+    - socialimpact
   teamtailor_companies: []
   recruitee_companies:
     - sendcloud
@@ -1452,6 +1493,10 @@ discovered:
     - everfield
     - flagstone
     - encord
+    - spaitial
+    - rocketsciencegg
+    - influxdata
+    - paires
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
