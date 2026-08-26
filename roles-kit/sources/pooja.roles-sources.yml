@@ -1,4 +1,4 @@
-generated_at: 2026-08-25T17:57:43.463Z
+generated_at: 2026-08-26T19:33:17.332Z
 explicit:
   company_names:
     - SAP
@@ -622,6 +622,26 @@ discovered:
     - omos-media-gmbh
     - lio
     - natuvion-gmbh
+    - mayflower
+    - allbranded
+    - zebragroup
+    - neuplaner
+    - yoummday
+    - munich-electrification
+    - prior-labs
+    - 3st-kommunikation
+    - ifblueprint
+    - nuuenergy
+    - fraser-gmbh
+    - ess-energy-sales-services-gmbh
+    - synvert
+    - ahead
+    - fairconsult-247-gmbh
+    - and-e
+    - tawo-gmbh
+    - athereon
+    - feld-energy
+    - drive-consulting
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -1203,6 +1223,26 @@ discovered:
     - https://omos-media-gmbh.jobs.personio.com/xml
     - https://natuvion-gmbh.jobs.personio.de/xml
     - https://natuvion-gmbh.jobs.personio.com/xml
+    - https://mayflower.jobs.personio.de/xml
+    - https://mayflower.jobs.personio.com/xml
+    - https://allbranded.jobs.personio.de/xml
+    - https://allbranded.jobs.personio.com/xml
+    - https://zebragroup.jobs.personio.de/xml
+    - https://zebragroup.jobs.personio.com/xml
+    - https://neuplaner.jobs.personio.de/xml
+    - https://neuplaner.jobs.personio.com/xml
+    - https://3st-kommunikation.jobs.personio.de/xml
+    - https://3st-kommunikation.jobs.personio.com/xml
+    - https://ifblueprint.jobs.personio.de/xml
+    - https://ifblueprint.jobs.personio.com/xml
+    - https://nuuenergy.jobs.personio.de/xml
+    - https://nuuenergy.jobs.personio.com/xml
+    - https://fraser-gmbh.jobs.personio.de/xml
+    - https://fraser-gmbh.jobs.personio.com/xml
+    - https://ess-energy-sales-services-gmbh.jobs.personio.de/xml
+    - https://ess-energy-sales-services-gmbh.jobs.personio.com/xml
+    - https://synvert.jobs.personio.de/xml
+    - https://synvert.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -1299,6 +1339,8 @@ discovered:
     - iwell
     - dualentry
     - powerprozesse
+    - mayflower
+    - emplyfy
   ashby_organizations:
     - telus-digital
     - a-team
@@ -1556,6 +1598,11 @@ discovered:
     - docker
     - plaud
     - lio
+    - yoummday
+    - munich-electrification
+    - prior-labs
+    - radiant
+    - odin
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
