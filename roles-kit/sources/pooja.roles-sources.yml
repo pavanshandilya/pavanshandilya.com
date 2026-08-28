@@ -1,4 +1,4 @@
-generated_at: 2026-08-26T19:33:17.332Z
+generated_at: 2026-08-28T01:39:27.796Z
 explicit:
   company_names:
     - SAP
@@ -642,6 +642,25 @@ discovered:
     - athereon
     - feld-energy
     - drive-consulting
+    - codeway
+    - pergolux
+    - start2
+    - pixxio
+    - salonkee
+    - pro-samed
+    - stapelstein
+    - wirtschaftsrat-der-cdu-e-v
+    - carbmee
+    - matrix42
+    - tandem
+    - vp-verbund-pflegehilfe-gmbh
+    - tentamus
+    - ocumeda-ag
+    - tablemedia
+    - vrame-consult-gmbh
+    - nearform
+    - trading212
+    - attio
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -1243,6 +1262,26 @@ discovered:
     - https://ess-energy-sales-services-gmbh.jobs.personio.com/xml
     - https://synvert.jobs.personio.de/xml
     - https://synvert.jobs.personio.com/xml
+    - https://pergolux.jobs.personio.de/xml
+    - https://pergolux.jobs.personio.com/xml
+    - https://start2.jobs.personio.de/xml
+    - https://start2.jobs.personio.com/xml
+    - https://pixxio.jobs.personio.de/xml
+    - https://pixxio.jobs.personio.com/xml
+    - https://pro-samed.jobs.personio.de/xml
+    - https://pro-samed.jobs.personio.com/xml
+    - https://stapelstein.jobs.personio.de/xml
+    - https://stapelstein.jobs.personio.com/xml
+    - https://wirtschaftsrat-der-cdu-e-v.jobs.personio.de/xml
+    - https://wirtschaftsrat-der-cdu-e-v.jobs.personio.com/xml
+    - https://carbmee.jobs.personio.de/xml
+    - https://carbmee.jobs.personio.com/xml
+    - https://matrix42.jobs.personio.de/xml
+    - https://matrix42.jobs.personio.com/xml
+    - https://tandem.jobs.personio.de/xml
+    - https://tandem.jobs.personio.com/xml
+    - https://vp-verbund-pflegehilfe-gmbh.jobs.personio.de/xml
+    - https://vp-verbund-pflegehilfe-gmbh.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -1277,6 +1316,7 @@ discovered:
     - lingraphica
     - dci
     - socialimpact
+    - nearform
   teamtailor_companies: []
   recruitee_companies:
     - sendcloud
@@ -1603,6 +1643,11 @@ discovered:
     - prior-labs
     - radiant
     - odin
+    - codeway
+    - pergolux
+    - salonkee
+    - trading212
+    - attio
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
