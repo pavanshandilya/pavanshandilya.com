@@ -1,4 +1,4 @@
-generated_at: 2026-08-29T01:07:17.690Z
+generated_at: 2026-08-29T19:54:27.563Z
 explicit:
   company_names:
     - SAP
@@ -669,6 +669,26 @@ discovered:
     - relay
     - stora
     - notabene
+    - pair
+    - franka-robotics
+    - flossbach-von-storch-ag
+    - goreha
+    - koppla
+    - checkmk-gmbh
+    - ramp106-gmbh
+    - wirelane
+    - meondi
+    - andercore
+    - ineratec-gmbh-1
+    - correctiv
+    - focused
+    - blueocean-technologies-gmbh
+    - goodlife
+    - nonplusultra
+    - pink-university-gmbh
+    - buendnis-90die-gruenen
+    - ottonova
+    - mynaric
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -1298,6 +1318,26 @@ discovered:
     - https://startup-insider.jobs.personio.com/xml
     - https://techpilot.jobs.personio.de/xml
     - https://techpilot.jobs.personio.com/xml
+    - https://pair.jobs.personio.de/xml
+    - https://pair.jobs.personio.com/xml
+    - https://franka-robotics.jobs.personio.de/xml
+    - https://franka-robotics.jobs.personio.com/xml
+    - https://flossbach-von-storch-ag.jobs.personio.de/xml
+    - https://flossbach-von-storch-ag.jobs.personio.com/xml
+    - https://goreha.jobs.personio.de/xml
+    - https://goreha.jobs.personio.com/xml
+    - https://koppla.jobs.personio.de/xml
+    - https://koppla.jobs.personio.com/xml
+    - https://checkmk-gmbh.jobs.personio.de/xml
+    - https://checkmk-gmbh.jobs.personio.com/xml
+    - https://ramp106-gmbh.jobs.personio.de/xml
+    - https://ramp106-gmbh.jobs.personio.com/xml
+    - https://wirelane.jobs.personio.de/xml
+    - https://wirelane.jobs.personio.com/xml
+    - https://meondi.jobs.personio.de/xml
+    - https://meondi.jobs.personio.com/xml
+    - https://ineratec-gmbh-1.jobs.personio.de/xml
+    - https://ineratec-gmbh-1.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -1397,6 +1437,7 @@ discovered:
     - powerprozesse
     - mayflower
     - emplyfy
+    - arq
   ashby_organizations:
     - telus-digital
     - a-team
@@ -1668,6 +1709,15 @@ discovered:
     - relay
     - stora
     - notabene
+    - andercore
+    - focused
+    - semperis
+    - neudata
+    - freetrade
+    - arq
+    - sourcedev
+    - lendable
+    - happl
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
