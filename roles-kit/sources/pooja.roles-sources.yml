@@ -1,4 +1,4 @@
-generated_at: 2026-08-29T19:54:27.563Z
+generated_at: 2026-08-30T19:58:44.298Z
 explicit:
   company_names:
     - SAP
@@ -689,6 +689,26 @@ discovered:
     - buendnis-90die-gruenen
     - ottonova
     - mynaric
+    - asm
+    - odonnell-moonshine
+    - techquartier
+    - recup
+    - ane
+    - greencells-gmbh
+    - puschwahlig-workplace-law
+    - climate
+    - moore-tk
+    - infiniteroots
+    - good-hood-gmbh
+    - goodbytz
+    - ryze-digital
+    - valuenet-group
+    - reos
+    - triple-a
+    - thermondo
+    - asseco-solutions
+    - vmray-gmbh
+    - liveeo-gmbh
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -1338,6 +1358,26 @@ discovered:
     - https://meondi.jobs.personio.com/xml
     - https://ineratec-gmbh-1.jobs.personio.de/xml
     - https://ineratec-gmbh-1.jobs.personio.com/xml
+    - https://odonnell-moonshine.jobs.personio.de/xml
+    - https://odonnell-moonshine.jobs.personio.com/xml
+    - https://techquartier.jobs.personio.de/xml
+    - https://techquartier.jobs.personio.com/xml
+    - https://recup.jobs.personio.de/xml
+    - https://recup.jobs.personio.com/xml
+    - https://ane.jobs.personio.de/xml
+    - https://ane.jobs.personio.com/xml
+    - https://greencells-gmbh.jobs.personio.de/xml
+    - https://greencells-gmbh.jobs.personio.com/xml
+    - https://puschwahlig-workplace-law.jobs.personio.de/xml
+    - https://puschwahlig-workplace-law.jobs.personio.com/xml
+    - https://climate.jobs.personio.de/xml
+    - https://climate.jobs.personio.com/xml
+    - https://moore-tk.jobs.personio.de/xml
+    - https://moore-tk.jobs.personio.com/xml
+    - https://infiniteroots.jobs.personio.de/xml
+    - https://infiniteroots.jobs.personio.com/xml
+    - https://good-hood-gmbh.jobs.personio.de/xml
+    - https://good-hood-gmbh.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -1438,6 +1478,7 @@ discovered:
     - mayflower
     - emplyfy
     - arq
+    - asm
   ashby_organizations:
     - telus-digital
     - a-team
@@ -1718,6 +1759,10 @@ discovered:
     - sourcedev
     - lendable
     - happl
+    - hawk
+    - fireworks
+    - zilch
+    - goodlord
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
