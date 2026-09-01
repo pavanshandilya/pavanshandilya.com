@@ -1,4 +1,4 @@
-generated_at: 2026-08-31T22:03:57.121Z
+generated_at: 2026-09-01T20:04:21.876Z
 explicit:
   company_names:
     - SAP
@@ -716,6 +716,20 @@ discovered:
     - qonto
     - education-partners
     - ubitricity-gmbh
+    - praxiseins
+    - simovative
+    - zukunftsmotor-gmbh
+    - esanum
+    - pub-tech
+    - snke
+    - real-digital
+    - arculus
+    - simcon
+    - egroup
+    - ramp
+    - forgd-ai
+    - britishrowing
+    - amplitude
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -1397,6 +1411,26 @@ discovered:
     - https://education-partners.jobs.personio.com/xml
     - https://ubitricity-gmbh.jobs.personio.de/xml
     - https://ubitricity-gmbh.jobs.personio.com/xml
+    - https://praxiseins.jobs.personio.de/xml
+    - https://praxiseins.jobs.personio.com/xml
+    - https://simovative.jobs.personio.de/xml
+    - https://simovative.jobs.personio.com/xml
+    - https://zukunftsmotor-gmbh.jobs.personio.de/xml
+    - https://zukunftsmotor-gmbh.jobs.personio.com/xml
+    - https://esanum.jobs.personio.de/xml
+    - https://esanum.jobs.personio.com/xml
+    - https://pub-tech.jobs.personio.de/xml
+    - https://pub-tech.jobs.personio.com/xml
+    - https://snke.jobs.personio.de/xml
+    - https://snke.jobs.personio.com/xml
+    - https://real-digital.jobs.personio.de/xml
+    - https://real-digital.jobs.personio.com/xml
+    - https://arculus.jobs.personio.de/xml
+    - https://arculus.jobs.personio.com/xml
+    - https://simcon.jobs.personio.de/xml
+    - https://simcon.jobs.personio.com/xml
+    - https://britishrowing.jobs.personio.de/xml
+    - https://britishrowing.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -1498,6 +1532,7 @@ discovered:
     - emplyfy
     - arq
     - asm
+    - egroup
   ashby_organizations:
     - telus-digital
     - a-team
@@ -1783,6 +1818,10 @@ discovered:
     - zilch
     - goodlord
     - qonto
+    - praxiseins
+    - ramp
+    - forgd-ai
+    - amplitude
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
