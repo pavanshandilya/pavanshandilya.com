@@ -1,4 +1,4 @@
-generated_at: 2026-09-04T19:50:02.526Z
+generated_at: 2026-09-05T19:17:37.012Z
 explicit:
   company_names:
     - SAP
@@ -763,6 +763,17 @@ discovered:
     - delinea
     - the-flex
     - audif1
+    - imap-gmbh-1
+    - the-global-talent-co
+    - klim
+    - taktile
+    - praxipal
+    - fahrrad-xxl-de
+    - atira
+    - airspeed
+    - apexx
+    - allica-bank
+    - plaid
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -1492,6 +1503,12 @@ discovered:
     - https://sungrow-emea.jobs.personio.com/xml
     - https://audif1.jobs.personio.de/xml
     - https://audif1.jobs.personio.com/xml
+    - https://imap-gmbh-1.jobs.personio.de/xml
+    - https://imap-gmbh-1.jobs.personio.com/xml
+    - https://praxipal.jobs.personio.de/xml
+    - https://praxipal.jobs.personio.com/xml
+    - https://fahrrad-xxl-de.jobs.personio.de/xml
+    - https://fahrrad-xxl-de.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -1902,6 +1919,15 @@ discovered:
     - uipath
     - delinea
     - the-flex
+    - the-global-talent-co
+    - klim
+    - taktile
+    - praxipal
+    - atira
+    - airspeed
+    - apexx
+    - allica-bank
+    - plaid
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
