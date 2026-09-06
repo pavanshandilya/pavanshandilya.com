@@ -1,4 +1,4 @@
-generated_at: 2026-09-05T19:17:37.012Z
+generated_at: 2026-09-06T19:24:41.660Z
 explicit:
   company_names:
     - SAP
@@ -774,6 +774,26 @@ discovered:
     - apexx
     - allica-bank
     - plaid
+    - ommax
+    - pcs-systemtechnik-gmbh
+    - kiwigrid
+    - solvares
+    - tink-gmbh
+    - 42watt
+    - skalbach-gmbh
+    - capmo
+    - fulfin
+    - 360t
+    - aer-group
+    - twaice
+    - wvm-immobilien-projektentwicklung-gmbh
+    - become-1-gmbh
+    - webgo-gmbh
+    - ip-dynamics-gmbh
+    - tractebel
+    - proglove
+    - langchain
+    - pno-group-europe
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -1509,6 +1529,26 @@ discovered:
     - https://praxipal.jobs.personio.com/xml
     - https://fahrrad-xxl-de.jobs.personio.de/xml
     - https://fahrrad-xxl-de.jobs.personio.com/xml
+    - https://ommax.jobs.personio.de/xml
+    - https://ommax.jobs.personio.com/xml
+    - https://pcs-systemtechnik-gmbh.jobs.personio.de/xml
+    - https://pcs-systemtechnik-gmbh.jobs.personio.com/xml
+    - https://kiwigrid.jobs.personio.de/xml
+    - https://kiwigrid.jobs.personio.com/xml
+    - https://solvares.jobs.personio.de/xml
+    - https://solvares.jobs.personio.com/xml
+    - https://tink-gmbh.jobs.personio.de/xml
+    - https://tink-gmbh.jobs.personio.com/xml
+    - https://42watt.jobs.personio.de/xml
+    - https://42watt.jobs.personio.com/xml
+    - https://skalbach-gmbh.jobs.personio.de/xml
+    - https://skalbach-gmbh.jobs.personio.com/xml
+    - https://capmo.jobs.personio.de/xml
+    - https://capmo.jobs.personio.com/xml
+    - https://fulfin.jobs.personio.de/xml
+    - https://fulfin.jobs.personio.com/xml
+    - https://360t.jobs.personio.de/xml
+    - https://360t.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -1928,6 +1968,7 @@ discovered:
     - apexx
     - allica-bank
     - plaid
+    - langchain
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
