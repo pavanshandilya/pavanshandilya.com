@@ -1,4 +1,4 @@
-generated_at: 2026-09-07T20:45:23.882Z
+generated_at: 2026-09-08T20:04:20.740Z
 explicit:
   company_names:
     - SAP
@@ -802,6 +802,12 @@ discovered:
     - justdice
     - filigran
     - marqeta-inc
+    - wemolo
+    - nerdware
+    - metycle
+    - brl
+    - mubi
+    - comand-ai
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -1565,6 +1571,12 @@ discovered:
     - https://doctorflix.jobs.personio.com/xml
     - https://smight-gmbh.jobs.personio.de/xml
     - https://smight-gmbh.jobs.personio.com/xml
+    - https://nerdware.jobs.personio.de/xml
+    - https://nerdware.jobs.personio.com/xml
+    - https://metycle.jobs.personio.de/xml
+    - https://metycle.jobs.personio.com/xml
+    - https://brl.jobs.personio.de/xml
+    - https://brl.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -1990,6 +2002,9 @@ discovered:
     - justdice
     - filigran
     - marqeta-inc
+    - wemolo
+    - mubi
+    - comand-ai
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
