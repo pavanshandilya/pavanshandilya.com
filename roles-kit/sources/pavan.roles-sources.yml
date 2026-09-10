@@ -1,4 +1,4 @@
-generated_at: 2026-09-09T19:55:31.790Z
+generated_at: 2026-09-10T19:54:41.014Z
 explicit:
   company_names:
     - SAP
@@ -826,6 +826,14 @@ discovered:
     - olix
     - optro
     - docebo
+    - probis-software-gmbh
+    - avelion-group
+    - oh-so
+    - friendventure
+    - global-side-gmbh
+    - rulemapping
+    - traide-ai
+    - angi
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -1603,6 +1611,20 @@ discovered:
     - https://opentas.jobs.personio.com/xml
     - https://verivox.jobs.personio.de/xml
     - https://verivox.jobs.personio.com/xml
+    - https://probis-software-gmbh.jobs.personio.de/xml
+    - https://probis-software-gmbh.jobs.personio.com/xml
+    - https://avelion-group.jobs.personio.de/xml
+    - https://avelion-group.jobs.personio.com/xml
+    - https://oh-so.jobs.personio.de/xml
+    - https://oh-so.jobs.personio.com/xml
+    - https://friendventure.jobs.personio.de/xml
+    - https://friendventure.jobs.personio.com/xml
+    - https://global-side-gmbh.jobs.personio.de/xml
+    - https://global-side-gmbh.jobs.personio.com/xml
+    - https://rulemapping.jobs.personio.de/xml
+    - https://rulemapping.jobs.personio.com/xml
+    - https://traide-ai.jobs.personio.de/xml
+    - https://traide-ai.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -2040,6 +2062,7 @@ discovered:
     - olix
     - optro
     - docebo
+    - angi
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
