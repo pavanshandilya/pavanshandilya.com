@@ -1,4 +1,4 @@
-generated_at: 2026-09-10T19:58:17.369Z
+generated_at: 2026-09-11T19:58:59.330Z
 explicit:
   company_names:
     - SAP
@@ -827,6 +827,19 @@ discovered:
     - rulemapping
     - traide-ai
     - angi
+    - hv
+    - maltego
+    - rootglobal
+    - reev
+    - denkwerk-gmbh
+    - isarsoft
+    - drata
+    - neworbit
+    - magentic
+    - kaluza
+    - 9fin
+    - hims-and-hers
+    - pragmatike
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -1618,6 +1631,14 @@ discovered:
     - https://rulemapping.jobs.personio.com/xml
     - https://traide-ai.jobs.personio.de/xml
     - https://traide-ai.jobs.personio.com/xml
+    - https://maltego.jobs.personio.de/xml
+    - https://maltego.jobs.personio.com/xml
+    - https://reev.jobs.personio.de/xml
+    - https://reev.jobs.personio.com/xml
+    - https://denkwerk-gmbh.jobs.personio.de/xml
+    - https://denkwerk-gmbh.jobs.personio.com/xml
+    - https://isarsoft.jobs.personio.de/xml
+    - https://isarsoft.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -2055,6 +2076,15 @@ discovered:
     - optro
     - docebo
     - angi
+    - hv
+    - rootglobal
+    - drata
+    - neworbit
+    - magentic
+    - kaluza
+    - 9fin
+    - hims-and-hers
+    - pragmatike
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
