@@ -1,4 +1,4 @@
-generated_at: 2026-09-11T19:58:59.330Z
+generated_at: 2026-09-13T19:42:16.504Z
 explicit:
   company_names:
     - SAP
@@ -840,6 +840,26 @@ discovered:
     - 9fin
     - hims-and-hers
     - pragmatike
+    - hws
+    - assentio
+    - chrono24
+    - tozero
+    - iocto
+    - cuculus-gmbh
+    - auvaria
+    - ecotel
+    - mute-labs-gmbh
+    - implico-gmbh
+    - solactive
+    - aim
+    - sanoptis
+    - moebel-de
+    - cansativa
+    - karrieretutor-de
+    - augmodo
+    - kandou-ai
+    - claimsorted
+    - scarlet
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -1639,6 +1659,26 @@ discovered:
     - https://denkwerk-gmbh.jobs.personio.com/xml
     - https://isarsoft.jobs.personio.de/xml
     - https://isarsoft.jobs.personio.com/xml
+    - https://hws.jobs.personio.de/xml
+    - https://hws.jobs.personio.com/xml
+    - https://assentio.jobs.personio.de/xml
+    - https://assentio.jobs.personio.com/xml
+    - https://chrono24.jobs.personio.de/xml
+    - https://chrono24.jobs.personio.com/xml
+    - https://tozero.jobs.personio.de/xml
+    - https://tozero.jobs.personio.com/xml
+    - https://iocto.jobs.personio.de/xml
+    - https://iocto.jobs.personio.com/xml
+    - https://cuculus-gmbh.jobs.personio.de/xml
+    - https://cuculus-gmbh.jobs.personio.com/xml
+    - https://auvaria.jobs.personio.de/xml
+    - https://auvaria.jobs.personio.com/xml
+    - https://ecotel.jobs.personio.de/xml
+    - https://ecotel.jobs.personio.com/xml
+    - https://mute-labs-gmbh.jobs.personio.de/xml
+    - https://mute-labs-gmbh.jobs.personio.com/xml
+    - https://implico-gmbh.jobs.personio.de/xml
+    - https://implico-gmbh.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -1674,6 +1714,7 @@ discovered:
     - dci
     - socialimpact
     - nearform
+    - arago
   teamtailor_companies: []
   recruitee_companies:
     - sendcloud
@@ -2085,6 +2126,15 @@ discovered:
     - 9fin
     - hims-and-hers
     - pragmatike
+    - aim
+    - augmodo
+    - kandou-ai
+    - claimsorted
+    - scarlet
+    - conduct
+    - salience-labs
+    - arago
+    - lemrock
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
