@@ -1,4 +1,4 @@
-generated_at: 2026-09-13T19:38:16.588Z
+generated_at: 2026-09-14T21:02:03.714Z
 explicit:
   company_names:
     - SAP
@@ -847,6 +847,7 @@ discovered:
     - 9fin
     - hims-and-hers
     - fastned
+    - sbit-ag
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -1646,6 +1647,8 @@ discovered:
     - https://denkwerk-gmbh.jobs.personio.com/xml
     - https://isarsoft.jobs.personio.de/xml
     - https://isarsoft.jobs.personio.com/xml
+    - https://sbit-ag.jobs.personio.de/xml
+    - https://sbit-ag.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
