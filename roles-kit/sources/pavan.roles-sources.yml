@@ -1,4 +1,4 @@
-generated_at: 2026-09-15T20:21:44.611Z
+generated_at: 2026-09-16T20:18:35.150Z
 explicit:
   company_names:
     - SAP
@@ -858,6 +858,16 @@ discovered:
     - bobyard
     - clearbank
     - baseten
+    - happyhotel
+    - dyn-media-gmbh
+    - topi
+    - kranus-health-gmbh
+    - lautsprecherteufel
+    - neara
+    - gattaca
+    - demandbase
+    - eleve-talent
+    - hexa
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -1663,6 +1673,14 @@ discovered:
     - https://langdock.jobs.personio.com/xml
     - https://rhein-nadel-automation-gmbh.jobs.personio.de/xml
     - https://rhein-nadel-automation-gmbh.jobs.personio.com/xml
+    - https://dyn-media-gmbh.jobs.personio.de/xml
+    - https://dyn-media-gmbh.jobs.personio.com/xml
+    - https://topi.jobs.personio.de/xml
+    - https://topi.jobs.personio.com/xml
+    - https://kranus-health-gmbh.jobs.personio.de/xml
+    - https://kranus-health-gmbh.jobs.personio.com/xml
+    - https://lautsprecherteufel.jobs.personio.de/xml
+    - https://lautsprecherteufel.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -2119,6 +2137,12 @@ discovered:
     - bobyard
     - clearbank
     - baseten
+    - happyhotel
+    - neara
+    - gattaca
+    - demandbase
+    - eleve-talent
+    - hexa
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
