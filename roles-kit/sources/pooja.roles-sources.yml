@@ -1,4 +1,4 @@
-generated_at: 2026-09-16T20:21:50.297Z
+generated_at: 2026-09-17T20:31:40.181Z
 explicit:
   company_names:
     - SAP
@@ -877,6 +877,13 @@ discovered:
     - demandbase
     - eleve-talent
     - hexa
+    - impericon
+    - doc-cirrus-gmbh
+    - glassdollar
+    - aerovect
+    - voldex
+    - founders-factory
+    - alta-ares
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -1710,6 +1717,12 @@ discovered:
     - https://kranus-health-gmbh.jobs.personio.com/xml
     - https://lautsprecherteufel.jobs.personio.de/xml
     - https://lautsprecherteufel.jobs.personio.com/xml
+    - https://impericon.jobs.personio.de/xml
+    - https://impericon.jobs.personio.com/xml
+    - https://doc-cirrus-gmbh.jobs.personio.de/xml
+    - https://doc-cirrus-gmbh.jobs.personio.com/xml
+    - https://glassdollar.jobs.personio.de/xml
+    - https://glassdollar.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -1746,6 +1759,7 @@ discovered:
     - socialimpact
     - nearform
     - arago
+    - aerovect
   teamtailor_companies: []
   recruitee_companies:
     - sendcloud
@@ -2177,6 +2191,10 @@ discovered:
     - demandbase
     - eleve-talent
     - hexa
+    - aerovect
+    - voldex
+    - founders-factory
+    - alta-ares
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
