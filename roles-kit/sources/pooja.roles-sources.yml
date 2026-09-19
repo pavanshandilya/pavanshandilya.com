@@ -1,4 +1,4 @@
-generated_at: 2026-09-18T19:54:31.338Z
+generated_at: 2026-09-19T19:31:06.864Z
 explicit:
   company_names:
     - SAP
@@ -884,6 +884,22 @@ discovered:
     - voldex
     - founders-factory
     - alta-ares
+    - reeeliance
+    - alemi-zurich
+    - es-group
+    - revel8
+    - phineo
+    - ba-tax-gmbh
+    - dida
+    - aok-connect
+    - enomyc-gmbh
+    - otovo
+    - yoshi
+    - studyflix-gmbh
+    - notion
+    - menlosecurity
+    - socure
+    - genesis
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -1723,6 +1739,26 @@ discovered:
     - https://doc-cirrus-gmbh.jobs.personio.com/xml
     - https://glassdollar.jobs.personio.de/xml
     - https://glassdollar.jobs.personio.com/xml
+    - https://reeeliance.jobs.personio.de/xml
+    - https://reeeliance.jobs.personio.com/xml
+    - https://alemi-zurich.jobs.personio.de/xml
+    - https://alemi-zurich.jobs.personio.com/xml
+    - https://es-group.jobs.personio.de/xml
+    - https://es-group.jobs.personio.com/xml
+    - https://revel8.jobs.personio.de/xml
+    - https://revel8.jobs.personio.com/xml
+    - https://phineo.jobs.personio.de/xml
+    - https://phineo.jobs.personio.com/xml
+    - https://ba-tax-gmbh.jobs.personio.de/xml
+    - https://ba-tax-gmbh.jobs.personio.com/xml
+    - https://dida.jobs.personio.de/xml
+    - https://dida.jobs.personio.com/xml
+    - https://aok-connect.jobs.personio.de/xml
+    - https://aok-connect.jobs.personio.com/xml
+    - https://enomyc-gmbh.jobs.personio.de/xml
+    - https://enomyc-gmbh.jobs.personio.com/xml
+    - https://yoshi.jobs.personio.de/xml
+    - https://yoshi.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -1760,6 +1796,7 @@ discovered:
     - nearform
     - arago
     - aerovect
+    - socure
   teamtailor_companies: []
   recruitee_companies:
     - sendcloud
@@ -1827,6 +1864,7 @@ discovered:
     - arq
     - asm
     - egroup
+    - otovo
   ashby_organizations:
     - telus-digital
     - a-team
@@ -2195,6 +2233,10 @@ discovered:
     - voldex
     - founders-factory
     - alta-ares
+    - notion
+    - menlosecurity
+    - socure
+    - genesis
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
