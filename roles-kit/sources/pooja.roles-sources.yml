@@ -1,4 +1,4 @@
-generated_at: 2026-09-20T19:41:46.961Z
+generated_at: 2026-09-21T21:15:40.949Z
 explicit:
   company_names:
     - SAP
@@ -900,6 +900,21 @@ discovered:
     - menlosecurity
     - socure
     - genesis
+    - reisetopia
+    - juvigo-gmbh
+    - autarcenergy
+    - kaiser-x-labs
+    - internations
+    - towa
+    - cofinity-x-gmbh
+    - lrz
+    - docuware
+    - vicegolf
+    - baramundi-software-ag
+    - hive-robotics
+    - nebuly
+    - tenex
+    - dermalogica-gmbh
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -1759,6 +1774,26 @@ discovered:
     - https://enomyc-gmbh.jobs.personio.com/xml
     - https://yoshi.jobs.personio.de/xml
     - https://yoshi.jobs.personio.com/xml
+    - https://reisetopia.jobs.personio.de/xml
+    - https://reisetopia.jobs.personio.com/xml
+    - https://juvigo-gmbh.jobs.personio.de/xml
+    - https://juvigo-gmbh.jobs.personio.com/xml
+    - https://autarcenergy.jobs.personio.de/xml
+    - https://autarcenergy.jobs.personio.com/xml
+    - https://kaiser-x-labs.jobs.personio.de/xml
+    - https://kaiser-x-labs.jobs.personio.com/xml
+    - https://internations.jobs.personio.de/xml
+    - https://internations.jobs.personio.com/xml
+    - https://towa.jobs.personio.de/xml
+    - https://towa.jobs.personio.com/xml
+    - https://cofinity-x-gmbh.jobs.personio.de/xml
+    - https://cofinity-x-gmbh.jobs.personio.com/xml
+    - https://lrz.jobs.personio.de/xml
+    - https://lrz.jobs.personio.com/xml
+    - https://docuware.jobs.personio.de/xml
+    - https://docuware.jobs.personio.com/xml
+    - https://vicegolf.jobs.personio.de/xml
+    - https://vicegolf.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -1797,6 +1832,7 @@ discovered:
     - arago
     - aerovect
     - socure
+    - internations
   teamtailor_companies: []
   recruitee_companies:
     - sendcloud
@@ -2237,6 +2273,8 @@ discovered:
     - menlosecurity
     - socure
     - genesis
+    - nebuly
+    - tenex
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
