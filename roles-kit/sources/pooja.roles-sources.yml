@@ -1,4 +1,4 @@
-generated_at: 2026-09-21T21:15:40.949Z
+generated_at: 2026-09-22T20:24:35.617Z
 explicit:
   company_names:
     - SAP
@@ -915,6 +915,20 @@ discovered:
     - nebuly
     - tenex
     - dermalogica-gmbh
+    - kyrall
+    - ahead-gmbh
+    - nc-group
+    - letmeship
+    - aveni
+    - volta
+    - apollo-graphql
+    - plumerai
+    - codat
+    - odysseyml
+    - cosine
+    - rogo
+    - artemis
+    - archimed
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -1794,6 +1808,14 @@ discovered:
     - https://docuware.jobs.personio.com/xml
     - https://vicegolf.jobs.personio.de/xml
     - https://vicegolf.jobs.personio.com/xml
+    - https://ahead-gmbh.jobs.personio.de/xml
+    - https://ahead-gmbh.jobs.personio.com/xml
+    - https://nc-group.jobs.personio.de/xml
+    - https://nc-group.jobs.personio.com/xml
+    - https://letmeship.jobs.personio.de/xml
+    - https://letmeship.jobs.personio.com/xml
+    - https://cosine.jobs.personio.de/xml
+    - https://cosine.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -1901,6 +1923,7 @@ discovered:
     - asm
     - egroup
     - otovo
+    - archimed
   ashby_organizations:
     - telus-digital
     - a-team
@@ -2275,6 +2298,16 @@ discovered:
     - genesis
     - nebuly
     - tenex
+    - kyrall
+    - aveni
+    - volta
+    - apollo-graphql
+    - plumerai
+    - codat
+    - odysseyml
+    - cosine
+    - rogo
+    - artemis
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
