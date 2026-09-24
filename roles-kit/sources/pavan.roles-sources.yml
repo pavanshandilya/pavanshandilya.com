@@ -1,4 +1,4 @@
-generated_at: 2026-09-22T20:19:53.221Z
+generated_at: 2026-09-24T20:37:49.918Z
 explicit:
   company_names:
     - SAP
@@ -928,6 +928,20 @@ discovered:
     - artemis
     - archimed
     - swarmaero
+    - secfix
+    - meteocontrol
+    - olx
+    - makaro-gmbh
+    - schonfeld
+    - plinth
+    - mast
+    - validio
+    - substrate-bio
+    - duffel
+    - ledger
+    - meetdavis
+    - backmarket
+    - voodoo
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -1807,6 +1821,12 @@ discovered:
     - https://letmeship.jobs.personio.com/xml
     - https://cosine.jobs.personio.de/xml
     - https://cosine.jobs.personio.com/xml
+    - https://secfix.jobs.personio.de/xml
+    - https://secfix.jobs.personio.com/xml
+    - https://meteocontrol.jobs.personio.de/xml
+    - https://meteocontrol.jobs.personio.com/xml
+    - https://makaro-gmbh.jobs.personio.de/xml
+    - https://makaro-gmbh.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -1845,6 +1865,7 @@ discovered:
     - aerovect
     - socure
     - internations
+    - schonfeld
   teamtailor_companies: []
   recruitee_companies:
     - sendcloud
@@ -1916,6 +1937,7 @@ discovered:
     - otovo
     - centreon
     - archimed
+    - olx
   ashby_organizations:
     - telus-digital
     - a-team
@@ -2295,6 +2317,16 @@ discovered:
     - rogo
     - artemis
     - swarmaero
+    - secfix
+    - plinth
+    - mast
+    - validio
+    - substrate-bio
+    - duffel
+    - ledger
+    - meetdavis
+    - backmarket
+    - voodoo
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
