@@ -1,4 +1,4 @@
-generated_at: 2026-09-24T20:41:46.527Z
+generated_at: 2026-09-25T20:40:21.162Z
 explicit:
   company_names:
     - SAP
@@ -944,6 +944,16 @@ discovered:
     - meetdavis
     - backmarket
     - voodoo
+    - trm-labs
+    - lemundo
+    - idealworks
+    - ceezer
+    - booming-games
+    - uplane
+    - calmlife
+    - gladia
+    - n2jsoft
+    - arethia
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -1837,6 +1847,16 @@ discovered:
     - https://meteocontrol.jobs.personio.com/xml
     - https://makaro-gmbh.jobs.personio.de/xml
     - https://makaro-gmbh.jobs.personio.com/xml
+    - https://lemundo.jobs.personio.de/xml
+    - https://lemundo.jobs.personio.com/xml
+    - https://idealworks.jobs.personio.de/xml
+    - https://idealworks.jobs.personio.com/xml
+    - https://booming-games.jobs.personio.de/xml
+    - https://booming-games.jobs.personio.com/xml
+    - https://calmlife.jobs.personio.de/xml
+    - https://calmlife.jobs.personio.com/xml
+    - https://arethia.jobs.personio.de/xml
+    - https://arethia.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -1948,6 +1968,7 @@ discovered:
     - archimed
     - olx
     - matera
+    - n2jsoft
   ashby_organizations:
     - telus-digital
     - a-team
@@ -2342,6 +2363,10 @@ discovered:
     - meetdavis
     - backmarket
     - voodoo
+    - trm-labs
+    - ceezer
+    - uplane
+    - gladia
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
