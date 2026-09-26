@@ -1,4 +1,4 @@
-generated_at: 2026-09-25T20:40:21.162Z
+generated_at: 2026-09-26T20:05:59.172Z
 explicit:
   company_names:
     - SAP
@@ -954,6 +954,20 @@ discovered:
     - gladia
     - n2jsoft
     - arethia
+    - lexroom
+    - climatiq
+    - storage24
+    - urlaubstracker
+    - dr-grandel-gmbh
+    - teamative
+    - clickup
+    - augur
+    - hook
+    - gen-digital
+    - lubis-eda
+    - homa-games
+    - owkin
+    - kong
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -1857,6 +1871,18 @@ discovered:
     - https://calmlife.jobs.personio.com/xml
     - https://arethia.jobs.personio.de/xml
     - https://arethia.jobs.personio.com/xml
+    - https://storage24.jobs.personio.de/xml
+    - https://storage24.jobs.personio.com/xml
+    - https://urlaubstracker.jobs.personio.de/xml
+    - https://urlaubstracker.jobs.personio.com/xml
+    - https://dr-grandel-gmbh.jobs.personio.de/xml
+    - https://dr-grandel-gmbh.jobs.personio.com/xml
+    - https://teamative.jobs.personio.de/xml
+    - https://teamative.jobs.personio.com/xml
+    - https://lubis-eda.jobs.personio.de/xml
+    - https://lubis-eda.jobs.personio.com/xml
+    - https://homa-games.jobs.personio.de/xml
+    - https://homa-games.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -2367,6 +2393,14 @@ discovered:
     - ceezer
     - uplane
     - gladia
+    - lexroom
+    - climatiq
+    - clickup
+    - augur
+    - hook
+    - gen-digital
+    - owkin
+    - kong
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
