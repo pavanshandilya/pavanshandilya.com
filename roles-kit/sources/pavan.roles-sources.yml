@@ -1,4 +1,4 @@
-generated_at: 2026-09-28T22:38:43.772Z
+generated_at: 2026-09-29T21:30:40.201Z
 explicit:
   company_names:
     - SAP
@@ -968,6 +968,24 @@ discovered:
     - owkin
     - kong
     - vibe
+    - tebi
+    - alephalpha
+    - agora-thinktanks
+    - memodo-gmbh
+    - iges-institut-gmbh
+    - asg
+    - schoene-neue-kinder
+    - brighter-ai
+    - syzygy-group
+    - getground
+    - plentific
+    - fundamentalxr
+    - nous
+    - hive-autonomy
+    - uforce
+    - numeric
+    - breakmark
+    - zoe
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -1875,6 +1893,20 @@ discovered:
     - https://lubis-eda.jobs.personio.com/xml
     - https://homa-games.jobs.personio.de/xml
     - https://homa-games.jobs.personio.com/xml
+    - https://agora-thinktanks.jobs.personio.de/xml
+    - https://agora-thinktanks.jobs.personio.com/xml
+    - https://memodo-gmbh.jobs.personio.de/xml
+    - https://memodo-gmbh.jobs.personio.com/xml
+    - https://iges-institut-gmbh.jobs.personio.de/xml
+    - https://iges-institut-gmbh.jobs.personio.com/xml
+    - https://asg.jobs.personio.de/xml
+    - https://asg.jobs.personio.com/xml
+    - https://schoene-neue-kinder.jobs.personio.de/xml
+    - https://schoene-neue-kinder.jobs.personio.com/xml
+    - https://brighter-ai.jobs.personio.de/xml
+    - https://brighter-ai.jobs.personio.com/xml
+    - https://syzygy-group.jobs.personio.de/xml
+    - https://syzygy-group.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -2390,6 +2422,17 @@ discovered:
     - owkin
     - kong
     - vibe
+    - tebi
+    - alephalpha
+    - getground
+    - plentific
+    - fundamentalxr
+    - nous
+    - hive-autonomy
+    - uforce
+    - numeric
+    - breakmark
+    - zoe
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
