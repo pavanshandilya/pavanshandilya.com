@@ -1,4 +1,4 @@
-generated_at: 2026-09-29T21:34:20.102Z
+generated_at: 2026-09-30T21:35:30.734Z
 explicit:
   company_names:
     - SAP
@@ -986,6 +986,20 @@ discovered:
     - numeric
     - breakmark
     - zoe
+    - getquin
+    - deskbird
+    - prenode
+    - predium
+    - audi-business-innovation-gmbh
+    - marta
+    - f-h-bertling
+    - everii-germany-gmbh-3
+    - ambrosys
+    - sofacompany
+    - parloa
+    - thoughtworks
+    - simplestudy
+    - mitratech
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -1915,6 +1929,26 @@ discovered:
     - https://brighter-ai.jobs.personio.com/xml
     - https://syzygy-group.jobs.personio.de/xml
     - https://syzygy-group.jobs.personio.com/xml
+    - https://getquin.jobs.personio.de/xml
+    - https://getquin.jobs.personio.com/xml
+    - https://deskbird.jobs.personio.de/xml
+    - https://deskbird.jobs.personio.com/xml
+    - https://prenode.jobs.personio.de/xml
+    - https://prenode.jobs.personio.com/xml
+    - https://predium.jobs.personio.de/xml
+    - https://predium.jobs.personio.com/xml
+    - https://audi-business-innovation-gmbh.jobs.personio.de/xml
+    - https://audi-business-innovation-gmbh.jobs.personio.com/xml
+    - https://marta.jobs.personio.de/xml
+    - https://marta.jobs.personio.com/xml
+    - https://f-h-bertling.jobs.personio.de/xml
+    - https://f-h-bertling.jobs.personio.com/xml
+    - https://everii-germany-gmbh-3.jobs.personio.de/xml
+    - https://everii-germany-gmbh-3.jobs.personio.com/xml
+    - https://ambrosys.jobs.personio.de/xml
+    - https://ambrosys.jobs.personio.com/xml
+    - https://sofacompany.jobs.personio.de/xml
+    - https://sofacompany.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -1955,6 +1989,7 @@ discovered:
     - socure
     - internations
     - schonfeld
+    - mitratech
   teamtailor_companies: []
   recruitee_companies:
     - sendcloud
@@ -2444,6 +2479,9 @@ discovered:
     - numeric
     - breakmark
     - zoe
+    - parloa
+    - thoughtworks
+    - simplestudy
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
