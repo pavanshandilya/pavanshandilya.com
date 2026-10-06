@@ -1,4 +1,4 @@
-generated_at: 2026-10-05T23:16:43.362Z
+generated_at: 2026-10-06T21:48:27.843Z
 explicit:
   company_names:
     - SAP
@@ -1012,6 +1012,25 @@ discovered:
     - tilta
     - merantix-momentum
     - biolectric
+    - 0g
+    - se3
+    - wundergraph
+    - jupus
+    - undkrauss
+    - limetax
+    - goldmantax
+    - neuronation
+    - planday-from-xero
+    - fonoa
+    - instil
+    - cic
+    - zego
+    - isometric
+    - stack-infrastructure-emea
+    - waracle
+    - joivy
+    - portalp
+    - hubvisory
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -1973,6 +1992,14 @@ discovered:
     - https://tilta.jobs.personio.com/xml
     - https://merantix-momentum.jobs.personio.de/xml
     - https://merantix-momentum.jobs.personio.com/xml
+    - https://se3.jobs.personio.de/xml
+    - https://se3.jobs.personio.com/xml
+    - https://undkrauss.jobs.personio.de/xml
+    - https://undkrauss.jobs.personio.com/xml
+    - https://neuronation.jobs.personio.de/xml
+    - https://neuronation.jobs.personio.com/xml
+    - https://cic.jobs.personio.de/xml
+    - https://cic.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -2087,6 +2114,11 @@ discovered:
     - olx
     - n2jsoft
     - biolectric
+    - goldmantax
+    - waracle
+    - joivy
+    - portalp
+    - hubvisory
   ashby_organizations:
     - telus-digital
     - a-team
@@ -2505,6 +2537,17 @@ discovered:
     - thoughtworks
     - simplestudy
     - seccl
+    - 0g
+    - se3
+    - wundergraph
+    - jupus
+    - limetax
+    - planday-from-xero
+    - fonoa
+    - instil
+    - zego
+    - isometric
+    - stack-infrastructure-emea
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
