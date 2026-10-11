@@ -1,9 +1,204 @@
 schema_version: roles.v1
 profile_id: pooja
 profile_name: Pooja - product/scrum now, EM later
-generated_at: 2026-10-10T20:44:31.919Z
+generated_at: 2026-10-11T21:07:22.664Z
 buckets:
   pm_product:
+    - source: arbeitnow
+      source_note: ""
+      company: Real Digital
+      title: Senior Product Manager (all genders) | B2B
+      location: Remote oder Köln / Darmstadt / Düsseldorf / Berlin
+      url: https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-product-manager-all-genders-b2b-483533
+      updated_at: 1791738573
+      description: "Anstellungsdetails Permanent Contract, Full- or Part-Time, Remote
+        or Cologne / Düsseldorf / Darmstadt / Berlin Info Who we areWe are the
+        tech powerhouse behind Kaufland’s international online marketplaces and
+        a company within the Schwarz Group. Driven by a start-up mentality and
+        working on an equal footing within flat hierarchies, we develop the best
+        marketplace solutions for our customers, sellers and partners.
+        #FromEuropeForEurope Day by day, our Tech &amp; Product Team of about
+        400 experts pursues the goal of creating the best possible customer
+        shopping experience for our online marketplace. Through innovative
+        technical developments, they not only create an outstanding shopping
+        experience but also lay the foundation for an optimal selling experience
+        for our sellers. Learn more about our division, areas, and
+        cross-functional teams here ! Aufgaben Your tasks – this is what awaits
+        you in detail You own and evolve the product strategy, vision, and
+        roadmap for key B2B platform capabilities on the Kaufland Global
+        Marketplace (with several open roles focusing on either Selling
+        Experience or Marketing Technologies) You translate complex business
+        requirements and seller insights into scalable, reliable, and
+        high-impact digital product features You collaborate closely with
+        Engineering, Architecture, Marketing, and Sales to build future-proof
+        solutions and ensure seamless technical integrations You apply platform
+        thinking to balance business goals, technical constraints, speed,
+        scalability, and long-term ecosystem impact You utilize data, metrics,
+        and user feedback to identify problems, measure performance, and
+        continuously optimize seller adoption and growth You drive go-to-market
+        strategies, product launches, and stakeholder communication to align
+        cross-functional teams around shared priorities You conduct market and
+        competitive analysis to proactively discover opportunities for product
+        innovation and international marketplace expansion You explore and
+        experiment with emerging technologies, AI-driven tools, and novel
+        architectural/MarTech approaches to shape the future of our B2B platform
+        Profil Your profile – this is what we expect from you You bring proven
+        experience as a Product Manager owning products for sellers and
+        partners: Technical platforms and tooling, AI-powered automation and
+        service products, or marketing technology and growth products You have a
+        strong builder mindset with a track record of driving products from
+        early concept and architecture down to execution and delivery You build
+        with emerging technologies and AI, from experimentation to production,
+        driven by a curiosity for modern PM tools and innovative platform trends
+        to shape the future of our B2B platform You possess a solid technical
+        background with a clear understanding of APIs, data flows, system
+        integrations, and web architectures You are highly data-driven and
+        outcome-focused, knowing how to turn user data and performance metrics
+        into actionable product decisions You possess outstanding stakeholder
+        management and communication skills, with the ability to bridge
+        technical complexity and business strategy You always put the customer
+        first, bringing a passion for solving seller pain points and driving
+        business impact You thrive in a fast-paced, pragmatic environment, bring
+        fluent English skills (C1 level), and excel in an international, remote
+        setup Benefits What we offer Create your own work-life balance: You have
+        the flexibility to choose between working remotely (within Germany) or
+        from one of our locations in Cologne, Darmstadt, Düsseldorf, or in
+        Berlin! Urban Sports Club and RSG Group Fitness Studios : Get top deals
+        for fitness, swimming, yoga and more Mental Well-Being: We support you
+        on your well-being journey with special offerings such as Instahelp, the
+        digital platform for online psychological counseling Vacation &amp;
+        Sabbatical: Enjoy 30 days of vacation per year and the opportunity to
+        take a sabbatical once you have been part of the team for a certain
+        period! Option for Pluxee restaurant vouchers : Buy Pluxee vouchers
+        through us and benefit from tax-advantaged meal allowances! ‘
+        Deutschlandticket’: We subsidise your train season ticket for more
+        mobility Employee Discount: You will receive a monthly coupon for
+        Kaufland.de Free choice of hardware: Mac or Lenovo, it's up to you Boost
+        your growth: Benefit from our online language learning programs, diverse
+        in-house training, and our automated 360-degree feedback This is who we
+        are: Our dynamic culture combines flat hierarchies, a start-up
+        mentality, an international team of over 65 nationalities, and the
+        strength of the Schwarz Group to provide you an agile and secure working
+        environment. We are team players : From day one, you will connect not
+        only with your team but also with others through our digital onboarding
+        journey , the buddy program , and regular team and company events,
+        all-hands meetings, powerful mornings , and much more! Check out our
+        Principles &amp; our blog for even more insights into our company
+        culture! Bewerben Diversity at Kaufland e-commerceWe welcome
+        applications from everyone, regardless of skin colour, sexual
+        orientation, gender identity, age, disability, ethnic origin, religion
+        and ideology. We are signatories to the Charta der Vielfalt (German
+        Diversity Charter) – because we know that extraordinary things can only
+        be achieved with diversity. Read more here ! When applying, you can
+        optionally include your pronouns in your resume. Why are you the perfect
+        fit for this position? Don't bother with cover letters - we're
+        interested in facts and figures! Feel free to share your Github profile
+        with us in your application. As we have very international teams, we
+        would highly appreciate it to receive your CV or profile link in
+        English. We are looking forward to your application! Kaufland e-commerce
+        Services GmbH &amp; Co. KG Postal address: Habsburgerring 2 50674 Köln
+        Ansprechpartner Your contact person: Verena Schilmann Find Jobs in
+        Germany on Arbeitnow"
+      job_types:
+        - Experienced
+        - Permanent
+        - Full or part time
+      remote: false
+      score: 94
+      skill_hits: 5
+      bucket_id: pm_product
+      fetched_at: 2026-10-11T21:07:22.664Z
+      pulled_at: 2026-10-11T21:07:22.664Z
+      stale_days: 0
+      is_stale: false
+    - source: arbeitnow
+      source_note: ""
+      company: Project Q
+      title: Senior Product Manager - Hardware & Edge AI (d/f/m)
+      location: Berlin
+      url: https://www.arbeitnow.com/jobs/companies/project-q/senior-product-manager-hardware-edge-ai-berlin-435465
+      updated_at: 1791738577
+      description: "New Challenge About Us Project Q GmbH (\"Q\") is a defence
+        technology company with offices in Berlin and Munich, and a trusted
+        partner of the German Armed Forces. Our customers field sensors, drones
+        and C2 systems from many vendors that were never built to work together.
+        We build Hydris, an orchestration layer that integrates the systems they
+        already field, and the ones they'll add next, into one picture operators
+        can act on across defence, public safety, and critical infrastructure.
+        Hydris runs at the edge, keeps working when the link drops, and its core
+        is open source under Apache 2.0. As Senior Product Manager for Mission
+        Devices, you'll own the hardware that puts Hydris in the field. You'll
+        work end-to-end, from discovery with operators through hardware build
+        cycles to fielded units, and you'll decide what gets built rather than
+        work through someone else's backlog. The bar is concrete: devices that
+        run for months off-grid in contested RF environments. What you'll do
+        Discovery and requirements Spend time with end users in their operating
+        environment to understand their workflows in depth, not just their
+        stated requirements. Validate assumptions about value, usability,
+        feasibility and viability through prototypes, bench tests and field
+        trials before committing to hardware fabrication. Analyze contractual
+        specifications with Program Managers, separating firm constraints from
+        areas where there's room for the best technical solution. Roadmap and
+        delivery Maintain an outcome-focused roadmap aligned to hardware build
+        cycles (EVT/DVT/PVT), firmware releases and OTA update pipelines. Define
+        requirements and field metrics for each device, including detection
+        performance, energy efficiency, mission endurance and SWaP, and make the
+        trade-offs between them. Prioritize investment across the device family,
+        deciding where to extend existing devices and where a new one is needed.
+        Systems and interoperability Make sure devices integrate with Hydris as
+        and interoperate with third-party systems through industry standards and
+        protocols. Design provisioning, commissioning and deployment workflows
+        that are simple and reliable in the field. Investigate issues that span
+        hardware, firmware and communications, and work with engineering to
+        resolve them. Collaboration Act as the main source of product context
+        and the product's champion, making sure the team, leadership and
+        customers understand what we're building and why. Work in a product trio
+        with engineering (hardware and ML) and design. Partner with Program and
+        Capture Managers to keep the product vision aligned with contractual
+        commitments. Write clear PRDs and decision records, and mentor teammates
+        on discovery practice and hardware–software trade-offs. You should apply
+        if you have 5+ years of product management experience with
+        hardware–software products, for example in embedded systems, IoT,
+        robotics, defence systems or edge AI. Experience taking a connected
+        hardware product from EVT/DVT through production into operational use,
+        including in-field updates. Experience running product development end
+        to end, from discovery to engineering-ready work, and the ability to
+        adapt to however a team works. Ability making decisions with incomplete
+        information, and the judgment to know when a decision is risky enough to
+        slow down. Clear communication with hardware engineers, ML researchers
+        and operators alike. Motivation to contribute to European security and
+        sovereignty. Willingness to travel regularly to military exercises, test
+        ranges and customer sites in Germany and NATO partner countries,
+        sometimes in demanding field conditions. Eligibility for German security
+        clearance (SÜ2). Fluency in German and English (C1 or higher). You'd be
+        a particularly great fit with A degree in electrical, mechanical or
+        systems engineering, robotics or a related field, or equivalent hands-on
+        experience bringing hardware products from prototype to production.
+        Experience in military, public safety or other mission-critical
+        operational environments. Exposure to sensor fusion, mesh networking or
+        degraded RF environments, including familiarity with interoperability
+        standards such as Cursor on Target, SAPIENT, ONVIF or ASTERIX. We Offer
+        Direct feedback from the field: you'll see the products you build tested
+        in real operating environments by the people who use them. Prime
+        Berlin-Mitte location – right between Alexanderplatz and Hackescher
+        Markt. High degree of autonomy and ownership, and flat structure. Annual
+        €1500 Learning &amp; development budget (available after probation).
+        Bike Leasing and Urban Sports Club membership. 30 days of paid time off.
+        Note: We're unable to offer visa sponsorship for this role – candidates
+        must already be eligible to work in Germany. Find Jobs in Germany on
+        Arbeitnow"
+      job_types:
+        - Experienced
+        - Permanent
+        - Full time
+      remote: false
+      score: 78
+      skill_hits: 2
+      bucket_id: pm_product
+      fetched_at: 2026-10-11T21:07:22.664Z
+      pulled_at: 2026-10-11T21:07:22.664Z
+      stale_days: 0
+      is_stale: false
     - source: recruitee
       source_note: ""
       company: TransPerfect
@@ -50,7 +245,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -84,7 +279,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -305,7 +500,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -348,7 +543,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -369,7 +564,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -433,7 +628,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -545,7 +740,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-05T23:20:51.019Z
       pulled_at: 2026-10-05T23:20:51.019Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -593,7 +788,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-30T21:35:30.734Z
       pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -627,7 +822,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-30T21:35:30.734Z
       pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -720,7 +915,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-30T21:35:30.734Z
       pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -845,7 +1040,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-30T21:35:30.734Z
       pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -888,7 +1083,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-30T21:35:30.734Z
       pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1037,7 +1232,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-30T21:35:30.734Z
       pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1154,7 +1349,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-30T21:35:30.734Z
       pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1175,7 +1370,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-30T21:35:30.734Z
       pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1223,7 +1418,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-29T21:34:20.102Z
       pulled_at: 2026-09-29T21:34:20.102Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1257,7 +1452,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-29T21:34:20.102Z
       pulled_at: 2026-09-29T21:34:20.102Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1300,7 +1495,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-29T21:34:20.102Z
       pulled_at: 2026-09-29T21:34:20.102Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1321,7 +1516,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-29T21:34:20.102Z
       pulled_at: 2026-09-29T21:34:20.102Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1369,7 +1564,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-26T20:05:59.172Z
       pulled_at: 2026-09-26T20:05:59.172Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1403,7 +1598,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-26T20:05:59.172Z
       pulled_at: 2026-09-26T20:05:59.172Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1446,7 +1641,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-26T20:05:59.172Z
       pulled_at: 2026-09-26T20:05:59.172Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1543,7 +1738,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-26T20:05:59.172Z
       pulled_at: 2026-09-26T20:05:59.172Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1564,7 +1759,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-26T20:05:59.172Z
       pulled_at: 2026-09-26T20:05:59.172Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1612,7 +1807,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-25T20:40:21.162Z
       pulled_at: 2026-09-25T20:40:21.162Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1646,7 +1841,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-25T20:40:21.162Z
       pulled_at: 2026-09-25T20:40:21.162Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1741,7 +1936,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-25T20:40:21.162Z
       pulled_at: 2026-09-25T20:40:21.162Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1784,7 +1979,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-25T20:40:21.162Z
       pulled_at: 2026-09-25T20:40:21.162Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1805,7 +2000,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-25T20:40:21.162Z
       pulled_at: 2026-09-25T20:40:21.162Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1853,7 +2048,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-24T20:41:46.527Z
       pulled_at: 2026-09-24T20:41:46.527Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1887,7 +2082,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-24T20:41:46.527Z
       pulled_at: 2026-09-24T20:41:46.527Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1930,7 +2125,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-24T20:41:46.527Z
       pulled_at: 2026-09-24T20:41:46.527Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2023,7 +2218,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-24T20:41:46.527Z
       pulled_at: 2026-09-24T20:41:46.527Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2176,7 +2371,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-24T20:41:46.527Z
       pulled_at: 2026-09-24T20:41:46.527Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2197,7 +2392,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-24T20:41:46.527Z
       pulled_at: 2026-09-24T20:41:46.527Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2283,7 +2478,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-24T20:41:46.527Z
       pulled_at: 2026-09-24T20:41:46.527Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2331,7 +2526,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-22T20:24:35.617Z
       pulled_at: 2026-09-22T20:24:35.617Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2365,7 +2560,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-22T20:24:35.617Z
       pulled_at: 2026-09-22T20:24:35.617Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2587,7 +2782,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-22T20:24:35.617Z
       pulled_at: 2026-09-22T20:24:35.617Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2630,7 +2825,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-22T20:24:35.617Z
       pulled_at: 2026-09-22T20:24:35.617Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2867,7 +3062,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-22T20:24:35.617Z
       pulled_at: 2026-09-22T20:24:35.617Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2888,7 +3083,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-22T20:24:35.617Z
       pulled_at: 2026-09-22T20:24:35.617Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2936,7 +3131,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-21T21:15:40.949Z
       pulled_at: 2026-09-21T21:15:40.949Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2970,7 +3165,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-21T21:15:40.949Z
       pulled_at: 2026-09-21T21:15:40.949Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3063,7 +3258,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-21T21:15:40.949Z
       pulled_at: 2026-09-21T21:15:40.949Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3162,7 +3357,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-21T21:15:40.949Z
       pulled_at: 2026-09-21T21:15:40.949Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3205,7 +3400,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-21T21:15:40.949Z
       pulled_at: 2026-09-21T21:15:40.949Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3321,7 +3516,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-21T21:15:40.949Z
       pulled_at: 2026-09-21T21:15:40.949Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3342,7 +3537,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-21T21:15:40.949Z
       pulled_at: 2026-09-21T21:15:40.949Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3390,7 +3585,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-19T19:31:06.864Z
       pulled_at: 2026-09-19T19:31:06.864Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3424,7 +3619,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-19T19:31:06.864Z
       pulled_at: 2026-09-19T19:31:06.864Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -3530,7 +3725,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-19T19:31:06.864Z
       pulled_at: 2026-09-19T19:31:06.864Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3573,7 +3768,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-19T19:31:06.864Z
       pulled_at: 2026-09-19T19:31:06.864Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3594,7 +3789,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-19T19:31:06.864Z
       pulled_at: 2026-09-19T19:31:06.864Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3642,7 +3837,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-17T20:31:40.181Z
       pulled_at: 2026-09-17T20:31:40.181Z
-      stale_days: 23
+      stale_days: 24
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3676,7 +3871,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-17T20:31:40.181Z
       pulled_at: 2026-09-17T20:31:40.181Z
-      stale_days: 23
+      stale_days: 24
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3719,7 +3914,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-17T20:31:40.181Z
       pulled_at: 2026-09-17T20:31:40.181Z
-      stale_days: 23
+      stale_days: 24
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -3768,7 +3963,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-17T20:31:40.181Z
       pulled_at: 2026-09-17T20:31:40.181Z
-      stale_days: 23
+      stale_days: 24
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -3811,7 +4006,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-17T20:31:40.181Z
       pulled_at: 2026-09-17T20:31:40.181Z
-      stale_days: 23
+      stale_days: 24
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -3907,7 +4102,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-17T20:31:40.181Z
       pulled_at: 2026-09-17T20:31:40.181Z
-      stale_days: 23
+      stale_days: 24
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3928,7 +4123,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-17T20:31:40.181Z
       pulled_at: 2026-09-17T20:31:40.181Z
-      stale_days: 23
+      stale_days: 24
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3976,7 +4171,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-16T20:21:50.297Z
       pulled_at: 2026-09-16T20:21:50.297Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4010,7 +4205,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-16T20:21:50.297Z
       pulled_at: 2026-09-16T20:21:50.297Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4053,7 +4248,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-16T20:21:50.297Z
       pulled_at: 2026-09-16T20:21:50.297Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4074,152 +4269,6 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-16T20:21:50.297Z
       pulled_at: 2026-09-16T20:21:50.297Z
-      stale_days: 24
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: TransPerfect
-      title: Associate Product Manager
-      location: Pune, Mahārāshtra, India, Pune, India
-      url: https://transperfect.com/o/associate-product-manager
-      updated_at: 2026-08-05 06:02:31 UTC
-      description: OVERVIEW TransPerfect helps organizations navigate the global
-        marketplace. It remains founder-led – and has striven to maintain the
-        ethos and drive that led them to grow organically year-on-year for the
-        past 30 years. Starting in an NYU dorm room in the early 1990s,
-        TransPerfect is today recognized as the largest translation and language
-        services company in the world with thousands of employees located in
-        100+ offices around the world – and over $1 billion in revenue in 2023.
-        &nbsp; The TransPerfect TechOps team has been a vital part of the
-        company’s success since its formation 10 years ago – delivering
-        technology and services that have drastically simplified the lives of
-        our clients and colleagues – from workflow improvements for colleagues,
-        to core services that form the basis of the company’s GlobalLink
-        platform, to creating scalable client interfaces that allow novice users
-        to navigate complex ecosystems. DESCRIPTION
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Work closely with the Product
-        Manager to align on product strategy and roadmap
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support the product roadmap that
-        meets user needs and corporate goals
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Write detailed user stories and
-        acceptance criteria ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prioritize and
-        groom the product backlog ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support
-        the product lifecycle from planning to release
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Participate in daily/weekly
-        (agile/scrum) software development process meetings
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support delivery schedules and
-        coordinate across cross-functional teams comprised of product, design,
-        development and QA, to deliver functional solutions
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Communicate daily with the
-        cross-functional team to clarify any questions and remove roadblocks
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support and evaluate product
-        progress at each stage of the software development process
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Perform any other special tasks
-        that are deemed appropriate for this role as assigned by the
-        manager/supervisor
-      score: 92
-      skill_hits: 5
-      bucket_id: pm_product
-      fetched_at: 2026-09-15T20:25:32.770Z
-      pulled_at: 2026-09-15T20:25:32.770Z
-      stale_days: 25
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: TransPerfect
-      title: Associate Product Manager
-      location: Pune, Mahārāshtra, India, Pune, India
-      url: https://transperfect.com/o/associate-product-manager-1
-      updated_at: 2026-07-30 23:25:59 UTC
-      description: OVERVIEW
-        TransPerfect&nbsp;helps&nbsp;organizations&nbsp;navigate&nbsp;the&nbsp;global&nbsp;marketplace.&nbsp;It&nbsp;remains&nbsp;founder-led&nbsp;–&nbsp;and&nbsp;has&nbsp;striven&nbsp;to&nbsp;maintain&nbsp;the&nbsp;ethos&nbsp;and&nbsp;drive&nbsp;that&nbsp;led&nbsp;them&nbsp;to&nbsp;grow&nbsp;organically&nbsp;year-on-year&nbsp;for&nbsp;the&nbsp;past&nbsp;30&nbsp;years.&nbsp;Starting&nbsp;in&nbsp;an&nbsp;NYU&nbsp;dorm&nbsp;room&nbsp;in&nbsp;the&nbsp;early&nbsp;1990s,&nbsp;TransPerfect&nbsp;is&nbsp;today&nbsp;recognized&nbsp;as&nbsp;the&nbsp;largest&nbsp;translation&nbsp;and&nbsp;language&nbsp;services&nbsp;company&nbsp;in&nbsp;the&nbsp;world&nbsp;with&nbsp;thousands&nbsp;of&nbsp;employees&nbsp;located&nbsp;in&nbsp;100+&nbsp;offices&nbsp;around&nbsp;the&nbsp;world&nbsp;–&nbsp;and&nbsp;over&nbsp;$1&nbsp;billion&nbsp;in&nbsp;revenue&nbsp;in&nbsp;2023.
-        The&nbsp;TransPerfect&nbsp;TechOps&nbsp;team&nbsp;has&nbsp;been&nbsp;a&nbsp;vital&nbsp;part&nbsp;of&nbsp;the&nbsp;company’s&nbsp;success&nbsp;since&nbsp;its&nbsp;formation&nbsp;10&nbsp;years&nbsp;ago&nbsp;–&nbsp;delivering&nbsp;technology&nbsp;and&nbsp;services&nbsp;that&nbsp;have&nbsp;drastically&nbsp;simplified&nbsp;the&nbsp;lives&nbsp;of&nbsp;our&nbsp;clients&nbsp;and&nbsp;colleagues&nbsp;–&nbsp;from&nbsp;workflow&nbsp;improvements&nbsp;for&nbsp;colleagues,&nbsp;to&nbsp;core&nbsp;services&nbsp;that&nbsp;form&nbsp;the&nbsp;basis&nbsp;of&nbsp;the&nbsp;company’s&nbsp;GlobalLink&nbsp;platform,&nbsp;to&nbsp;creating&nbsp;scalable&nbsp;client&nbsp;interfaces&nbsp;that&nbsp;allow&nbsp;novice&nbsp;users&nbsp;to&nbsp;navigate&nbsp;complex&nbsp;ecosystems.
-        DESCRIPTION
-        Work&nbsp;closely&nbsp;with&nbsp;the&nbsp;Product&nbsp;Manager&nbsp;to&nbsp;align&nbsp;on&nbsp;product&nbsp;strategy&nbsp;and&nbsp;roadmap
-        Support&nbsp;the&nbsp;product&nbsp;roadmap&nbsp;that&nbsp;meets&nbsp;user&nbsp;needs&nbsp;and&nbsp;corporate&nbsp;goals
-        Write&nbsp;detailed&nbsp;user&nbsp;stories&nbsp;and&nbsp;acceptance&nbsp;criteria
-        Prioritize&nbsp;and&nbsp;groom&nbsp;the&nbsp;product&nbsp;backlog
-        Support&nbsp;the&nbsp;product&nbsp;lifecycle&nbsp;from&nbsp;planning&nbsp;to&nbsp;release
-        Participate&nbsp;in&nbsp;daily/weekly&nbsp;(agile/scrum)&nbsp;software&nbsp;development&nbsp;process&nbsp;meetings
-        Support&nbsp;delivery&nbsp;schedules&nbsp;and&nbsp;coordinate&nbsp;across&nbsp;cross-functional&nbsp;teams&nbsp;comprised&nbsp;of&nbsp;product,&nbsp;design,&nbsp;development&nbsp;and&nbsp;QA,&nbsp;to&nbsp;deliver&nbsp;functional&nbsp;solutions
-        Communicate&nbsp;daily&nbsp;with&nbsp;the&nbsp;cross-functional&nbsp;team&nbsp;to&nbsp;clarify&nbsp;any&nbsp;questions&nbsp;and&nbsp;remove&nbsp;roadblocks
-        Support&nbsp;and&nbsp;evaluate&nbsp;product&nbsp;progress&nbsp;at&nbsp;each&nbsp;stage&nbsp;of&nbsp;the&nbsp;software&nbsp;development&nbsp;process
-        Perform&nbsp;any&nbsp;other&nbsp;special&nbsp;tasks&nbsp;that&nbsp;are&nbsp;deemed&nbsp;appropriate&nbsp;for&nbsp;this&nbsp;role&nbsp;as&nbsp;assigned&nbsp;by&nbsp;the&nbsp;manager/supervisor
-        REQUIRED&nbsp;SKILLS
-        Minimum&nbsp;Bachelor’s&nbsp;degree&nbsp;or&nbsp;its&nbsp;equivalent
-        1-2&nbsp;years&nbsp;of&nbsp;related&nbsp;experience&nbsp;in&nbsp;working&nbsp;in&nbsp;an&nbsp;agile&nbsp;development&nbsp;environment
-        A&nbsp;solid&nbsp;working&nbsp;knowledge&nbsp;of&nbsp;the&nbsp;product&nbsp;management&nbsp;lifecycle&nbsp;and&nbsp;an&nbsp;understanding&nbsp;of&nbsp;the&nbsp;tenets&nbsp;of&nbsp;software&nbsp;development&nbsp;using&nbsp;Agile&nbsp;methodologies
-        Experience&nbsp;managing&nbsp;products&nbsp;or&nbsp;projects&nbsp;using&nbsp;project&nbsp;management&nbsp;tools&nbsp;such&nbsp;as&nbsp;Jira,&nbsp;Azure&nbsp;DevOps&nbsp;Server,&nbsp;Confluence,&nbsp;Trello,&nbsp;etc.&nbsp;
-        Expert&nbsp;communication&nbsp;skills:&nbsp;ability&nbsp;to&nbsp;manage&nbsp;stakeholders’&nbsp;expectations,&nbsp;be&nbsp;prepared&nbsp;to&nbsp;justify&nbsp;delays&nbsp;or&nbsp;scope&nbsp;changes,&nbsp;and&nbsp;communicate&nbsp;technical&nbsp;information&nbsp;to&nbsp;business&nbsp;stakeholders&nbsp;in&nbsp;an&nbsp;easy&nbsp;to&nbsp;understand&nbsp;way
-      score: 90
-      skill_hits: 5
-      bucket_id: pm_product
-      fetched_at: 2026-09-15T20:25:32.770Z
-      pulled_at: 2026-09-15T20:25:32.770Z
-      stale_days: 25
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: TransPerfect
-      title: Technical Product Manager
-      location: Pune, Mahārāshtra, India, Pune, India
-      url: https://transperfect.com/o/technical-product-manager
-      updated_at: 2026-07-30 15:08:53 UTC
-      description: "OVERVIEW TransPerfect helps the world's leading brands thrive in
-        the global marketplace by offering a full range of solutions to ensure
-        the success of digital and mobile initiatives. Working in 170+
-        languages, our services include website and software localization, QA
-        and testing, international SEO/SEM, customer service and call center
-        solutions, multicultural marketing, multimedia services, and more.
-        RESPOSIBILITES: TransPerfect is seeking a Technical Product Manager to
-        manage and own the product lifecycle for integration frameworks for CMS
-        &amp; e-commerce systems. This position will work with internal
-        development and QA teams and vendor partners to build integrations into
-        GlobalLink - our flagship cloud-based translation management platform.
-        We are looking for forward-thinking professionals who are more
-        interested in how things could become and who can thrive in an evolving
-        and fast-paced environment. Manage the entire product life cycle which
-        includes: Manage professional services engagements and prepare SOWs for
-        all existing customers Explore product functionality and recommend best
-        strategy to integrate Evaluate APIs and GraphQL endpoints and devise an
-        integration approach Individually carry out product deliveries from
-        inception to product roll out Design/create detailed technical
-        specifications for functional requirements Closely monitor development
-        and QA progress for ontime deliverables Do active review of test
-        strategy Planning continuous upgrades for new features Collaborate with
-        multiple teams in multiple time zones including product managers,
-        engineers, solutions engineers, QA and customers for product strategy
-        &amp; roadmap. Participate in UI/UX design. Review Documentation updates
-        Analyze application logs and debug technical issues to identify root
-        causes in collaboration with engineering teams Perform competitor
-        analysis and benchmarks and ensure that your product is always ahead of
-        the curve"
-      score: 80
-      skill_hits: 2
-      bucket_id: pm_product
-      fetched_at: 2026-09-15T20:25:32.770Z
-      pulled_at: 2026-09-15T20:25:32.770Z
-      stale_days: 25
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: Consultport
-      title: Product Manager (m/f/d)
-      location: Berlin, Berlin, Germany, Berlin, Germany
-      url: https://consultport.recruitee.com/o/product-manager-mfd
-      updated_at: 2026-08-10 10:51:37 UTC
-      description: Consultport is the leading digital platform that connects some of
-        the world's most iconic brands with world-class consultants. We're
-        scaling hard, and we need a PM obsessed with product-led growth (PLG).
-        This role is not about babysitting a roadmap but turning the product
-        itself into our best sales channel — removing friction, driving
-        activation, and making users fall in love before they ever talk to
-        sales.
-      score: 74
-      skill_hits: 1
-      bucket_id: pm_product
-      fetched_at: 2026-09-15T20:25:32.770Z
-      pulled_at: 2026-09-15T20:25:32.770Z
       stale_days: 25
       is_stale: true
     - source: recruitee
@@ -4266,9 +4315,155 @@ buckets:
       score: 92
       skill_hits: 5
       bucket_id: pm_product
+      fetched_at: 2026-09-15T20:25:32.770Z
+      pulled_at: 2026-09-15T20:25:32.770Z
+      stale_days: 26
+      is_stale: true
+    - source: recruitee
+      source_note: ""
+      company: TransPerfect
+      title: Associate Product Manager
+      location: Pune, Mahārāshtra, India, Pune, India
+      url: https://transperfect.com/o/associate-product-manager-1
+      updated_at: 2026-07-30 23:25:59 UTC
+      description: OVERVIEW
+        TransPerfect&nbsp;helps&nbsp;organizations&nbsp;navigate&nbsp;the&nbsp;global&nbsp;marketplace.&nbsp;It&nbsp;remains&nbsp;founder-led&nbsp;–&nbsp;and&nbsp;has&nbsp;striven&nbsp;to&nbsp;maintain&nbsp;the&nbsp;ethos&nbsp;and&nbsp;drive&nbsp;that&nbsp;led&nbsp;them&nbsp;to&nbsp;grow&nbsp;organically&nbsp;year-on-year&nbsp;for&nbsp;the&nbsp;past&nbsp;30&nbsp;years.&nbsp;Starting&nbsp;in&nbsp;an&nbsp;NYU&nbsp;dorm&nbsp;room&nbsp;in&nbsp;the&nbsp;early&nbsp;1990s,&nbsp;TransPerfect&nbsp;is&nbsp;today&nbsp;recognized&nbsp;as&nbsp;the&nbsp;largest&nbsp;translation&nbsp;and&nbsp;language&nbsp;services&nbsp;company&nbsp;in&nbsp;the&nbsp;world&nbsp;with&nbsp;thousands&nbsp;of&nbsp;employees&nbsp;located&nbsp;in&nbsp;100+&nbsp;offices&nbsp;around&nbsp;the&nbsp;world&nbsp;–&nbsp;and&nbsp;over&nbsp;$1&nbsp;billion&nbsp;in&nbsp;revenue&nbsp;in&nbsp;2023.
+        The&nbsp;TransPerfect&nbsp;TechOps&nbsp;team&nbsp;has&nbsp;been&nbsp;a&nbsp;vital&nbsp;part&nbsp;of&nbsp;the&nbsp;company’s&nbsp;success&nbsp;since&nbsp;its&nbsp;formation&nbsp;10&nbsp;years&nbsp;ago&nbsp;–&nbsp;delivering&nbsp;technology&nbsp;and&nbsp;services&nbsp;that&nbsp;have&nbsp;drastically&nbsp;simplified&nbsp;the&nbsp;lives&nbsp;of&nbsp;our&nbsp;clients&nbsp;and&nbsp;colleagues&nbsp;–&nbsp;from&nbsp;workflow&nbsp;improvements&nbsp;for&nbsp;colleagues,&nbsp;to&nbsp;core&nbsp;services&nbsp;that&nbsp;form&nbsp;the&nbsp;basis&nbsp;of&nbsp;the&nbsp;company’s&nbsp;GlobalLink&nbsp;platform,&nbsp;to&nbsp;creating&nbsp;scalable&nbsp;client&nbsp;interfaces&nbsp;that&nbsp;allow&nbsp;novice&nbsp;users&nbsp;to&nbsp;navigate&nbsp;complex&nbsp;ecosystems.
+        DESCRIPTION
+        Work&nbsp;closely&nbsp;with&nbsp;the&nbsp;Product&nbsp;Manager&nbsp;to&nbsp;align&nbsp;on&nbsp;product&nbsp;strategy&nbsp;and&nbsp;roadmap
+        Support&nbsp;the&nbsp;product&nbsp;roadmap&nbsp;that&nbsp;meets&nbsp;user&nbsp;needs&nbsp;and&nbsp;corporate&nbsp;goals
+        Write&nbsp;detailed&nbsp;user&nbsp;stories&nbsp;and&nbsp;acceptance&nbsp;criteria
+        Prioritize&nbsp;and&nbsp;groom&nbsp;the&nbsp;product&nbsp;backlog
+        Support&nbsp;the&nbsp;product&nbsp;lifecycle&nbsp;from&nbsp;planning&nbsp;to&nbsp;release
+        Participate&nbsp;in&nbsp;daily/weekly&nbsp;(agile/scrum)&nbsp;software&nbsp;development&nbsp;process&nbsp;meetings
+        Support&nbsp;delivery&nbsp;schedules&nbsp;and&nbsp;coordinate&nbsp;across&nbsp;cross-functional&nbsp;teams&nbsp;comprised&nbsp;of&nbsp;product,&nbsp;design,&nbsp;development&nbsp;and&nbsp;QA,&nbsp;to&nbsp;deliver&nbsp;functional&nbsp;solutions
+        Communicate&nbsp;daily&nbsp;with&nbsp;the&nbsp;cross-functional&nbsp;team&nbsp;to&nbsp;clarify&nbsp;any&nbsp;questions&nbsp;and&nbsp;remove&nbsp;roadblocks
+        Support&nbsp;and&nbsp;evaluate&nbsp;product&nbsp;progress&nbsp;at&nbsp;each&nbsp;stage&nbsp;of&nbsp;the&nbsp;software&nbsp;development&nbsp;process
+        Perform&nbsp;any&nbsp;other&nbsp;special&nbsp;tasks&nbsp;that&nbsp;are&nbsp;deemed&nbsp;appropriate&nbsp;for&nbsp;this&nbsp;role&nbsp;as&nbsp;assigned&nbsp;by&nbsp;the&nbsp;manager/supervisor
+        REQUIRED&nbsp;SKILLS
+        Minimum&nbsp;Bachelor’s&nbsp;degree&nbsp;or&nbsp;its&nbsp;equivalent
+        1-2&nbsp;years&nbsp;of&nbsp;related&nbsp;experience&nbsp;in&nbsp;working&nbsp;in&nbsp;an&nbsp;agile&nbsp;development&nbsp;environment
+        A&nbsp;solid&nbsp;working&nbsp;knowledge&nbsp;of&nbsp;the&nbsp;product&nbsp;management&nbsp;lifecycle&nbsp;and&nbsp;an&nbsp;understanding&nbsp;of&nbsp;the&nbsp;tenets&nbsp;of&nbsp;software&nbsp;development&nbsp;using&nbsp;Agile&nbsp;methodologies
+        Experience&nbsp;managing&nbsp;products&nbsp;or&nbsp;projects&nbsp;using&nbsp;project&nbsp;management&nbsp;tools&nbsp;such&nbsp;as&nbsp;Jira,&nbsp;Azure&nbsp;DevOps&nbsp;Server,&nbsp;Confluence,&nbsp;Trello,&nbsp;etc.&nbsp;
+        Expert&nbsp;communication&nbsp;skills:&nbsp;ability&nbsp;to&nbsp;manage&nbsp;stakeholders’&nbsp;expectations,&nbsp;be&nbsp;prepared&nbsp;to&nbsp;justify&nbsp;delays&nbsp;or&nbsp;scope&nbsp;changes,&nbsp;and&nbsp;communicate&nbsp;technical&nbsp;information&nbsp;to&nbsp;business&nbsp;stakeholders&nbsp;in&nbsp;an&nbsp;easy&nbsp;to&nbsp;understand&nbsp;way
+      score: 90
+      skill_hits: 5
+      bucket_id: pm_product
+      fetched_at: 2026-09-15T20:25:32.770Z
+      pulled_at: 2026-09-15T20:25:32.770Z
+      stale_days: 26
+      is_stale: true
+    - source: recruitee
+      source_note: ""
+      company: TransPerfect
+      title: Technical Product Manager
+      location: Pune, Mahārāshtra, India, Pune, India
+      url: https://transperfect.com/o/technical-product-manager
+      updated_at: 2026-07-30 15:08:53 UTC
+      description: "OVERVIEW TransPerfect helps the world's leading brands thrive in
+        the global marketplace by offering a full range of solutions to ensure
+        the success of digital and mobile initiatives. Working in 170+
+        languages, our services include website and software localization, QA
+        and testing, international SEO/SEM, customer service and call center
+        solutions, multicultural marketing, multimedia services, and more.
+        RESPOSIBILITES: TransPerfect is seeking a Technical Product Manager to
+        manage and own the product lifecycle for integration frameworks for CMS
+        &amp; e-commerce systems. This position will work with internal
+        development and QA teams and vendor partners to build integrations into
+        GlobalLink - our flagship cloud-based translation management platform.
+        We are looking for forward-thinking professionals who are more
+        interested in how things could become and who can thrive in an evolving
+        and fast-paced environment. Manage the entire product life cycle which
+        includes: Manage professional services engagements and prepare SOWs for
+        all existing customers Explore product functionality and recommend best
+        strategy to integrate Evaluate APIs and GraphQL endpoints and devise an
+        integration approach Individually carry out product deliveries from
+        inception to product roll out Design/create detailed technical
+        specifications for functional requirements Closely monitor development
+        and QA progress for ontime deliverables Do active review of test
+        strategy Planning continuous upgrades for new features Collaborate with
+        multiple teams in multiple time zones including product managers,
+        engineers, solutions engineers, QA and customers for product strategy
+        &amp; roadmap. Participate in UI/UX design. Review Documentation updates
+        Analyze application logs and debug technical issues to identify root
+        causes in collaboration with engineering teams Perform competitor
+        analysis and benchmarks and ensure that your product is always ahead of
+        the curve"
+      score: 80
+      skill_hits: 2
+      bucket_id: pm_product
+      fetched_at: 2026-09-15T20:25:32.770Z
+      pulled_at: 2026-09-15T20:25:32.770Z
+      stale_days: 26
+      is_stale: true
+    - source: recruitee
+      source_note: ""
+      company: Consultport
+      title: Product Manager (m/f/d)
+      location: Berlin, Berlin, Germany, Berlin, Germany
+      url: https://consultport.recruitee.com/o/product-manager-mfd
+      updated_at: 2026-08-10 10:51:37 UTC
+      description: Consultport is the leading digital platform that connects some of
+        the world's most iconic brands with world-class consultants. We're
+        scaling hard, and we need a PM obsessed with product-led growth (PLG).
+        This role is not about babysitting a roadmap but turning the product
+        itself into our best sales channel — removing friction, driving
+        activation, and making users fall in love before they ever talk to
+        sales.
+      score: 74
+      skill_hits: 1
+      bucket_id: pm_product
+      fetched_at: 2026-09-15T20:25:32.770Z
+      pulled_at: 2026-09-15T20:25:32.770Z
+      stale_days: 26
+      is_stale: true
+    - source: recruitee
+      source_note: ""
+      company: TransPerfect
+      title: Associate Product Manager
+      location: Pune, Mahārāshtra, India, Pune, India
+      url: https://transperfect.com/o/associate-product-manager
+      updated_at: 2026-08-05 06:02:31 UTC
+      description: OVERVIEW TransPerfect helps organizations navigate the global
+        marketplace. It remains founder-led – and has striven to maintain the
+        ethos and drive that led them to grow organically year-on-year for the
+        past 30 years. Starting in an NYU dorm room in the early 1990s,
+        TransPerfect is today recognized as the largest translation and language
+        services company in the world with thousands of employees located in
+        100+ offices around the world – and over $1 billion in revenue in 2023.
+        &nbsp; The TransPerfect TechOps team has been a vital part of the
+        company’s success since its formation 10 years ago – delivering
+        technology and services that have drastically simplified the lives of
+        our clients and colleagues – from workflow improvements for colleagues,
+        to core services that form the basis of the company’s GlobalLink
+        platform, to creating scalable client interfaces that allow novice users
+        to navigate complex ecosystems. DESCRIPTION
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Work closely with the Product
+        Manager to align on product strategy and roadmap
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support the product roadmap that
+        meets user needs and corporate goals
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Write detailed user stories and
+        acceptance criteria ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prioritize and
+        groom the product backlog ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support
+        the product lifecycle from planning to release
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Participate in daily/weekly
+        (agile/scrum) software development process meetings
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support delivery schedules and
+        coordinate across cross-functional teams comprised of product, design,
+        development and QA, to deliver functional solutions
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Communicate daily with the
+        cross-functional team to clarify any questions and remove roadblocks
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support and evaluate product
+        progress at each stage of the software development process
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Perform any other special tasks
+        that are deemed appropriate for this role as assigned by the
+        manager/supervisor
+      score: 92
+      skill_hits: 5
+      bucket_id: pm_product
       fetched_at: 2026-09-14T21:05:54.621Z
       pulled_at: 2026-09-14T21:05:54.621Z
-      stale_days: 25
+      stale_days: 27
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4302,7 +4497,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-14T21:05:54.621Z
       pulled_at: 2026-09-14T21:05:54.621Z
-      stale_days: 25
+      stale_days: 27
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4345,7 +4540,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-14T21:05:54.621Z
       pulled_at: 2026-09-14T21:05:54.621Z
-      stale_days: 25
+      stale_days: 27
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4366,7 +4561,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-14T21:05:54.621Z
       pulled_at: 2026-09-14T21:05:54.621Z
-      stale_days: 25
+      stale_days: 27
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -4473,7 +4668,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-13T19:42:16.504Z
       pulled_at: 2026-09-13T19:42:16.504Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4521,7 +4716,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-13T19:42:16.504Z
       pulled_at: 2026-09-13T19:42:16.504Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4555,7 +4750,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-13T19:42:16.504Z
       pulled_at: 2026-09-13T19:42:16.504Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4598,7 +4793,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-13T19:42:16.504Z
       pulled_at: 2026-09-13T19:42:16.504Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4619,428 +4814,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-13T19:42:16.504Z
       pulled_at: 2026-09-13T19:42:16.504Z
-      stale_days: 27
-      is_stale: true
-    - source: greenhouse
-      source_note: ""
-      company: hellofresh
-      title: Senior Product Manager, Intelligent Platforms (m/f/x)
-      location: Berlin, Berlin, Germany
-      url: https://careers.hellofresh.com/global/en/job/8095950?gh_jid=8095950
-      updated_at: 2026-08-19T11:27:23-04:00
-      description: "&lt;h2&gt;The role&lt;/h2&gt; &lt;p&gt;Foundations Alliance&#39;s
-        mission is to accelerate the delivery of high-quality, scalable, and
-        highly available digital products at HelloFresh. We do this by providing
-        services and platforms that improve our internal builders&#39;
-        productivity and the reliability of our applications and our
-        data.&lt;/p&gt; &lt;p&gt;We&#39;re looking for a Senior Product Manager
-        to own the vision, strategy, and execution for our Operational Data
-        Platform — the systems that create, transport, and store data at the
-        point of origin, and makes it available to reach analytics or AI.
-        You&#39;ll own a well-defined, high-leverage layer of our data
-        ecosystem: the streaming and database infrastructure that product
-        engineering teams rely on to get data flowing reliably from day
-        one.&lt;/p&gt; &lt;p&gt;Your core mission is to ensure operational data
-        is created, delivered, and shared downstream reliably, cost-efficiently,
-        and with the quality guarantees that everything downstream depends on —
-        so the analytics layer receives quality data, ready to turn into
-        governed assets. You&#39;ll define the roadmap for your squad&#39;s
-        platform (event streaming, relational and NoSQL databases), partner
-        closely with the Engineering Lead for the Operational Data Platform, and
-        work cross-functionally with the data producer teams and the analytical
-        teams consuming it.&lt;/p&gt; &lt;p&gt;You&#39;ll join at a pivotal
-        moment: your squad is essential for a cost-efficiency push and a
-        reliability push on our critical-path systems — real, visible wins you
-        can own from day one.&lt;/p&gt; &lt;h2&gt;What you&#39;ll do&lt;/h2&gt;
-        &lt;ul&gt; &lt;li&gt;Own the product vision and roadmap for the
-        Operational Data Platform — low-latency data creation, transport,
-        storage, and availability for downstream analytics — partnering closely
-        with the Engineering Lead for the platform.&lt;/li&gt; &lt;li&gt;Drive
-        your squad&#39;s cost-efficiency roadmap, owning cost savings as a core
-        KPI.&lt;/li&gt; &lt;li&gt;Own the reliability of critical-path systems —
-        streaming and core databases — setting uptime targets and feeding
-        incident learnings back into the roadmap.&lt;/li&gt; &lt;li&gt;Champion
-        data-contract and schema standards at the point of data creation,
-        working with data-producing engineering teams to close adoption gaps, so
-        higher-quality data flows downstream from day one.&lt;/li&gt;
-        &lt;li&gt;Guide tooling decisions as the platform evolves, consolidating
-        around the right tool for the job rather than accumulating redundant
-        options.&lt;/li&gt; &lt;li&gt;Own the handover contract with the
-        Analytical Data Platform, ensuring the data they receive is consistently
-        trustworthy and ready for governance and certification.&lt;/li&gt;
-        &lt;li&gt;Act as the primary interface between the Operational Data
-        Platform and the data producers, translating their needs into roadmap
-        priorities.&lt;/li&gt; &lt;li&gt;Define, track, and report your
-        squad&#39;s KPIs (cost efficiency, critical-path reliability,
-        data-quality adoption) against Foundations&#39; quarterly
-        goals.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;What you&#39;ll bring&lt;/h2&gt;
-        &lt;ul&gt; &lt;li&gt;Experience as a Product Manager with a solid
-        grounding in data infrastructure, data engineering, or backend platforms
-        — comfortable with streaming/messaging and database concepts.&lt;/li&gt;
-        &lt;li&gt;Working familiarity with event streaming and relational/NoSQL
-        database technologies — enough to partner credibly with engineers on
-        technical trade-offs.&lt;/li&gt; &lt;li&gt;A track record of owning the
-        roadmap and KPIs for a single team in a well-understood problem space,
-        defining metrics like cost, reliability, or data quality and driving
-        them to target.&lt;/li&gt; &lt;li&gt;Comfort using data to inform
-        prioritization and roadmap decisions, with a growing quantity/quality
-        toolkit and openness to guidance from senior peers.&lt;/li&gt;
-        &lt;li&gt;Strong collaboration skills — you build trust and alignment
-        with engineering leads and key stakeholders, backed by clear written and
-        verbal communication.&lt;/li&gt; &lt;li&gt;A pragmatic,
-        execution-oriented approach — you drive day-to-day delivery with minimal
-        guidance once direction is set, and you&#39;re comfortable navigating
-        cost, reliability, and tech-debt trade-offs in a live production
-        environment.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;What we offer&lt;/h2&gt;
-        &lt;p&gt;&lt;span style=&quot;text-decoration:
-        underline;&quot;&gt;Compensation &amp;amp; Financial
-        Wellbeing&lt;/span&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;You’ll receive a
-        competitive salary package, including a HelloFresh-subsidized pension
-        scheme.&lt;/li&gt; &lt;li&gt;Enjoy savings on your weekly HelloFresh
-        box.&lt;/li&gt; &lt;li&gt;Save with discount schemes with corporate
-        benefits and Vorteile.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;span
-        style=&quot;text-decoration: underline;&quot;&gt;Health &amp;amp;
-        Wellbeing&lt;/span&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Support your
-        mental wellbeing with access to platforms like Headspace and
-        Spill.&lt;/li&gt; &lt;li&gt;Stay active with 24/7 office gym access, a
-        discounted Urban Sports Club membership, and other wellbeing
-        resources.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;span
-        style=&quot;text-decoration: underline;&quot;&gt;Flexibility &amp;amp;
-        Work-Life&lt;/span&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Balance your life
-        with our flexible hybrid model.&lt;/li&gt; &lt;li&gt;Recharge with
-        sabbatical leave options in addition to standard time off.&lt;/li&gt;
-        &lt;li&gt;Get to work with ease through sustainable travel perks and
-        transportation benefits.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;span
-        style=&quot;text-decoration: underline;&quot;&gt;Career &amp;amp;
-        Development&lt;/span&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Embrace
-        &quot;Learning Never Stops&quot; with internal training, the HelloFresh
-        Academy, and a dedicated budget for German language courses.&lt;/li&gt;
-        &lt;/ul&gt; &lt;p&gt;&lt;span style=&quot;text-decoration:
-        underline;&quot;&gt;Culture &amp;amp; Environment&lt;/span&gt;&lt;/p&gt;
-        &lt;ul&gt; &lt;li&gt;Enjoy tasty in-office meal deals and fresh food
-        options.&lt;/li&gt; &lt;li&gt;We support working families with
-        parent-friendly policies, an in-office kids corner, and an on-site
-        babysitter.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;#Product&lt;/p&gt;"
-      score: 98
-      skill_hits: 2
-      bucket_id: pm_product
-      fetched_at: 2026-09-11T19:58:59.330Z
-      pulled_at: 2026-09-11T19:58:59.330Z
-      stale_days: 29
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: TransPerfect
-      title: Associate Product Manager
-      location: Pune, Mahārāshtra, India, Pune, India
-      url: https://transperfect.com/o/associate-product-manager
-      updated_at: 2026-08-05 06:02:31 UTC
-      description: OVERVIEW TransPerfect helps organizations navigate the global
-        marketplace. It remains founder-led – and has striven to maintain the
-        ethos and drive that led them to grow organically year-on-year for the
-        past 30 years. Starting in an NYU dorm room in the early 1990s,
-        TransPerfect is today recognized as the largest translation and language
-        services company in the world with thousands of employees located in
-        100+ offices around the world – and over $1 billion in revenue in 2023.
-        &nbsp; The TransPerfect TechOps team has been a vital part of the
-        company’s success since its formation 10 years ago – delivering
-        technology and services that have drastically simplified the lives of
-        our clients and colleagues – from workflow improvements for colleagues,
-        to core services that form the basis of the company’s GlobalLink
-        platform, to creating scalable client interfaces that allow novice users
-        to navigate complex ecosystems. DESCRIPTION
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Work closely with the Product
-        Manager to align on product strategy and roadmap
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support the product roadmap that
-        meets user needs and corporate goals
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Write detailed user stories and
-        acceptance criteria ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prioritize and
-        groom the product backlog ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support
-        the product lifecycle from planning to release
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Participate in daily/weekly
-        (agile/scrum) software development process meetings
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support delivery schedules and
-        coordinate across cross-functional teams comprised of product, design,
-        development and QA, to deliver functional solutions
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Communicate daily with the
-        cross-functional team to clarify any questions and remove roadblocks
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support and evaluate product
-        progress at each stage of the software development process
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Perform any other special tasks
-        that are deemed appropriate for this role as assigned by the
-        manager/supervisor
-      score: 92
-      skill_hits: 5
-      bucket_id: pm_product
-      fetched_at: 2026-09-11T19:58:59.330Z
-      pulled_at: 2026-09-11T19:58:59.330Z
-      stale_days: 29
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: TransPerfect
-      title: Associate Product Manager
-      location: Pune, Mahārāshtra, India, Pune, India
-      url: https://transperfect.com/o/associate-product-manager-1
-      updated_at: 2026-07-30 23:25:59 UTC
-      description: OVERVIEW
-        TransPerfect&nbsp;helps&nbsp;organizations&nbsp;navigate&nbsp;the&nbsp;global&nbsp;marketplace.&nbsp;It&nbsp;remains&nbsp;founder-led&nbsp;–&nbsp;and&nbsp;has&nbsp;striven&nbsp;to&nbsp;maintain&nbsp;the&nbsp;ethos&nbsp;and&nbsp;drive&nbsp;that&nbsp;led&nbsp;them&nbsp;to&nbsp;grow&nbsp;organically&nbsp;year-on-year&nbsp;for&nbsp;the&nbsp;past&nbsp;30&nbsp;years.&nbsp;Starting&nbsp;in&nbsp;an&nbsp;NYU&nbsp;dorm&nbsp;room&nbsp;in&nbsp;the&nbsp;early&nbsp;1990s,&nbsp;TransPerfect&nbsp;is&nbsp;today&nbsp;recognized&nbsp;as&nbsp;the&nbsp;largest&nbsp;translation&nbsp;and&nbsp;language&nbsp;services&nbsp;company&nbsp;in&nbsp;the&nbsp;world&nbsp;with&nbsp;thousands&nbsp;of&nbsp;employees&nbsp;located&nbsp;in&nbsp;100+&nbsp;offices&nbsp;around&nbsp;the&nbsp;world&nbsp;–&nbsp;and&nbsp;over&nbsp;$1&nbsp;billion&nbsp;in&nbsp;revenue&nbsp;in&nbsp;2023.
-        The&nbsp;TransPerfect&nbsp;TechOps&nbsp;team&nbsp;has&nbsp;been&nbsp;a&nbsp;vital&nbsp;part&nbsp;of&nbsp;the&nbsp;company’s&nbsp;success&nbsp;since&nbsp;its&nbsp;formation&nbsp;10&nbsp;years&nbsp;ago&nbsp;–&nbsp;delivering&nbsp;technology&nbsp;and&nbsp;services&nbsp;that&nbsp;have&nbsp;drastically&nbsp;simplified&nbsp;the&nbsp;lives&nbsp;of&nbsp;our&nbsp;clients&nbsp;and&nbsp;colleagues&nbsp;–&nbsp;from&nbsp;workflow&nbsp;improvements&nbsp;for&nbsp;colleagues,&nbsp;to&nbsp;core&nbsp;services&nbsp;that&nbsp;form&nbsp;the&nbsp;basis&nbsp;of&nbsp;the&nbsp;company’s&nbsp;GlobalLink&nbsp;platform,&nbsp;to&nbsp;creating&nbsp;scalable&nbsp;client&nbsp;interfaces&nbsp;that&nbsp;allow&nbsp;novice&nbsp;users&nbsp;to&nbsp;navigate&nbsp;complex&nbsp;ecosystems.
-        DESCRIPTION
-        Work&nbsp;closely&nbsp;with&nbsp;the&nbsp;Product&nbsp;Manager&nbsp;to&nbsp;align&nbsp;on&nbsp;product&nbsp;strategy&nbsp;and&nbsp;roadmap
-        Support&nbsp;the&nbsp;product&nbsp;roadmap&nbsp;that&nbsp;meets&nbsp;user&nbsp;needs&nbsp;and&nbsp;corporate&nbsp;goals
-        Write&nbsp;detailed&nbsp;user&nbsp;stories&nbsp;and&nbsp;acceptance&nbsp;criteria
-        Prioritize&nbsp;and&nbsp;groom&nbsp;the&nbsp;product&nbsp;backlog
-        Support&nbsp;the&nbsp;product&nbsp;lifecycle&nbsp;from&nbsp;planning&nbsp;to&nbsp;release
-        Participate&nbsp;in&nbsp;daily/weekly&nbsp;(agile/scrum)&nbsp;software&nbsp;development&nbsp;process&nbsp;meetings
-        Support&nbsp;delivery&nbsp;schedules&nbsp;and&nbsp;coordinate&nbsp;across&nbsp;cross-functional&nbsp;teams&nbsp;comprised&nbsp;of&nbsp;product,&nbsp;design,&nbsp;development&nbsp;and&nbsp;QA,&nbsp;to&nbsp;deliver&nbsp;functional&nbsp;solutions
-        Communicate&nbsp;daily&nbsp;with&nbsp;the&nbsp;cross-functional&nbsp;team&nbsp;to&nbsp;clarify&nbsp;any&nbsp;questions&nbsp;and&nbsp;remove&nbsp;roadblocks
-        Support&nbsp;and&nbsp;evaluate&nbsp;product&nbsp;progress&nbsp;at&nbsp;each&nbsp;stage&nbsp;of&nbsp;the&nbsp;software&nbsp;development&nbsp;process
-        Perform&nbsp;any&nbsp;other&nbsp;special&nbsp;tasks&nbsp;that&nbsp;are&nbsp;deemed&nbsp;appropriate&nbsp;for&nbsp;this&nbsp;role&nbsp;as&nbsp;assigned&nbsp;by&nbsp;the&nbsp;manager/supervisor
-        REQUIRED&nbsp;SKILLS
-        Minimum&nbsp;Bachelor’s&nbsp;degree&nbsp;or&nbsp;its&nbsp;equivalent
-        1-2&nbsp;years&nbsp;of&nbsp;related&nbsp;experience&nbsp;in&nbsp;working&nbsp;in&nbsp;an&nbsp;agile&nbsp;development&nbsp;environment
-        A&nbsp;solid&nbsp;working&nbsp;knowledge&nbsp;of&nbsp;the&nbsp;product&nbsp;management&nbsp;lifecycle&nbsp;and&nbsp;an&nbsp;understanding&nbsp;of&nbsp;the&nbsp;tenets&nbsp;of&nbsp;software&nbsp;development&nbsp;using&nbsp;Agile&nbsp;methodologies
-        Experience&nbsp;managing&nbsp;products&nbsp;or&nbsp;projects&nbsp;using&nbsp;project&nbsp;management&nbsp;tools&nbsp;such&nbsp;as&nbsp;Jira,&nbsp;Azure&nbsp;DevOps&nbsp;Server,&nbsp;Confluence,&nbsp;Trello,&nbsp;etc.&nbsp;
-        Expert&nbsp;communication&nbsp;skills:&nbsp;ability&nbsp;to&nbsp;manage&nbsp;stakeholders’&nbsp;expectations,&nbsp;be&nbsp;prepared&nbsp;to&nbsp;justify&nbsp;delays&nbsp;or&nbsp;scope&nbsp;changes,&nbsp;and&nbsp;communicate&nbsp;technical&nbsp;information&nbsp;to&nbsp;business&nbsp;stakeholders&nbsp;in&nbsp;an&nbsp;easy&nbsp;to&nbsp;understand&nbsp;way
-      score: 90
-      skill_hits: 5
-      bucket_id: pm_product
-      fetched_at: 2026-09-11T19:58:59.330Z
-      pulled_at: 2026-09-11T19:58:59.330Z
-      stale_days: 29
-      is_stale: true
-    - source: arbeitnow
-      source_note: ""
-      company: Taledo GmbH
-      title: Senior Product Manager - Core Engine (m/w/d)
-      location: Deutschlandweit, Berlin, Deutschland
-      url: https://www.arbeitnow.com/jobs/companies/taledo-gmbh/senior-product-manager-core-engine-deutschlandweit-4435
-      updated_at: 1789147829
-      description: "Unser Mandant entwickelt innovative Decision-Intelligence-Software
-        für datengestützte Entscheidungen und komplexe betriebliche Abläufe. Das
-        Ziel ist es, Organisationen dabei zu helfen, Abhängigkeiten transparent
-        zu machen, Handlungsoptionen zu evaluieren und Entscheidungen zu
-        treffen, deren Logik und Annahmen jederzeit nachvollziehbar sind. Dafür
-        wird eine leistungsfähige Kerntechnologie aufgebaut, die strukturiertes
-        Wissen, logisches Schlussfolgern (Reasoning), Planung und KI-Komponenten
-        vereint. Als Senior Product Manager bist du das entscheidende Bindeglied
-        zwischen Marktbedürfnissen, Customer Insights und technischer
-        Umsetzungsstärke. Deine Mission: ein sich schnell entwickelndes,
-        marktorientiertes Produkt abzuliefern, das geschäftlichen Mehrwert,
-        Produktvision und technische Machbarkeit perfekt ausbalanciert. Du
-        steuerst den Produktlebenszyklus von der ersten Idee bis zum
-        Product-Market-Fit und arbeitest dabei funktionsübergreifend mit
-        Softwareentwicklung, Data Science, Vertrieb und der Geschäftsführung
-        zusammen. Diese Rolle ist ideal für jemanden, der genau das bereits
-        erfolgreich getan hat: Produkte in einem Startup-Umfeld aufzubauen und
-        zu skalieren. Deine Challenges: Produktstrategie &amp; Roadmap: Führung
-        der Produktstrategie in Abstimmung mit den Geschäftszielen sowie
-        Übersetzung der Vision in umsetzbare Pläne. Product-Market-Fit:
-        Steuerung des Produkts von Problem-Fit über Solution-Fit bis hin zum
-        Product-Market-Fit unter Nutzung schlanker, hypothesengeleiteter und
-        iterativer Methoden. MVP &amp; Delivery: Definition von MVPs, schnelles
-        Testen von Annahmen, Verkürzung der Time-to-Value und kontinuierliche
-        Bereitstellung von Features, die reale Nutzerprobleme lösen. Discovery
-        &amp; Research: Durchführung von Marktforschung, Wettbewerbsanalysen und
-        Kundeninterviews (z. B. „Jobs to be Done“), um Wachstumschancen zu
-        identifizieren. Backlog &amp; Priorisierung: Übersetzung komplexer Daten
-        in intuitive Produktfeatures, Zusammenarbeit mit Entwicklungs- und
-        Data-Science-Teams sowie Nutzung von Frameworks (z. B. WSJF, RICE) zur
-        maximierten Impact-Ausrichtung pro Release. Stakeholder-Kommunikation:
-        Pflege klarer, realistischer Roadmaps und Sicherstellung der
-        Stakeholder-Ausrichtung durch transparente, konsistente Kommunikation,
-        Demos und ROI-Updates. KPI-Tracking: Verfolgung und Analyse zentraler
-        Lebenszyklus-KPIs (u. a. Konvertierung, Adoption, Churn, NPS, MRR/ARR,
-        CAC und Feature-ROI). Go-to-Market Support: Unterstützung bei
-        Produktpositionierung, Preisgestaltung und Messaging in enger
-        Zusammenarbeit mit Vertrieb und Marketing. Prototyping &amp; Tech
-        Feasibility: Steuerung von Leichtbau-Prototypen/Demos in frühen Phasen
-        (inkl. Koordination externer Entwickler) sowie Bewertung technischer
-        Machbarkeiten und Umsetzungs-Kompromisse. Erfahrung: Mindestens 4 Jahre
-        Erfahrung im Produktmanagement, idealerweise in einem technologie- oder
-        datengetriebenen B2B-Startup-Umfeld. Track Record: Nachgewiesener Erfolg
-        bei der Steuerung eines Produkts von Null über den MVP bis hin zur
-        Skalierung (vorzugsweise im Kontext von SaaS, KI oder PropTech).
-        Methoden &amp; Tools: Fundierte Kenntnisse in Product Discovery, agilen
-        Arbeitsweisen (Scrum/Kanban) und User-Story-Erstellung; praktische
-        Erfahrung mit Jira, Figma, Notion, SQL, BI-Tools und A/B-Testing.
-        Analytisches &amp; Strategisches Denken: Starkes Verständnis für
-        Produktanalysen, Business-Value-Treiber und Priorisierungs-Frameworks
-        (z. B. WSJF, RICE); Fähigkeit zu klaren Entscheidungen unter
-        Unsicherheit und zu strategischen Pivots bei Bedarf. Technische Fluenz:
-        Solides Verständnis von Softwareentwicklungs-Workflows und -Architektur
-        sowie die Fähigkeit, effektiv mit Engineering- und Data-Science-Teams zu
-        kommunizieren. Hands-on Mindset: Fähigkeit, schnelle, funktionale
-        Prototypen mittels No-Code/Low-Code-Tools oder einfachen Skripten zu
-        erstellen sowie Erfahrung in der Zusammenarbeit mit externen
-        Entwicklern. Soft Skills &amp; Führung: Exzellente
-        Kommunikationsfähigkeiten, starkes Stakeholder-Management, Growth
-        Mindset und hohe Eigenverantwortung. Sprachen: Fließende Deutsch- und
-        Englischkenntnisse (mindestens B2-Niveau). Warum wir? Einfluss ab Tag 1:
-        Werde Teil eines missionsgetriebenen Teams, in dem deine Ideen und
-        Fähigkeiten reale Produkte von Grund auf prägen. Autonomie: Kurze
-        Entscheidungswege und hohe Eigenverantwortung in einem
-        hochkollaborativen Arbeitsumfeld. Entwicklung: Gezielte Investition in
-        deine berufliche und persönliche Weiterentwicklung durch Schulungen und
-        Mentoring. Find Jobs in Germany on Arbeitnow"
-      job_types:
-        - Experienced
-        - fulltime permanent
-      remote: false
-      score: 90
-      skill_hits: 5
-      bucket_id: pm_product
-      fetched_at: 2026-09-11T19:58:59.330Z
-      pulled_at: 2026-09-11T19:58:59.330Z
-      stale_days: 29
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: TransPerfect
-      title: Technical Product Manager
-      location: Pune, Mahārāshtra, India, Pune, India
-      url: https://transperfect.com/o/technical-product-manager
-      updated_at: 2026-07-30 15:08:53 UTC
-      description: "OVERVIEW TransPerfect helps the world's leading brands thrive in
-        the global marketplace by offering a full range of solutions to ensure
-        the success of digital and mobile initiatives. Working in 170+
-        languages, our services include website and software localization, QA
-        and testing, international SEO/SEM, customer service and call center
-        solutions, multicultural marketing, multimedia services, and more.
-        RESPOSIBILITES: TransPerfect is seeking a Technical Product Manager to
-        manage and own the product lifecycle for integration frameworks for CMS
-        &amp; e-commerce systems. This position will work with internal
-        development and QA teams and vendor partners to build integrations into
-        GlobalLink - our flagship cloud-based translation management platform.
-        We are looking for forward-thinking professionals who are more
-        interested in how things could become and who can thrive in an evolving
-        and fast-paced environment. Manage the entire product life cycle which
-        includes: Manage professional services engagements and prepare SOWs for
-        all existing customers Explore product functionality and recommend best
-        strategy to integrate Evaluate APIs and GraphQL endpoints and devise an
-        integration approach Individually carry out product deliveries from
-        inception to product roll out Design/create detailed technical
-        specifications for functional requirements Closely monitor development
-        and QA progress for ontime deliverables Do active review of test
-        strategy Planning continuous upgrades for new features Collaborate with
-        multiple teams in multiple time zones including product managers,
-        engineers, solutions engineers, QA and customers for product strategy
-        &amp; roadmap. Participate in UI/UX design. Review Documentation updates
-        Analyze application logs and debug technical issues to identify root
-        causes in collaboration with engineering teams Perform competitor
-        analysis and benchmarks and ensure that your product is always ahead of
-        the curve"
-      score: 80
-      skill_hits: 2
-      bucket_id: pm_product
-      fetched_at: 2026-09-11T19:58:59.330Z
-      pulled_at: 2026-09-11T19:58:59.330Z
-      stale_days: 29
-      is_stale: true
-    - source: arbeitnow
-      source_note: ""
-      company: Angi
-      title: Senior Product Manager, Data Infrastructure
-      location: Hybrid - Germany - Berlin
-      url: https://www.arbeitnow.com/jobs/companies/angi/senior-product-manager-data-infrastructure-berlin-47693
-      updated_at: 1789148410
-      description: "For over 30 years, Angi has powered the future of the home
-        services industry, creating an environment where homeowners and pros
-        benefit from more jobs done well. For homeowners, our platform is a
-        reliable way to find skilled pros. For pros, we're a reliable business
-        partner who helps them find the winnable work they want, when they want.
-        For employees, we're an amazing place to call home. We can't wait to
-        welcome you. Angi at a glance: Founded in 1995 as Angie’s List and
-        rebranded in 2021 Global company with 9 brands in 8 countries and
-        employees worldwide Homeowners have turned to us for 300 million home
-        projects and counting About the Team Data Infrastructure builds the
-        platform that every other data team stands on: access to shared data,
-        orchestration, data ingestion, and the retirement of systems the company
-        has outgrown. Every layer of this platform exists to make it easier for
-        a homeowner to hire an Angi Pro, on one certified source of truth that
-        people and AI agents can trust equally. The team's strategy is built
-        around one idea: this platform should feel like a self-service product,
-        not a ticket queue, for the engineers and analysts who depend on it, and
-        increasingly for the AI agents who depend on it too. Angi is moving
-        toward AI agents as a normal way of building and operating, and every
-        agent that touches company data comes through this platform first. This
-        role stewards that platform's product direction. What You'll Do Product
-        Management Manage governed platform access - give engineers, analysts,
-        and services safe, auditable access to shared data, and make the safe
-        path the easy path. Streamline orchestration and scheduling - bring
-        fragmented scheduling tools together into one system every team reaches
-        for by default, and use AI-assisted tooling to migrate jobs faster, with
-        less manual engineering effort. Drive data ingestion and replication -
-        define what self-service ingestion looks like for teams who want to
-        bring their own data onto the platform, and build toward that. Oversee
-        legacy system retirement - close out systems that are no longer the
-        source of truth, with clear ownership handed off at every step. Optimize
-        compute cost efficiency - find where cost comes from habit rather than
-        real need, and bring it down without anyone losing the developer
-        experience they rely on. Advance compute strategy diversification - help
-        move the platform toward a storage layer that works with more than one
-        compute engine, so each workload runs on the engine built for it. Build
-        the platform's AI-ready substrate - make agentic workflows safe by
-        default, with the same governed access and audit trail for an agent as
-        for a person. Execution and Individual Contribution Use AI agents in
-        your own daily work, set clear norms so the engineers and peers around
-        you feel safe experimenting with agents and agentic workflows. Protect
-        the team's focus and drive real rigor without micromanaging how the work
-        gets done. Steward outcomes, not tasks. Build trust across engineering,
-        domain teams, and leadership through empathetic, transparent, and clear
-        communication when addressing complex challenges. Work closely with Data
-        Engineering's other delivery teams - Data Mesh Enablement and Managed
-        Data Products - and with the team building Angi's agentic workflows,
-        toward one overall technical strategy. Who You Are Five or more years of
-        product management experience on a data or infrastructure platform team,
-        where you stewarded technical roadmaps directly. Comfortable reading
-        system architecture and pipeline dependencies well enough to make real
-        sequencing calls with engineering. A record of taking cross-team
-        migrations and retirements all the way to done, not just to a plan.
-        Transparent about areas of growth and open to learning, rather than
-        presenting incomplete information as fully resolved under pressure.
-        Preferred Qualifications Experience weighing compute cost against
-        performance and developer experience, and driving that tradeoff to a
-        decision rather than just planning around it. Working knowledge of how
-        AI agents consume data and tools differently from people, and judgment
-        on when a vendor's own agent layer already covers a need. A proactive
-        approach to navigating and understanding new technical systems, key
-        contacts, and open questions independently. Compensation &amp; Benefits
-        The salary band for this position ranges from €90,000 - 120,000,
-        commensurate with experience and qualifications. Hybrid work environment
-        and home office set-up allowance. Temporary work from abroad policy.
-        Regular team and social events. Find Jobs in Germany on Arbeitnow"
-      job_types:
-        - Full Time
-      remote: false
-      score: 78
-      skill_hits: 2
-      bucket_id: pm_product
-      fetched_at: 2026-09-11T19:58:59.330Z
-      pulled_at: 2026-09-11T19:58:59.330Z
-      stale_days: 29
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: Consultport
-      title: Product Manager (m/f/d)
-      location: Berlin, Berlin, Germany, Berlin, Germany
-      url: https://consultport.recruitee.com/o/product-manager-mfd
-      updated_at: 2026-08-10 10:51:37 UTC
-      description: Consultport is the leading digital platform that connects some of
-        the world's most iconic brands with world-class consultants. We're
-        scaling hard, and we need a PM obsessed with product-led growth (PLG).
-        This role is not about babysitting a roadmap but turning the product
-        itself into our best sales channel — removing friction, driving
-        activation, and making users fall in love before they ever talk to
-        sales.
-      score: 74
-      skill_hits: 1
-      bucket_id: pm_product
-      fetched_at: 2026-09-11T19:58:59.330Z
-      pulled_at: 2026-09-11T19:58:59.330Z
-      stale_days: 29
+      stale_days: 28
       is_stale: true
   scrum_agile:
     - source: smartrecruiters
@@ -5056,7 +4830,7 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-09-29T21:34:20.102Z
       pulled_at: 2026-09-29T21:34:20.102Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: smartrecruiters
       source_note: ""
@@ -5071,7 +4845,7 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-09-26T20:05:59.172Z
       pulled_at: 2026-09-26T20:05:59.172Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: smartrecruiters
       source_note: ""
@@ -5086,7 +4860,7 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-09-26T20:05:59.172Z
       pulled_at: 2026-09-26T20:05:59.172Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: smartrecruiters
       source_note: ""
@@ -5101,7 +4875,7 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-09-25T20:40:21.162Z
       pulled_at: 2026-09-25T20:40:21.162Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: smartrecruiters
       source_note: ""
@@ -5116,7 +4890,7 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-09-25T20:40:21.162Z
       pulled_at: 2026-09-25T20:40:21.162Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: smartrecruiters
       source_note: ""
@@ -5131,7 +4905,7 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-09-24T20:41:46.527Z
       pulled_at: 2026-09-24T20:41:46.527Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: smartrecruiters
       source_note: ""
@@ -5146,7 +4920,7 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-09-21T21:15:40.949Z
       pulled_at: 2026-09-21T21:15:40.949Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -5205,7 +4979,7 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-09-19T19:31:06.864Z
       pulled_at: 2026-09-19T19:31:06.864Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: smartrecruiters
       source_note: ""
@@ -5220,7 +4994,7 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-09-19T19:31:06.864Z
       pulled_at: 2026-09-19T19:31:06.864Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: smartrecruiters
       source_note: ""
@@ -5235,7 +5009,7 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-09-17T20:31:40.181Z
       pulled_at: 2026-09-17T20:31:40.181Z
-      stale_days: 23
+      stale_days: 24
       is_stale: true
     - source: smartrecruiters
       source_note: ""
@@ -5250,7 +5024,7 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-09-16T20:21:50.297Z
       pulled_at: 2026-09-16T20:21:50.297Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: smartrecruiters
       source_note: ""
@@ -5265,7 +5039,7 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-09-15T20:25:32.770Z
       pulled_at: 2026-09-15T20:25:32.770Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: smartrecruiters
       source_note: ""
@@ -5280,7 +5054,7 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-09-14T21:05:54.621Z
       pulled_at: 2026-09-14T21:05:54.621Z
-      stale_days: 25
+      stale_days: 27
       is_stale: true
     - source: smartrecruiters
       source_note: ""
@@ -5295,22 +5069,7 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-09-13T19:42:16.504Z
       pulled_at: 2026-09-13T19:42:16.504Z
-      stale_days: 27
-      is_stale: true
-    - source: smartrecruiters
-      source_note: ""
-      company: Cint
-      title: Scrum Master / Delivery Coach
-      location: Gurugram, HR, India
-      url: https://api.smartrecruiters.com/v1/companies/cint/postings/744000148535525
-      updated_at: 2026-09-09T15:08:54.160Z
-      description: ""
-      score: 78
-      skill_hits: 2
-      bucket_id: scrum_agile
-      fetched_at: 2026-09-11T19:58:59.330Z
-      pulled_at: 2026-09-11T19:58:59.330Z
-      stale_days: 29
+      stale_days: 28
       is_stale: true
   program_management:
     - source: arbeitnow
@@ -5412,7 +5171,7 @@ buckets:
       bucket_id: program_management
       fetched_at: 2026-09-26T20:05:59.172Z
       pulled_at: 2026-09-26T20:05:59.172Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
 archive:
   pm_product:
@@ -5519,8 +5278,8 @@ archive:
       score: 98
       skill_hits: 2
       bucket_id: pm_product
-      fetched_at: 2026-09-10T19:58:17.369Z
-      pulled_at: 2026-09-10T19:58:17.369Z
+      fetched_at: 2026-09-11T19:58:59.330Z
+      pulled_at: 2026-09-11T19:58:59.330Z
       stale_days: 30
       is_stale: true
     - source: recruitee
@@ -5567,8 +5326,8 @@ archive:
       score: 92
       skill_hits: 5
       bucket_id: pm_product
-      fetched_at: 2026-09-10T19:58:17.369Z
-      pulled_at: 2026-09-10T19:58:17.369Z
+      fetched_at: 2026-09-11T19:58:59.330Z
+      pulled_at: 2026-09-11T19:58:59.330Z
       stale_days: 30
       is_stale: true
     - source: recruitee
@@ -5601,114 +5360,93 @@ archive:
       score: 90
       skill_hits: 5
       bucket_id: pm_product
-      fetched_at: 2026-09-10T19:58:17.369Z
-      pulled_at: 2026-09-10T19:58:17.369Z
+      fetched_at: 2026-09-11T19:58:59.330Z
+      pulled_at: 2026-09-11T19:58:59.330Z
       stale_days: 30
       is_stale: true
     - source: arbeitnow
       source_note: ""
-      company: Real Digital
-      title: Senior Product Manager (all genders) | B2C
-      location: Remote oder Köln / Darmstadt / Düsseldorf / Berlin
-      url: https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-product-manager-all-genders-b2c-35303
-      updated_at: 1789049405
-      description: "Anstellungsdetails Permanent Contract, Full- or Part-Time, Remote
-        or Cologne / Düsseldorf / Darmstadt / Berlin Info Who we areWe are the
-        tech powerhouse behind Kaufland’s international online marketplaces and
-        a company within the Schwarz Group. Driven by a start-up mentality and
-        working on an equal footing within flat hierarchies, we develop the best
-        marketplace solutions for our customers, sellers and partners.
-        #FromEuropeForEurope Day by day, our Tech &amp; Product Team of about
-        400 experts pursues the goal of creating the best possible customer
-        shopping experience for our online marketplace. Through innovative
-        technical developments, they not only create an outstanding shopping
-        experience but also lay the foundation for an optimal selling experience
-        for our sellers. Learn more about our division, areas, and
-        cross-functional teams here ! Aufgaben Your tasks – this is what awaits
-        you in detail You lead the product strategy, vision, and roadmap for B2C
-        products on the Kaufland Global Marketplace, aligning company goals with
-        customer needs You collaborate with cross-functional teams, including
-        engineering, design, data, and marketing, to deliver high-quality
-        digital products You design and ship LLM-powered product features that
-        elevate the shopping experience and shape how people shop, from the
-        first concept and prompt design through evaluation, quality monitoring,
-        and continuous iteration in production You drive a rigorous
-        experimentation culture: you form hypotheses, design and run A/B tests,
-        and turn results into product decisions that drive customer engagement
-        and conversion You define tracking concepts together with analytics
-        teams and use funnel and behavioral data to continually optimize the
-        product so customers can discover, evaluate, and buy the right products
-        with ease You work hand-in-hand with UX designers and researchers to
-        craft intuitive customer journeys, validate them through user research
-        and usability testing, and iterate fast You identify customer needs and
-        pain points at scale through behavioral data, user research, and market
-        trends, and prioritize the opportunities that create the most value You
-        stay on top of AI and e-commerce trends and proactively identify how
-        emerging technologies can create value for our customers Profil Your
-        profile – this is what we expect from you You have a true builder
-        mindset and a passion for turning ideas into reality You've successfully
-        taken a product from scratch, owning everything from early ideation and
-        concept development to execution and delivery You have hands-on
-        experience building LLM-based features into consumer products, not just
-        using AI tools for your own productivity You bring solid B2C product
-        experience, ideally in e-commerce or another consumer product at scale
-        You are data savvy and outcome-focused: you design and evaluate A/B
-        tests, define tracking concepts, and answer the right questions based on
-        data You always think customer first: you have a strong feel for UX,
-        understand end-users' pain points, and derive actionable insights from
-        research and data You are a motivated and empathetic communicator who is
-        experienced in collaborating with software development teams and
-        interacting with different stakeholders You thrive in a fast-paced,
-        pragmatic environment, bring fluent English skills (C1 level), and excel
-        in an international, remote setup Benefits What we offer Create your own
-        work-life balance: You have the flexibility to choose between working
-        remotely (within Germany) or from one of our locations in Cologne,
-        Darmstadt, Düsseldorf, or in Berlin! Urban Sports Club and RSG Group
-        Fitness Studios : Get top deals for fitness, swimming, yoga and more
-        Mental Well-Being: We support you on your well-being journey with
-        special offerings such as Instahelp, the digital platform for online
-        psychological counseling Vacation &amp; Sabbatical: Enjoy 30 days of
-        vacation per year and the opportunity to take a sabbatical once you have
-        been part of the team for a certain period! Option for Pluxee restaurant
-        vouchers : Buy Pluxee vouchers through us and benefit from
-        tax-advantaged meal allowances! ‘ Deutschlandticket’: We subsidise your
-        train season ticket for more mobility Employee Discount: You will
-        receive a monthly coupon for Kaufland.de Free choice of hardware: Mac or
-        Lenovo, it's up to you Boost your growth: Benefit from our online
-        language learning programs, diverse in-house training, and our automated
-        360-degree feedback This is who we are: Our dynamic culture combines
-        flat hierarchies, a start-up mentality, an international team of over 65
-        nationalities, and the strength of the Schwarz Group to provide you an
-        agile and secure working environment. We are team players : From day
-        one, you will connect not only with your team but also with others
-        through our digital onboarding journey , the buddy program , and regular
-        team and company events, all-hands meetings, powerful mornings , and
-        much more! Check out our Principles &amp; our blog for even more
-        insights into our company culture! Bewerben Diversity at Kaufland
-        e-commerceWe welcome applications from everyone, regardless of skin
-        colour, sexual orientation, gender identity, age, disability, ethnic
-        origin, religion and ideology. We are signatories to the Charta der
-        Vielfalt (German Diversity Charter) – because we know that extraordinary
-        things can only be achieved with diversity. Read more here ! When
-        applying, you can optionally include your pronouns in your resume. Why
-        are you the perfect fit for this position? Don't bother with cover
-        letters - we're interested in facts and figures! Feel free to share your
-        Github profile with us in your application. As we have very
-        international teams, we would highly appreciate it to receive your CV or
-        profile link in English. We are looking forward to your application!
-        Kaufland e-commerce Services GmbH &amp; Co. KG Postal address:
-        Habsburgerring 2 50674 Köln Ansprechpartner Your contact person:
-        Jennifer Biehl Find more English Speaking Jobs in Germany on Arbeitnow"
+      company: Taledo GmbH
+      title: Senior Product Manager - Core Engine (m/w/d)
+      location: Deutschlandweit, Berlin, Deutschland
+      url: https://www.arbeitnow.com/jobs/companies/taledo-gmbh/senior-product-manager-core-engine-deutschlandweit-4435
+      updated_at: 1789147829
+      description: "Unser Mandant entwickelt innovative Decision-Intelligence-Software
+        für datengestützte Entscheidungen und komplexe betriebliche Abläufe. Das
+        Ziel ist es, Organisationen dabei zu helfen, Abhängigkeiten transparent
+        zu machen, Handlungsoptionen zu evaluieren und Entscheidungen zu
+        treffen, deren Logik und Annahmen jederzeit nachvollziehbar sind. Dafür
+        wird eine leistungsfähige Kerntechnologie aufgebaut, die strukturiertes
+        Wissen, logisches Schlussfolgern (Reasoning), Planung und KI-Komponenten
+        vereint. Als Senior Product Manager bist du das entscheidende Bindeglied
+        zwischen Marktbedürfnissen, Customer Insights und technischer
+        Umsetzungsstärke. Deine Mission: ein sich schnell entwickelndes,
+        marktorientiertes Produkt abzuliefern, das geschäftlichen Mehrwert,
+        Produktvision und technische Machbarkeit perfekt ausbalanciert. Du
+        steuerst den Produktlebenszyklus von der ersten Idee bis zum
+        Product-Market-Fit und arbeitest dabei funktionsübergreifend mit
+        Softwareentwicklung, Data Science, Vertrieb und der Geschäftsführung
+        zusammen. Diese Rolle ist ideal für jemanden, der genau das bereits
+        erfolgreich getan hat: Produkte in einem Startup-Umfeld aufzubauen und
+        zu skalieren. Deine Challenges: Produktstrategie &amp; Roadmap: Führung
+        der Produktstrategie in Abstimmung mit den Geschäftszielen sowie
+        Übersetzung der Vision in umsetzbare Pläne. Product-Market-Fit:
+        Steuerung des Produkts von Problem-Fit über Solution-Fit bis hin zum
+        Product-Market-Fit unter Nutzung schlanker, hypothesengeleiteter und
+        iterativer Methoden. MVP &amp; Delivery: Definition von MVPs, schnelles
+        Testen von Annahmen, Verkürzung der Time-to-Value und kontinuierliche
+        Bereitstellung von Features, die reale Nutzerprobleme lösen. Discovery
+        &amp; Research: Durchführung von Marktforschung, Wettbewerbsanalysen und
+        Kundeninterviews (z. B. „Jobs to be Done“), um Wachstumschancen zu
+        identifizieren. Backlog &amp; Priorisierung: Übersetzung komplexer Daten
+        in intuitive Produktfeatures, Zusammenarbeit mit Entwicklungs- und
+        Data-Science-Teams sowie Nutzung von Frameworks (z. B. WSJF, RICE) zur
+        maximierten Impact-Ausrichtung pro Release. Stakeholder-Kommunikation:
+        Pflege klarer, realistischer Roadmaps und Sicherstellung der
+        Stakeholder-Ausrichtung durch transparente, konsistente Kommunikation,
+        Demos und ROI-Updates. KPI-Tracking: Verfolgung und Analyse zentraler
+        Lebenszyklus-KPIs (u. a. Konvertierung, Adoption, Churn, NPS, MRR/ARR,
+        CAC und Feature-ROI). Go-to-Market Support: Unterstützung bei
+        Produktpositionierung, Preisgestaltung und Messaging in enger
+        Zusammenarbeit mit Vertrieb und Marketing. Prototyping &amp; Tech
+        Feasibility: Steuerung von Leichtbau-Prototypen/Demos in frühen Phasen
+        (inkl. Koordination externer Entwickler) sowie Bewertung technischer
+        Machbarkeiten und Umsetzungs-Kompromisse. Erfahrung: Mindestens 4 Jahre
+        Erfahrung im Produktmanagement, idealerweise in einem technologie- oder
+        datengetriebenen B2B-Startup-Umfeld. Track Record: Nachgewiesener Erfolg
+        bei der Steuerung eines Produkts von Null über den MVP bis hin zur
+        Skalierung (vorzugsweise im Kontext von SaaS, KI oder PropTech).
+        Methoden &amp; Tools: Fundierte Kenntnisse in Product Discovery, agilen
+        Arbeitsweisen (Scrum/Kanban) und User-Story-Erstellung; praktische
+        Erfahrung mit Jira, Figma, Notion, SQL, BI-Tools und A/B-Testing.
+        Analytisches &amp; Strategisches Denken: Starkes Verständnis für
+        Produktanalysen, Business-Value-Treiber und Priorisierungs-Frameworks
+        (z. B. WSJF, RICE); Fähigkeit zu klaren Entscheidungen unter
+        Unsicherheit und zu strategischen Pivots bei Bedarf. Technische Fluenz:
+        Solides Verständnis von Softwareentwicklungs-Workflows und -Architektur
+        sowie die Fähigkeit, effektiv mit Engineering- und Data-Science-Teams zu
+        kommunizieren. Hands-on Mindset: Fähigkeit, schnelle, funktionale
+        Prototypen mittels No-Code/Low-Code-Tools oder einfachen Skripten zu
+        erstellen sowie Erfahrung in der Zusammenarbeit mit externen
+        Entwicklern. Soft Skills &amp; Führung: Exzellente
+        Kommunikationsfähigkeiten, starkes Stakeholder-Management, Growth
+        Mindset und hohe Eigenverantwortung. Sprachen: Fließende Deutsch- und
+        Englischkenntnisse (mindestens B2-Niveau). Warum wir? Einfluss ab Tag 1:
+        Werde Teil eines missionsgetriebenen Teams, in dem deine Ideen und
+        Fähigkeiten reale Produkte von Grund auf prägen. Autonomie: Kurze
+        Entscheidungswege und hohe Eigenverantwortung in einem
+        hochkollaborativen Arbeitsumfeld. Entwicklung: Gezielte Investition in
+        deine berufliche und persönliche Weiterentwicklung durch Schulungen und
+        Mentoring. Find Jobs in Germany on Arbeitnow"
       job_types:
         - Experienced
-        - Permanent
-        - Full or part time
+        - fulltime permanent
       remote: false
-      score: 88
-      skill_hits: 4
+      score: 90
+      skill_hits: 5
       bucket_id: pm_product
-      fetched_at: 2026-09-10T19:58:17.369Z
-      pulled_at: 2026-09-10T19:58:17.369Z
+      fetched_at: 2026-09-11T19:58:59.330Z
+      pulled_at: 2026-09-11T19:58:59.330Z
       stale_days: 30
       is_stale: true
     - source: recruitee
@@ -5750,741 +5488,91 @@ archive:
       score: 80
       skill_hits: 2
       bucket_id: pm_product
-      fetched_at: 2026-09-10T19:58:17.369Z
-      pulled_at: 2026-09-10T19:58:17.369Z
+      fetched_at: 2026-09-11T19:58:59.330Z
+      pulled_at: 2026-09-11T19:58:59.330Z
       stale_days: 30
       is_stale: true
     - source: arbeitnow
       source_note: ""
-      company: remotewoman
-      title: Product Manager
-      location: Remote • Germany, Canada, Spain or the UK
-      url: https://www.arbeitnow.fr/jobs/companies/remotewoman/remote-product-manager-350008
-      updated_at: 1788951318
-      description: "&lt;h1&gt;&lt;span style=&quot;font-size: 14pt; font-family:
-        helvetica, arial, sans-serif;&quot;&gt;&lt;strong&gt;About Upsun
-        (formerly Platform.sh)&amp;nbsp;&lt;/strong&gt;&lt;/span&gt;&lt;/h1&gt;
-        &lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Upsun is the
-        cloud application platform humans and robots love. It is built for
-        today’s hybrid teams, where AI agents write and test code and humans
-        focus on solving the problems that really matter. Developers, DevOps
-        engineers, and platform teams use Upsun to build, ship, and scale
-        confidently without wrestling with backend infrastructure. We give you
-        your time back. You get:&lt;/span&gt;&lt;/p&gt; &lt;ul&gt; &lt;li
-        style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size:
-        12pt;&quot;&gt;Predictable performance, even at scale
-        &lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-size:
-        12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Secure,
-        compliant environments by default&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-        &lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span
-        style=&quot;font-size: 12pt;&quot;&gt;Real-time observability and
-        profiling built in &lt;/span&gt;&lt;/li&gt; &lt;li
-        style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size:
-        12pt;&quot;&gt;Cloning, configuration, and provisioning in
-        seconds&amp;nbsp;&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-size:
-        12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;AI-ready
-        features that plug directly into your stack &lt;/span&gt;&lt;/li&gt;
-        &lt;/ul&gt; &lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;The
-        name says it all. &quot;Up&quot; means uptime, reliability, and
-        acceleration. &quot;Sun&quot; reflects our follow-the-sun-support, a
-        24x7, globally distributed support team keeping the lights on while you
-        rest. Our core belief is that software should power brighter solutions
-        and greater innovation. &lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span
-        style=&quot;font-size: 12pt;&quot;&gt;Upsunners are a remote, global
-        workforce, and we thrive in a multicultural team. We are committed to
-        open source and an open, welcoming environment. Our team spans the globe
-        and the experience spectrum. &lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span
-        style=&quot;font-size: 12pt;&quot;&gt;What&#39;s our commonality, our
-        cultural fabric? A curious spirit and a thirst for knowledge; an
-        eagerness for innovative ideas and cultures. We believe we can build
-        anything together in an environment that frees you to do your best work.
-        &lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span style=&quot;font-size:
-        12pt;&quot;&gt;Our values:&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-        &lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;🌿 We make a
-        positive impact.&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span
-        style=&quot;font-size: 12pt;&quot;&gt;✨ We aim for the
-        stars.&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span style=&quot;font-size:
-        12pt;&quot;&gt;💚 We care for each
-        other.&amp;nbsp;&lt;/span&gt;&lt;/p&gt; &lt;h1&gt;&lt;span
-        style=&quot;font-size: 14pt; font-family: helvetica, arial,
-        sans-serif;&quot;&gt;&lt;strong&gt;Impact of a Product
-        Manager&lt;/strong&gt;&lt;/span&gt;&lt;/h1&gt; &lt;p&gt;&lt;span
-        style=&quot;font-size: 12pt;&quot;&gt;As a Product Manager at Upsun, you
-        own a significant area of Upsun Cloud, our cloud application platform,
-        and the outcomes it delivers for the developers who build on it. The
-        team you join owns the platform&#39;s foundations: the API, the runtime,
-        environments, and the reliability every application running on Upsun
-        depends on. And because Upsun is the cloud application platform humans
-        and robots love, much of what you build will be used by AI agents as
-        much as by people.&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span
-        style=&quot;font-size: 12pt;&quot;&gt;This is a hands-on, technically
-        rich role that bridges product strategy and deep infrastructure
-        understanding. You own the strategy and the roadmap for your area,
-        working closely with engineering to define platform behavior, build
-        scalable abstractions, and shape workflows that empower modern
-        development teams. Throughout, you act as the key voice for the user,
-        making sure everything we ship contributes meaningfully to an
-        exceptional developer experience.&lt;/span&gt;&lt;/p&gt;
-        &lt;h1&gt;&lt;span style=&quot;font-size: 14pt; font-family: helvetica,
-        arial, sans-serif;&quot;&gt;&lt;strong&gt;What to
-        expect&lt;/strong&gt;&lt;/span&gt;&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;
-        &lt;p&gt;&lt;span style=&quot;font-size:
-        12pt;&quot;&gt;&lt;strong&gt;Strategy and roadmap:&lt;/strong&gt; Own
-        the strategy, roadmap, and priorities for your area of Upsun Cloud,
-        balancing established foundations with uncharted
-        territory.&lt;/span&gt;&lt;/p&gt; &lt;/li&gt; &lt;li
-        style=&quot;font-size: 12pt;&quot;&gt; &lt;p&gt;&lt;span
-        style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Problem
-        definition:&lt;/strong&gt; Synthesize inputs from customers, support,
-        sales, and engineering into clear problem statements, constructively
-        testing underlying assumptions.&lt;/span&gt;&lt;/p&gt; &lt;/li&gt;
-        &lt;li style=&quot;font-size: 12pt;&quot;&gt; &lt;p&gt;&lt;span
-        style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solution
-        definition:&lt;/strong&gt; Explore options with your team, weigh
-        trade-offs, and land on the right scope.&lt;/span&gt;&lt;/p&gt;
-        &lt;/li&gt; &lt;li style=&quot;font-size: 12pt;&quot;&gt;
-        &lt;p&gt;&lt;span style=&quot;font-size:
-        12pt;&quot;&gt;&lt;strong&gt;Ship small, iterate fast:&lt;/strong&gt;
-        Release in increments and shorten the loop between shipping and
-        learning.&lt;/span&gt;&lt;/p&gt; &lt;/li&gt; &lt;li
-        style=&quot;font-size: 12pt;&quot;&gt; &lt;p&gt;&lt;span
-        style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Technical
-        execution:&lt;/strong&gt; Collaborate with engineering (especially
-        infrastructure and systems teams) to deliver platform capabilities that
-        are reliable, scalable, and developer-friendly.&lt;/span&gt;&lt;/p&gt;
-        &lt;/li&gt; &lt;li style=&quot;font-size: 12pt;&quot;&gt;
-        &lt;p&gt;&lt;span style=&quot;font-size:
-        12pt;&quot;&gt;&lt;strong&gt;Design for humans and
-        agents:&lt;/strong&gt; Build with two audiences in mind—ensuring
-        features, APIs, documentation, and error messages serve both people and
-        AI agents.&lt;/span&gt;&lt;/p&gt; &lt;/li&gt; &lt;li
-        style=&quot;font-size: 12pt;&quot;&gt; &lt;p&gt;&lt;span
-        style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Customer and data
-        authority:&lt;/strong&gt; Connect with customers regularly, serve as an
-        internal advocate for their needs, and define metrics that demonstrate
-        value for users and the business.&lt;/span&gt;&lt;/p&gt; &lt;/li&gt;
-        &lt;li style=&quot;font-size: 12pt;&quot;&gt; &lt;p&gt;&lt;span
-        style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Influence across
-        teams:&lt;/strong&gt; Build alignment across engineering, design,
-        Product Marketing, support, and leadership.&lt;/span&gt;&lt;/p&gt;
-        &lt;/li&gt; &lt;li style=&quot;font-size: 12pt;&quot;&gt;
-        &lt;p&gt;&lt;span style=&quot;font-size:
-        12pt;&quot;&gt;&lt;strong&gt;Go-to-market:&lt;/strong&gt; Partner with
-        Product Marketing early so go-to-market strategy helps shape the
-        product, not just the launch.&lt;/span&gt;&lt;/p&gt; &lt;/li&gt;
-        &lt;/ul&gt; &lt;h1&gt;&lt;span style=&quot;font-size: 14pt; font-family:
-        helvetica, arial, sans-serif;&quot;&gt;&lt;strong&gt;What you
-        bring&lt;/strong&gt;&lt;/span&gt;&lt;/h1&gt; &lt;ul&gt; &lt;li
-        style=&quot;font-size: 12pt;&quot;&gt; &lt;p&gt;&lt;span
-        style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Product management
-        experience:&lt;/strong&gt; Proven experience in product management
-        owning a distinct product area, ideally focused on developer platforms,
-        PaaS, or cloud infrastructure.&lt;/span&gt;&lt;/p&gt; &lt;/li&gt; &lt;li
-        style=&quot;font-size: 12pt;&quot;&gt; &lt;p&gt;&lt;span
-        style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Technical
-        depth:&lt;/strong&gt; Understanding of building, deploying, and running
-        applications in the cloud, with the ability to collaborate closely with
-        infrastructure engineers on multi-tenant architectures or distributed
-        systems.&lt;/span&gt;&lt;/p&gt; &lt;/li&gt; &lt;li
-        style=&quot;font-size: 12pt;&quot;&gt; &lt;p&gt;&lt;span
-        style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Software development
-        background:&lt;/strong&gt; Familiarity with building software using
-        languages such as Python, Ruby, JavaScript, PHP, Go, or
-        Rust.&lt;/span&gt;&lt;/p&gt; &lt;/li&gt; &lt;li style=&quot;font-size:
-        12pt;&quot;&gt; &lt;p&gt;&lt;span style=&quot;font-size:
-        12pt;&quot;&gt;&lt;strong&gt;CI/CD, containers &amp;amp;
-        APIs:&lt;/strong&gt; Hands-on experience or close collaboration with
-        CI/CD workflows, Docker/OCI container technologies, and a clear vision
-        for intuitive API design.&lt;/span&gt;&lt;/p&gt; &lt;/li&gt; &lt;li&gt;
-        &lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;AI
-        fluency:&lt;/strong&gt; Daily use of modern AI tools to research, draft,
-        and prototype workflows, paired with a realistic understanding of where
-        current tools and models fall short.&lt;/span&gt;&lt;/p&gt; &lt;/li&gt;
-        &lt;li style=&quot;font-size: 12pt;&quot;&gt; &lt;p&gt;&lt;span
-        style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Agentic
-        development:&lt;/strong&gt; A strong perspective on autonomous agent
-        architecture and how agentic workflows are transforming modern software
-        engineering.&lt;/span&gt;&lt;/p&gt; &lt;/li&gt; &lt;li
-        style=&quot;font-size: 12pt;&quot;&gt; &lt;p&gt;&lt;span
-        style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Navigating
-        ambiguity:&lt;/strong&gt; Comfort with turning unstructured problem
-        spaces into clear strategies and taking thoughtful action even with
-        incomplete information.&lt;/span&gt;&lt;/p&gt; &lt;/li&gt; &lt;li
-        style=&quot;font-size: 12pt;&quot;&gt; &lt;p&gt;&lt;span
-        style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Collaborative
-        communication:&lt;/strong&gt; Clear written and verbal communication
-        skills, with a track record of listening, building consensus, and
-        uniting teams around a shared vision.&lt;/span&gt;&lt;/p&gt; &lt;/li&gt;
-        &lt;li style=&quot;font-size: 12pt;&quot;&gt; &lt;p&gt;&lt;span
-        style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Data-informed
-        decision making:&lt;/strong&gt; Ability to seek out and evaluate data to
-        guide decisions and track success.&lt;/span&gt;&lt;/p&gt; &lt;/li&gt;
-        &lt;/ul&gt; &lt;h1&gt;&lt;span style=&quot;font-size: 14pt; font-family:
-        helvetica, arial, sans-serif;&quot;&gt;&lt;strong&gt;Bonus points
-        for&lt;/strong&gt;&lt;/span&gt;&lt;/h1&gt; &lt;ul&gt; &lt;li
-        style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size:
-        12pt;&quot;&gt;Enthusiasm for using and testing the platform
-        capabilities you help build.&lt;/span&gt;&lt;/li&gt; &lt;li
-        style=&quot;font-size: 12pt;&quot;&gt; &lt;p&gt;&lt;span
-        style=&quot;font-size: 12pt;&quot;&gt;Experience using Kubernetes, or
-        building self-service platforms on Kubernetes&lt;/span&gt;&lt;/p&gt;
-        &lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;&lt;span style=&quot;font-size: 14pt;
-        font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;strong&gt;Where
-        we hire&lt;/strong&gt;&lt;/span&gt;&lt;/h1&gt; &lt;p&gt;&lt;span
-        style=&quot;font-family: helvetica, arial, sans-serif; font-size:
-        12pt;&quot;&gt;At Upsun, remote work isn&#39;t just a trend - it&#39;s
-        our foundation. The freedom of remote work with the support of a
-        diverse, global team has been our successful model for over a decade.
-        Our culture celebrates flexibility and collaboration, and while we have
-        team members in over 30 countries around the globe, we are currently
-        focused on hiring for this role in &lt;strong&gt;Germany, Canada, Spain,
-        France, and the UK&lt;/strong&gt;. Although we’re unable to provide visa
-        sponsorship at this time, we welcome applications from all qualified
-        candidates who are legally authorized to work in these
-        countries.&amp;nbsp;&lt;/span&gt;&lt;/p&gt; &lt;h1&gt;&lt;span
-        style=&quot;font-size: 14pt; font-family: helvetica, arial,
-        sans-serif;&quot;&gt;&lt;strong&gt;How we
-        hire&lt;/strong&gt;&lt;/span&gt;&lt;/h1&gt; &lt;p&gt;&lt;span
-        style=&quot;font-family: helvetica, arial, sans-serif; font-size:
-        12pt;&quot;&gt;We know that a great hire won’t meet every requirement
-        that we’ve outlined. If you can see yourself elevating the team, we want
-        to hear your story. Few of us would be here had we not taken a
-        chance.&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-        &lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif;
-        font-size: 12pt;&quot;&gt;You can expect &lt;strong&gt;5 video
-        interviews&lt;/strong&gt; on Google Meet to follow the order below.
-        Should you successfully move through the entire process you will have
-        the opportunity to meet with a variety of Upsunners. Our goal is to
-        ensure you can make the most informed decision on whether this role, and
-        our culture aligns with what you’re looking for in your future working
-        environment.&amp;nbsp;&lt;/span&gt;&lt;/p&gt; &lt;ol&gt; &lt;li
-        style=&quot;font-family: helvetica, arial, sans-serif; font-size:
-        12pt;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial,
-        sans-serif; font-size: 12pt;&quot;&gt;45 Minutes with Talent
-        Acquisition&amp;nbsp;&lt;/span&gt;&lt;/li&gt; &lt;li
-        style=&quot;font-family: helvetica, arial, sans-serif; font-size:
-        12pt;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial,
-        sans-serif; font-size: 12pt;&quot;&gt;60 Minutes with Hiring Manager
-        (Director, Product)&lt;/span&gt;&lt;/li&gt; &lt;li
-        style=&quot;font-family: helvetica, arial, sans-serif; font-size:
-        12pt;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial,
-        sans-serif; font-size: 12pt;&quot;&gt;60 Minutes with Team
-        (IC&#39;s)&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-family:
-        helvetica, arial, sans-serif; font-size: 12pt;&quot;&gt;&lt;span
-        style=&quot;font-family: helvetica, arial, sans-serif; font-size:
-        12pt;&quot;&gt;60 Minutes with Product Leaders&lt;/span&gt;&lt;/li&gt;
-        &lt;li style=&quot;font-family: helvetica, arial, sans-serif; font-size:
-        12pt;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial,
-        sans-serif; font-size: 12pt;&quot;&gt;45 Minutes with Executive
-        (CTO)&lt;/span&gt;&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;&lt;em
-        style=&quot;font-size: 12pt;&quot;&gt;All roles require background
-        checks.&lt;/em&gt;&lt;/p&gt; &lt;h1&gt;&lt;span style=&quot;font-family:
-        helvetica, arial, sans-serif; font-size:
-        14pt;&quot;&gt;&lt;strong&gt;What we
-        offer&lt;/strong&gt;&lt;/span&gt;&lt;/h1&gt; &lt;p
-        style=&quot;padding-left: 40px;&quot;&gt;&lt;span style=&quot;font-size:
-        12pt;&quot;&gt;💡 &lt;strong&gt;A product you can believe
-        in&lt;/strong&gt; - Join us in transforming how businesses build and
-        manage web applications, driven making a positive impact as a proud
-        &lt;strong&gt;B Corp&lt;/strong&gt;.&lt;/span&gt;&lt;/p&gt; &lt;p
-        style=&quot;padding-left: 40px;&quot;&gt;&lt;span style=&quot;font-size:
-        12pt;&quot;&gt;&lt;strong&gt;🏆 An Award-Winning
-        Workplace&lt;/strong&gt; - We’ve been recognized by Forbes’ Top 30
-        Companies for Remote Jobs and France’s Best Workplaces for
-        Women.&lt;/span&gt;&lt;/p&gt; &lt;p style=&quot;padding-left:
-        40px;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;🗣️
-        &lt;strong&gt;A culture that values your voice &lt;/strong&gt;- Join a
-        flexible, open, and inclusive work environment where your voice is
-        encouraged, and your ideas shape our growth and
-        evolution.&lt;/span&gt;&lt;/p&gt; &lt;p style=&quot;padding-left:
-        40px;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;🌎
-        &lt;strong&gt;A global team &lt;/strong&gt;- Collaborate with colleagues
-        from diverse backgrounds across the world, embracing different
-        perspectives&lt;/span&gt;&lt;/p&gt; &lt;p style=&quot;padding-left:
-        40px;&quot;&gt;&lt;span style=&quot;font-size:
-        12pt;&quot;&gt;&lt;strong&gt;🎉 &lt;/strong&gt;&lt;strong&gt;Benefits
-        and perks&lt;/strong&gt; - Make the most of what matters to
-        you&lt;/span&gt;&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;🏝 Flexible
-        PTO&lt;/p&gt; &lt;p&gt;🩺 Comprehensive healthcare coverage (UK, Canada,
-        France, Spain, USA)&lt;/p&gt; &lt;p&gt;📈 Company stock
-        options&lt;/p&gt; &lt;p&gt;🧠 Professional development budget&lt;/p&gt;
-        &lt;p&gt;💻 Office equipment budget&lt;/p&gt; &lt;p&gt;💆‍♀️ Wellness
-        budget&lt;/p&gt; &lt;p&gt;🧳 Annual team gatherings&lt;/p&gt;
-        &lt;p&gt;🛜 Internet reimbursement&lt;/p&gt; &lt;p&gt;👶 Inclusive
-        parental leave&lt;/p&gt; &lt;p&gt;✈️ Remote work travel
-        program&lt;/p&gt; &lt;/blockquote&gt; &lt;h1 style=&quot;text-align:
-        justify; line-height: 1;&quot;&gt;&lt;span style=&quot;font-size: 14pt;
-        font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;strong&gt;You
-        belong here&lt;/strong&gt;&lt;/span&gt;&lt;/h1&gt; &lt;p&gt;&lt;span
-        style=&quot;font-family: helvetica, arial, sans-serif; font-size:
-        12pt;&quot;&gt;At Upsun, we celebrate diversity in all its forms and are
-        committed to fostering an inclusive, equitable, and supportive workplace
-        where everyone can thrive. We embrace and value different perspectives,
-        backgrounds, and experiences, because they make us stronger as a team.
-        Whoever you are, wherever you&#39;re from, and whatever path you&#39;ve
-        taken, you are welcome here. We encourage you to bring your whole self
-        to work, connect with others, and share your passion.
-        &lt;/span&gt;&lt;span style=&quot;font-family: helvetica, arial,
-        sans-serif; font-size: 12pt;&quot;&gt;If you need accommodations at any
-        stage of our hiring process, please let us know. We&#39;re here to
-        ensure an accessible and comfortable experience for
-        you.&lt;br&gt;&lt;/span&gt;&lt;/p&gt; Find Jobs in France on Arbeitnow"
-      job_types: []
-      remote: false
-      score: 80
-      skill_hits: 2
-      bucket_id: pm_product
-      fetched_at: 2026-09-10T19:58:17.369Z
-      pulled_at: 2026-09-10T19:58:17.369Z
-      stale_days: 30
-      is_stale: true
-    - source: arbeitnow
-      source_note: ""
-      company: gropyus
-      title: Product Manager (all genders)
-      location: Berlin, Berlin
-      url: https://www.arbeitnow.com/jobs/companies/gropyus/product-manager-all-genders-berlin-berlin-499112
-      updated_at: 1789052111
-      description: "&lt;div
-        class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About The
-        Company&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;GROPYUS is a technology-based
-        construction company focused on building multi-story residential
-        buildings. Thanks to its prefabricated building system with various
-        design options, industrial offsite construction, and fully digitalized
-        processes, the company manufactures aspirational, sustainable, and
-        affordable homes using timber construction methods. GROPYUS is using
-        scalable construction and manufacturing solutions to tap into a future
-        market, boost Europe&#39;s strength in innovation, while also playing a
-        substantial role in improving
-        sustainability.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;job&quot;&gt;
-        &lt;h2&gt;&lt;strong&gt;About the Role:&lt;/strong&gt;&lt;/h2&gt;
-        &lt;p&gt;&lt;span data-contrast=&quot;none&quot;&gt;This
-        role&amp;nbsp;sits in the Product team of&amp;nbsp;our&amp;nbsp;Digital
-        Building System &amp;amp; Planning&amp;nbsp;(DBSP)&amp;nbsp;vertical,
-        whose function is to provide
-        the&amp;nbsp;essential&amp;nbsp;link&amp;nbsp;in our digital value
-        chain&amp;nbsp;between our physical building&amp;nbsp;planning teams and
-        our&amp;nbsp;product delivery&amp;nbsp;and execution&amp;nbsp;teams,
-        who&amp;nbsp;coordinate&amp;nbsp;the automated production and site
-        assembly of our projects.&lt;/span&gt;&lt;span
-        data-ccp-props=&quot;{&amp;quot;335559738&amp;quot;:160}&quot;&gt;&amp;\
-        nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span
-        data-contrast=&quot;none&quot;&gt;As a Product Manager on this team, you
-        will&amp;nbsp;help drive the development of
-        the&amp;nbsp;key&amp;nbsp;digital products which&amp;nbsp;define our
-        building system and enable its&amp;nbsp;scalable&amp;nbsp;application to
-        our growing number of building projects.&lt;/span&gt;&lt;span
-        data-ccp-props=&quot;{&amp;quot;335559738&amp;quot;:160}&quot;&gt;&amp;\
-        nbsp;&lt;/span&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What you&#39;ll be
-        doing:&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li
-        data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot;
-        data-listid=&quot;31&quot;
-        data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;3\
-        35559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;4697\
-        69226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot\
-        ;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;qu\
-        ot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;qu\
-        ot;:&amp;quot;hybridMultilevel&amp;quot;}&quot;
-        data-aria-posinset=&quot;1&quot;
-        data-aria-level=&quot;1&quot;&gt;&lt;span
-        data-contrast=&quot;none&quot;&gt;Manage and coordinate&amp;nbsp;the
-        development of the GROPYUS&amp;nbsp;digital&amp;nbsp;products
-        that&amp;nbsp;enable&amp;nbsp;fast and
-        efficient&amp;nbsp;building&amp;nbsp;product design and
-        project&amp;nbsp;planning across&amp;nbsp;the digital value
-        chain&lt;/span&gt;&lt;span
-        data-ccp-props=&quot;{&amp;quot;335559738&amp;quot;:160}&quot;&gt;&amp;\
-        nbsp;&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; &lt;ul&gt; &lt;li
-        data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot;
-        data-listid=&quot;31&quot;
-        data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;3\
-        35559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;4697\
-        69226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot\
-        ;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;qu\
-        ot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;qu\
-        ot;:&amp;quot;hybridMultilevel&amp;quot;}&quot;
-        data-aria-posinset=&quot;2&quot;
-        data-aria-level=&quot;1&quot;&gt;&lt;span
-        data-contrast=&quot;none&quot;&gt;Align regularly with our
-        stakeholders&amp;nbsp;across&amp;nbsp;different departments
-        and&amp;nbsp;teams&amp;nbsp;to&amp;nbsp;translate current and future
-        user needs into product requirements&lt;/span&gt;&lt;span
-        data-ccp-props=&quot;{&amp;quot;335559738&amp;quot;:160}&quot;&gt;&amp;\
-        nbsp;&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; &lt;ul&gt; &lt;li
-        data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot;
-        data-listid=&quot;31&quot;
-        data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;3\
-        35559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;4697\
-        69226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot\
-        ;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;qu\
-        ot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;qu\
-        ot;:&amp;quot;hybridMultilevel&amp;quot;}&quot;
-        data-aria-posinset=&quot;3&quot;
-        data-aria-level=&quot;1&quot;&gt;&lt;span
-        data-contrast=&quot;none&quot;&gt;Help manage&amp;nbsp;our
-        vertical’s&amp;nbsp;roadmap,&amp;nbsp;together with your product
-        management colleagues and&amp;nbsp;in alignment with the
-        DBSP&amp;nbsp;Heads,&amp;nbsp;our&amp;nbsp;Tech Leads,&amp;nbsp;and
-        their teams&amp;nbsp;of software engineers,&amp;nbsp;to
-        ensure&amp;nbsp;efficient&amp;nbsp;utilization&amp;nbsp;of resources
-        and&amp;nbsp;a delivery plan in line with our quarterly
-        goals&lt;/span&gt;&lt;span
-        data-ccp-props=&quot;{&amp;quot;335559738&amp;quot;:160}&quot;&gt;&amp;\
-        nbsp;&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; &lt;ul&gt; &lt;li
-        data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot;
-        data-listid=&quot;31&quot;
-        data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;3\
-        35559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;4697\
-        69226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot\
-        ;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;qu\
-        ot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;qu\
-        ot;:&amp;quot;hybridMultilevel&amp;quot;}&quot;
-        data-aria-posinset=&quot;4&quot;
-        data-aria-level=&quot;1&quot;&gt;&lt;span
-        data-contrast=&quot;none&quot;&gt;Apply&amp;nbsp;product lifecycle
-        management principles to the development
-        of&amp;nbsp;our&amp;nbsp;products,&amp;nbsp;ensuring&amp;nbsp;steady
-        improvement of the evolving product&amp;nbsp;in terms of cost, quality,
-        and efficiency,&amp;nbsp;while&amp;nbsp;maintaining&amp;nbsp;data
-        consistency across versions&lt;/span&gt;&lt;span
-        data-ccp-props=&quot;{&amp;quot;335559738&amp;quot;:160}&quot;&gt;&amp;\
-        nbsp;&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;
-        &lt;p&gt;&lt;strong&gt;&lt;span
-        data-contrast=&quot;none&quot;&gt;&lt;span
-        data-ccp-parastyle=&quot;heading 5&quot;&gt;You will work closely
-        with:&lt;/span&gt;&lt;/span&gt;&lt;span
-        data-ccp-props=&quot;{&amp;quot;335559738&amp;quot;:320,&amp;quot;33555\
-        9739&amp;quot;:200}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/strong&gt;&lt;\
-        /p&gt; &lt;ul&gt; &lt;li data-leveltext=&quot;&quot;
-        data-font=&quot;Symbol&quot; data-listid=&quot;30&quot;
-        data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;3\
-        35559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;4697\
-        69226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot\
-        ;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;qu\
-        ot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;qu\
-        ot;:&amp;quot;hybridMultilevel&amp;quot;}&quot;
-        data-aria-posinset=&quot;1&quot;
-        data-aria-level=&quot;1&quot;&gt;&lt;span
-        data-contrast=&quot;none&quot;&gt;The&amp;nbsp;DBSP
-        Tech&amp;nbsp;software engineering team;&amp;nbsp;one of the
-        Tech&amp;nbsp;Leads&amp;nbsp;will be your working pair from the
-        Technology Business Unit&lt;/span&gt;&lt;span
-        data-ccp-props=&quot;{&amp;quot;335559738&amp;quot;:160}&quot;&gt;&amp;\
-        nbsp;&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; &lt;ul&gt; &lt;li
-        data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot;
-        data-listid=&quot;30&quot;
-        data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;3\
-        35559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;4697\
-        69226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot\
-        ;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;qu\
-        ot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;qu\
-        ot;:&amp;quot;hybridMultilevel&amp;quot;}&quot;
-        data-aria-posinset=&quot;2&quot;
-        data-aria-level=&quot;1&quot;&gt;&lt;span
-        data-contrast=&quot;none&quot;&gt;Our embedded designer from the Product
-        Design&amp;nbsp;team, who
-        contributes&amp;nbsp;their&amp;nbsp;expertise&amp;nbsp;to&amp;nbsp;the&\
-        amp;nbsp;user&amp;nbsp;experience&amp;nbsp;and the
-        various&amp;nbsp;user&amp;nbsp;interfaces&amp;nbsp;of&amp;nbsp;our&amp;\
-        nbsp;products&lt;/span&gt;&lt;span
-        data-ccp-props=&quot;{&amp;quot;335559738&amp;quot;:160}&quot;&gt;&amp;\
-        nbsp;&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; &lt;ul&gt; &lt;li
-        data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot;
-        data-listid=&quot;30&quot;
-        data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;3\
-        35559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;4697\
-        69226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot\
-        ;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;qu\
-        ot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;qu\
-        ot;:&amp;quot;hybridMultilevel&amp;quot;}&quot;
-        data-aria-posinset=&quot;3&quot;
-        data-aria-level=&quot;1&quot;&gt;&lt;span
-        data-contrast=&quot;none&quot;&gt;The Building System Team, who together
-        with Building Product&amp;nbsp;and Building Technical Infrastructure
-        (BTI), defines&amp;nbsp;the architectural and engineering design of our
-        building system&lt;/span&gt;&lt;span
-        data-ccp-props=&quot;{&amp;quot;335559738&amp;quot;:160}&quot;&gt;&amp;\
-        nbsp;&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; &lt;ul&gt; &lt;li
-        data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot;
-        data-listid=&quot;30&quot;
-        data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;3\
-        35559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;4697\
-        69226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot\
-        ;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;qu\
-        ot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;qu\
-        ot;:&amp;quot;hybridMultilevel&amp;quot;}&quot;
-        data-aria-posinset=&quot;4&quot;
-        data-aria-level=&quot;1&quot;&gt;&lt;span
-        data-contrast=&quot;none&quot;&gt;The Product Delivery Team, with whom
-        we&amp;nbsp;interface for&amp;nbsp;the production and assembly of our
-        building projects&lt;/span&gt;&lt;span
-        data-ccp-props=&quot;{&amp;quot;335559738&amp;quot;:160}&quot;&gt;&amp;\
-        nbsp;&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; &lt;ul&gt; &lt;li
-        data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot;
-        data-listid=&quot;30&quot;
-        data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;3\
-        35559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;4697\
-        69226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot\
-        ;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;qu\
-        ot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;qu\
-        ot;:&amp;quot;hybridMultilevel&amp;quot;}&quot;
-        data-aria-posinset=&quot;5&quot;
-        data-aria-level=&quot;1&quot;&gt;&lt;span
-        data-contrast=&quot;none&quot;&gt;The Solutions Team, who
-        implements&amp;nbsp;our building&amp;nbsp;system product in our live
-        building projects&lt;/span&gt;&lt;span
-        data-ccp-props=&quot;{&amp;quot;335559738&amp;quot;:160}&quot;&gt;&amp;\
-        nbsp;&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;What
-        you bring:&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li
-        data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot;
-        data-listid=&quot;2&quot;
-        data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;3\
-        35559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;4697\
-        69226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot\
-        ;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;qu\
-        ot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;qu\
-        ot;:&amp;quot;hybridMultilevel&amp;quot;}&quot;
-        data-aria-posinset=&quot;1&quot;
-        data-aria-level=&quot;1&quot;&gt;&lt;span
-        data-contrast=&quot;none&quot;&gt;You are a&amp;nbsp;product
-        manager&amp;nbsp;with at least&amp;nbsp;3+&amp;nbsp;years of experience,
-        ideally with&amp;nbsp;a BSc or MSc;&amp;nbsp;experience with tech
-        products in the&amp;nbsp;architecture, engineering, or
-        construction&amp;nbsp;sectors&amp;nbsp;a plus&lt;/span&gt;&lt;span
-        data-ccp-props=&quot;{&amp;quot;335559738&amp;quot;:160}&quot;&gt;&amp;\
-        nbsp;&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; &lt;ul&gt; &lt;li
-        data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot;
-        data-listid=&quot;2&quot;
-        data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;3\
-        35559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;4697\
-        69226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot\
-        ;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;qu\
-        ot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;qu\
-        ot;:&amp;quot;hybridMultilevel&amp;quot;}&quot;
-        data-aria-posinset=&quot;2&quot;
-        data-aria-level=&quot;1&quot;&gt;&lt;span
-        data-contrast=&quot;none&quot;&gt;You have experience managing the
-        development of innovative,
-        specialized&amp;nbsp;digital&amp;nbsp;tools,&amp;nbsp;either for
-        internal or
-        external&amp;nbsp;applications;&amp;nbsp;familiarity&amp;nbsp;with
-        architectural or engineering planning&amp;nbsp;software&amp;nbsp;is a
-        plus&lt;/span&gt;&lt;span
-        data-ccp-props=&quot;{&amp;quot;335559738&amp;quot;:160}&quot;&gt;&amp;\
-        nbsp;&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; &lt;ul&gt; &lt;li
-        data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot;
-        data-listid=&quot;2&quot;
-        data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;3\
-        35559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;4697\
-        69226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot\
-        ;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;qu\
-        ot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;qu\
-        ot;:&amp;quot;hybridMultilevel&amp;quot;}&quot;
-        data-aria-posinset=&quot;3&quot;
-        data-aria-level=&quot;1&quot;&gt;&lt;span
-        data-contrast=&quot;none&quot;&gt;You enjoy problem solving and excel at
-        finding&amp;nbsp;user-centric&amp;nbsp;solutions to complex problems
-        with many moving parts&amp;nbsp;and multiple
-        stakeholders&lt;/span&gt;&lt;span
-        data-ccp-props=&quot;{&amp;quot;335559738&amp;quot;:160}&quot;&gt;&amp;\
-        nbsp;&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; &lt;ul&gt; &lt;li
-        data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot;
-        data-listid=&quot;30&quot;
-        data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;3\
-        35559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;4697\
-        69226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot\
-        ;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;qu\
-        ot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;qu\
-        ot;:&amp;quot;hybridMultilevel&amp;quot;}&quot;
-        data-aria-posinset=&quot;6&quot;
-        data-aria-level=&quot;1&quot;&gt;&lt;span
-        data-contrast=&quot;none&quot;&gt;You are comfortable&amp;nbsp;and
-        confident in&amp;nbsp;setting high-level goals aligned with an overall
-        strategy, and&amp;nbsp;breaking these down into features&amp;nbsp;and
-        deliverables in the form of quarterly goals and epic-level
-        roadmaps&amp;nbsp;for your team&lt;/span&gt;&lt;span
-        data-ccp-props=&quot;{&amp;quot;335559738&amp;quot;:160}&quot;&gt;&amp;\
-        nbsp;&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; &lt;ul&gt; &lt;li
-        data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot;
-        data-listid=&quot;30&quot;
-        data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;3\
-        35559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;4697\
-        69226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot\
-        ;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;qu\
-        ot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;qu\
-        ot;:&amp;quot;hybridMultilevel&amp;quot;}&quot;
-        data-aria-posinset=&quot;7&quot;
-        data-aria-level=&quot;1&quot;&gt;&lt;span
-        data-contrast=&quot;none&quot;&gt;You are a skilled communicator and
-        excel at&amp;nbsp;stakeholder&amp;nbsp;management&amp;nbsp;and user
-        communication,&amp;nbsp;able to&amp;nbsp;interpret their needs and goals
-        in a way that can be translated into product features and
-        functions&lt;/span&gt;&lt;span
-        data-ccp-props=&quot;{&amp;quot;335559738&amp;quot;:160}&quot;&gt;&amp;\
-        nbsp;&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; &lt;ul&gt; &lt;li
-        data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot;
-        data-listid=&quot;2&quot;
-        data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;3\
-        35559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;4697\
-        69226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot\
-        ;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;qu\
-        ot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;qu\
-        ot;:&amp;quot;hybridMultilevel&amp;quot;}&quot;
-        data-aria-posinset=&quot;4&quot;
-        data-aria-level=&quot;1&quot;&gt;&lt;span
-        data-contrast=&quot;none&quot;&gt;You&amp;nbsp;&lt;/span&gt;&lt;span
-        data-contrast=&quot;none&quot;&gt;have a proven&amp;nbsp;ability
-        to&amp;nbsp;operate&amp;nbsp;as a Product Manager within&amp;nbsp;a
-        Product/Tech vertical organizational structure,&amp;nbsp;collaborating
-        closely with cross-functional engineering, design, and
-        delivery&amp;nbsp;teams&lt;/span&gt;&lt;span
-        data-ccp-props=&quot;{&amp;quot;335559738&amp;quot;:160}&quot;&gt;&amp;\
-        nbsp;&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;span
-        style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;What We
-        Offer&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li
-        data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot;
-        data-listid=&quot;1&quot;
-        data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;3\
-        35559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;4697\
-        69226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot\
-        ;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;qu\
-        ot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;qu\
-        ot;:&amp;quot;hybridMultilevel&amp;quot;}&quot;
-        data-aria-posinset=&quot;6&quot;
-        data-aria-level=&quot;1&quot;&gt;&lt;span
-        data-contrast=&quot;auto&quot;&gt;An&amp;nbsp;&lt;/span&gt;&lt;strong&g\
-        t;&lt;span
-        data-contrast=&quot;auto&quot;&gt;unlimited&amp;nbsp;&lt;/span&gt;&lt;/\
-        strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;contract with 30
-        vacation days. &lt;/span&gt;&lt;span
-        data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-        &lt;/ul&gt; &lt;ul&gt; &lt;li data-leveltext=&quot;&quot;
-        data-font=&quot;Symbol&quot; data-listid=&quot;1&quot;
-        data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;3\
-        35559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;4697\
-        69226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot\
-        ;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;qu\
-        ot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;qu\
-        ot;:&amp;quot;hybridMultilevel&amp;quot;}&quot;
-        data-aria-posinset=&quot;7&quot;
-        data-aria-level=&quot;1&quot;&gt;&lt;strong&gt;&lt;span
-        data-contrast=&quot;auto&quot;&gt;Flexible, hybrid
-        work:&lt;/span&gt;&lt;/strong&gt;&lt;span
-        data-contrast=&quot;auto&quot;&gt;&amp;nbsp;You can work from home or
-        come into the office on the schedule that works best for
-        you.&amp;nbsp;Feel&amp;nbsp;like traveling&amp;nbsp;and working from
-        another location? No problem. Tune into meetings and work from abroad
-        for up to 40 days per year. In addition, flex hours allow you to
-        prioritize important moments in your day.&amp;nbsp;&lt;/span&gt;&lt;span
-        data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-        &lt;/ul&gt; &lt;ul&gt; &lt;li data-leveltext=&quot;&quot;
-        data-font=&quot;Symbol&quot; data-listid=&quot;1&quot;
-        data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;3\
-        35559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;4697\
-        69226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot\
-        ;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;qu\
-        ot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;qu\
-        ot;:&amp;quot;hybridMultilevel&amp;quot;}&quot;
-        data-aria-posinset=&quot;8&quot;
-        data-aria-level=&quot;1&quot;&gt;&lt;strong&gt;&lt;span
-        data-contrast=&quot;auto&quot;&gt;Attractive&amp;nbsp;perks&amp;nbsp;and
-        benefits&lt;/span&gt;&lt;/strong&gt;&lt;span
-        data-contrast=&quot;auto&quot;&gt;: We offer&amp;nbsp;a&amp;nbsp;company
-        pension scheme, language courses (English/German),&amp;nbsp;and employee
-        discounts with&amp;nbsp;selected&amp;nbsp;sustainable brands.
-        Furthermore, our external partners in mental health support you in
-        strengthening your mental health through anonymous private/group
-        sessions.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span
-        data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-        &lt;/ul&gt; &lt;ul&gt; &lt;li data-leveltext=&quot;&quot;
-        data-font=&quot;Symbol&quot; data-listid=&quot;1&quot;
-        data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;3\
-        35559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;4697\
-        69226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot\
-        ;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;qu\
-        ot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;qu\
-        ot;:&amp;quot;hybridMultilevel&amp;quot;}&quot;
-        data-aria-posinset=&quot;9&quot;
-        data-aria-level=&quot;1&quot;&gt;&lt;strong&gt;&lt;span
-        data-contrast=&quot;auto&quot;&gt;Virtual&amp;nbsp;Shares&amp;nbsp;Prog\
-        ram&lt;/span&gt;&lt;/strong&gt;&lt;span
-        data-contrast=&quot;auto&quot;&gt;:&amp;nbsp;Participate&amp;nbsp;in the
-        success of GROPYUS through our Virtual Share
-        Program.&amp;nbsp;&lt;/span&gt;&lt;span
-        data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-        &lt;/ul&gt; &lt;ul&gt; &lt;li data-leveltext=&quot;&quot;
-        data-font=&quot;Symbol&quot; data-listid=&quot;1&quot;
-        data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;3\
-        35559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;4697\
-        69226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot\
-        ;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;qu\
-        ot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;qu\
-        ot;:&amp;quot;hybridMultilevel&amp;quot;}&quot;
-        data-aria-posinset=&quot;10&quot;
-        data-aria-level=&quot;1&quot;&gt;&lt;strong&gt;&lt;span
-        data-contrast=&quot;auto&quot;&gt;Ownership&lt;/span&gt;&lt;/strong&gt;\
-        &lt;span data-contrast=&quot;auto&quot;&gt;: You&amp;nbsp;can truly make
-        your mark with your work and
-        contributions&amp;nbsp;–&amp;nbsp;on&lt;/span&gt;&lt;span
-        data-contrast=&quot;auto&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span
-        data-contrast=&quot;auto&quot;&gt;&amp;nbsp;all&amp;nbsp;our
-        organizational&amp;nbsp;levels. Find your
-        solutions,&amp;nbsp;drive&amp;nbsp;and test
-        them.&amp;nbsp;&lt;/span&gt;&lt;span
-        data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-        &lt;/ul&gt; &lt;ul&gt; &lt;li data-leveltext=&quot;&quot;
-        data-font=&quot;Symbol&quot; data-listid=&quot;1&quot;
-        data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;3\
-        35559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;4697\
-        69226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot\
-        ;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;qu\
-        ot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;qu\
-        ot;:&amp;quot;hybridMultilevel&amp;quot;}&quot;
-        data-aria-posinset=&quot;11&quot;
-        data-aria-level=&quot;1&quot;&gt;&lt;strong&gt;&lt;span
-        data-contrast=&quot;auto&quot;&gt;The chance to be part of something
-        big&lt;/span&gt;&lt;/strong&gt;&lt;span
-        data-contrast=&quot;auto&quot;&gt;:&amp;nbsp;Our&amp;nbsp;mission&amp;n\
-        bsp;is&amp;nbsp;to&amp;nbsp;rethink&amp;nbsp;an entire industry. Join us
-        in reinventing construction and fostering sustainable, affordable
-        living.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span
-        data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-        &lt;/ul&gt; &lt;ul&gt; &lt;li data-leveltext=&quot;&quot;
-        data-font=&quot;Symbol&quot; data-listid=&quot;1&quot;
-        data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;3\
-        35559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;4697\
-        69226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot\
-        ;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;qu\
-        ot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;qu\
-        ot;:&amp;quot;hybridMultilevel&amp;quot;}&quot;
-        data-aria-posinset=&quot;12&quot;
-        data-aria-level=&quot;1&quot;&gt;&lt;strong&gt;&lt;span
-        data-contrast=&quot;auto&quot;&gt;A diverse and enriching work
-        environment&lt;/span&gt;&lt;/strong&gt;&lt;span
-        data-contrast=&quot;auto&quot;&gt;:&amp;nbsp;Become
-        a&amp;nbsp;valued&amp;nbsp;member&amp;nbsp;of a wonderfully diverse team
-        of individuals from over 50 countries.&amp;nbsp;At GROPYUS we value
-        inclusion&amp;nbsp;above all, ensuring&amp;nbsp;that everyone
-        feels&amp;nbsp;they belong&amp;nbsp;– no matter their background. In
-        this way, our differences become strengths that help us grow as a
-        team.&lt;/span&gt;&lt;span
-        data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
-        &lt;/ul&gt; &lt;/div&gt;&lt;div
-        class=&quot;content-conclusion&quot;&gt;&lt;h4&gt;Join us on our mission
-        to design buildings as continuously evolving products to create the most
-        exciting and affordable experience for all. We build for people and
-        conserve the resources of our planet.&lt;br&gt;&lt;br&gt;We can&#39;t
-        wait to get to know you.&amp;nbsp;&lt;br&gt;For more information, visit
-        our&amp;nbsp;&lt;a
-        href=&quot;https://gropyus.com/&quot;&gt;website&lt;/a&gt;.&lt;/h4&gt;&\
-        lt;/div&gt; Find Jobs in Germany on Arbeitnow"
-      job_types: []
+      company: Angi
+      title: Senior Product Manager, Data Infrastructure
+      location: Hybrid - Germany - Berlin
+      url: https://www.arbeitnow.com/jobs/companies/angi/senior-product-manager-data-infrastructure-berlin-47693
+      updated_at: 1789148410
+      description: "For over 30 years, Angi has powered the future of the home
+        services industry, creating an environment where homeowners and pros
+        benefit from more jobs done well. For homeowners, our platform is a
+        reliable way to find skilled pros. For pros, we're a reliable business
+        partner who helps them find the winnable work they want, when they want.
+        For employees, we're an amazing place to call home. We can't wait to
+        welcome you. Angi at a glance: Founded in 1995 as Angie’s List and
+        rebranded in 2021 Global company with 9 brands in 8 countries and
+        employees worldwide Homeowners have turned to us for 300 million home
+        projects and counting About the Team Data Infrastructure builds the
+        platform that every other data team stands on: access to shared data,
+        orchestration, data ingestion, and the retirement of systems the company
+        has outgrown. Every layer of this platform exists to make it easier for
+        a homeowner to hire an Angi Pro, on one certified source of truth that
+        people and AI agents can trust equally. The team's strategy is built
+        around one idea: this platform should feel like a self-service product,
+        not a ticket queue, for the engineers and analysts who depend on it, and
+        increasingly for the AI agents who depend on it too. Angi is moving
+        toward AI agents as a normal way of building and operating, and every
+        agent that touches company data comes through this platform first. This
+        role stewards that platform's product direction. What You'll Do Product
+        Management Manage governed platform access - give engineers, analysts,
+        and services safe, auditable access to shared data, and make the safe
+        path the easy path. Streamline orchestration and scheduling - bring
+        fragmented scheduling tools together into one system every team reaches
+        for by default, and use AI-assisted tooling to migrate jobs faster, with
+        less manual engineering effort. Drive data ingestion and replication -
+        define what self-service ingestion looks like for teams who want to
+        bring their own data onto the platform, and build toward that. Oversee
+        legacy system retirement - close out systems that are no longer the
+        source of truth, with clear ownership handed off at every step. Optimize
+        compute cost efficiency - find where cost comes from habit rather than
+        real need, and bring it down without anyone losing the developer
+        experience they rely on. Advance compute strategy diversification - help
+        move the platform toward a storage layer that works with more than one
+        compute engine, so each workload runs on the engine built for it. Build
+        the platform's AI-ready substrate - make agentic workflows safe by
+        default, with the same governed access and audit trail for an agent as
+        for a person. Execution and Individual Contribution Use AI agents in
+        your own daily work, set clear norms so the engineers and peers around
+        you feel safe experimenting with agents and agentic workflows. Protect
+        the team's focus and drive real rigor without micromanaging how the work
+        gets done. Steward outcomes, not tasks. Build trust across engineering,
+        domain teams, and leadership through empathetic, transparent, and clear
+        communication when addressing complex challenges. Work closely with Data
+        Engineering's other delivery teams - Data Mesh Enablement and Managed
+        Data Products - and with the team building Angi's agentic workflows,
+        toward one overall technical strategy. Who You Are Five or more years of
+        product management experience on a data or infrastructure platform team,
+        where you stewarded technical roadmaps directly. Comfortable reading
+        system architecture and pipeline dependencies well enough to make real
+        sequencing calls with engineering. A record of taking cross-team
+        migrations and retirements all the way to done, not just to a plan.
+        Transparent about areas of growth and open to learning, rather than
+        presenting incomplete information as fully resolved under pressure.
+        Preferred Qualifications Experience weighing compute cost against
+        performance and developer experience, and driving that tradeoff to a
+        decision rather than just planning around it. Working knowledge of how
+        AI agents consume data and tools differently from people, and judgment
+        on when a vendor's own agent layer already covers a need. A proactive
+        approach to navigating and understanding new technical systems, key
+        contacts, and open questions independently. Compensation &amp; Benefits
+        The salary band for this position ranges from €90,000 - 120,000,
+        commensurate with experience and qualifications. Hybrid work environment
+        and home office set-up allowance. Temporary work from abroad policy.
+        Regular team and social events. Find Jobs in Germany on Arbeitnow"
+      job_types:
+        - Full Time
       remote: false
       score: 78
       skill_hits: 2
       bucket_id: pm_product
-      fetched_at: 2026-09-10T19:58:17.369Z
-      pulled_at: 2026-09-10T19:58:17.369Z
+      fetched_at: 2026-09-11T19:58:59.330Z
+      pulled_at: 2026-09-11T19:58:59.330Z
       stale_days: 30
       is_stale: true
     - source: recruitee
@@ -6504,69 +5592,11 @@ archive:
       score: 74
       skill_hits: 1
       bucket_id: pm_product
-      fetched_at: 2026-09-10T19:58:17.369Z
-      pulled_at: 2026-09-10T19:58:17.369Z
+      fetched_at: 2026-09-11T19:58:59.330Z
+      pulled_at: 2026-09-11T19:58:59.330Z
       stale_days: 30
       is_stale: true
   scrum_agile:
-    - source: arbeitnow
-      source_note: ""
-      company: Oh So
-      title: Senior Product Owner / Program Manager (m/f/d)
-      location: Hamburg
-      url: https://www.arbeitnow.com/jobs/companies/oh-so/senior-product-owner-program-manager-hamburg-338884
-      updated_at: 1789049385
-      description: "What to expect We're looking for a Senior Product &amp; Program
-        Manager who can turn complex digital products and transformation
-        initiatives into tangible outcomes. You combine product leadership,
-        program management and consulting: connecting user needs, business
-        goals, technology and organizational realities, while bringing structure
-        to ambiguity and alignment across complex stakeholder environments. You
-        will work closely with Product Owners and senior stakeholders, steer
-        multiple workstreams and help clients make better product, technology
-        and transformation decisions. You won't just execute within an existing
-        setup — you'll challenge assumptions, identify opportunities and help
-        evolve products, processes and ways of working. Your competencies 5+
-        years in Product Management, Product Ownership, Program Management,
-        Digital Consulting or a comparable role Proven experience shipping
-        digital products and leading complex initiatives Strong cross-functional
-        experience across product, design, technology and business Strong
-        understanding of agile product development and product leadership
-        Ability to connect user needs, business goals, technology and delivery
-        realities Experience owning scope, budget, delivery and commercial
-        outcomes Excellent senior stakeholder management, with the confidence to
-        challenge and influence Ability to navigate ambiguity, complexity and
-        organizational change Genuine interest in AI and its practical impact on
-        products and organizations Experience in digital transformation,
-        consulting or multi-workstream programs is a strong plus Native German
-        and fluent English What You Can Look Forward To Lead product ownership
-        across complex, multi-workstream initiatives, connecting vision,
-        priorities, delivery and business outcomes Act as a senior counterpart
-        to Product Owners and stakeholders across business, technology and
-        design Translate user and business needs into product strategies,
-        roadmaps, priorities and decisions Navigate complex stakeholder
-        landscapes and create alignment across functions and organizational
-        levels Own and steer scope, budget, dependencies, risks and delivery
-        Bring structure to ambiguity, identify blockers and drive decisions and
-        progress Establish effective agile product routines and ways of working
-        Challenge existing approaches and act as a trusted advisor to clients
-        Identify and assess meaningful AI opportunities across products,
-        processes and ways of working Drive transformation and organizational
-        change, connecting individual work-streams to the larger transformation
-        agenda We are looking forward to meet you Freelancers are welcome to
-        apply for this role as well. Find Jobs in Germany on Arbeitnow"
-      job_types:
-        - Experienced
-        - Permanent
-        - Full time
-      remote: false
-      score: 94
-      skill_hits: 5
-      bucket_id: scrum_agile
-      fetched_at: 2026-09-10T19:58:17.369Z
-      pulled_at: 2026-09-10T19:58:17.369Z
-      stale_days: 30
-      is_stale: true
     - source: smartrecruiters
       source_note: ""
       company: Cint
@@ -6578,8 +5608,8 @@ archive:
       score: 78
       skill_hits: 2
       bucket_id: scrum_agile
-      fetched_at: 2026-09-10T19:58:17.369Z
-      pulled_at: 2026-09-10T19:58:17.369Z
+      fetched_at: 2026-09-11T19:58:59.330Z
+      pulled_at: 2026-09-11T19:58:59.330Z
       stale_days: 30
       is_stale: true
   program_management: []
@@ -6607,13 +5637,13 @@ meta:
     official_career_pages: 20
     search_queries: 20
   stale_counts:
-    pm_product: 36
-    scrum_agile: 8
+    pm_product: 29
+    scrum_agile: 7
     program_management: 0
   inactive_counts:
-    pm_product: 8
-    scrum_agile: 2
+    pm_product: 7
+    scrum_agile: 1
     program_management: 0
   timings_ms:
-    fetch: 240008
-    total: 240203
+    fetch: 187280
+    total: 212818

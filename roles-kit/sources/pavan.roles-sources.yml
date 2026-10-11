@@ -1,4 +1,4 @@
-generated_at: 2026-10-10T20:40:29.468Z
+generated_at: 2026-10-11T21:03:47.567Z
 explicit:
   company_names:
     - SAP
@@ -1031,6 +1031,22 @@ discovered:
     - joivy
     - portalp
     - hubvisory
+    - christundcompany
+    - project-q
+    - airmo
+    - feather
+    - albert-schweitzer-stiftung
+    - emp-1
+    - talentspring-academy
+    - impower
+    - vizzia
+    - msg-industry-advisors-ag
+    - listan-gmbh
+    - lifen
+    - parallel
+    - naturida
+    - duck-duck-go
+    - topchrono
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -2000,6 +2016,26 @@ discovered:
     - https://neuronation.jobs.personio.com/xml
     - https://cic.jobs.personio.de/xml
     - https://cic.jobs.personio.com/xml
+    - https://christundcompany.jobs.personio.de/xml
+    - https://christundcompany.jobs.personio.com/xml
+    - https://project-q.jobs.personio.de/xml
+    - https://project-q.jobs.personio.com/xml
+    - https://airmo.jobs.personio.de/xml
+    - https://airmo.jobs.personio.com/xml
+    - https://feather.jobs.personio.de/xml
+    - https://feather.jobs.personio.com/xml
+    - https://albert-schweitzer-stiftung.jobs.personio.de/xml
+    - https://albert-schweitzer-stiftung.jobs.personio.com/xml
+    - https://emp-1.jobs.personio.de/xml
+    - https://emp-1.jobs.personio.com/xml
+    - https://talentspring-academy.jobs.personio.de/xml
+    - https://talentspring-academy.jobs.personio.com/xml
+    - https://impower.jobs.personio.de/xml
+    - https://impower.jobs.personio.com/xml
+    - https://msg-industry-advisors-ag.jobs.personio.de/xml
+    - https://msg-industry-advisors-ag.jobs.personio.com/xml
+    - https://listan-gmbh.jobs.personio.de/xml
+    - https://listan-gmbh.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -2119,6 +2155,8 @@ discovered:
     - joivy
     - portalp
     - hubvisory
+    - parallel
+    - topchrono
   ashby_organizations:
     - telus-digital
     - a-team
@@ -2548,6 +2586,10 @@ discovered:
     - zego
     - isometric
     - stack-infrastructure-emea
+    - vizzia
+    - lifen
+    - parallel
+    - duck-duck-go
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
