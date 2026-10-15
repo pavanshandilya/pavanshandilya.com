@@ -1,4 +1,4 @@
-generated_at: 2026-10-14T20:55:55.380Z
+generated_at: 2026-10-15T20:32:55.699Z
 explicit:
   company_names:
     - SAP
@@ -1038,6 +1038,8 @@ discovered:
     - parallel
     - naturida
     - duck-duck-go
+    - redis
+    - twelve-labs
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -2576,6 +2578,8 @@ discovered:
     - lifen
     - parallel
     - duck-duck-go
+    - redis
+    - twelve-labs
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
