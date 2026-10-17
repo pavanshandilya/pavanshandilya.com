@@ -1,7 +1,7 @@
 schema_version: roles.v1
 profile_id: pavan
 profile_name: Pavan - marketing, digital marketing, video editing
-generated_at: 2026-10-16T20:03:35.673Z
+generated_at: 2026-10-17T19:36:49.612Z
 buckets:
   marketing_general:
     - source: recruitee
@@ -49,7 +49,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-11T21:03:47.567Z
       pulled_at: 2026-10-11T21:03:47.567Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -164,7 +164,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-11T21:03:47.567Z
       pulled_at: 2026-10-11T21:03:47.567Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -219,7 +219,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-11T21:03:47.567Z
       pulled_at: 2026-10-11T21:03:47.567Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -266,7 +266,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-06T21:48:27.843Z
       pulled_at: 2026-10-06T21:48:27.843Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -321,7 +321,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-06T21:48:27.843Z
       pulled_at: 2026-10-06T21:48:27.843Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -403,7 +403,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-06T21:48:27.843Z
       pulled_at: 2026-10-06T21:48:27.843Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -450,7 +450,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-05T23:16:43.362Z
       pulled_at: 2026-10-05T23:16:43.362Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -505,7 +505,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-05T23:16:43.362Z
       pulled_at: 2026-10-05T23:16:43.362Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -650,7 +650,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-09-30T21:31:26.014Z
       pulled_at: 2026-09-30T21:31:26.014Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -697,7 +697,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-09-30T21:31:26.014Z
       pulled_at: 2026-09-30T21:31:26.014Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -776,7 +776,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-09-30T21:31:26.014Z
       pulled_at: 2026-09-30T21:31:26.014Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -831,7 +831,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-09-30T21:31:26.014Z
       pulled_at: 2026-09-30T21:31:26.014Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -923,7 +923,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-09-30T21:31:26.014Z
       pulled_at: 2026-09-30T21:31:26.014Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1000,7 +1000,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-09-30T21:31:26.014Z
       pulled_at: 2026-09-30T21:31:26.014Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1047,7 +1047,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-09-29T21:30:40.201Z
       pulled_at: 2026-09-29T21:30:40.201Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1117,7 +1117,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-09-29T21:30:40.201Z
       pulled_at: 2026-09-29T21:30:40.201Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1221,7 +1221,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-09-29T21:30:40.201Z
       pulled_at: 2026-09-29T21:30:40.201Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1276,7 +1276,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-09-29T21:30:40.201Z
       pulled_at: 2026-09-29T21:30:40.201Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1425,8 +1425,8 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-09-25T20:36:55.338Z
       pulled_at: 2026-09-25T20:36:55.338Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: TransPerfect
@@ -1480,8 +1480,8 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-09-25T20:36:55.338Z
       pulled_at: 2026-09-25T20:36:55.338Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: arbeitnow
       source_note: ""
       company: Ark Software GmbH
@@ -1555,8 +1555,8 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-09-25T20:36:55.338Z
       pulled_at: 2026-09-25T20:36:55.338Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: Consultport
@@ -1602,7 +1602,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-09-24T20:37:49.918Z
       pulled_at: 2026-09-24T20:37:49.918Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -1657,7 +1657,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-09-24T20:37:49.918Z
       pulled_at: 2026-09-24T20:37:49.918Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -1704,7 +1704,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-09-22T20:19:53.221Z
       pulled_at: 2026-09-22T20:19:53.221Z
-      stale_days: 23
+      stale_days: 24
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -1780,7 +1780,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-09-22T20:19:53.221Z
       pulled_at: 2026-09-22T20:19:53.221Z
-      stale_days: 23
+      stale_days: 24
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -1835,7 +1835,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-09-22T20:19:53.221Z
       pulled_at: 2026-09-22T20:19:53.221Z
-      stale_days: 23
+      stale_days: 24
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -1951,7 +1951,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-09-22T20:19:53.221Z
       pulled_at: 2026-09-22T20:19:53.221Z
-      stale_days: 23
+      stale_days: 24
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -1998,7 +1998,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-09-21T21:11:54.138Z
       pulled_at: 2026-09-21T21:11:54.138Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -2088,7 +2088,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-09-21T21:11:54.138Z
       pulled_at: 2026-09-21T21:11:54.138Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -2178,7 +2178,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-09-21T21:11:54.138Z
       pulled_at: 2026-09-21T21:11:54.138Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -2233,7 +2233,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-09-21T21:11:54.138Z
       pulled_at: 2026-09-21T21:11:54.138Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -2283,7 +2283,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-09-21T21:11:54.138Z
       pulled_at: 2026-09-21T21:11:54.138Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -2330,108 +2330,6 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-09-19T19:27:24.987Z
       pulled_at: 2026-09-19T19:27:24.987Z
-      stale_days: 27
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: TransPerfect
-      title: Senior Performance Marketing Manager
-      location: Pune, Mahārāshtra, India, Pune, India
-      url: https://transperfect.com/o/senior-performance-marketing-manager
-      updated_at: 2026-08-06 10:17:14 UTC
-      description: "OVERVIEW: If running paid campaigns across a bunch of platforms is
-        your happy place, and you think as much about the journey as the click,
-        this could be a good fit. You're in Google Ads in the morning, LinkedIn
-        Campaign Manager over lunch, and Reddit or TikTok in the afternoon. In
-        between, you're thinking about how these campaigns work together to move
-        real people through our funnel. We're hiring a Paid Media Lead to plan,
-        deploy, and optimize campaigns across our paid channels. This role isn't
-        just about setting campaigns live and watching the numbers. It's about
-        thinking carefully about the marketing funnel, inventing new ways to
-        bring quality leads and accounts into it, and using paid media to move
-        them all the way through to sales-ready. You'll work closely with our
-        Senior Director of Creative Performance Marketing, turning creative
-        briefs and campaign strategies into live campaigns that actually
-        perform. You'll own the technical craft of paid media (structure,
-        targeting, bidding, testing, iteration) and the strategic craft of
-        designing campaigns that do their job at each funnel stage. This is an
-        individual contributor role with no direct reports. What you'll be doing
-        is deep, hands on platform work combined with real strategic thinking
-        about how paid fits into the broader journey. JOB RESPONSIBILITES: Plan
-        campaign architecture across platforms with clear funnel intent
-        (awareness, consideration, decision) and matching audience, creative,
-        and CTA logic for each stage Get creative about lead acquisition itself:
-        figure out how to reach new audiences, test new platforms and formats,
-        and keep growing both the quantity and quality of leads coming into the
-        funnel Design retargeting and lifecycle audiences that work with email
-        nurture, content offers, and sales outreach to move leads through the
-        funnel Partner with the rest of the marketing team on lead qualification
-        and hand-off criteria, so what reaches sales is actually ready to
-        convert Contribute creative direction to ad concepts and copy, working
-        with our creative resources on work that resonates Build and launch
-        campaigns in Google Ads, Microsoft Ads, LinkedIn, Meta (Facebook and
-        Instagram), Reddit, TikTok, and emerging platforms like ChatGPT Ads Set
-        up and manage audience targeting, including custom audiences,
-        lookalikes, contextual, intent, and account-based lists Own bid strategy
-        selection and budget pacing across campaigns Traffic creative assets,
-        keep naming conventions consistent, and manage UTMs Set up conversion
-        tracking (pixels, server-side, offline conversions) and make sure GA4 is
-        telling us the truth Run structured A/B tests on copy, creative,
-        audiences, and bidding Pull data, build reports, and share what's
-        working (and what isn't) with the team Continuously optimize campaigns,
-        moving budget toward what's performing and shutting off what isn't"
-      score: 76
-      skill_hits: 1
-      bucket_id: marketing_general
-      fetched_at: 2026-09-19T19:27:24.987Z
-      pulled_at: 2026-09-19T19:27:24.987Z
-      stale_days: 27
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: Consultport
-      title: Growth Marketing Manager
-      location: Berlin, Berlin, Germany, Berlin, Germany
-      url: https://consultport.recruitee.com/o/growth-marketing-manager
-      updated_at: 2026-08-06 14:09:57 UTC
-      description: "Who are we? Consultport is a global platform redefining how
-        businesses access top-tier consulting talent. We connect top companies
-        with world-class consultants and digital experts, helping them drive
-        critical initiatives faster, smarter, and more flexibly than ever
-        before. Join us at this growth stage. We're building the future of
-        consulting, and this is your chance to be part of shaping it. The role
-        As a Growth Marketing Manager (m/f/d) at Consultport, you'll own and
-        drive our digital marketing strategy across all channels, from
-        performance and paid media to content, SEO, and brand. You'll work
-        closely with our sales and business development teams to generate
-        high-quality demand and fuel our growth engine. This is a hands-on,
-        all-round marketing role that blends strategic thinking with executional
-        excellence, ideally suited to someone who has thrived in a fast-paced
-        agency or digital-first environment. We are currently ramping up our
-        Marketing team and this is where you come in! As Growth Marketing
-        Manager (m/f/d) at Consultport, you'll be responsible for: Digital
-        Strategy &amp; Execution Develop and own a 360° digital marketing
-        strategy across paid, owned, and earned channels Manage and optimise
-        marketing campaigns across Google Ads, LinkedIn, and Meta Drive SEO
-        strategy to ensure our content and web presence consistently ranks and
-        converts Demand Generation &amp; Lead Nurturing Own the full marketing
-        funnel from awareness through to qualified lead handoff to sales Build
-        campaigns for key customer segments to drive user acquisition and
-        engagement Manage and optimise our CRM and marketing automation
-        workflows (e.g. HubSpot) Analytics &amp; Performance Set up and maintain
-        robust tracking and reporting across all channels (Google Tag Manager,
-        Google Analytics) Use data-driven insights to improve campaign
-        performance, conversion rates, and ROI Run A/B tests and implement
-        optimisation strategies across the customer journey Brand &amp; Content
-        Oversee brand consistency across all digital touchpoints and
-        communications Develop content that speaks to our target audience of
-        senior business decision-makers Identify and act on market trends and
-        emerging digital marketing opportunities"
-      score: 84
-      skill_hits: 3
-      bucket_id: marketing_general
-      fetched_at: 2026-09-17T20:28:23.046Z
-      pulled_at: 2026-09-17T20:28:23.046Z
       stale_days: 28
       is_stale: true
     - source: recruitee
@@ -2485,9 +2383,111 @@ buckets:
       score: 76
       skill_hits: 1
       bucket_id: marketing_general
+      fetched_at: 2026-09-19T19:27:24.987Z
+      pulled_at: 2026-09-19T19:27:24.987Z
+      stale_days: 28
+      is_stale: true
+    - source: recruitee
+      source_note: ""
+      company: Consultport
+      title: Growth Marketing Manager
+      location: Berlin, Berlin, Germany, Berlin, Germany
+      url: https://consultport.recruitee.com/o/growth-marketing-manager
+      updated_at: 2026-08-06 14:09:57 UTC
+      description: "Who are we? Consultport is a global platform redefining how
+        businesses access top-tier consulting talent. We connect top companies
+        with world-class consultants and digital experts, helping them drive
+        critical initiatives faster, smarter, and more flexibly than ever
+        before. Join us at this growth stage. We're building the future of
+        consulting, and this is your chance to be part of shaping it. The role
+        As a Growth Marketing Manager (m/f/d) at Consultport, you'll own and
+        drive our digital marketing strategy across all channels, from
+        performance and paid media to content, SEO, and brand. You'll work
+        closely with our sales and business development teams to generate
+        high-quality demand and fuel our growth engine. This is a hands-on,
+        all-round marketing role that blends strategic thinking with executional
+        excellence, ideally suited to someone who has thrived in a fast-paced
+        agency or digital-first environment. We are currently ramping up our
+        Marketing team and this is where you come in! As Growth Marketing
+        Manager (m/f/d) at Consultport, you'll be responsible for: Digital
+        Strategy &amp; Execution Develop and own a 360° digital marketing
+        strategy across paid, owned, and earned channels Manage and optimise
+        marketing campaigns across Google Ads, LinkedIn, and Meta Drive SEO
+        strategy to ensure our content and web presence consistently ranks and
+        converts Demand Generation &amp; Lead Nurturing Own the full marketing
+        funnel from awareness through to qualified lead handoff to sales Build
+        campaigns for key customer segments to drive user acquisition and
+        engagement Manage and optimise our CRM and marketing automation
+        workflows (e.g. HubSpot) Analytics &amp; Performance Set up and maintain
+        robust tracking and reporting across all channels (Google Tag Manager,
+        Google Analytics) Use data-driven insights to improve campaign
+        performance, conversion rates, and ROI Run A/B tests and implement
+        optimisation strategies across the customer journey Brand &amp; Content
+        Oversee brand consistency across all digital touchpoints and
+        communications Develop content that speaks to our target audience of
+        senior business decision-makers Identify and act on market trends and
+        emerging digital marketing opportunities"
+      score: 84
+      skill_hits: 3
+      bucket_id: marketing_general
       fetched_at: 2026-09-17T20:28:23.046Z
       pulled_at: 2026-09-17T20:28:23.046Z
-      stale_days: 28
+      stale_days: 29
+      is_stale: true
+    - source: recruitee
+      source_note: ""
+      company: TransPerfect
+      title: Senior Performance Marketing Manager
+      location: Pune, Mahārāshtra, India, Pune, India
+      url: https://transperfect.com/o/senior-performance-marketing-manager
+      updated_at: 2026-08-06 10:17:14 UTC
+      description: "OVERVIEW: If running paid campaigns across a bunch of platforms is
+        your happy place, and you think as much about the journey as the click,
+        this could be a good fit. You're in Google Ads in the morning, LinkedIn
+        Campaign Manager over lunch, and Reddit or TikTok in the afternoon. In
+        between, you're thinking about how these campaigns work together to move
+        real people through our funnel. We're hiring a Paid Media Lead to plan,
+        deploy, and optimize campaigns across our paid channels. This role isn't
+        just about setting campaigns live and watching the numbers. It's about
+        thinking carefully about the marketing funnel, inventing new ways to
+        bring quality leads and accounts into it, and using paid media to move
+        them all the way through to sales-ready. You'll work closely with our
+        Senior Director of Creative Performance Marketing, turning creative
+        briefs and campaign strategies into live campaigns that actually
+        perform. You'll own the technical craft of paid media (structure,
+        targeting, bidding, testing, iteration) and the strategic craft of
+        designing campaigns that do their job at each funnel stage. This is an
+        individual contributor role with no direct reports. What you'll be doing
+        is deep, hands on platform work combined with real strategic thinking
+        about how paid fits into the broader journey. JOB RESPONSIBILITES: Plan
+        campaign architecture across platforms with clear funnel intent
+        (awareness, consideration, decision) and matching audience, creative,
+        and CTA logic for each stage Get creative about lead acquisition itself:
+        figure out how to reach new audiences, test new platforms and formats,
+        and keep growing both the quantity and quality of leads coming into the
+        funnel Design retargeting and lifecycle audiences that work with email
+        nurture, content offers, and sales outreach to move leads through the
+        funnel Partner with the rest of the marketing team on lead qualification
+        and hand-off criteria, so what reaches sales is actually ready to
+        convert Contribute creative direction to ad concepts and copy, working
+        with our creative resources on work that resonates Build and launch
+        campaigns in Google Ads, Microsoft Ads, LinkedIn, Meta (Facebook and
+        Instagram), Reddit, TikTok, and emerging platforms like ChatGPT Ads Set
+        up and manage audience targeting, including custom audiences,
+        lookalikes, contextual, intent, and account-based lists Own bid strategy
+        selection and budget pacing across campaigns Traffic creative assets,
+        keep naming conventions consistent, and manage UTMs Set up conversion
+        tracking (pixels, server-side, offline conversions) and make sure GA4 is
+        telling us the truth Run structured A/B tests on copy, creative,
+        audiences, and bidding Pull data, build reports, and share what's
+        working (and what isn't) with the team Continuously optimize campaigns,
+        moving budget toward what's performing and shutting off what isn't"
+      score: 76
+      skill_hits: 1
+      bucket_id: marketing_general
+      fetched_at: 2026-09-17T20:28:23.046Z
+      pulled_at: 2026-09-17T20:28:23.046Z
+      stale_days: 29
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -2554,333 +2554,6 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-09-17T20:28:23.046Z
       pulled_at: 2026-09-17T20:28:23.046Z
-      stale_days: 28
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: Consultport
-      title: Growth Marketing Manager
-      location: Berlin, Berlin, Germany, Berlin, Germany
-      url: https://consultport.recruitee.com/o/growth-marketing-manager
-      updated_at: 2026-08-06 14:09:57 UTC
-      description: "Who are we? Consultport is a global platform redefining how
-        businesses access top-tier consulting talent. We connect top companies
-        with world-class consultants and digital experts, helping them drive
-        critical initiatives faster, smarter, and more flexibly than ever
-        before. Join us at this growth stage. We're building the future of
-        consulting, and this is your chance to be part of shaping it. The role
-        As a Growth Marketing Manager (m/f/d) at Consultport, you'll own and
-        drive our digital marketing strategy across all channels, from
-        performance and paid media to content, SEO, and brand. You'll work
-        closely with our sales and business development teams to generate
-        high-quality demand and fuel our growth engine. This is a hands-on,
-        all-round marketing role that blends strategic thinking with executional
-        excellence, ideally suited to someone who has thrived in a fast-paced
-        agency or digital-first environment. We are currently ramping up our
-        Marketing team and this is where you come in! As Growth Marketing
-        Manager (m/f/d) at Consultport, you'll be responsible for: Digital
-        Strategy &amp; Execution Develop and own a 360° digital marketing
-        strategy across paid, owned, and earned channels Manage and optimise
-        marketing campaigns across Google Ads, LinkedIn, and Meta Drive SEO
-        strategy to ensure our content and web presence consistently ranks and
-        converts Demand Generation &amp; Lead Nurturing Own the full marketing
-        funnel from awareness through to qualified lead handoff to sales Build
-        campaigns for key customer segments to drive user acquisition and
-        engagement Manage and optimise our CRM and marketing automation
-        workflows (e.g. HubSpot) Analytics &amp; Performance Set up and maintain
-        robust tracking and reporting across all channels (Google Tag Manager,
-        Google Analytics) Use data-driven insights to improve campaign
-        performance, conversion rates, and ROI Run A/B tests and implement
-        optimisation strategies across the customer journey Brand &amp; Content
-        Oversee brand consistency across all digital touchpoints and
-        communications Develop content that speaks to our target audience of
-        senior business decision-makers Identify and act on market trends and
-        emerging digital marketing opportunities"
-      score: 84
-      skill_hits: 3
-      bucket_id: marketing_general
-      fetched_at: 2026-09-16T20:18:35.150Z
-      pulled_at: 2026-09-16T20:18:35.150Z
-      stale_days: 29
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: TransPerfect
-      title: Senior Performance Marketing Manager
-      location: Pune, Mahārāshtra, India, Pune, India
-      url: https://transperfect.com/o/senior-performance-marketing-manager
-      updated_at: 2026-08-06 10:17:14 UTC
-      description: "OVERVIEW: If running paid campaigns across a bunch of platforms is
-        your happy place, and you think as much about the journey as the click,
-        this could be a good fit. You're in Google Ads in the morning, LinkedIn
-        Campaign Manager over lunch, and Reddit or TikTok in the afternoon. In
-        between, you're thinking about how these campaigns work together to move
-        real people through our funnel. We're hiring a Paid Media Lead to plan,
-        deploy, and optimize campaigns across our paid channels. This role isn't
-        just about setting campaigns live and watching the numbers. It's about
-        thinking carefully about the marketing funnel, inventing new ways to
-        bring quality leads and accounts into it, and using paid media to move
-        them all the way through to sales-ready. You'll work closely with our
-        Senior Director of Creative Performance Marketing, turning creative
-        briefs and campaign strategies into live campaigns that actually
-        perform. You'll own the technical craft of paid media (structure,
-        targeting, bidding, testing, iteration) and the strategic craft of
-        designing campaigns that do their job at each funnel stage. This is an
-        individual contributor role with no direct reports. What you'll be doing
-        is deep, hands on platform work combined with real strategic thinking
-        about how paid fits into the broader journey. JOB RESPONSIBILITES: Plan
-        campaign architecture across platforms with clear funnel intent
-        (awareness, consideration, decision) and matching audience, creative,
-        and CTA logic for each stage Get creative about lead acquisition itself:
-        figure out how to reach new audiences, test new platforms and formats,
-        and keep growing both the quantity and quality of leads coming into the
-        funnel Design retargeting and lifecycle audiences that work with email
-        nurture, content offers, and sales outreach to move leads through the
-        funnel Partner with the rest of the marketing team on lead qualification
-        and hand-off criteria, so what reaches sales is actually ready to
-        convert Contribute creative direction to ad concepts and copy, working
-        with our creative resources on work that resonates Build and launch
-        campaigns in Google Ads, Microsoft Ads, LinkedIn, Meta (Facebook and
-        Instagram), Reddit, TikTok, and emerging platforms like ChatGPT Ads Set
-        up and manage audience targeting, including custom audiences,
-        lookalikes, contextual, intent, and account-based lists Own bid strategy
-        selection and budget pacing across campaigns Traffic creative assets,
-        keep naming conventions consistent, and manage UTMs Set up conversion
-        tracking (pixels, server-side, offline conversions) and make sure GA4 is
-        telling us the truth Run structured A/B tests on copy, creative,
-        audiences, and bidding Pull data, build reports, and share what's
-        working (and what isn't) with the team Continuously optimize campaigns,
-        moving budget toward what's performing and shutting off what isn't"
-      score: 76
-      skill_hits: 1
-      bucket_id: marketing_general
-      fetched_at: 2026-09-16T20:18:35.150Z
-      pulled_at: 2026-09-16T20:18:35.150Z
-      stale_days: 29
-      is_stale: true
-    - source: arbeitnow
-      source_note: ""
-      company: benuta GmbH
-      title: Senior Performance Marketing Manager – Performance Marketing, MMM & AI
-        (m/w/d)
-      location: Berlin, Berlin, Deutschland
-      url: https://www.arbeitnow.com/jobs/companies/benuta-gmbh/senior-performance-marketing-manager-performance-marketing-mmm-ai-berlin-160516
-      updated_at: 1789569018
-      description: "Du hast den kompletten Performance-Marketing-Mix fest im Griff und
-        nutzt KI im Kampagnenmanagement nicht als Hype, sondern als tägliches
-        Werkzeug? Du möchtest datengetriebene Entscheidungen zur
-        Budgetallokation treffen und aktiv mitgestalten, wie modernste AI-Tools
-        die Steuerung im E-Commerce revolutionieren? Dann wartet in unserem Team
-        in Berlin deine nächste große Challenge auf dich: Bei benuta übernimmst
-        du echte Ownership über unsere Kanäle hinweg und treibst ein echtes
-        Greenfield-Thema voran – die Skalierung KI-gestützter Analysen und
-        Strategien für den europäischen Marktführer im
-        Home-&amp;-Living-Bereich! Deine Aufgaben Strategische Kanal- &amp;
-        Budgetsteuerung: Du entwickelst und verantwortest die kanalübergreifende
-        Performance-Marketing-Strategie via MMM zur Erreichung unserer
-        Unternehmensziele (Umsatz, Effizienz, Lead-Gen, Brand Awareness). Du
-        steuerst und optimierst Kampagnen über Google Ads, Bing Ads, Meta,
-        Pinterest, Reddit Ads sowie Affiliate-Partnerschaften mit einer
-        konsistenten Budget- und Ziellogik. AI-Integration &amp;
-        Workflow-Innovation: Du treibst den Einsatz von LLMs (z. B. Claude,
-        Gemini) für die automatisierte, kanalübergreifende Analyse unserer
-        Kampagnendaten aktiv voran. Du entwickelst Prompts und Workflows für
-        beschleunigtes Reporting, Anomalie-Erkennung sowie Budget-Optimierungen
-        und agierst als interner Expert für KI-gestützte Marketing-Tools.
-        Analyse &amp; Bidding-Evaluierung: Du überwachst und analysierst alle
-        relevanten KPIs (CPO, ROAS, CAC, Conversion Rate) auf Basis von GA4 und
-        unserem serverseitigen Tracking-Setup (server-side GTM). Zudem bewertest
-        du KI-gestützte Bidding- und Automatisierungsfunktionen der
-        Werbeplattformen auf ihren Mehrwert. Tracking-Setup &amp;
-        Datensicherheit: Du implementierst und verwaltest Tracking-Setups (z. B.
-        Conversion-APIs, UTM-Konventionen) und stellst eine saubere,
-        datenschutzkonforme Datengrundlage sicher. Testing: Du verantwortest
-        fortlaufende A/B-Tests und Budget-Experimente zur kontinuierlichen
-        Performance-Steigerung aller Kanäle. Partner-Management &amp;
-        Kollaboration: Du verhandelst und entwickelst Vendor- und
-        Partnerverträge (z. B. im Affiliate-Bereich) weiter. Bei der
-        Kampagnenabstimmung arbeitest du eng mit den Teams aus Design, Content
-        und IT zusammen. Mentoring: Du unterstützt bei der fachlichen Anleitung
-        sowie dem Onboarding von Junior-Kolleg*innen im Team und teilst dein
-        KI-Wissen. Dein Profil Ausbildung: Du hast dein Studium (BWL, Marketing,
-        Medien, Kommunikationswissenschaften o. Ä.) erfolgreich abgeschlossen
-        oder bringst eine vergleichbare Qualifikation mit. Relevante
-        Berufserfahrung: Du bringst mindestens 5 Jahre Erfahrung im Performance
-        Marketing mit – idealerweise kanalübergreifend (SEA, Paid Social,
-        Affiliate) und mit nachweisbarer Budget- oder Teilprojektverantwortung.
-        Erste Erfahrung in der fachlichen Führung ist von Vorteil. AI-Expertise
-        (Must-have): Du besitzt praxiserprobte Erfahrung im Einsatz von KI-Tools
-        und LLMs im Marketing-Kontext (z. B. Prompting für Reporting, Analysen,
-        Forecasting). Du verfolgst aktuelle AI-Trends aktiv und brennst darauf,
-        diese bei benuta einzubringen. Hard Skills: Du zeichnest dich durch
-        ausgeprägte analytische Fähigkeiten aus, nutzt GA4 sowie gängige
-        Attributions-/Reporting-Tools souverän und hast tiefe Kenntnisse in
-        mindestens einem Zentralkanal (Google Ads, Meta). Erfahrung mit Bing,
-        Pinterest, Reddit, Affiliate und serverseitigem Tracking runden dein
-        Profil ab. Soft Skills: Du arbeitest datengetrieben, denkst
-        lösungsorientiert und begeisterst dich für E-Commerce sowie die Themen
-        Home &amp; Living. Sprachkompetenz: Deine Deutsch- und
-        Englischkenntnisse sind sehr gut (weitere Sprachen sind ein Plus). Deine
-        Benefits Impact &amp; Gestaltungsspielraum : Bei uns kannst du aktiv
-        mitgestalten, die Marke benuta weiterentwickeln und spannende
-        KI-Projekte umsetzen – wie etwa den Aufbau KI-gestützter
-        Analyse-Workflows für unsere Kampagnendaten. Deine Ideen werden gehört
-        und du bekommst Freiraum für die Umsetzung eigener Ansätze. Präsenz
-        &amp; Flexibilität: Der Schwerpunkt unserer Arbeit liegt auf dem
-        persönlichen Austausch und der gemeinsamen Zusammenarbeit vor Ort an
-        unserem Standort in Berlin. Für die nötige Flexibilität in deiner
-        Alltagsplanung - sei es für private Termine oder ungestörtes Arbeiten -
-        bieten wir dir ein jährliches Kontingent von 26 Home-Office-Tagen. Deine
-        Mobilität: Egal wie du zu uns kommst, wir unterstützen dich. Du hast die
-        Wahl zwischen einem vergünstigten Jobticket oder einer Tankkarte. Zudem
-        bieten wir dir ein Firmenrad-Leasing (JobRad) und eine gute
-        ÖPNV-Anbindung. Zeit für Erholung: Du erhältst 28 Tage Urlaub und
-        profitierst von unserem flexiblen Gleitzeitmodell. Weihnachten und
-        Silvester sind bei uns grundsätzlich arbeitsfreie Tage, die nicht von
-        deinem Urlaubskonto abgehen. Deine Entwicklung: Unsere unterschiedlichen
-        Abteilungen mit internationalen Teams arbeiten an vielfältigen Projekten
-        zusammen. Dadurch lernst Du permanent neue Sichtweisen, Tools und
-        Prozesse kennen – inklusive aktuellster KI-Anwendungen im Performance
-        Marketing. Kultur &amp; Mitarbeitervorteile: Ein strukturiertes
-        Onboarding, flache Hierarchien und attraktive Mitarbeiterrabatte warten
-        auf dich. Bei uns gilt: Come as you are – fühl dich wohl und sei einfach
-        du selbst! Klingt nach deinem nächsten Match? Dann freuen wir uns auf
-        deine Bewerbung! Lade einfach deinen Lebenslauf und deine relevanten
-        Zeugnisse über unser Online-Portal hoch. Dein Ansprechpartner ist
-        Michael Stanke (Head of Online Marketing) . *Bei uns zählt der Mensch
-        und seine Motivation - unabhängig von Geschlecht, Herkunft, Religion
-        oder sexueller Orientierung. Bewerbungen von Menschen mit einer
-        Schwerbehinderung oder ihnen Gleichgestellten werden bei gleicher
-        Eignung bevorzugt berücksichtigt. Über benuta Seit 2008 revolutionieren
-        wir von Bonn aus den europäischen Teppich- und
-        Home-&amp;-Living-E-Commerce. Mit über 100 Millionen Euro Umsatz,
-        modernster AI-gestützter Produktinszenierung und Kunden in 17 Ländern
-        verbinden wir die Sicherheit eines etablierten Marktführers mit dem
-        Drive und den flachen Hierarchien eines Digital-Pioneers. Unser Ziel ist
-        einfach: Jedes Zuhause noch schöner zu machen. Werde Teil unseres Teams
-        und hilf uns dabei, noch mehr Menschen für unsere Produkte zu
-        begeistern. Find Jobs in Germany on Arbeitnow"
-      job_types: &a6
-        - Experienced
-        - fulltime fixed term
-      remote: false
-      score: 76
-      skill_hits: 1
-      bucket_id: marketing_general
-      fetched_at: 2026-09-16T20:18:35.150Z
-      pulled_at: 2026-09-16T20:18:35.150Z
-      stale_days: 29
-      is_stale: true
-    - source: arbeitnow
-      source_note: ""
-      company: benuta GmbH
-      title: Senior Performance Marketing Manager – Paid Social & AI (m/w/d)
-      location: Berlin, Berlin, Deutschland
-      url: https://www.arbeitnow.com/jobs/companies/benuta-gmbh/senior-performance-marketing-manager-paid-social-ai-berlin-476502
-      updated_at: 1789569018
-      description: "Du hast die Paid-Social-Landschaft fest im Griff und nutzt KI im
-        Kampagnenmanagement nicht als Hype, sondern als tägliches Werkzeug? Du
-        möchtest datengetriebene Entscheidungen treffen, kreative Kampagnen
-        entwickeln und aktiv mitgestalten, wie modernste AI-Tools Analyse,
-        Reporting und Kreation im E-Commerce revolutionieren? Dann wartet in
-        unserem Team in Berlin deine nächste große Challenge auf dich: Bei
-        benuta übernimmst du echte Ownership für unsere Paid-Social-Kanäle und
-        treibst ein echtes Greenfield-Thema voran – die Skalierung KI-gestützter
-        Analysen, Workflows und Strategien für den europäischen Marktführer im
-        Home-&amp;-Living-Bereich! Deine Aufgaben Strategische
-        Paid-Social-Steuerung: Du entwickelst und verantwortest die
-        kanalübergreifende Paid-Social-Media-Strategie zur Erreichung unserer
-        Unternehmensziele (Brand Awareness, Lead-Gen, Performance-Ziele) und
-        richtest sie an der übergreifenden Marketingstrategie aus.
-        Kampagnenmanagement &amp; Kanal-Synergien: Du bist verantwortlich für
-        die Erstellung, das Monitoring und die Optimierung unserer
-        Paid-Social-Kampagnen (Schwerpunkt Meta, Pinterest, Reddit Ads und
-        TikTok) und arbeitest eng mit den Kolleg*innen aus Google Ads und Bing
-        Ads für eine ganzheitliche Performance-Sicht zusammen. AI-Integration
-        &amp; Workflow-Innovation: Du treibst den Einsatz von LLMs (z. B.
-        Claude, Gemini, ChatGPT) für die automatisierte Analyse und Auswertung
-        unserer Kampagnendaten aktiv voran. Du entwickelst Prompts und Workflows
-        für beschleunigtes Reporting, Anomalie-Erkennung sowie Optimierungen und
-        agierst als interner Expert für KI-gestützte Marketing-Tools. Kreative
-        Nutzung von KI: Du nutzt generative KI gezielt für Anzeigentexte,
-        Variantentests und Creative-Ideation. In engem Austausch mit dem Design-
-        und Content-Team gibst du als Senior-Ansprechperson fachlichen Input und
-        Feedback. Analyse &amp; Tracking-Setup: Du überwachst und analysierst
-        die Kampagnen-Performance anhand von KPIs (CTR, KUR, ROAS, Conversion
-        Rate) unter Nutzung unseres MMM. Du implementierst Tracking-Tools
-        (Pixel, UTM-Parameter, Conversion-APIs) und stellst eine saubere
-        Datengrundlage sicher. Testing: Du verantwortest das fortlaufende
-        A/B-Testing von Anzeigenformaten, Zielgruppen sowie Budgets und
-        bewertest neue Werbemöglichkeiten sowie KI-Werbeprodukte auf ihr
-        Potenzial für benuta. Mentoring: Du unterstützt bei der fachlichen
-        Anleitung sowie dem Onboarding von Junior-Kolleg*innen im Team und
-        teilst dein KI-Wissen. Dein Profil Ausbildung: Du hast dein Studium
-        (BWL, Marketing, Medien, Kommunikationswissenschaften o. Ä.) erfolgreich
-        abgeschlossen oder bringst eine vergleichbare Qualifikation mit.
-        Relevante Berufserfahrung: Du bringst mindestens 5 Jahre Erfahrung mit
-        Meta Ads und/oder anderen Paid-Social-Kanälen mit – idealerweise
-        inklusive nachweisbarer Budget- oder Teilprojektverantwortung. Erste
-        Erfahrung in der fachlichen Führung ist von Vorteil. AI-Expertise
-        (Must-have): Du besitzt praxiserprobte Erfahrung im Einsatz von KI-Tools
-        und LLMs im Marketing-Kontext (z. B. Prompting für Reporting,
-        Kampagnenanalysen oder Creative-Unterstützung). Du verfolgst aktuelle
-        AI-Trends aktiv und brennst darauf, eigene Ideen bei benuta
-        einzubringen. Hard Skills: Du besitzt sehr gute Kenntnisse im
-        Meta-Werbeanzeigenmanager und zeichnest dich durch ausgeprägte
-        analytische Fähigkeiten im Umgang mit gängigen
-        Reporting-/Attributions-Tools aus. Erfahrung mit Pinterest, Reddit,
-        TikTok, Bing Ads und serverseitigem Tracking ist ein Plus. Soft Skills:
-        Du arbeitest datengetrieben, denkst lösungsorientiert und begeisterst
-        dich für E-Commerce sowie die Themen Home &amp; Living. Sprachkompetenz:
-        Deine Deutsch- und Englischkenntnisse sind sehr gut (weitere Sprachen
-        sind ein Plus). Deine Benefits Impact &amp; Gestaltungsspielraum : Bei
-        uns kannst du aktiv mitgestalten, die Marke benuta weiterentwickeln und
-        spannende KI-Projekte umsetzen – wie etwa den Aufbau KI-gestützter
-        Analyse-Workflows für unsere Kampagnendaten. Deine Ideen werden gehört
-        und du bekommst Freiraum für die Umsetzung eigener Ansätze. Präsenz
-        &amp; Flexibilität: Der Schwerpunkt unserer Arbeit liegt auf dem
-        persönlichen Austausch und der gemeinsamen Zusammenarbeit vor Ort an
-        unserem Standort in Berlin. Für die nötige Flexibilität in deiner
-        Alltagsplanung - sei es für private Termine oder ungestörtes Arbeiten -
-        bieten wir dir ein jährliches Kontingent von 26 Home-Office-Tagen. Deine
-        Mobilität: Egal wie du zu uns kommst, wir unterstützen dich. Du hast die
-        Wahl zwischen einem vergünstigten Jobticket oder einer Tankkarte. Zudem
-        bieten wir dir ein Firmenrad-Leasing (JobRad) und eine gute
-        ÖPNV-Anbindung. Zeit für Erholung: Du erhältst 28 Tage Urlaub und
-        profitierst von unserem flexiblen Gleitzeitmodell. Weihnachten und
-        Silvester sind bei uns grundsätzlich arbeitsfreie Tage, die nicht von
-        deinem Urlaubskonto abgehen. Deine Entwicklung: Unsere unterschiedlichen
-        Abteilungen mit internationalen Teams arbeiten an vielfältigen Projekten
-        zusammen. Dadurch lernst Du permanent neue Sichtweisen, Tools und
-        Prozesse kennen – inklusive aktuellster KI-Anwendungen im Performance
-        Marketing. Kultur &amp; Mitarbeitervorteile: Ein strukturiertes
-        Onboarding, flache Hierarchien und attraktive Mitarbeiterrabatte warten
-        auf dich. Bei uns gilt: Come as you are – fühl dich wohl und sei einfach
-        du selbst! Klingt nach deinem nächsten Match? Dann freuen wir uns auf
-        deine Bewerbung! Lade einfach deinen Lebenslauf und deine relevanten
-        Zeugnisse über unser Online-Portal hoch. Dein Ansprechpartner ist
-        Michael Stanke (Head of Online Marketing) . *Bei uns zählt der Mensch
-        und seine Motivation - unabhängig von Geschlecht, Herkunft, Religion
-        oder sexueller Orientierung. Bewerbungen von Menschen mit einer
-        Schwerbehinderung oder ihnen Gleichgestellten werden bei gleicher
-        Eignung bevorzugt berücksichtigt. Über benuta Seit 2008 revolutionieren
-        wir von Bonn aus den europäischen Teppich- und
-        Home-&amp;-Living-E-Commerce. Mit über 100 Millionen Euro Umsatz,
-        modernster AI-gestützter Produktinszenierung und Kunden in 17 Ländern
-        verbinden wir die Sicherheit eines etablierten Marktführers mit dem
-        Drive und den flachen Hierarchien eines Digital-Pioneers. Unser Ziel ist
-        einfach: Jedes Zuhause noch schöner zu machen. Werde Teil unseres Teams
-        und hilf uns dabei, noch mehr Menschen für unsere Produkte zu
-        begeistern. Find more English Speaking Jobs in Germany on Arbeitnow"
-      job_types: &a7
-        - Experienced
-        - fulltime fixed term
-      remote: false
-      score: 76
-      skill_hits: 1
-      bucket_id: marketing_general
-      fetched_at: 2026-09-16T20:18:35.150Z
-      pulled_at: 2026-09-16T20:18:35.150Z
       stale_days: 29
       is_stale: true
   digital_marketing:
@@ -2926,7 +2599,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-11T21:03:47.567Z
       pulled_at: 2026-10-11T21:03:47.567Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2973,7 +2646,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-11T21:03:47.567Z
       pulled_at: 2026-10-11T21:03:47.567Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3085,7 +2758,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-11T21:03:47.567Z
       pulled_at: 2026-10-11T21:03:47.567Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3207,7 +2880,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-11T21:03:47.567Z
       pulled_at: 2026-10-11T21:03:47.567Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3256,7 +2929,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-11T21:03:47.567Z
       pulled_at: 2026-10-11T21:03:47.567Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3311,7 +2984,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-11T21:03:47.567Z
       pulled_at: 2026-10-11T21:03:47.567Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: ashby
       source_note: ""
@@ -3326,7 +2999,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-11T21:03:47.567Z
       pulled_at: 2026-10-11T21:03:47.567Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: ashby
       source_note: ""
@@ -3341,7 +3014,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-11T21:03:47.567Z
       pulled_at: 2026-10-11T21:03:47.567Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: ashby
       source_note: ""
@@ -3356,7 +3029,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-11T21:03:47.567Z
       pulled_at: 2026-10-11T21:03:47.567Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: ashby
       source_note: ""
@@ -3371,7 +3044,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-11T21:03:47.567Z
       pulled_at: 2026-10-11T21:03:47.567Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: ashby
       source_note: ""
@@ -3386,7 +3059,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-11T21:03:47.567Z
       pulled_at: 2026-10-11T21:03:47.567Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3430,7 +3103,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-06T21:48:27.843Z
       pulled_at: 2026-10-06T21:48:27.843Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3477,7 +3150,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-06T21:48:27.843Z
       pulled_at: 2026-10-06T21:48:27.843Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3526,7 +3199,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-06T21:48:27.843Z
       pulled_at: 2026-10-06T21:48:27.843Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3581,7 +3254,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-06T21:48:27.843Z
       pulled_at: 2026-10-06T21:48:27.843Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: ashby
       source_note: ""
@@ -3596,7 +3269,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-06T21:48:27.843Z
       pulled_at: 2026-10-06T21:48:27.843Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: ashby
       source_note: ""
@@ -3611,7 +3284,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-06T21:48:27.843Z
       pulled_at: 2026-10-06T21:48:27.843Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: ashby
       source_note: ""
@@ -3626,7 +3299,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-06T21:48:27.843Z
       pulled_at: 2026-10-06T21:48:27.843Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: ashby
       source_note: ""
@@ -3641,7 +3314,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-06T21:48:27.843Z
       pulled_at: 2026-10-06T21:48:27.843Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3685,7 +3358,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-05T23:16:43.362Z
       pulled_at: 2026-10-05T23:16:43.362Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3732,7 +3405,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-05T23:16:43.362Z
       pulled_at: 2026-10-05T23:16:43.362Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3811,7 +3484,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-05T23:16:43.362Z
       pulled_at: 2026-10-05T23:16:43.362Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3860,7 +3533,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-05T23:16:43.362Z
       pulled_at: 2026-10-05T23:16:43.362Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3915,7 +3588,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-05T23:16:43.362Z
       pulled_at: 2026-10-05T23:16:43.362Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: ashby
       source_note: ""
@@ -3930,7 +3603,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-05T23:16:43.362Z
       pulled_at: 2026-10-05T23:16:43.362Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: ashby
       source_note: ""
@@ -3945,7 +3618,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-05T23:16:43.362Z
       pulled_at: 2026-10-05T23:16:43.362Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: ashby
       source_note: ""
@@ -3960,7 +3633,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-05T23:16:43.362Z
       pulled_at: 2026-10-05T23:16:43.362Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: ashby
       source_note: ""
@@ -3975,7 +3648,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-05T23:16:43.362Z
       pulled_at: 2026-10-05T23:16:43.362Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4019,7 +3692,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-30T21:31:26.014Z
       pulled_at: 2026-09-30T21:31:26.014Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4066,7 +3739,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-30T21:31:26.014Z
       pulled_at: 2026-09-30T21:31:26.014Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4115,7 +3788,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-30T21:31:26.014Z
       pulled_at: 2026-09-30T21:31:26.014Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4170,7 +3843,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-30T21:31:26.014Z
       pulled_at: 2026-09-30T21:31:26.014Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: ashby
       source_note: ""
@@ -4185,7 +3858,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-30T21:31:26.014Z
       pulled_at: 2026-09-30T21:31:26.014Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: ashby
       source_note: ""
@@ -4200,7 +3873,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-30T21:31:26.014Z
       pulled_at: 2026-09-30T21:31:26.014Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4244,7 +3917,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-29T21:30:40.201Z
       pulled_at: 2026-09-29T21:30:40.201Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4291,7 +3964,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-29T21:30:40.201Z
       pulled_at: 2026-09-29T21:30:40.201Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -4355,7 +4028,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-29T21:30:40.201Z
       pulled_at: 2026-09-29T21:30:40.201Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -4422,7 +4095,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-29T21:30:40.201Z
       pulled_at: 2026-09-29T21:30:40.201Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4471,7 +4144,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-29T21:30:40.201Z
       pulled_at: 2026-09-29T21:30:40.201Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -4574,7 +4247,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-29T21:30:40.201Z
       pulled_at: 2026-09-29T21:30:40.201Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4629,7 +4302,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-29T21:30:40.201Z
       pulled_at: 2026-09-29T21:30:40.201Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: ashby
       source_note: ""
@@ -4644,7 +4317,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-29T21:30:40.201Z
       pulled_at: 2026-09-29T21:30:40.201Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: ashby
       source_note: ""
@@ -4659,7 +4332,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-29T21:30:40.201Z
       pulled_at: 2026-09-29T21:30:40.201Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -5047,8 +4720,8 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-25T20:36:55.338Z
       pulled_at: 2026-09-25T20:36:55.338Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: Consultport
@@ -5094,8 +4767,8 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-25T20:36:55.338Z
       pulled_at: 2026-09-25T20:36:55.338Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: hairfree
@@ -5158,8 +4831,8 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-25T20:36:55.338Z
       pulled_at: 2026-09-25T20:36:55.338Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: Mainwebsolutions
@@ -5207,8 +4880,8 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-25T20:36:55.338Z
       pulled_at: 2026-09-25T20:36:55.338Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: TransPerfect
@@ -5262,8 +4935,8 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-25T20:36:55.338Z
       pulled_at: 2026-09-25T20:36:55.338Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: ashby
       source_note: ""
       company: enpal
@@ -5277,8 +4950,8 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-25T20:36:55.338Z
       pulled_at: 2026-09-25T20:36:55.338Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: ashby
       source_note: ""
       company: the-exploration-company
@@ -5292,8 +4965,8 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-25T20:36:55.338Z
       pulled_at: 2026-09-25T20:36:55.338Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: Consultport
@@ -5336,7 +5009,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-24T20:37:49.918Z
       pulled_at: 2026-09-24T20:37:49.918Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -5383,7 +5056,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-24T20:37:49.918Z
       pulled_at: 2026-09-24T20:37:49.918Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -5447,7 +5120,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-24T20:37:49.918Z
       pulled_at: 2026-09-24T20:37:49.918Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -5496,7 +5169,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-24T20:37:49.918Z
       pulled_at: 2026-09-24T20:37:49.918Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -5551,7 +5224,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-24T20:37:49.918Z
       pulled_at: 2026-09-24T20:37:49.918Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: ashby
       source_note: ""
@@ -5566,7 +5239,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-24T20:37:49.918Z
       pulled_at: 2026-09-24T20:37:49.918Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -5610,7 +5283,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-22T20:19:53.221Z
       pulled_at: 2026-09-22T20:19:53.221Z
-      stale_days: 23
+      stale_days: 24
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -5657,7 +5330,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-22T20:19:53.221Z
       pulled_at: 2026-09-22T20:19:53.221Z
-      stale_days: 23
+      stale_days: 24
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -5721,7 +5394,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-22T20:19:53.221Z
       pulled_at: 2026-09-22T20:19:53.221Z
-      stale_days: 23
+      stale_days: 24
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -5770,7 +5443,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-22T20:19:53.221Z
       pulled_at: 2026-09-22T20:19:53.221Z
-      stale_days: 23
+      stale_days: 24
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -5844,7 +5517,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-22T20:19:53.221Z
       pulled_at: 2026-09-22T20:19:53.221Z
-      stale_days: 23
+      stale_days: 24
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -5899,7 +5572,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-22T20:19:53.221Z
       pulled_at: 2026-09-22T20:19:53.221Z
-      stale_days: 23
+      stale_days: 24
       is_stale: true
     - source: ashby
       source_note: ""
@@ -5914,7 +5587,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-22T20:19:53.221Z
       pulled_at: 2026-09-22T20:19:53.221Z
-      stale_days: 23
+      stale_days: 24
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -5958,7 +5631,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-21T21:11:54.138Z
       pulled_at: 2026-09-21T21:11:54.138Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -6005,7 +5678,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-21T21:11:54.138Z
       pulled_at: 2026-09-21T21:11:54.138Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -6069,7 +5742,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-21T21:11:54.138Z
       pulled_at: 2026-09-21T21:11:54.138Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -6118,7 +5791,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-21T21:11:54.138Z
       pulled_at: 2026-09-21T21:11:54.138Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -6181,7 +5854,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-21T21:11:54.138Z
       pulled_at: 2026-09-21T21:11:54.138Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -6354,7 +6027,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-21T21:11:54.138Z
       pulled_at: 2026-09-21T21:11:54.138Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -6409,7 +6082,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-21T21:11:54.138Z
       pulled_at: 2026-09-21T21:11:54.138Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: ashby
       source_note: ""
@@ -6424,7 +6097,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-21T21:11:54.138Z
       pulled_at: 2026-09-21T21:11:54.138Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -6485,7 +6158,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-21T21:11:54.138Z
       pulled_at: 2026-09-21T21:11:54.138Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -6529,7 +6202,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-19T19:27:24.987Z
       pulled_at: 2026-09-19T19:27:24.987Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: jobicy
       source_note: ""
@@ -6592,7 +6265,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-19T19:27:24.987Z
       pulled_at: 2026-09-19T19:27:24.987Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -6639,7 +6312,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-19T19:27:24.987Z
       pulled_at: 2026-09-19T19:27:24.987Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -6703,7 +6376,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-19T19:27:24.987Z
       pulled_at: 2026-09-19T19:27:24.987Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -6752,7 +6425,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-19T19:27:24.987Z
       pulled_at: 2026-09-19T19:27:24.987Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -6807,7 +6480,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-19T19:27:24.987Z
       pulled_at: 2026-09-19T19:27:24.987Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: ashby
       source_note: ""
@@ -6822,7 +6495,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-19T19:27:24.987Z
       pulled_at: 2026-09-19T19:27:24.987Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -6866,7 +6539,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-17T20:28:23.046Z
       pulled_at: 2026-09-17T20:28:23.046Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -6913,7 +6586,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-17T20:28:23.046Z
       pulled_at: 2026-09-17T20:28:23.046Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -6977,7 +6650,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-17T20:28:23.046Z
       pulled_at: 2026-09-17T20:28:23.046Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -7026,7 +6699,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-17T20:28:23.046Z
       pulled_at: 2026-09-17T20:28:23.046Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -7081,7 +6754,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-17T20:28:23.046Z
       pulled_at: 2026-09-17T20:28:23.046Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -7147,7 +6820,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-17T20:28:23.046Z
       pulled_at: 2026-09-17T20:28:23.046Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -7201,7 +6874,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-17T20:28:23.046Z
       pulled_at: 2026-09-17T20:28:23.046Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -7255,7 +6928,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-17T20:28:23.046Z
       pulled_at: 2026-09-17T20:28:23.046Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -7310,7 +6983,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-17T20:28:23.046Z
       pulled_at: 2026-09-17T20:28:23.046Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: ashby
       source_note: ""
@@ -7325,728 +6998,6 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-17T20:28:23.046Z
       pulled_at: 2026-09-17T20:28:23.046Z
-      stale_days: 28
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: Consultport
-      title: Growth Marketing Intern (m/f/d)
-      location: Berlin, Berlin, Germany, Berlin, Germany
-      url: https://consultport.recruitee.com/o/growth-marketing-intern-mfd
-      updated_at: 2026-09-16 13:25:23 UTC
-      description: "About Us Consultport is a global platform that connects companies
-        with top-tier freelance consultants, enabling businesses to advance
-        critical projects more efficiently and effectively than ever before.
-        Since 2018, we’ve grown to a network of 10,000+ pre-vetted experts
-        delivering impactful projects across 50+ countries. Our mission is to
-        become the world’s #1 platform where consultants and companies succeed
-        together, driven by a commitment to quality, reliability, and trust.
-        Trusted by over 100 leading companies annually, we provide tailored
-        expertise to corporates, consultancies, private equity firms, and
-        scale-ups. At Consultport, we redefine how businesses and consultants
-        collaborate to drive success. The Role As a Growth Marketing Intern at
-        Consultport, you’ll have the opportunity to significantly expand your
-        marketing skills. Our goal is to set the standard in innovation,
-        creativity, and performance. You’ll learn to craft cross-channel
-        marketing strategies, create engaging content, and effectively utilize
-        various media platforms. You’ll support communication plan development,
-        manage media relations, and lead initiatives to elevate our brand image
-        and increase our search rankings, all while gaining a comprehensive
-        understanding of the consulting market. Your Mission Marketing Strategy
-        – Develop and implement cross-channel marketing strategies to boost
-        Consultport's organic traffic and lead generation. Report, Drafting,
-        &amp; SEO Optimization – Create high-quality reports for the consulting
-        industry tailored to c-suite executives, optimize for search engines,
-        and enhance website performance using SEO tools like SEMrush.
-        Performance Marketing – Plan, execute, and optimize paid campaigns on
-        LinkedIn and Google Ads. Social Media Growth – Develop social media
-        content strategies (organic and paid) to engage executives and
-        strengthen brand authority. Marketing Analytics - Track and analyze
-        marketing metrics using Looker Studio &amp; Google Analytics to refine
-        strategy and provide actionable recommendations."
-      score: 94
-      skill_hits: 5
-      bucket_id: digital_marketing
-      fetched_at: 2026-09-16T20:18:35.150Z
-      pulled_at: 2026-09-16T20:18:35.150Z
-      stale_days: 29
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: Consultport
-      title: Growth Marketing Manager
-      location: Berlin, Berlin, Germany, Berlin, Germany
-      url: https://consultport.recruitee.com/o/growth-marketing-manager
-      updated_at: 2026-08-06 14:09:57 UTC
-      description: "Who are we? Consultport is a global platform redefining how
-        businesses access top-tier consulting talent. We connect top companies
-        with world-class consultants and digital experts, helping them drive
-        critical initiatives faster, smarter, and more flexibly than ever
-        before. Join us at this growth stage. We're building the future of
-        consulting, and this is your chance to be part of shaping it. The role
-        As a Growth Marketing Manager (m/f/d) at Consultport, you'll own and
-        drive our digital marketing strategy across all channels, from
-        performance and paid media to content, SEO, and brand. You'll work
-        closely with our sales and business development teams to generate
-        high-quality demand and fuel our growth engine. This is a hands-on,
-        all-round marketing role that blends strategic thinking with executional
-        excellence, ideally suited to someone who has thrived in a fast-paced
-        agency or digital-first environment. We are currently ramping up our
-        Marketing team and this is where you come in! As Growth Marketing
-        Manager (m/f/d) at Consultport, you'll be responsible for: Digital
-        Strategy &amp; Execution Develop and own a 360° digital marketing
-        strategy across paid, owned, and earned channels Manage and optimise
-        marketing campaigns across Google Ads, LinkedIn, and Meta Drive SEO
-        strategy to ensure our content and web presence consistently ranks and
-        converts Demand Generation &amp; Lead Nurturing Own the full marketing
-        funnel from awareness through to qualified lead handoff to sales Build
-        campaigns for key customer segments to drive user acquisition and
-        engagement Manage and optimise our CRM and marketing automation
-        workflows (e.g. HubSpot) Analytics &amp; Performance Set up and maintain
-        robust tracking and reporting across all channels (Google Tag Manager,
-        Google Analytics) Use data-driven insights to improve campaign
-        performance, conversion rates, and ROI Run A/B tests and implement
-        optimisation strategies across the customer journey Brand &amp; Content
-        Oversee brand consistency across all digital touchpoints and
-        communications Develop content that speaks to our target audience of
-        senior business decision-makers Identify and act on market trends and
-        emerging digital marketing opportunities"
-      score: 84
-      skill_hits: 3
-      bucket_id: digital_marketing
-      fetched_at: 2026-09-16T20:18:35.150Z
-      pulled_at: 2026-09-16T20:18:35.150Z
-      stale_days: 29
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: hairfree
-      title: Performance Marketing Manager (m/w/d)
-      location: Darmstadt, Hessen, Deutschland, Darmstadt, Deutschland
-      url: https://recruiting.hairfree.de/o/performance-marketing-manager-mwd-1
-      updated_at: 2026-09-03 07:27:29 UTC
-      description: "Performance Marketing Manager (m/w/d) Du denkst in Marken, hast
-        ein sicheres Gespür für Design und möchtest Marketing nicht nur planen,
-        sondern sichtbar umsetzen? Dann komm zu hairfree. Bei hairfree geht es
-        um mehr als dauerhafte Haarentfernung. Es geht um Selbstbewusstsein,
-        Wohlgefühl und ein neues Lebensgefühl für unsere Kundinnen und Kunden.
-        Für unser Marketingteam suchen wir eine engagierte Persönlichkeit, die
-        unseren Markenauftritt über alle relevanten Kanäle hinweg
-        weiterentwickelt und unsere operativen Marketingmaßnahmen
-        eigenverantwortlich umsetzt. Du arbeitest täglich mit Google Ads und
-        Meta Ads, kennst deine KPIs und weißt nicht nur, wie man Kampagnen
-        startet, sondern auch, wie man sie besser macht? Dann suchen wir genau
-        dich. Für unsere Zentrale in Darmstadt suchen wir einen Performance
-        Marketing Manager (m/w/d) , der die Verantwortung für unsere
-        Paid-Media-Kampagnen übernimmt. Dabei geht es nicht darum, Agenturen zu
-        koordinieren oder Reportings weiterzugeben. Wir suchen jemanden, der
-        selbst in den Accounts arbeitet, Kampagnen aufsetzt, Budgets steuert,
-        Ergebnisse analysiert und Optimierungen eigenständig umsetzt. Wichtig:
-        Die Position ist eine 100 % Vor-Ort-Stelle in Darmstadt. Remote Work ist
-        für diese Position nicht vorgesehen. Was dich bei uns erwartet Eine
-        verantwortungsvolle Position mit viel Gestaltungsspielraum Ein
-        abwechslungsreiches Aufgabengebiet mit hoher Eigenverantwortung
-        Attraktives Grundgehalt Flexible Arbeitszeiten Moderne Arbeitsumgebung
-        und gute technische Ausstattung Hohe Weiterbildungsmöglichkeiten durch
-        Coachings, unsere Academy und interne Trainings Individuelle
-        Entwicklungsmöglichkeiten innerhalb des Unternehmens Mitarbeiter-Events
-        und eine offene Teamkultur Mitarbeiter-Rabatte und weitere
-        Vergünstigungen Flache Hierarchien und kurze Entscheidungswege Enge
-        Zusammenarbeit mit Performance Marketing, Vertrieb, Recruiting und der
-        Geschäftsleitung Gute Erreichbarkeit und Parkmöglichkeiten Deine Aufgabe
-        bei hairfree Dein Fokus liegt klar auf Google Ads und Meta Ads . Du bist
-        dafür verantwortlich, dass unsere Kampagnen nicht einfach laufen,
-        sondern messbar funktionieren und kontinuierlich besser werden. Das
-        bedeutet konkret: Du planst, erstellst und steuerst eigenständig
-        Kampagnen in Google Ads Du planst, erstellst und steuerst eigenständig
-        Kampagnen im Meta Ads Manager Du übernimmst die operative Verantwortung
-        für unsere Paid-Media-Accounts Du steuerst und optimierst Budgets anhand
-        der tatsächlichen Performance Du analysierst laufend KPIs wie CPL, CPA,
-        Conversion Rate, CTR, CPC, ROAS und weitere relevante Kennzahlen Du
-        erkennst frühzeitig, wenn Kampagnen oder einzelne Anzeigengruppen nicht
-        funktionieren, und leitest konkrete Maßnahmen ab Du entwickelst
-        Kampagnenstrukturen, Zielgruppen und Gebotsstrategien weiter Du führst
-        A/B-Tests durch und wertest diese strukturiert aus Du testest
-        unterschiedliche Creatives, Texte, Zielgruppen und Landingpages Du
-        analysierst den Funnel vom ersten Klick bis zum Lead beziehungsweise zur
-        Conversion Du überwachst und optimierst unser Conversion Tracking Du
-        arbeitest mit GA4 und weiteren relevanten Analyse- und Tracking-Tools Du
-        identifizierst Skalierungsmöglichkeiten und setzt diese eigenständig um
-        Du erstellst verständliche Performance-Auswertungen und
-        Handlungsempfehlungen Du arbeitest eng mit Marketing, Geschäftsführung
-        und weiteren internen Schnittstellen zusammen"
-      score: 80
-      skill_hits: 2
-      bucket_id: digital_marketing
-      fetched_at: 2026-09-16T20:18:35.150Z
-      pulled_at: 2026-09-16T20:18:35.150Z
-      stale_days: 29
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: Mainwebsolutions
-      title: Bezahltes E-Commerce Praktikum (m/w/d) für dein Praxissemester (Hybrid /
-        Würzburg)
-      location: Würzburg, Bayern, Deutschland, Würzburg, Deutschland
-      url: https://jobs.mainwebsolutions.de/o/bezahltes-e-commerce-praktikum-mwd-fur-dein-praxissemester-hybrid-wurzburg
-      updated_at: 2026-07-12 07:30:40 UTC
-      description: "Du bist wissbegierig, hast bereits erste Erfahrungen im Bereich
-        SEO/SEA gesammelt und suchst einen Praktikumsplatz für dein
-        Praxissemester im Studiengang E-Commerce? Du willst lernen, wie man
-        Unternehmen bei Google sichtbar macht und interessierst dich dafür, wie
-        moderne KI- und LLM-Tools das Online-Marketing revolutionieren? Dann
-        zögere nicht und bewirb dich auf eine attraktive Stelle bei der
-        Mainwebsolutions. Was erwartet dich bei uns? Wir sind Mainwebsolutions –
-        eine Agentur, die professionelle Softwareentwicklung und
-        Online-Marketing unter einem Dach vereint. Unser Team besteht aus einer
-        gesunden Mischung aus Marketern und Entwicklern, die gemeinsam an der
-        Spitze der digitalen Trends arbeiten. Den Tag starten wir mit einer
-        ordentlichen Portion Humor und einem morgendlichen Team-Meeting, in dem
-        wir uns zu aktuellen Themen und Projekten austauschen. Neben spannenden
-        Kundenprojekten arbeiten wir regelmäßig an eigenen Produkten und setzen
-        dabei verstärkt auf den Einsatz von KI-Lösungen und maßgeschneiderten
-        Tools wie z.B. unseren Mainwebsolutions-AiHub. Auch außerhalb der
-        Projektarbeit kommt der Teamspirit bei uns nicht zu kurz: Ob Grillen auf
-        der Dachterrasse, Yoga, gemeinsames Kochen oder gesellige Events – bei
-        uns steht das Team im Vordergrund! #workatmws Dein Aufgabenbereich?
-        Deine Aufgaben bei uns drehen sich rund um das Thema digitale
-        Sichtbarkeit bei Google. Dabei unterstützt du unser SEO-/SEA-Team bei
-        der Analyse, Konzeption und Umsetzung von Maßnahmen zur Verbesserung der
-        Sichtbarkeit und Performance unserer Kunden. Du wirkst mit bei der
-        Erstellung von SEO-Analysen und hilfst bei der Entwicklung von SEO- und
-        SEA-Strategien. In enger Abstimmung mit dem Team arbeitest du an
-        Content-Optimierungen, Technical SEO und dem Aufbau von Backlinks.
-        Darüber hinaus unterstützt du bei der Planung und Optimierung von Google
-        Ads-Kampagnen. Ein besonderes Highlight: Bei uns lernst du auch den
-        Einsatz von KI-/LLM-Tools im Online-Marketing kennen und kannst aktiv an
-        deren Anwendung für Content-Optimierung, Automatisierung und
-        datenbasierte Analysen mitwirken. Du und dein Team betreut dabei
-        unterschiedliche mittelständische Unternehmen, Dienstleister sowie
-        E-Commerce-Systeme als Kunden — so erhältst du spannende und praxisnahe
-        Einblicke in die vielfältige Welt des digitalen Marketings."
-      score: 78
-      skill_hits: 2
-      bucket_id: digital_marketing
-      fetched_at: 2026-09-16T20:18:35.150Z
-      pulled_at: 2026-09-16T20:18:35.150Z
-      stale_days: 29
-      is_stale: true
-    - source: arbeitnow
-      source_note: ""
-      company: myAutoAbo
-      title: Werkstudent (m/w/d) Journalismus & SEO-Marketing | Auto-Fan mit
-        Schreibtalent gesucht!
-      location: Berlin
-      url: https://www.arbeitnow.com/jobs/companies/myautoabo/werkstudent-journalismus-seo-marketing-auto-fan-mit-schreibtalent-gesucht-berlin-30593
-      updated_at: 1789587031
-      description: 'Du schreibst Texte, die man gern liest, dein Herz schlägt fürs
-        Auto und du weißt, wie Content bei Google UND bei echten Menschen
-        ankommt? Dann bist du bei uns genau richtig! Wir sind myAutoAbo , ein
-        junges, schnell wachsendes Unternehmen rund ums Auto-Abo. Bei uns
-        schreibst du nicht für den Papierkorb: Deine Artikel, Ratgeber und
-        Fahrzeug-Storys erreichen echte Leser, ranken bei Google und laufen über
-        unsere Social-Media-Kanäle. Beim Schreiben unterstützt dich KI, wir
-        brauchen dich vor allem wegen deines Judgements: Welche Themen lohnen
-        sich, welcher Winkel zieht, und wie klingt ein Text wirklich gut? So
-        arbeiten wir ⚡ AI-first: Wir erledigen so viel wie möglich mit KI und
-        optimieren unsere Zeit radikal. Routine automatisieren wir, damit Raum
-        für die wichtigen Entscheidungen bleibt Hohes Pacing: Wir skalieren
-        schnell, erfinden uns praktisch täglich neu und hinterfragen auch das,
-        was gestern noch funktioniert hat Kleines, dynamisches Team: Kurze Wege,
-        schnelle Entscheidungen, deine Arbeit geht nicht im Konzern-Getriebe
-        unter, sondern bewegt echte Menschen und trägt zu Entscheidungen in
-        unserer Branche bei Aufgaben Recherche und Erstellung von redaktionellen
-        Inhalten rund um Autos, Auto-Abos und Mobilität (Ratgeber,
-        Fahrzeugvorstellungen, News etc.) SEO-Optimierung von Texten:
-        Keyword-Recherche, Snippets, interne Verlinkung Content-Planung
-        gemeinsam mit unserem Marketing- und Social-Media-Team Aufbereitung von
-        Themen für verschiedene Kanäle (Website, Newsletter, Instagram, TikTok,
-        YouTube) Einsatz von KI-Tools für Recherche, Texterstellung und
-        Optimierung + Aufsetzen eigener Agent-Workflows. Erfolgsmessung:
-        Rankings, Performance und Nutzerverhalten im Blick behalten und daraus
-        lernen Qualifikation Eingeschriebene/r Student/in in Journalismus,
-        Medien-/Kommunikationswissenschaften, Marketing, Germanistik o.ä. Sehr
-        gutes Sprachgefühl und Spaß am Schreiben, du bringst komplexe Themen
-        verständlich auf den Punkt Du denkst mit, statt nur zu schreiben: Dich
-        interessiert das Big Picture, also warum schreiben wir diesen Text, für
-        wen, und was soll er bewirken? Interesse an Autos und der Mobilität von
-        heute &#x26; morgen Gutes Verständnis für Social Media und wie Content
-        dort funktioniert Erste Berührungspunkte mit SEO sind ein Plus, kein
-        Muss. Neugier zählt mehr! Du willst AI-first arbeiten: KI-Tools für
-        Recherche, Text und Optimierung nicht nur nutzen, sondern in eigene
-        Workflows einbauen Lust auf Herausforderungen, Eigeninitiative und die
-        Motivation, ständig dazuzulernen und dich auch mal neu zu erfinden Du
-        musst nicht jeden Punkt perfekt abhaken, das erwarten wir auch gar
-        nicht. Was wir suchen, sind wissbegierige Leute mit Geschmack, schneller
-        Auffassungsgabe und Lust auf Autos, die gute Laune und eigene Ideen
-        mitbringen. Dafür bekommst du keine 0815-Werkstudentenstelle: Dich
-        erwarten viel Verantwortung, eine steile Lernkurve und Aufstiegschancen,
-        die weit über den „normalen" Werkstudentenjob hinausgehen. Benefits
-        Speed &#x26; Skalierung: Wir wachsen schnell und shippen schnell, deine
-        Texte gehen in Tagen live, nicht in Quartalen Gesundes Fehler-Mindset:
-        Fehler sind menschlich und gehören dazu, so lernen wir am schnellsten.
-        Wichtig ist, Lösungen zu finden, statt den Kopf in den Sand zu stecken.
-        Du optimierst dich selbst mit KI: Du lernst, deine eigene Arbeit mit KI
-        schneller und besser zu machen. Ein Skill, der dir überall weiterhilft
-        Echte Bylines: Deine Texte gehen live und erreichen tausende Leser
-        Intensives Mentoring in SEO, Content-Strategie und KI-gestütztem
-        Arbeiten Abwechslungsreiche Themen, von Fahrzeugtests bis
-        Mobilitätstrends Modernes Büro in Berlin-Kreuzberg mit Barista-Flatrate,
-        frischem Obst und coolen Team-Events Flexible Arbeitszeiten, egal ob vor
-        Ort, hybrid oder 100% remote (auch außerhalb Deutschlands möglich).
-        Hauptsache ist, dass du motiviert und zuverlässig bist! Klingt gut? 🚀
-        Dann schick uns eine kurze Vorstellung von dir, gern mit ein bis zwei
-        Schreibproben (Blog, Uni, Social Media, egal woher). Kein Anschreiben
-        nötig, wir wollen deine Texte lesen, nicht dein KI-generiertes
-        Anschreiben! Bewirb dich einfach direkt hier. Wir freuen uns auf dich!
-        Find more English Speaking Jobs in Germany on Arbeitnow'
-      job_types:
-        - Working student
-      remote: false
-      score: 78
-      skill_hits: 2
-      bucket_id: digital_marketing
-      fetched_at: 2026-09-16T20:18:35.150Z
-      pulled_at: 2026-09-16T20:18:35.150Z
-      stale_days: 29
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: TransPerfect
-      title: Senior Performance Marketing Manager
-      location: Pune, Mahārāshtra, India, Pune, India
-      url: https://transperfect.com/o/senior-performance-marketing-manager
-      updated_at: 2026-08-06 10:17:14 UTC
-      description: "OVERVIEW: If running paid campaigns across a bunch of platforms is
-        your happy place, and you think as much about the journey as the click,
-        this could be a good fit. You're in Google Ads in the morning, LinkedIn
-        Campaign Manager over lunch, and Reddit or TikTok in the afternoon. In
-        between, you're thinking about how these campaigns work together to move
-        real people through our funnel. We're hiring a Paid Media Lead to plan,
-        deploy, and optimize campaigns across our paid channels. This role isn't
-        just about setting campaigns live and watching the numbers. It's about
-        thinking carefully about the marketing funnel, inventing new ways to
-        bring quality leads and accounts into it, and using paid media to move
-        them all the way through to sales-ready. You'll work closely with our
-        Senior Director of Creative Performance Marketing, turning creative
-        briefs and campaign strategies into live campaigns that actually
-        perform. You'll own the technical craft of paid media (structure,
-        targeting, bidding, testing, iteration) and the strategic craft of
-        designing campaigns that do their job at each funnel stage. This is an
-        individual contributor role with no direct reports. What you'll be doing
-        is deep, hands on platform work combined with real strategic thinking
-        about how paid fits into the broader journey. JOB RESPONSIBILITES: Plan
-        campaign architecture across platforms with clear funnel intent
-        (awareness, consideration, decision) and matching audience, creative,
-        and CTA logic for each stage Get creative about lead acquisition itself:
-        figure out how to reach new audiences, test new platforms and formats,
-        and keep growing both the quantity and quality of leads coming into the
-        funnel Design retargeting and lifecycle audiences that work with email
-        nurture, content offers, and sales outreach to move leads through the
-        funnel Partner with the rest of the marketing team on lead qualification
-        and hand-off criteria, so what reaches sales is actually ready to
-        convert Contribute creative direction to ad concepts and copy, working
-        with our creative resources on work that resonates Build and launch
-        campaigns in Google Ads, Microsoft Ads, LinkedIn, Meta (Facebook and
-        Instagram), Reddit, TikTok, and emerging platforms like ChatGPT Ads Set
-        up and manage audience targeting, including custom audiences,
-        lookalikes, contextual, intent, and account-based lists Own bid strategy
-        selection and budget pacing across campaigns Traffic creative assets,
-        keep naming conventions consistent, and manage UTMs Set up conversion
-        tracking (pixels, server-side, offline conversions) and make sure GA4 is
-        telling us the truth Run structured A/B tests on copy, creative,
-        audiences, and bidding Pull data, build reports, and share what's
-        working (and what isn't) with the team Continuously optimize campaigns,
-        moving budget toward what's performing and shutting off what isn't"
-      score: 76
-      skill_hits: 1
-      bucket_id: digital_marketing
-      fetched_at: 2026-09-16T20:18:35.150Z
-      pulled_at: 2026-09-16T20:18:35.150Z
-      stale_days: 29
-      is_stale: true
-    - source: arbeitnow
-      source_note: ""
-      company: benuta GmbH
-      title: Senior Performance Marketing Manager – Performance Marketing, MMM & AI
-        (m/w/d)
-      location: Berlin, Berlin, Deutschland
-      url: https://www.arbeitnow.com/jobs/companies/benuta-gmbh/senior-performance-marketing-manager-performance-marketing-mmm-ai-berlin-160516
-      updated_at: 1789569018
-      description: "Du hast den kompletten Performance-Marketing-Mix fest im Griff und
-        nutzt KI im Kampagnenmanagement nicht als Hype, sondern als tägliches
-        Werkzeug? Du möchtest datengetriebene Entscheidungen zur
-        Budgetallokation treffen und aktiv mitgestalten, wie modernste AI-Tools
-        die Steuerung im E-Commerce revolutionieren? Dann wartet in unserem Team
-        in Berlin deine nächste große Challenge auf dich: Bei benuta übernimmst
-        du echte Ownership über unsere Kanäle hinweg und treibst ein echtes
-        Greenfield-Thema voran – die Skalierung KI-gestützter Analysen und
-        Strategien für den europäischen Marktführer im
-        Home-&amp;-Living-Bereich! Deine Aufgaben Strategische Kanal- &amp;
-        Budgetsteuerung: Du entwickelst und verantwortest die kanalübergreifende
-        Performance-Marketing-Strategie via MMM zur Erreichung unserer
-        Unternehmensziele (Umsatz, Effizienz, Lead-Gen, Brand Awareness). Du
-        steuerst und optimierst Kampagnen über Google Ads, Bing Ads, Meta,
-        Pinterest, Reddit Ads sowie Affiliate-Partnerschaften mit einer
-        konsistenten Budget- und Ziellogik. AI-Integration &amp;
-        Workflow-Innovation: Du treibst den Einsatz von LLMs (z. B. Claude,
-        Gemini) für die automatisierte, kanalübergreifende Analyse unserer
-        Kampagnendaten aktiv voran. Du entwickelst Prompts und Workflows für
-        beschleunigtes Reporting, Anomalie-Erkennung sowie Budget-Optimierungen
-        und agierst als interner Expert für KI-gestützte Marketing-Tools.
-        Analyse &amp; Bidding-Evaluierung: Du überwachst und analysierst alle
-        relevanten KPIs (CPO, ROAS, CAC, Conversion Rate) auf Basis von GA4 und
-        unserem serverseitigen Tracking-Setup (server-side GTM). Zudem bewertest
-        du KI-gestützte Bidding- und Automatisierungsfunktionen der
-        Werbeplattformen auf ihren Mehrwert. Tracking-Setup &amp;
-        Datensicherheit: Du implementierst und verwaltest Tracking-Setups (z. B.
-        Conversion-APIs, UTM-Konventionen) und stellst eine saubere,
-        datenschutzkonforme Datengrundlage sicher. Testing: Du verantwortest
-        fortlaufende A/B-Tests und Budget-Experimente zur kontinuierlichen
-        Performance-Steigerung aller Kanäle. Partner-Management &amp;
-        Kollaboration: Du verhandelst und entwickelst Vendor- und
-        Partnerverträge (z. B. im Affiliate-Bereich) weiter. Bei der
-        Kampagnenabstimmung arbeitest du eng mit den Teams aus Design, Content
-        und IT zusammen. Mentoring: Du unterstützt bei der fachlichen Anleitung
-        sowie dem Onboarding von Junior-Kolleg*innen im Team und teilst dein
-        KI-Wissen. Dein Profil Ausbildung: Du hast dein Studium (BWL, Marketing,
-        Medien, Kommunikationswissenschaften o. Ä.) erfolgreich abgeschlossen
-        oder bringst eine vergleichbare Qualifikation mit. Relevante
-        Berufserfahrung: Du bringst mindestens 5 Jahre Erfahrung im Performance
-        Marketing mit – idealerweise kanalübergreifend (SEA, Paid Social,
-        Affiliate) und mit nachweisbarer Budget- oder Teilprojektverantwortung.
-        Erste Erfahrung in der fachlichen Führung ist von Vorteil. AI-Expertise
-        (Must-have): Du besitzt praxiserprobte Erfahrung im Einsatz von KI-Tools
-        und LLMs im Marketing-Kontext (z. B. Prompting für Reporting, Analysen,
-        Forecasting). Du verfolgst aktuelle AI-Trends aktiv und brennst darauf,
-        diese bei benuta einzubringen. Hard Skills: Du zeichnest dich durch
-        ausgeprägte analytische Fähigkeiten aus, nutzt GA4 sowie gängige
-        Attributions-/Reporting-Tools souverän und hast tiefe Kenntnisse in
-        mindestens einem Zentralkanal (Google Ads, Meta). Erfahrung mit Bing,
-        Pinterest, Reddit, Affiliate und serverseitigem Tracking runden dein
-        Profil ab. Soft Skills: Du arbeitest datengetrieben, denkst
-        lösungsorientiert und begeisterst dich für E-Commerce sowie die Themen
-        Home &amp; Living. Sprachkompetenz: Deine Deutsch- und
-        Englischkenntnisse sind sehr gut (weitere Sprachen sind ein Plus). Deine
-        Benefits Impact &amp; Gestaltungsspielraum : Bei uns kannst du aktiv
-        mitgestalten, die Marke benuta weiterentwickeln und spannende
-        KI-Projekte umsetzen – wie etwa den Aufbau KI-gestützter
-        Analyse-Workflows für unsere Kampagnendaten. Deine Ideen werden gehört
-        und du bekommst Freiraum für die Umsetzung eigener Ansätze. Präsenz
-        &amp; Flexibilität: Der Schwerpunkt unserer Arbeit liegt auf dem
-        persönlichen Austausch und der gemeinsamen Zusammenarbeit vor Ort an
-        unserem Standort in Berlin. Für die nötige Flexibilität in deiner
-        Alltagsplanung - sei es für private Termine oder ungestörtes Arbeiten -
-        bieten wir dir ein jährliches Kontingent von 26 Home-Office-Tagen. Deine
-        Mobilität: Egal wie du zu uns kommst, wir unterstützen dich. Du hast die
-        Wahl zwischen einem vergünstigten Jobticket oder einer Tankkarte. Zudem
-        bieten wir dir ein Firmenrad-Leasing (JobRad) und eine gute
-        ÖPNV-Anbindung. Zeit für Erholung: Du erhältst 28 Tage Urlaub und
-        profitierst von unserem flexiblen Gleitzeitmodell. Weihnachten und
-        Silvester sind bei uns grundsätzlich arbeitsfreie Tage, die nicht von
-        deinem Urlaubskonto abgehen. Deine Entwicklung: Unsere unterschiedlichen
-        Abteilungen mit internationalen Teams arbeiten an vielfältigen Projekten
-        zusammen. Dadurch lernst Du permanent neue Sichtweisen, Tools und
-        Prozesse kennen – inklusive aktuellster KI-Anwendungen im Performance
-        Marketing. Kultur &amp; Mitarbeitervorteile: Ein strukturiertes
-        Onboarding, flache Hierarchien und attraktive Mitarbeiterrabatte warten
-        auf dich. Bei uns gilt: Come as you are – fühl dich wohl und sei einfach
-        du selbst! Klingt nach deinem nächsten Match? Dann freuen wir uns auf
-        deine Bewerbung! Lade einfach deinen Lebenslauf und deine relevanten
-        Zeugnisse über unser Online-Portal hoch. Dein Ansprechpartner ist
-        Michael Stanke (Head of Online Marketing) . *Bei uns zählt der Mensch
-        und seine Motivation - unabhängig von Geschlecht, Herkunft, Religion
-        oder sexueller Orientierung. Bewerbungen von Menschen mit einer
-        Schwerbehinderung oder ihnen Gleichgestellten werden bei gleicher
-        Eignung bevorzugt berücksichtigt. Über benuta Seit 2008 revolutionieren
-        wir von Bonn aus den europäischen Teppich- und
-        Home-&amp;-Living-E-Commerce. Mit über 100 Millionen Euro Umsatz,
-        modernster AI-gestützter Produktinszenierung und Kunden in 17 Ländern
-        verbinden wir die Sicherheit eines etablierten Marktführers mit dem
-        Drive und den flachen Hierarchien eines Digital-Pioneers. Unser Ziel ist
-        einfach: Jedes Zuhause noch schöner zu machen. Werde Teil unseres Teams
-        und hilf uns dabei, noch mehr Menschen für unsere Produkte zu
-        begeistern. Find Jobs in Germany on Arbeitnow"
-      job_types: *a6
-      remote: false
-      score: 76
-      skill_hits: 1
-      bucket_id: digital_marketing
-      fetched_at: 2026-09-16T20:18:35.150Z
-      pulled_at: 2026-09-16T20:18:35.150Z
-      stale_days: 29
-      is_stale: true
-    - source: arbeitnow
-      source_note: ""
-      company: benuta GmbH
-      title: Senior Performance Marketing Manager – Paid Social & AI (m/w/d)
-      location: Berlin, Berlin, Deutschland
-      url: https://www.arbeitnow.com/jobs/companies/benuta-gmbh/senior-performance-marketing-manager-paid-social-ai-berlin-476502
-      updated_at: 1789569018
-      description: "Du hast die Paid-Social-Landschaft fest im Griff und nutzt KI im
-        Kampagnenmanagement nicht als Hype, sondern als tägliches Werkzeug? Du
-        möchtest datengetriebene Entscheidungen treffen, kreative Kampagnen
-        entwickeln und aktiv mitgestalten, wie modernste AI-Tools Analyse,
-        Reporting und Kreation im E-Commerce revolutionieren? Dann wartet in
-        unserem Team in Berlin deine nächste große Challenge auf dich: Bei
-        benuta übernimmst du echte Ownership für unsere Paid-Social-Kanäle und
-        treibst ein echtes Greenfield-Thema voran – die Skalierung KI-gestützter
-        Analysen, Workflows und Strategien für den europäischen Marktführer im
-        Home-&amp;-Living-Bereich! Deine Aufgaben Strategische
-        Paid-Social-Steuerung: Du entwickelst und verantwortest die
-        kanalübergreifende Paid-Social-Media-Strategie zur Erreichung unserer
-        Unternehmensziele (Brand Awareness, Lead-Gen, Performance-Ziele) und
-        richtest sie an der übergreifenden Marketingstrategie aus.
-        Kampagnenmanagement &amp; Kanal-Synergien: Du bist verantwortlich für
-        die Erstellung, das Monitoring und die Optimierung unserer
-        Paid-Social-Kampagnen (Schwerpunkt Meta, Pinterest, Reddit Ads und
-        TikTok) und arbeitest eng mit den Kolleg*innen aus Google Ads und Bing
-        Ads für eine ganzheitliche Performance-Sicht zusammen. AI-Integration
-        &amp; Workflow-Innovation: Du treibst den Einsatz von LLMs (z. B.
-        Claude, Gemini, ChatGPT) für die automatisierte Analyse und Auswertung
-        unserer Kampagnendaten aktiv voran. Du entwickelst Prompts und Workflows
-        für beschleunigtes Reporting, Anomalie-Erkennung sowie Optimierungen und
-        agierst als interner Expert für KI-gestützte Marketing-Tools. Kreative
-        Nutzung von KI: Du nutzt generative KI gezielt für Anzeigentexte,
-        Variantentests und Creative-Ideation. In engem Austausch mit dem Design-
-        und Content-Team gibst du als Senior-Ansprechperson fachlichen Input und
-        Feedback. Analyse &amp; Tracking-Setup: Du überwachst und analysierst
-        die Kampagnen-Performance anhand von KPIs (CTR, KUR, ROAS, Conversion
-        Rate) unter Nutzung unseres MMM. Du implementierst Tracking-Tools
-        (Pixel, UTM-Parameter, Conversion-APIs) und stellst eine saubere
-        Datengrundlage sicher. Testing: Du verantwortest das fortlaufende
-        A/B-Testing von Anzeigenformaten, Zielgruppen sowie Budgets und
-        bewertest neue Werbemöglichkeiten sowie KI-Werbeprodukte auf ihr
-        Potenzial für benuta. Mentoring: Du unterstützt bei der fachlichen
-        Anleitung sowie dem Onboarding von Junior-Kolleg*innen im Team und
-        teilst dein KI-Wissen. Dein Profil Ausbildung: Du hast dein Studium
-        (BWL, Marketing, Medien, Kommunikationswissenschaften o. Ä.) erfolgreich
-        abgeschlossen oder bringst eine vergleichbare Qualifikation mit.
-        Relevante Berufserfahrung: Du bringst mindestens 5 Jahre Erfahrung mit
-        Meta Ads und/oder anderen Paid-Social-Kanälen mit – idealerweise
-        inklusive nachweisbarer Budget- oder Teilprojektverantwortung. Erste
-        Erfahrung in der fachlichen Führung ist von Vorteil. AI-Expertise
-        (Must-have): Du besitzt praxiserprobte Erfahrung im Einsatz von KI-Tools
-        und LLMs im Marketing-Kontext (z. B. Prompting für Reporting,
-        Kampagnenanalysen oder Creative-Unterstützung). Du verfolgst aktuelle
-        AI-Trends aktiv und brennst darauf, eigene Ideen bei benuta
-        einzubringen. Hard Skills: Du besitzt sehr gute Kenntnisse im
-        Meta-Werbeanzeigenmanager und zeichnest dich durch ausgeprägte
-        analytische Fähigkeiten im Umgang mit gängigen
-        Reporting-/Attributions-Tools aus. Erfahrung mit Pinterest, Reddit,
-        TikTok, Bing Ads und serverseitigem Tracking ist ein Plus. Soft Skills:
-        Du arbeitest datengetrieben, denkst lösungsorientiert und begeisterst
-        dich für E-Commerce sowie die Themen Home &amp; Living. Sprachkompetenz:
-        Deine Deutsch- und Englischkenntnisse sind sehr gut (weitere Sprachen
-        sind ein Plus). Deine Benefits Impact &amp; Gestaltungsspielraum : Bei
-        uns kannst du aktiv mitgestalten, die Marke benuta weiterentwickeln und
-        spannende KI-Projekte umsetzen – wie etwa den Aufbau KI-gestützter
-        Analyse-Workflows für unsere Kampagnendaten. Deine Ideen werden gehört
-        und du bekommst Freiraum für die Umsetzung eigener Ansätze. Präsenz
-        &amp; Flexibilität: Der Schwerpunkt unserer Arbeit liegt auf dem
-        persönlichen Austausch und der gemeinsamen Zusammenarbeit vor Ort an
-        unserem Standort in Berlin. Für die nötige Flexibilität in deiner
-        Alltagsplanung - sei es für private Termine oder ungestörtes Arbeiten -
-        bieten wir dir ein jährliches Kontingent von 26 Home-Office-Tagen. Deine
-        Mobilität: Egal wie du zu uns kommst, wir unterstützen dich. Du hast die
-        Wahl zwischen einem vergünstigten Jobticket oder einer Tankkarte. Zudem
-        bieten wir dir ein Firmenrad-Leasing (JobRad) und eine gute
-        ÖPNV-Anbindung. Zeit für Erholung: Du erhältst 28 Tage Urlaub und
-        profitierst von unserem flexiblen Gleitzeitmodell. Weihnachten und
-        Silvester sind bei uns grundsätzlich arbeitsfreie Tage, die nicht von
-        deinem Urlaubskonto abgehen. Deine Entwicklung: Unsere unterschiedlichen
-        Abteilungen mit internationalen Teams arbeiten an vielfältigen Projekten
-        zusammen. Dadurch lernst Du permanent neue Sichtweisen, Tools und
-        Prozesse kennen – inklusive aktuellster KI-Anwendungen im Performance
-        Marketing. Kultur &amp; Mitarbeitervorteile: Ein strukturiertes
-        Onboarding, flache Hierarchien und attraktive Mitarbeiterrabatte warten
-        auf dich. Bei uns gilt: Come as you are – fühl dich wohl und sei einfach
-        du selbst! Klingt nach deinem nächsten Match? Dann freuen wir uns auf
-        deine Bewerbung! Lade einfach deinen Lebenslauf und deine relevanten
-        Zeugnisse über unser Online-Portal hoch. Dein Ansprechpartner ist
-        Michael Stanke (Head of Online Marketing) . *Bei uns zählt der Mensch
-        und seine Motivation - unabhängig von Geschlecht, Herkunft, Religion
-        oder sexueller Orientierung. Bewerbungen von Menschen mit einer
-        Schwerbehinderung oder ihnen Gleichgestellten werden bei gleicher
-        Eignung bevorzugt berücksichtigt. Über benuta Seit 2008 revolutionieren
-        wir von Bonn aus den europäischen Teppich- und
-        Home-&amp;-Living-E-Commerce. Mit über 100 Millionen Euro Umsatz,
-        modernster AI-gestützter Produktinszenierung und Kunden in 17 Ländern
-        verbinden wir die Sicherheit eines etablierten Marktführers mit dem
-        Drive und den flachen Hierarchien eines Digital-Pioneers. Unser Ziel ist
-        einfach: Jedes Zuhause noch schöner zu machen. Werde Teil unseres Teams
-        und hilf uns dabei, noch mehr Menschen für unsere Produkte zu
-        begeistern. Find more English Speaking Jobs in Germany on Arbeitnow"
-      job_types: *a7
-      remote: false
-      score: 76
-      skill_hits: 1
-      bucket_id: digital_marketing
-      fetched_at: 2026-09-16T20:18:35.150Z
-      pulled_at: 2026-09-16T20:18:35.150Z
-      stale_days: 29
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: Mainwebsolutions
-      title: SEO/SEA Manager (m/w/d) mit Fokus auf Sichtbarkeit in KI-Suchen (Remote
-        oder Würzburg)
-      location: Homeoffice, Würzburg, Deutschland
-      url: https://jobs.mainwebsolutions.de/o/seosea-manager-mwd-mit-fokus-auf-sichtbarkeit-in-ki-suchen-remote-oder-wurzburg
-      updated_at: 2026-08-04 08:48:07 UTC
-      description: "Du bist Online-Marketing-Experte mit fundierter Erfahrung in SEO /
-        SEA und willst Sichtbarkeit nicht mehr nur für Google, sondern auch für
-        ChatGPT, Perplexity und Google AI Overviews schaffen? Themen wie GEO,
-        Linkbuilding, Technical-SEO und Conversion-Tracking liegen dir, und du
-        arbeitest gerne selbstorganisiert mit deinen eigenen Kunden? Dann bist
-        du bei uns genau richtig! Wir suchen einen SEO/SEA Manager (m/w/d), der
-        klassisches Google-SEO/SEA beherrscht und mit uns die Pionierarbeit im
-        Bereich KI-Suchen mitgestaltet. Was erwartet dich bei uns? Willkommen
-        bei Mainwebsolutions, der Agentur, die Softwareentwicklung und
-        Onlinemarketing auf ein neues Level hebt! Unser Team aus Marketern und
-        Entwicklern startet jeden Tag mit einer ordentlichen Portion Humor und
-        einem morgendlichen Meeting, in dem wir uns über aktuelle Themen und
-        Fortschritte abstimmen. Anschließend tauchen wir in die Projekte ein und
-        arbeiten gemeinsam daran, den Erfolg unserer Kunden weiter zu steigern.
-        Zudem entwickeln wir laufend eigene Produkte, bei denen du mit deinen
-        Ideen und Fähigkeiten mitwirken kannst. Doch bei uns geht es nicht nur
-        um Arbeit! Wir feiern unsere Erfolge regelmäßig mit coolen Teamevents –
-        von Grillpartys auf der Dachterrasse bis zu geselligen Weinfesten. Du
-        arbeitest remote? Kein Problem - Transfer- und Übernachtungskosten für
-        Office-Besuche und Teamevents übernehmen wir selbstverständlich. Eines
-        ist sicher: Bei uns steht das Team an erster Stelle. Erlebe den Spirit
-        von Mainwebsolutions! #workatmws Dein&nbsp;Aufgabenbereich? Deine
-        Aufgaben fokussieren sich auf die digitale Sichtbarkeit deiner Kunden,
-        sowohl bei Google als auch in KI-Suchen wie ChatGPT, Perplexity und
-        Google AI Overviews. Innerhalb eines gemeinsam definierten Frameworks
-        werden dir, abhängig von Präferenz und Skill-Level, Kunden zugeteilt,
-        für deren SEO/SEA- und GEO-Betreuung du verantwortlich bist. Das umfasst
-        Analyse, Konzeption und Umsetzung: von Technical-SEO-Audits,
-        Content-Strategien und Linkbuilding über Google Ads-Kampagnen (Search,
-        Performance Max, Shopping, Demand Gen) bis hin zur Optimierung für
-        KI-Sichtbarkeit (Schema-Markup, llms.txt, Entity-Optimierung,
-        Citability-Checks). Dabei nutzt du täglich unseren hauseigenen KI-Stack,
-        den AiHub als zentrale KI-Plattform, eigene SEA-Agenten für
-        Kampagnen-Audits und Bid-Anpassungen sowie maßgeschneiderte Claude
-        Skills für GEO-Audits, Topical Cluster, Content-Briefings und vieles
-        mehr. Eigene Ideen für neue Workflows sind ausdrücklich erwünscht.
-        Wichtig ist, dass dir selbstorganisiertes, eigenständiges Arbeiten
-        liegt, wenn du mal nicht weiterkommst, stehen dir deine Kolleginnen und
-        Kollegen mit Rat und Tat zur Seite. Ready for departure? 🚀"
-      score: 74
-      skill_hits: 1
-      bucket_id: digital_marketing
-      fetched_at: 2026-09-16T20:18:35.150Z
-      pulled_at: 2026-09-16T20:18:35.150Z
-      stale_days: 29
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: Mainwebsolutions
-      title: SEO/SEA Werkstudent (m/w/d) mit Fokus auf Sichtbarkeit in KI-Suchen
-        (Remote oder Würzburg)
-      location: Homeoffice, Würzburg, Deutschland
-      url: https://jobs.mainwebsolutions.de/o/seosea-werkstudent-mwd-mit-fokus-auf-sichtbarkeit-in-ki-suchen-remote-oder-wurzburg
-      updated_at: 2026-08-04 17:40:57 UTC
-      description: "Du studierst, hast erste Erfahrungen in SEO oder SEA gesammelt und
-        suchst eine Werkstudentenstelle, bei der du an echten Kundenprojekten
-        mitarbeitest? Du willst dein Wissen im Google-Universum vertiefen, mit
-        modernen KI- und LLM-Tools im Marketing arbeiten und verstehen, wie
-        Marken nicht mehr nur in Google, sondern auch in ChatGPT, Perplexity und
-        Google AI Overviews sichtbar werden? Dann bewirb dich bei
-        Mainwebsolutions. Bei uns lernst du klassisches SEO/SEA von Grund auf
-        und steigst direkt in den Bereich KI-Sichtbarkeit (GEO) ein, in dem wir
-        aktuell echte Pionierarbeit leisten. Was erwartet dich bei uns?
-        Willkommen bei Mainwebsolutions, der Agentur, die Softwareentwicklung
-        und Onlinemarketing unter einem Dach vereint. Unser Team aus Marketern
-        und Entwicklern startet jeden Tag mit einer Portion Humor und einem
-        morgendlichen Team-Meeting, in dem wir uns über aktuelle Themen und
-        Fortschritte abstimmen. Anschließend tauchen wir in die Projekte ein und
-        arbeiten gemeinsam daran, den Erfolg unserer Kunden weiter zu steigern.
-        Zudem entwickeln wir laufend eigene Produkte und KI-Tools, bei denen du
-        mit deinen Ideen mitwirken kannst. Doch bei uns geht es nicht nur um
-        Arbeit. Wir feiern unsere Erfolge regelmäßig mit coolen Teamevents, von
-        Grillpartys auf der Dachterrasse über Yoga und gemeinsames Kochen bis zu
-        geselligen Weinfesten. Du arbeitest remote? Kein Problem. Transfer- und
-        Übernachtungskosten für Office-Besuche und Teamevents übernehmen wir
-        selbstverständlich. Eines ist sicher: Bei uns steht das Team an erster
-        Stelle. Erlebe den Spirit von Mainwebsolutions! #workatmws Dein
-        Aufgabenbereich? Als Werkstudent im SEO/SEA-Team unterstützt du uns
-        dabei, die digitale Sichtbarkeit unserer Kunden zu steigern, sowohl bei
-        Google als auch in KI-Suchen wie ChatGPT, Perplexity und Google AI
-        Overviews. Du arbeitest eng mit dem Team zusammen und übernimmst
-        schrittweise eigene Aufgaben in Kundenprojekten. Du führst SEO- und
-        GEO-Analysen durch, erstellst Keyword-Recherchen und Content-Briefings,
-        kümmerst dich um Content-Optimierung, Technical SEO und Linkbuilding und
-        unterstützt bei der Planung und Optimierung von Google Ads-Kampagnen.
-        Dabei arbeitest du täglich mit unserem hauseigenen KI-Stack: dem AiHub
-        als zentraler KI-Plattform, eigenen SEA-Agenten für Kampagnen-Audits und
-        maßgeschneiderten Claude Skills für GEO-Audits, Topical Cluster,
-        Content-Briefings und mehr. Du erstellst Reportings, leitest daraus
-        konkrete Optimierungspotenziale ab und kannst aktiv an der
-        Weiterentwicklung unserer internen Marketing-Tools mitwirken. Wer Lust
-        hat, eigene Workflows oder neue Claude Skills zu bauen, ist hier genau
-        richtig. Ready for departure? 🚀"
-      score: 74
-      skill_hits: 1
-      bucket_id: digital_marketing
-      fetched_at: 2026-09-16T20:18:35.150Z
-      pulled_at: 2026-09-16T20:18:35.150Z
-      stale_days: 29
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: Mainwebsolutions
-      title: SEO/SEA Manager (m/w/d) mit Fokus auf AI-gestütztes Online-Marketing
-        (Remote oder Würzburg)
-      location: Homeoffice, Würzburg, Deutschland
-      url: https://jobs.mainwebsolutions.de/o/seosea-manager-mwd-mit-fokus-auf-ai-gestutztes-online-marketing-remote-o-wurzburg
-      updated_at: 2026-08-05 05:50:22 UTC
-      description: "Du bist ein Online-Marketing-Experte mit tiefgehender Erfahrung in
-        SEO und SEA? Themen wie Linkbuilding, Technical-SEO oder
-        Conversion-Tracking liegen dir ebenso wie selbstorganisiertes Arbeiten
-        mit deinen zugeteilten Kunden? Du verfügst über sehr
-        gute&nbsp;organisatorische Fähigkeiten, um Maßnahmen und Aufgaben
-        eigenständig zu planen und zu verwalten? Dann bist du bei uns genau
-        richtig! Wir suchen einen SEO/SEA Manager (m/w/d) mit fundierten
-        Kenntnissen im Google-Universum und praktischer Agenturerfahrung. Was
-        erwartet dich bei uns? Willkommen bei Mainwebsolutions – der Agentur,
-        die Softwareentwicklung und Onlinemarketing auf ein neues Level hebt!
-        Unser Team besteht aus talentierten Marketern und Entwicklern, die
-        gemeinsam durchstarten. Jeder Tag beginnt mit einer ordentlichen Portion
-        Humor und einem morgendlichen Meeting, in dem wir einander über aktuelle
-        Themen und Fortschritte informieren.&nbsp;Anschließend tauchen wir in
-        die Projekte ein und arbeiten gemeinsam daran, den Erfolg unserer Kunden
-        weiter zu steigern. Zudem arbeiten wir immer wieder an eigenen
-        Produkten, bei denen du mit deinen&nbsp;Ideen und Fähigkeiten mitwirken
-        kannst.&nbsp;Doch bei uns geht es nicht nur um Arbeit! Wir feiern unsere
-        Erfolge regelmäßig mit coolen Teamevents. Von Grillpartys auf der
-        Dachterrasse bis zu geselligen Weinfesten – jeder kann sich an unseren
-        Aktivitäten beteiligen. Du arbeitest remote? Kein Problem! Runde deinen
-        Besuch bei uns doch mit ein paar Tagen im Office ab – die Transfer- und
-        Übernachtungskosten übernehmen selbstverständlich wir. Eines ist sicher:
-        Bei uns steht das Team an erster Stelle. Erlebe den Spirit von
-        Mainwebsolutions! #workatmws Dein&nbsp;Aufgabenbereich? Deine Aufgaben
-        fokussieren sich auf die digitale Sichtbarkeit bei Google. Innerhalb
-        eines gemeinsam definierten Frameworks arbeitest du an verschiedenen
-        Projekten. Was bedeutet das? Abhängig von deiner persönlichen Präferenz
-        und deinem Skill-Level werden dir Kunden zugeteilt, für deren
-        SEO/SEA-Betreuung du zuständig bist. Deine Aufgaben umfassen die
-        Analyse, Konzeption und Umsetzung von SEO- und SEA-Maßnahmen. Wichtig
-        ist hierbei, dass dir selbstorganisiertes, eigenständiges Arbeiten liegt
-        und du über notwendige organisatorische Fähigkeiten verfügst.&nbsp;Wir
-        sind überzeugt, dass du das meisterst! Und keine Sorge – wenn du mal
-        nicht weiterkommst, stehen dir deine Kolleginnen mit Rat und Tat zur
-        Seite. Unsere Mission ist es, die beste Dienstleistung zu erbringen und
-        sowohl unsere Kunden als auch eigene&nbsp;Produkte&nbsp;noch
-        erfolgreicher zu machen. Hierfür setzen wir modernste KI-Lösungen ein
-        und entwickeln eigene maßgeschneiderte KI-Tools wie beispielsweise den
-        Mainwebsolutions-AiHub.&nbsp;Ready for departure?&nbsp;🚀"
-      score: 74
-      skill_hits: 1
-      bucket_id: digital_marketing
-      fetched_at: 2026-09-16T20:18:35.150Z
-      pulled_at: 2026-09-16T20:18:35.150Z
       stale_days: 29
       is_stale: true
   video_editing:
@@ -8127,7 +7078,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-10-11T21:03:47.567Z
       pulled_at: 2026-10-11T21:03:47.567Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -8206,7 +7157,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-10-06T21:48:27.843Z
       pulled_at: 2026-10-06T21:48:27.843Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -8285,7 +7236,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-10-05T23:16:43.362Z
       pulled_at: 2026-10-05T23:16:43.362Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -8364,7 +7315,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-09-30T21:31:26.014Z
       pulled_at: 2026-09-30T21:31:26.014Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -8443,7 +7394,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-09-29T21:30:40.201Z
       pulled_at: 2026-09-29T21:30:40.201Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -8530,7 +7481,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-09-29T21:30:40.201Z
       pulled_at: 2026-09-29T21:30:40.201Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -8688,8 +7639,8 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-09-25T20:36:55.338Z
       pulled_at: 2026-09-25T20:36:55.338Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: greenhouse
       source_note: ""
       company: hellofresh
@@ -8767,7 +7718,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-09-24T20:37:49.918Z
       pulled_at: 2026-09-24T20:37:49.918Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -8846,7 +7797,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-09-22T20:19:53.221Z
       pulled_at: 2026-09-22T20:19:53.221Z
-      stale_days: 23
+      stale_days: 24
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -8925,7 +7876,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-09-21T21:11:54.138Z
       pulled_at: 2026-09-21T21:11:54.138Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -9004,7 +7955,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-09-19T19:27:24.987Z
       pulled_at: 2026-09-19T19:27:24.987Z
-      stale_days: 27
+      stale_days: 28
       is_stale: true
     - source: greenhouse
       source_note: ""
@@ -9083,7 +8034,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-09-17T20:28:23.046Z
       pulled_at: 2026-09-17T20:28:23.046Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -9166,8 +8117,1061 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-09-17T20:28:23.046Z
       pulled_at: 2026-09-17T20:28:23.046Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
+archive:
+  marketing_general:
+    - source: recruitee
+      source_note: ""
+      company: Consultport
+      title: Growth Marketing Manager
+      location: Berlin, Berlin, Germany, Berlin, Germany
+      url: https://consultport.recruitee.com/o/growth-marketing-manager
+      updated_at: 2026-08-06 14:09:57 UTC
+      description: "Who are we? Consultport is a global platform redefining how
+        businesses access top-tier consulting talent. We connect top companies
+        with world-class consultants and digital experts, helping them drive
+        critical initiatives faster, smarter, and more flexibly than ever
+        before. Join us at this growth stage. We're building the future of
+        consulting, and this is your chance to be part of shaping it. The role
+        As a Growth Marketing Manager (m/f/d) at Consultport, you'll own and
+        drive our digital marketing strategy across all channels, from
+        performance and paid media to content, SEO, and brand. You'll work
+        closely with our sales and business development teams to generate
+        high-quality demand and fuel our growth engine. This is a hands-on,
+        all-round marketing role that blends strategic thinking with executional
+        excellence, ideally suited to someone who has thrived in a fast-paced
+        agency or digital-first environment. We are currently ramping up our
+        Marketing team and this is where you come in! As Growth Marketing
+        Manager (m/f/d) at Consultport, you'll be responsible for: Digital
+        Strategy &amp; Execution Develop and own a 360° digital marketing
+        strategy across paid, owned, and earned channels Manage and optimise
+        marketing campaigns across Google Ads, LinkedIn, and Meta Drive SEO
+        strategy to ensure our content and web presence consistently ranks and
+        converts Demand Generation &amp; Lead Nurturing Own the full marketing
+        funnel from awareness through to qualified lead handoff to sales Build
+        campaigns for key customer segments to drive user acquisition and
+        engagement Manage and optimise our CRM and marketing automation
+        workflows (e.g. HubSpot) Analytics &amp; Performance Set up and maintain
+        robust tracking and reporting across all channels (Google Tag Manager,
+        Google Analytics) Use data-driven insights to improve campaign
+        performance, conversion rates, and ROI Run A/B tests and implement
+        optimisation strategies across the customer journey Brand &amp; Content
+        Oversee brand consistency across all digital touchpoints and
+        communications Develop content that speaks to our target audience of
+        senior business decision-makers Identify and act on market trends and
+        emerging digital marketing opportunities"
+      score: 84
+      skill_hits: 3
+      bucket_id: marketing_general
+      fetched_at: 2026-09-16T20:18:35.150Z
+      pulled_at: 2026-09-16T20:18:35.150Z
+      stale_days: 30
+      is_stale: true
+    - source: recruitee
+      source_note: ""
+      company: TransPerfect
+      title: Senior Performance Marketing Manager
+      location: Pune, Mahārāshtra, India, Pune, India
+      url: https://transperfect.com/o/senior-performance-marketing-manager
+      updated_at: 2026-08-06 10:17:14 UTC
+      description: "OVERVIEW: If running paid campaigns across a bunch of platforms is
+        your happy place, and you think as much about the journey as the click,
+        this could be a good fit. You're in Google Ads in the morning, LinkedIn
+        Campaign Manager over lunch, and Reddit or TikTok in the afternoon. In
+        between, you're thinking about how these campaigns work together to move
+        real people through our funnel. We're hiring a Paid Media Lead to plan,
+        deploy, and optimize campaigns across our paid channels. This role isn't
+        just about setting campaigns live and watching the numbers. It's about
+        thinking carefully about the marketing funnel, inventing new ways to
+        bring quality leads and accounts into it, and using paid media to move
+        them all the way through to sales-ready. You'll work closely with our
+        Senior Director of Creative Performance Marketing, turning creative
+        briefs and campaign strategies into live campaigns that actually
+        perform. You'll own the technical craft of paid media (structure,
+        targeting, bidding, testing, iteration) and the strategic craft of
+        designing campaigns that do their job at each funnel stage. This is an
+        individual contributor role with no direct reports. What you'll be doing
+        is deep, hands on platform work combined with real strategic thinking
+        about how paid fits into the broader journey. JOB RESPONSIBILITES: Plan
+        campaign architecture across platforms with clear funnel intent
+        (awareness, consideration, decision) and matching audience, creative,
+        and CTA logic for each stage Get creative about lead acquisition itself:
+        figure out how to reach new audiences, test new platforms and formats,
+        and keep growing both the quantity and quality of leads coming into the
+        funnel Design retargeting and lifecycle audiences that work with email
+        nurture, content offers, and sales outreach to move leads through the
+        funnel Partner with the rest of the marketing team on lead qualification
+        and hand-off criteria, so what reaches sales is actually ready to
+        convert Contribute creative direction to ad concepts and copy, working
+        with our creative resources on work that resonates Build and launch
+        campaigns in Google Ads, Microsoft Ads, LinkedIn, Meta (Facebook and
+        Instagram), Reddit, TikTok, and emerging platforms like ChatGPT Ads Set
+        up and manage audience targeting, including custom audiences,
+        lookalikes, contextual, intent, and account-based lists Own bid strategy
+        selection and budget pacing across campaigns Traffic creative assets,
+        keep naming conventions consistent, and manage UTMs Set up conversion
+        tracking (pixels, server-side, offline conversions) and make sure GA4 is
+        telling us the truth Run structured A/B tests on copy, creative,
+        audiences, and bidding Pull data, build reports, and share what's
+        working (and what isn't) with the team Continuously optimize campaigns,
+        moving budget toward what's performing and shutting off what isn't"
+      score: 76
+      skill_hits: 1
+      bucket_id: marketing_general
+      fetched_at: 2026-09-16T20:18:35.150Z
+      pulled_at: 2026-09-16T20:18:35.150Z
+      stale_days: 30
+      is_stale: true
+    - source: arbeitnow
+      source_note: ""
+      company: benuta GmbH
+      title: Senior Performance Marketing Manager – Performance Marketing, MMM & AI
+        (m/w/d)
+      location: Berlin, Berlin, Deutschland
+      url: https://www.arbeitnow.com/jobs/companies/benuta-gmbh/senior-performance-marketing-manager-performance-marketing-mmm-ai-berlin-160516
+      updated_at: 1789569018
+      description: "Du hast den kompletten Performance-Marketing-Mix fest im Griff und
+        nutzt KI im Kampagnenmanagement nicht als Hype, sondern als tägliches
+        Werkzeug? Du möchtest datengetriebene Entscheidungen zur
+        Budgetallokation treffen und aktiv mitgestalten, wie modernste AI-Tools
+        die Steuerung im E-Commerce revolutionieren? Dann wartet in unserem Team
+        in Berlin deine nächste große Challenge auf dich: Bei benuta übernimmst
+        du echte Ownership über unsere Kanäle hinweg und treibst ein echtes
+        Greenfield-Thema voran – die Skalierung KI-gestützter Analysen und
+        Strategien für den europäischen Marktführer im
+        Home-&amp;-Living-Bereich! Deine Aufgaben Strategische Kanal- &amp;
+        Budgetsteuerung: Du entwickelst und verantwortest die kanalübergreifende
+        Performance-Marketing-Strategie via MMM zur Erreichung unserer
+        Unternehmensziele (Umsatz, Effizienz, Lead-Gen, Brand Awareness). Du
+        steuerst und optimierst Kampagnen über Google Ads, Bing Ads, Meta,
+        Pinterest, Reddit Ads sowie Affiliate-Partnerschaften mit einer
+        konsistenten Budget- und Ziellogik. AI-Integration &amp;
+        Workflow-Innovation: Du treibst den Einsatz von LLMs (z. B. Claude,
+        Gemini) für die automatisierte, kanalübergreifende Analyse unserer
+        Kampagnendaten aktiv voran. Du entwickelst Prompts und Workflows für
+        beschleunigtes Reporting, Anomalie-Erkennung sowie Budget-Optimierungen
+        und agierst als interner Expert für KI-gestützte Marketing-Tools.
+        Analyse &amp; Bidding-Evaluierung: Du überwachst und analysierst alle
+        relevanten KPIs (CPO, ROAS, CAC, Conversion Rate) auf Basis von GA4 und
+        unserem serverseitigen Tracking-Setup (server-side GTM). Zudem bewertest
+        du KI-gestützte Bidding- und Automatisierungsfunktionen der
+        Werbeplattformen auf ihren Mehrwert. Tracking-Setup &amp;
+        Datensicherheit: Du implementierst und verwaltest Tracking-Setups (z. B.
+        Conversion-APIs, UTM-Konventionen) und stellst eine saubere,
+        datenschutzkonforme Datengrundlage sicher. Testing: Du verantwortest
+        fortlaufende A/B-Tests und Budget-Experimente zur kontinuierlichen
+        Performance-Steigerung aller Kanäle. Partner-Management &amp;
+        Kollaboration: Du verhandelst und entwickelst Vendor- und
+        Partnerverträge (z. B. im Affiliate-Bereich) weiter. Bei der
+        Kampagnenabstimmung arbeitest du eng mit den Teams aus Design, Content
+        und IT zusammen. Mentoring: Du unterstützt bei der fachlichen Anleitung
+        sowie dem Onboarding von Junior-Kolleg*innen im Team und teilst dein
+        KI-Wissen. Dein Profil Ausbildung: Du hast dein Studium (BWL, Marketing,
+        Medien, Kommunikationswissenschaften o. Ä.) erfolgreich abgeschlossen
+        oder bringst eine vergleichbare Qualifikation mit. Relevante
+        Berufserfahrung: Du bringst mindestens 5 Jahre Erfahrung im Performance
+        Marketing mit – idealerweise kanalübergreifend (SEA, Paid Social,
+        Affiliate) und mit nachweisbarer Budget- oder Teilprojektverantwortung.
+        Erste Erfahrung in der fachlichen Führung ist von Vorteil. AI-Expertise
+        (Must-have): Du besitzt praxiserprobte Erfahrung im Einsatz von KI-Tools
+        und LLMs im Marketing-Kontext (z. B. Prompting für Reporting, Analysen,
+        Forecasting). Du verfolgst aktuelle AI-Trends aktiv und brennst darauf,
+        diese bei benuta einzubringen. Hard Skills: Du zeichnest dich durch
+        ausgeprägte analytische Fähigkeiten aus, nutzt GA4 sowie gängige
+        Attributions-/Reporting-Tools souverän und hast tiefe Kenntnisse in
+        mindestens einem Zentralkanal (Google Ads, Meta). Erfahrung mit Bing,
+        Pinterest, Reddit, Affiliate und serverseitigem Tracking runden dein
+        Profil ab. Soft Skills: Du arbeitest datengetrieben, denkst
+        lösungsorientiert und begeisterst dich für E-Commerce sowie die Themen
+        Home &amp; Living. Sprachkompetenz: Deine Deutsch- und
+        Englischkenntnisse sind sehr gut (weitere Sprachen sind ein Plus). Deine
+        Benefits Impact &amp; Gestaltungsspielraum : Bei uns kannst du aktiv
+        mitgestalten, die Marke benuta weiterentwickeln und spannende
+        KI-Projekte umsetzen – wie etwa den Aufbau KI-gestützter
+        Analyse-Workflows für unsere Kampagnendaten. Deine Ideen werden gehört
+        und du bekommst Freiraum für die Umsetzung eigener Ansätze. Präsenz
+        &amp; Flexibilität: Der Schwerpunkt unserer Arbeit liegt auf dem
+        persönlichen Austausch und der gemeinsamen Zusammenarbeit vor Ort an
+        unserem Standort in Berlin. Für die nötige Flexibilität in deiner
+        Alltagsplanung - sei es für private Termine oder ungestörtes Arbeiten -
+        bieten wir dir ein jährliches Kontingent von 26 Home-Office-Tagen. Deine
+        Mobilität: Egal wie du zu uns kommst, wir unterstützen dich. Du hast die
+        Wahl zwischen einem vergünstigten Jobticket oder einer Tankkarte. Zudem
+        bieten wir dir ein Firmenrad-Leasing (JobRad) und eine gute
+        ÖPNV-Anbindung. Zeit für Erholung: Du erhältst 28 Tage Urlaub und
+        profitierst von unserem flexiblen Gleitzeitmodell. Weihnachten und
+        Silvester sind bei uns grundsätzlich arbeitsfreie Tage, die nicht von
+        deinem Urlaubskonto abgehen. Deine Entwicklung: Unsere unterschiedlichen
+        Abteilungen mit internationalen Teams arbeiten an vielfältigen Projekten
+        zusammen. Dadurch lernst Du permanent neue Sichtweisen, Tools und
+        Prozesse kennen – inklusive aktuellster KI-Anwendungen im Performance
+        Marketing. Kultur &amp; Mitarbeitervorteile: Ein strukturiertes
+        Onboarding, flache Hierarchien und attraktive Mitarbeiterrabatte warten
+        auf dich. Bei uns gilt: Come as you are – fühl dich wohl und sei einfach
+        du selbst! Klingt nach deinem nächsten Match? Dann freuen wir uns auf
+        deine Bewerbung! Lade einfach deinen Lebenslauf und deine relevanten
+        Zeugnisse über unser Online-Portal hoch. Dein Ansprechpartner ist
+        Michael Stanke (Head of Online Marketing) . *Bei uns zählt der Mensch
+        und seine Motivation - unabhängig von Geschlecht, Herkunft, Religion
+        oder sexueller Orientierung. Bewerbungen von Menschen mit einer
+        Schwerbehinderung oder ihnen Gleichgestellten werden bei gleicher
+        Eignung bevorzugt berücksichtigt. Über benuta Seit 2008 revolutionieren
+        wir von Bonn aus den europäischen Teppich- und
+        Home-&amp;-Living-E-Commerce. Mit über 100 Millionen Euro Umsatz,
+        modernster AI-gestützter Produktinszenierung und Kunden in 17 Ländern
+        verbinden wir die Sicherheit eines etablierten Marktführers mit dem
+        Drive und den flachen Hierarchien eines Digital-Pioneers. Unser Ziel ist
+        einfach: Jedes Zuhause noch schöner zu machen. Werde Teil unseres Teams
+        und hilf uns dabei, noch mehr Menschen für unsere Produkte zu
+        begeistern. Find Jobs in Germany on Arbeitnow"
+      job_types: &a6
+        - Experienced
+        - fulltime fixed term
+      remote: false
+      score: 76
+      skill_hits: 1
+      bucket_id: marketing_general
+      fetched_at: 2026-09-16T20:18:35.150Z
+      pulled_at: 2026-09-16T20:18:35.150Z
+      stale_days: 30
+      is_stale: true
+    - source: arbeitnow
+      source_note: ""
+      company: benuta GmbH
+      title: Senior Performance Marketing Manager – Paid Social & AI (m/w/d)
+      location: Berlin, Berlin, Deutschland
+      url: https://www.arbeitnow.com/jobs/companies/benuta-gmbh/senior-performance-marketing-manager-paid-social-ai-berlin-476502
+      updated_at: 1789569018
+      description: "Du hast die Paid-Social-Landschaft fest im Griff und nutzt KI im
+        Kampagnenmanagement nicht als Hype, sondern als tägliches Werkzeug? Du
+        möchtest datengetriebene Entscheidungen treffen, kreative Kampagnen
+        entwickeln und aktiv mitgestalten, wie modernste AI-Tools Analyse,
+        Reporting und Kreation im E-Commerce revolutionieren? Dann wartet in
+        unserem Team in Berlin deine nächste große Challenge auf dich: Bei
+        benuta übernimmst du echte Ownership für unsere Paid-Social-Kanäle und
+        treibst ein echtes Greenfield-Thema voran – die Skalierung KI-gestützter
+        Analysen, Workflows und Strategien für den europäischen Marktführer im
+        Home-&amp;-Living-Bereich! Deine Aufgaben Strategische
+        Paid-Social-Steuerung: Du entwickelst und verantwortest die
+        kanalübergreifende Paid-Social-Media-Strategie zur Erreichung unserer
+        Unternehmensziele (Brand Awareness, Lead-Gen, Performance-Ziele) und
+        richtest sie an der übergreifenden Marketingstrategie aus.
+        Kampagnenmanagement &amp; Kanal-Synergien: Du bist verantwortlich für
+        die Erstellung, das Monitoring und die Optimierung unserer
+        Paid-Social-Kampagnen (Schwerpunkt Meta, Pinterest, Reddit Ads und
+        TikTok) und arbeitest eng mit den Kolleg*innen aus Google Ads und Bing
+        Ads für eine ganzheitliche Performance-Sicht zusammen. AI-Integration
+        &amp; Workflow-Innovation: Du treibst den Einsatz von LLMs (z. B.
+        Claude, Gemini, ChatGPT) für die automatisierte Analyse und Auswertung
+        unserer Kampagnendaten aktiv voran. Du entwickelst Prompts und Workflows
+        für beschleunigtes Reporting, Anomalie-Erkennung sowie Optimierungen und
+        agierst als interner Expert für KI-gestützte Marketing-Tools. Kreative
+        Nutzung von KI: Du nutzt generative KI gezielt für Anzeigentexte,
+        Variantentests und Creative-Ideation. In engem Austausch mit dem Design-
+        und Content-Team gibst du als Senior-Ansprechperson fachlichen Input und
+        Feedback. Analyse &amp; Tracking-Setup: Du überwachst und analysierst
+        die Kampagnen-Performance anhand von KPIs (CTR, KUR, ROAS, Conversion
+        Rate) unter Nutzung unseres MMM. Du implementierst Tracking-Tools
+        (Pixel, UTM-Parameter, Conversion-APIs) und stellst eine saubere
+        Datengrundlage sicher. Testing: Du verantwortest das fortlaufende
+        A/B-Testing von Anzeigenformaten, Zielgruppen sowie Budgets und
+        bewertest neue Werbemöglichkeiten sowie KI-Werbeprodukte auf ihr
+        Potenzial für benuta. Mentoring: Du unterstützt bei der fachlichen
+        Anleitung sowie dem Onboarding von Junior-Kolleg*innen im Team und
+        teilst dein KI-Wissen. Dein Profil Ausbildung: Du hast dein Studium
+        (BWL, Marketing, Medien, Kommunikationswissenschaften o. Ä.) erfolgreich
+        abgeschlossen oder bringst eine vergleichbare Qualifikation mit.
+        Relevante Berufserfahrung: Du bringst mindestens 5 Jahre Erfahrung mit
+        Meta Ads und/oder anderen Paid-Social-Kanälen mit – idealerweise
+        inklusive nachweisbarer Budget- oder Teilprojektverantwortung. Erste
+        Erfahrung in der fachlichen Führung ist von Vorteil. AI-Expertise
+        (Must-have): Du besitzt praxiserprobte Erfahrung im Einsatz von KI-Tools
+        und LLMs im Marketing-Kontext (z. B. Prompting für Reporting,
+        Kampagnenanalysen oder Creative-Unterstützung). Du verfolgst aktuelle
+        AI-Trends aktiv und brennst darauf, eigene Ideen bei benuta
+        einzubringen. Hard Skills: Du besitzt sehr gute Kenntnisse im
+        Meta-Werbeanzeigenmanager und zeichnest dich durch ausgeprägte
+        analytische Fähigkeiten im Umgang mit gängigen
+        Reporting-/Attributions-Tools aus. Erfahrung mit Pinterest, Reddit,
+        TikTok, Bing Ads und serverseitigem Tracking ist ein Plus. Soft Skills:
+        Du arbeitest datengetrieben, denkst lösungsorientiert und begeisterst
+        dich für E-Commerce sowie die Themen Home &amp; Living. Sprachkompetenz:
+        Deine Deutsch- und Englischkenntnisse sind sehr gut (weitere Sprachen
+        sind ein Plus). Deine Benefits Impact &amp; Gestaltungsspielraum : Bei
+        uns kannst du aktiv mitgestalten, die Marke benuta weiterentwickeln und
+        spannende KI-Projekte umsetzen – wie etwa den Aufbau KI-gestützter
+        Analyse-Workflows für unsere Kampagnendaten. Deine Ideen werden gehört
+        und du bekommst Freiraum für die Umsetzung eigener Ansätze. Präsenz
+        &amp; Flexibilität: Der Schwerpunkt unserer Arbeit liegt auf dem
+        persönlichen Austausch und der gemeinsamen Zusammenarbeit vor Ort an
+        unserem Standort in Berlin. Für die nötige Flexibilität in deiner
+        Alltagsplanung - sei es für private Termine oder ungestörtes Arbeiten -
+        bieten wir dir ein jährliches Kontingent von 26 Home-Office-Tagen. Deine
+        Mobilität: Egal wie du zu uns kommst, wir unterstützen dich. Du hast die
+        Wahl zwischen einem vergünstigten Jobticket oder einer Tankkarte. Zudem
+        bieten wir dir ein Firmenrad-Leasing (JobRad) und eine gute
+        ÖPNV-Anbindung. Zeit für Erholung: Du erhältst 28 Tage Urlaub und
+        profitierst von unserem flexiblen Gleitzeitmodell. Weihnachten und
+        Silvester sind bei uns grundsätzlich arbeitsfreie Tage, die nicht von
+        deinem Urlaubskonto abgehen. Deine Entwicklung: Unsere unterschiedlichen
+        Abteilungen mit internationalen Teams arbeiten an vielfältigen Projekten
+        zusammen. Dadurch lernst Du permanent neue Sichtweisen, Tools und
+        Prozesse kennen – inklusive aktuellster KI-Anwendungen im Performance
+        Marketing. Kultur &amp; Mitarbeitervorteile: Ein strukturiertes
+        Onboarding, flache Hierarchien und attraktive Mitarbeiterrabatte warten
+        auf dich. Bei uns gilt: Come as you are – fühl dich wohl und sei einfach
+        du selbst! Klingt nach deinem nächsten Match? Dann freuen wir uns auf
+        deine Bewerbung! Lade einfach deinen Lebenslauf und deine relevanten
+        Zeugnisse über unser Online-Portal hoch. Dein Ansprechpartner ist
+        Michael Stanke (Head of Online Marketing) . *Bei uns zählt der Mensch
+        und seine Motivation - unabhängig von Geschlecht, Herkunft, Religion
+        oder sexueller Orientierung. Bewerbungen von Menschen mit einer
+        Schwerbehinderung oder ihnen Gleichgestellten werden bei gleicher
+        Eignung bevorzugt berücksichtigt. Über benuta Seit 2008 revolutionieren
+        wir von Bonn aus den europäischen Teppich- und
+        Home-&amp;-Living-E-Commerce. Mit über 100 Millionen Euro Umsatz,
+        modernster AI-gestützter Produktinszenierung und Kunden in 17 Ländern
+        verbinden wir die Sicherheit eines etablierten Marktführers mit dem
+        Drive und den flachen Hierarchien eines Digital-Pioneers. Unser Ziel ist
+        einfach: Jedes Zuhause noch schöner zu machen. Werde Teil unseres Teams
+        und hilf uns dabei, noch mehr Menschen für unsere Produkte zu
+        begeistern. Find more English Speaking Jobs in Germany on Arbeitnow"
+      job_types: &a7
+        - Experienced
+        - fulltime fixed term
+      remote: false
+      score: 76
+      skill_hits: 1
+      bucket_id: marketing_general
+      fetched_at: 2026-09-16T20:18:35.150Z
+      pulled_at: 2026-09-16T20:18:35.150Z
+      stale_days: 30
+      is_stale: true
+  digital_marketing:
+    - source: recruitee
+      source_note: ""
+      company: Consultport
+      title: Growth Marketing Intern (m/f/d)
+      location: Berlin, Berlin, Germany, Berlin, Germany
+      url: https://consultport.recruitee.com/o/growth-marketing-intern-mfd
+      updated_at: 2026-09-16 13:25:23 UTC
+      description: "About Us Consultport is a global platform that connects companies
+        with top-tier freelance consultants, enabling businesses to advance
+        critical projects more efficiently and effectively than ever before.
+        Since 2018, we’ve grown to a network of 10,000+ pre-vetted experts
+        delivering impactful projects across 50+ countries. Our mission is to
+        become the world’s #1 platform where consultants and companies succeed
+        together, driven by a commitment to quality, reliability, and trust.
+        Trusted by over 100 leading companies annually, we provide tailored
+        expertise to corporates, consultancies, private equity firms, and
+        scale-ups. At Consultport, we redefine how businesses and consultants
+        collaborate to drive success. The Role As a Growth Marketing Intern at
+        Consultport, you’ll have the opportunity to significantly expand your
+        marketing skills. Our goal is to set the standard in innovation,
+        creativity, and performance. You’ll learn to craft cross-channel
+        marketing strategies, create engaging content, and effectively utilize
+        various media platforms. You’ll support communication plan development,
+        manage media relations, and lead initiatives to elevate our brand image
+        and increase our search rankings, all while gaining a comprehensive
+        understanding of the consulting market. Your Mission Marketing Strategy
+        – Develop and implement cross-channel marketing strategies to boost
+        Consultport's organic traffic and lead generation. Report, Drafting,
+        &amp; SEO Optimization – Create high-quality reports for the consulting
+        industry tailored to c-suite executives, optimize for search engines,
+        and enhance website performance using SEO tools like SEMrush.
+        Performance Marketing – Plan, execute, and optimize paid campaigns on
+        LinkedIn and Google Ads. Social Media Growth – Develop social media
+        content strategies (organic and paid) to engage executives and
+        strengthen brand authority. Marketing Analytics - Track and analyze
+        marketing metrics using Looker Studio &amp; Google Analytics to refine
+        strategy and provide actionable recommendations."
+      score: 94
+      skill_hits: 5
+      bucket_id: digital_marketing
+      fetched_at: 2026-09-16T20:18:35.150Z
+      pulled_at: 2026-09-16T20:18:35.150Z
+      stale_days: 30
+      is_stale: true
+    - source: recruitee
+      source_note: ""
+      company: Consultport
+      title: Growth Marketing Manager
+      location: Berlin, Berlin, Germany, Berlin, Germany
+      url: https://consultport.recruitee.com/o/growth-marketing-manager
+      updated_at: 2026-08-06 14:09:57 UTC
+      description: "Who are we? Consultport is a global platform redefining how
+        businesses access top-tier consulting talent. We connect top companies
+        with world-class consultants and digital experts, helping them drive
+        critical initiatives faster, smarter, and more flexibly than ever
+        before. Join us at this growth stage. We're building the future of
+        consulting, and this is your chance to be part of shaping it. The role
+        As a Growth Marketing Manager (m/f/d) at Consultport, you'll own and
+        drive our digital marketing strategy across all channels, from
+        performance and paid media to content, SEO, and brand. You'll work
+        closely with our sales and business development teams to generate
+        high-quality demand and fuel our growth engine. This is a hands-on,
+        all-round marketing role that blends strategic thinking with executional
+        excellence, ideally suited to someone who has thrived in a fast-paced
+        agency or digital-first environment. We are currently ramping up our
+        Marketing team and this is where you come in! As Growth Marketing
+        Manager (m/f/d) at Consultport, you'll be responsible for: Digital
+        Strategy &amp; Execution Develop and own a 360° digital marketing
+        strategy across paid, owned, and earned channels Manage and optimise
+        marketing campaigns across Google Ads, LinkedIn, and Meta Drive SEO
+        strategy to ensure our content and web presence consistently ranks and
+        converts Demand Generation &amp; Lead Nurturing Own the full marketing
+        funnel from awareness through to qualified lead handoff to sales Build
+        campaigns for key customer segments to drive user acquisition and
+        engagement Manage and optimise our CRM and marketing automation
+        workflows (e.g. HubSpot) Analytics &amp; Performance Set up and maintain
+        robust tracking and reporting across all channels (Google Tag Manager,
+        Google Analytics) Use data-driven insights to improve campaign
+        performance, conversion rates, and ROI Run A/B tests and implement
+        optimisation strategies across the customer journey Brand &amp; Content
+        Oversee brand consistency across all digital touchpoints and
+        communications Develop content that speaks to our target audience of
+        senior business decision-makers Identify and act on market trends and
+        emerging digital marketing opportunities"
+      score: 84
+      skill_hits: 3
+      bucket_id: digital_marketing
+      fetched_at: 2026-09-16T20:18:35.150Z
+      pulled_at: 2026-09-16T20:18:35.150Z
+      stale_days: 30
+      is_stale: true
+    - source: recruitee
+      source_note: ""
+      company: hairfree
+      title: Performance Marketing Manager (m/w/d)
+      location: Darmstadt, Hessen, Deutschland, Darmstadt, Deutschland
+      url: https://recruiting.hairfree.de/o/performance-marketing-manager-mwd-1
+      updated_at: 2026-09-03 07:27:29 UTC
+      description: "Performance Marketing Manager (m/w/d) Du denkst in Marken, hast
+        ein sicheres Gespür für Design und möchtest Marketing nicht nur planen,
+        sondern sichtbar umsetzen? Dann komm zu hairfree. Bei hairfree geht es
+        um mehr als dauerhafte Haarentfernung. Es geht um Selbstbewusstsein,
+        Wohlgefühl und ein neues Lebensgefühl für unsere Kundinnen und Kunden.
+        Für unser Marketingteam suchen wir eine engagierte Persönlichkeit, die
+        unseren Markenauftritt über alle relevanten Kanäle hinweg
+        weiterentwickelt und unsere operativen Marketingmaßnahmen
+        eigenverantwortlich umsetzt. Du arbeitest täglich mit Google Ads und
+        Meta Ads, kennst deine KPIs und weißt nicht nur, wie man Kampagnen
+        startet, sondern auch, wie man sie besser macht? Dann suchen wir genau
+        dich. Für unsere Zentrale in Darmstadt suchen wir einen Performance
+        Marketing Manager (m/w/d) , der die Verantwortung für unsere
+        Paid-Media-Kampagnen übernimmt. Dabei geht es nicht darum, Agenturen zu
+        koordinieren oder Reportings weiterzugeben. Wir suchen jemanden, der
+        selbst in den Accounts arbeitet, Kampagnen aufsetzt, Budgets steuert,
+        Ergebnisse analysiert und Optimierungen eigenständig umsetzt. Wichtig:
+        Die Position ist eine 100 % Vor-Ort-Stelle in Darmstadt. Remote Work ist
+        für diese Position nicht vorgesehen. Was dich bei uns erwartet Eine
+        verantwortungsvolle Position mit viel Gestaltungsspielraum Ein
+        abwechslungsreiches Aufgabengebiet mit hoher Eigenverantwortung
+        Attraktives Grundgehalt Flexible Arbeitszeiten Moderne Arbeitsumgebung
+        und gute technische Ausstattung Hohe Weiterbildungsmöglichkeiten durch
+        Coachings, unsere Academy und interne Trainings Individuelle
+        Entwicklungsmöglichkeiten innerhalb des Unternehmens Mitarbeiter-Events
+        und eine offene Teamkultur Mitarbeiter-Rabatte und weitere
+        Vergünstigungen Flache Hierarchien und kurze Entscheidungswege Enge
+        Zusammenarbeit mit Performance Marketing, Vertrieb, Recruiting und der
+        Geschäftsleitung Gute Erreichbarkeit und Parkmöglichkeiten Deine Aufgabe
+        bei hairfree Dein Fokus liegt klar auf Google Ads und Meta Ads . Du bist
+        dafür verantwortlich, dass unsere Kampagnen nicht einfach laufen,
+        sondern messbar funktionieren und kontinuierlich besser werden. Das
+        bedeutet konkret: Du planst, erstellst und steuerst eigenständig
+        Kampagnen in Google Ads Du planst, erstellst und steuerst eigenständig
+        Kampagnen im Meta Ads Manager Du übernimmst die operative Verantwortung
+        für unsere Paid-Media-Accounts Du steuerst und optimierst Budgets anhand
+        der tatsächlichen Performance Du analysierst laufend KPIs wie CPL, CPA,
+        Conversion Rate, CTR, CPC, ROAS und weitere relevante Kennzahlen Du
+        erkennst frühzeitig, wenn Kampagnen oder einzelne Anzeigengruppen nicht
+        funktionieren, und leitest konkrete Maßnahmen ab Du entwickelst
+        Kampagnenstrukturen, Zielgruppen und Gebotsstrategien weiter Du führst
+        A/B-Tests durch und wertest diese strukturiert aus Du testest
+        unterschiedliche Creatives, Texte, Zielgruppen und Landingpages Du
+        analysierst den Funnel vom ersten Klick bis zum Lead beziehungsweise zur
+        Conversion Du überwachst und optimierst unser Conversion Tracking Du
+        arbeitest mit GA4 und weiteren relevanten Analyse- und Tracking-Tools Du
+        identifizierst Skalierungsmöglichkeiten und setzt diese eigenständig um
+        Du erstellst verständliche Performance-Auswertungen und
+        Handlungsempfehlungen Du arbeitest eng mit Marketing, Geschäftsführung
+        und weiteren internen Schnittstellen zusammen"
+      score: 80
+      skill_hits: 2
+      bucket_id: digital_marketing
+      fetched_at: 2026-09-16T20:18:35.150Z
+      pulled_at: 2026-09-16T20:18:35.150Z
+      stale_days: 30
+      is_stale: true
+    - source: recruitee
+      source_note: ""
+      company: Mainwebsolutions
+      title: Bezahltes E-Commerce Praktikum (m/w/d) für dein Praxissemester (Hybrid /
+        Würzburg)
+      location: Würzburg, Bayern, Deutschland, Würzburg, Deutschland
+      url: https://jobs.mainwebsolutions.de/o/bezahltes-e-commerce-praktikum-mwd-fur-dein-praxissemester-hybrid-wurzburg
+      updated_at: 2026-07-12 07:30:40 UTC
+      description: "Du bist wissbegierig, hast bereits erste Erfahrungen im Bereich
+        SEO/SEA gesammelt und suchst einen Praktikumsplatz für dein
+        Praxissemester im Studiengang E-Commerce? Du willst lernen, wie man
+        Unternehmen bei Google sichtbar macht und interessierst dich dafür, wie
+        moderne KI- und LLM-Tools das Online-Marketing revolutionieren? Dann
+        zögere nicht und bewirb dich auf eine attraktive Stelle bei der
+        Mainwebsolutions. Was erwartet dich bei uns? Wir sind Mainwebsolutions –
+        eine Agentur, die professionelle Softwareentwicklung und
+        Online-Marketing unter einem Dach vereint. Unser Team besteht aus einer
+        gesunden Mischung aus Marketern und Entwicklern, die gemeinsam an der
+        Spitze der digitalen Trends arbeiten. Den Tag starten wir mit einer
+        ordentlichen Portion Humor und einem morgendlichen Team-Meeting, in dem
+        wir uns zu aktuellen Themen und Projekten austauschen. Neben spannenden
+        Kundenprojekten arbeiten wir regelmäßig an eigenen Produkten und setzen
+        dabei verstärkt auf den Einsatz von KI-Lösungen und maßgeschneiderten
+        Tools wie z.B. unseren Mainwebsolutions-AiHub. Auch außerhalb der
+        Projektarbeit kommt der Teamspirit bei uns nicht zu kurz: Ob Grillen auf
+        der Dachterrasse, Yoga, gemeinsames Kochen oder gesellige Events – bei
+        uns steht das Team im Vordergrund! #workatmws Dein Aufgabenbereich?
+        Deine Aufgaben bei uns drehen sich rund um das Thema digitale
+        Sichtbarkeit bei Google. Dabei unterstützt du unser SEO-/SEA-Team bei
+        der Analyse, Konzeption und Umsetzung von Maßnahmen zur Verbesserung der
+        Sichtbarkeit und Performance unserer Kunden. Du wirkst mit bei der
+        Erstellung von SEO-Analysen und hilfst bei der Entwicklung von SEO- und
+        SEA-Strategien. In enger Abstimmung mit dem Team arbeitest du an
+        Content-Optimierungen, Technical SEO und dem Aufbau von Backlinks.
+        Darüber hinaus unterstützt du bei der Planung und Optimierung von Google
+        Ads-Kampagnen. Ein besonderes Highlight: Bei uns lernst du auch den
+        Einsatz von KI-/LLM-Tools im Online-Marketing kennen und kannst aktiv an
+        deren Anwendung für Content-Optimierung, Automatisierung und
+        datenbasierte Analysen mitwirken. Du und dein Team betreut dabei
+        unterschiedliche mittelständische Unternehmen, Dienstleister sowie
+        E-Commerce-Systeme als Kunden — so erhältst du spannende und praxisnahe
+        Einblicke in die vielfältige Welt des digitalen Marketings."
+      score: 78
+      skill_hits: 2
+      bucket_id: digital_marketing
+      fetched_at: 2026-09-16T20:18:35.150Z
+      pulled_at: 2026-09-16T20:18:35.150Z
+      stale_days: 30
+      is_stale: true
+    - source: arbeitnow
+      source_note: ""
+      company: myAutoAbo
+      title: Werkstudent (m/w/d) Journalismus & SEO-Marketing | Auto-Fan mit
+        Schreibtalent gesucht!
+      location: Berlin
+      url: https://www.arbeitnow.com/jobs/companies/myautoabo/werkstudent-journalismus-seo-marketing-auto-fan-mit-schreibtalent-gesucht-berlin-30593
+      updated_at: 1789587031
+      description: 'Du schreibst Texte, die man gern liest, dein Herz schlägt fürs
+        Auto und du weißt, wie Content bei Google UND bei echten Menschen
+        ankommt? Dann bist du bei uns genau richtig! Wir sind myAutoAbo , ein
+        junges, schnell wachsendes Unternehmen rund ums Auto-Abo. Bei uns
+        schreibst du nicht für den Papierkorb: Deine Artikel, Ratgeber und
+        Fahrzeug-Storys erreichen echte Leser, ranken bei Google und laufen über
+        unsere Social-Media-Kanäle. Beim Schreiben unterstützt dich KI, wir
+        brauchen dich vor allem wegen deines Judgements: Welche Themen lohnen
+        sich, welcher Winkel zieht, und wie klingt ein Text wirklich gut? So
+        arbeiten wir ⚡ AI-first: Wir erledigen so viel wie möglich mit KI und
+        optimieren unsere Zeit radikal. Routine automatisieren wir, damit Raum
+        für die wichtigen Entscheidungen bleibt Hohes Pacing: Wir skalieren
+        schnell, erfinden uns praktisch täglich neu und hinterfragen auch das,
+        was gestern noch funktioniert hat Kleines, dynamisches Team: Kurze Wege,
+        schnelle Entscheidungen, deine Arbeit geht nicht im Konzern-Getriebe
+        unter, sondern bewegt echte Menschen und trägt zu Entscheidungen in
+        unserer Branche bei Aufgaben Recherche und Erstellung von redaktionellen
+        Inhalten rund um Autos, Auto-Abos und Mobilität (Ratgeber,
+        Fahrzeugvorstellungen, News etc.) SEO-Optimierung von Texten:
+        Keyword-Recherche, Snippets, interne Verlinkung Content-Planung
+        gemeinsam mit unserem Marketing- und Social-Media-Team Aufbereitung von
+        Themen für verschiedene Kanäle (Website, Newsletter, Instagram, TikTok,
+        YouTube) Einsatz von KI-Tools für Recherche, Texterstellung und
+        Optimierung + Aufsetzen eigener Agent-Workflows. Erfolgsmessung:
+        Rankings, Performance und Nutzerverhalten im Blick behalten und daraus
+        lernen Qualifikation Eingeschriebene/r Student/in in Journalismus,
+        Medien-/Kommunikationswissenschaften, Marketing, Germanistik o.ä. Sehr
+        gutes Sprachgefühl und Spaß am Schreiben, du bringst komplexe Themen
+        verständlich auf den Punkt Du denkst mit, statt nur zu schreiben: Dich
+        interessiert das Big Picture, also warum schreiben wir diesen Text, für
+        wen, und was soll er bewirken? Interesse an Autos und der Mobilität von
+        heute &#x26; morgen Gutes Verständnis für Social Media und wie Content
+        dort funktioniert Erste Berührungspunkte mit SEO sind ein Plus, kein
+        Muss. Neugier zählt mehr! Du willst AI-first arbeiten: KI-Tools für
+        Recherche, Text und Optimierung nicht nur nutzen, sondern in eigene
+        Workflows einbauen Lust auf Herausforderungen, Eigeninitiative und die
+        Motivation, ständig dazuzulernen und dich auch mal neu zu erfinden Du
+        musst nicht jeden Punkt perfekt abhaken, das erwarten wir auch gar
+        nicht. Was wir suchen, sind wissbegierige Leute mit Geschmack, schneller
+        Auffassungsgabe und Lust auf Autos, die gute Laune und eigene Ideen
+        mitbringen. Dafür bekommst du keine 0815-Werkstudentenstelle: Dich
+        erwarten viel Verantwortung, eine steile Lernkurve und Aufstiegschancen,
+        die weit über den „normalen" Werkstudentenjob hinausgehen. Benefits
+        Speed &#x26; Skalierung: Wir wachsen schnell und shippen schnell, deine
+        Texte gehen in Tagen live, nicht in Quartalen Gesundes Fehler-Mindset:
+        Fehler sind menschlich und gehören dazu, so lernen wir am schnellsten.
+        Wichtig ist, Lösungen zu finden, statt den Kopf in den Sand zu stecken.
+        Du optimierst dich selbst mit KI: Du lernst, deine eigene Arbeit mit KI
+        schneller und besser zu machen. Ein Skill, der dir überall weiterhilft
+        Echte Bylines: Deine Texte gehen live und erreichen tausende Leser
+        Intensives Mentoring in SEO, Content-Strategie und KI-gestütztem
+        Arbeiten Abwechslungsreiche Themen, von Fahrzeugtests bis
+        Mobilitätstrends Modernes Büro in Berlin-Kreuzberg mit Barista-Flatrate,
+        frischem Obst und coolen Team-Events Flexible Arbeitszeiten, egal ob vor
+        Ort, hybrid oder 100% remote (auch außerhalb Deutschlands möglich).
+        Hauptsache ist, dass du motiviert und zuverlässig bist! Klingt gut? 🚀
+        Dann schick uns eine kurze Vorstellung von dir, gern mit ein bis zwei
+        Schreibproben (Blog, Uni, Social Media, egal woher). Kein Anschreiben
+        nötig, wir wollen deine Texte lesen, nicht dein KI-generiertes
+        Anschreiben! Bewirb dich einfach direkt hier. Wir freuen uns auf dich!
+        Find more English Speaking Jobs in Germany on Arbeitnow'
+      job_types:
+        - Working student
+      remote: false
+      score: 78
+      skill_hits: 2
+      bucket_id: digital_marketing
+      fetched_at: 2026-09-16T20:18:35.150Z
+      pulled_at: 2026-09-16T20:18:35.150Z
+      stale_days: 30
+      is_stale: true
+    - source: recruitee
+      source_note: ""
+      company: TransPerfect
+      title: Senior Performance Marketing Manager
+      location: Pune, Mahārāshtra, India, Pune, India
+      url: https://transperfect.com/o/senior-performance-marketing-manager
+      updated_at: 2026-08-06 10:17:14 UTC
+      description: "OVERVIEW: If running paid campaigns across a bunch of platforms is
+        your happy place, and you think as much about the journey as the click,
+        this could be a good fit. You're in Google Ads in the morning, LinkedIn
+        Campaign Manager over lunch, and Reddit or TikTok in the afternoon. In
+        between, you're thinking about how these campaigns work together to move
+        real people through our funnel. We're hiring a Paid Media Lead to plan,
+        deploy, and optimize campaigns across our paid channels. This role isn't
+        just about setting campaigns live and watching the numbers. It's about
+        thinking carefully about the marketing funnel, inventing new ways to
+        bring quality leads and accounts into it, and using paid media to move
+        them all the way through to sales-ready. You'll work closely with our
+        Senior Director of Creative Performance Marketing, turning creative
+        briefs and campaign strategies into live campaigns that actually
+        perform. You'll own the technical craft of paid media (structure,
+        targeting, bidding, testing, iteration) and the strategic craft of
+        designing campaigns that do their job at each funnel stage. This is an
+        individual contributor role with no direct reports. What you'll be doing
+        is deep, hands on platform work combined with real strategic thinking
+        about how paid fits into the broader journey. JOB RESPONSIBILITES: Plan
+        campaign architecture across platforms with clear funnel intent
+        (awareness, consideration, decision) and matching audience, creative,
+        and CTA logic for each stage Get creative about lead acquisition itself:
+        figure out how to reach new audiences, test new platforms and formats,
+        and keep growing both the quantity and quality of leads coming into the
+        funnel Design retargeting and lifecycle audiences that work with email
+        nurture, content offers, and sales outreach to move leads through the
+        funnel Partner with the rest of the marketing team on lead qualification
+        and hand-off criteria, so what reaches sales is actually ready to
+        convert Contribute creative direction to ad concepts and copy, working
+        with our creative resources on work that resonates Build and launch
+        campaigns in Google Ads, Microsoft Ads, LinkedIn, Meta (Facebook and
+        Instagram), Reddit, TikTok, and emerging platforms like ChatGPT Ads Set
+        up and manage audience targeting, including custom audiences,
+        lookalikes, contextual, intent, and account-based lists Own bid strategy
+        selection and budget pacing across campaigns Traffic creative assets,
+        keep naming conventions consistent, and manage UTMs Set up conversion
+        tracking (pixels, server-side, offline conversions) and make sure GA4 is
+        telling us the truth Run structured A/B tests on copy, creative,
+        audiences, and bidding Pull data, build reports, and share what's
+        working (and what isn't) with the team Continuously optimize campaigns,
+        moving budget toward what's performing and shutting off what isn't"
+      score: 76
+      skill_hits: 1
+      bucket_id: digital_marketing
+      fetched_at: 2026-09-16T20:18:35.150Z
+      pulled_at: 2026-09-16T20:18:35.150Z
+      stale_days: 30
+      is_stale: true
+    - source: arbeitnow
+      source_note: ""
+      company: benuta GmbH
+      title: Senior Performance Marketing Manager – Performance Marketing, MMM & AI
+        (m/w/d)
+      location: Berlin, Berlin, Deutschland
+      url: https://www.arbeitnow.com/jobs/companies/benuta-gmbh/senior-performance-marketing-manager-performance-marketing-mmm-ai-berlin-160516
+      updated_at: 1789569018
+      description: "Du hast den kompletten Performance-Marketing-Mix fest im Griff und
+        nutzt KI im Kampagnenmanagement nicht als Hype, sondern als tägliches
+        Werkzeug? Du möchtest datengetriebene Entscheidungen zur
+        Budgetallokation treffen und aktiv mitgestalten, wie modernste AI-Tools
+        die Steuerung im E-Commerce revolutionieren? Dann wartet in unserem Team
+        in Berlin deine nächste große Challenge auf dich: Bei benuta übernimmst
+        du echte Ownership über unsere Kanäle hinweg und treibst ein echtes
+        Greenfield-Thema voran – die Skalierung KI-gestützter Analysen und
+        Strategien für den europäischen Marktführer im
+        Home-&amp;-Living-Bereich! Deine Aufgaben Strategische Kanal- &amp;
+        Budgetsteuerung: Du entwickelst und verantwortest die kanalübergreifende
+        Performance-Marketing-Strategie via MMM zur Erreichung unserer
+        Unternehmensziele (Umsatz, Effizienz, Lead-Gen, Brand Awareness). Du
+        steuerst und optimierst Kampagnen über Google Ads, Bing Ads, Meta,
+        Pinterest, Reddit Ads sowie Affiliate-Partnerschaften mit einer
+        konsistenten Budget- und Ziellogik. AI-Integration &amp;
+        Workflow-Innovation: Du treibst den Einsatz von LLMs (z. B. Claude,
+        Gemini) für die automatisierte, kanalübergreifende Analyse unserer
+        Kampagnendaten aktiv voran. Du entwickelst Prompts und Workflows für
+        beschleunigtes Reporting, Anomalie-Erkennung sowie Budget-Optimierungen
+        und agierst als interner Expert für KI-gestützte Marketing-Tools.
+        Analyse &amp; Bidding-Evaluierung: Du überwachst und analysierst alle
+        relevanten KPIs (CPO, ROAS, CAC, Conversion Rate) auf Basis von GA4 und
+        unserem serverseitigen Tracking-Setup (server-side GTM). Zudem bewertest
+        du KI-gestützte Bidding- und Automatisierungsfunktionen der
+        Werbeplattformen auf ihren Mehrwert. Tracking-Setup &amp;
+        Datensicherheit: Du implementierst und verwaltest Tracking-Setups (z. B.
+        Conversion-APIs, UTM-Konventionen) und stellst eine saubere,
+        datenschutzkonforme Datengrundlage sicher. Testing: Du verantwortest
+        fortlaufende A/B-Tests und Budget-Experimente zur kontinuierlichen
+        Performance-Steigerung aller Kanäle. Partner-Management &amp;
+        Kollaboration: Du verhandelst und entwickelst Vendor- und
+        Partnerverträge (z. B. im Affiliate-Bereich) weiter. Bei der
+        Kampagnenabstimmung arbeitest du eng mit den Teams aus Design, Content
+        und IT zusammen. Mentoring: Du unterstützt bei der fachlichen Anleitung
+        sowie dem Onboarding von Junior-Kolleg*innen im Team und teilst dein
+        KI-Wissen. Dein Profil Ausbildung: Du hast dein Studium (BWL, Marketing,
+        Medien, Kommunikationswissenschaften o. Ä.) erfolgreich abgeschlossen
+        oder bringst eine vergleichbare Qualifikation mit. Relevante
+        Berufserfahrung: Du bringst mindestens 5 Jahre Erfahrung im Performance
+        Marketing mit – idealerweise kanalübergreifend (SEA, Paid Social,
+        Affiliate) und mit nachweisbarer Budget- oder Teilprojektverantwortung.
+        Erste Erfahrung in der fachlichen Führung ist von Vorteil. AI-Expertise
+        (Must-have): Du besitzt praxiserprobte Erfahrung im Einsatz von KI-Tools
+        und LLMs im Marketing-Kontext (z. B. Prompting für Reporting, Analysen,
+        Forecasting). Du verfolgst aktuelle AI-Trends aktiv und brennst darauf,
+        diese bei benuta einzubringen. Hard Skills: Du zeichnest dich durch
+        ausgeprägte analytische Fähigkeiten aus, nutzt GA4 sowie gängige
+        Attributions-/Reporting-Tools souverän und hast tiefe Kenntnisse in
+        mindestens einem Zentralkanal (Google Ads, Meta). Erfahrung mit Bing,
+        Pinterest, Reddit, Affiliate und serverseitigem Tracking runden dein
+        Profil ab. Soft Skills: Du arbeitest datengetrieben, denkst
+        lösungsorientiert und begeisterst dich für E-Commerce sowie die Themen
+        Home &amp; Living. Sprachkompetenz: Deine Deutsch- und
+        Englischkenntnisse sind sehr gut (weitere Sprachen sind ein Plus). Deine
+        Benefits Impact &amp; Gestaltungsspielraum : Bei uns kannst du aktiv
+        mitgestalten, die Marke benuta weiterentwickeln und spannende
+        KI-Projekte umsetzen – wie etwa den Aufbau KI-gestützter
+        Analyse-Workflows für unsere Kampagnendaten. Deine Ideen werden gehört
+        und du bekommst Freiraum für die Umsetzung eigener Ansätze. Präsenz
+        &amp; Flexibilität: Der Schwerpunkt unserer Arbeit liegt auf dem
+        persönlichen Austausch und der gemeinsamen Zusammenarbeit vor Ort an
+        unserem Standort in Berlin. Für die nötige Flexibilität in deiner
+        Alltagsplanung - sei es für private Termine oder ungestörtes Arbeiten -
+        bieten wir dir ein jährliches Kontingent von 26 Home-Office-Tagen. Deine
+        Mobilität: Egal wie du zu uns kommst, wir unterstützen dich. Du hast die
+        Wahl zwischen einem vergünstigten Jobticket oder einer Tankkarte. Zudem
+        bieten wir dir ein Firmenrad-Leasing (JobRad) und eine gute
+        ÖPNV-Anbindung. Zeit für Erholung: Du erhältst 28 Tage Urlaub und
+        profitierst von unserem flexiblen Gleitzeitmodell. Weihnachten und
+        Silvester sind bei uns grundsätzlich arbeitsfreie Tage, die nicht von
+        deinem Urlaubskonto abgehen. Deine Entwicklung: Unsere unterschiedlichen
+        Abteilungen mit internationalen Teams arbeiten an vielfältigen Projekten
+        zusammen. Dadurch lernst Du permanent neue Sichtweisen, Tools und
+        Prozesse kennen – inklusive aktuellster KI-Anwendungen im Performance
+        Marketing. Kultur &amp; Mitarbeitervorteile: Ein strukturiertes
+        Onboarding, flache Hierarchien und attraktive Mitarbeiterrabatte warten
+        auf dich. Bei uns gilt: Come as you are – fühl dich wohl und sei einfach
+        du selbst! Klingt nach deinem nächsten Match? Dann freuen wir uns auf
+        deine Bewerbung! Lade einfach deinen Lebenslauf und deine relevanten
+        Zeugnisse über unser Online-Portal hoch. Dein Ansprechpartner ist
+        Michael Stanke (Head of Online Marketing) . *Bei uns zählt der Mensch
+        und seine Motivation - unabhängig von Geschlecht, Herkunft, Religion
+        oder sexueller Orientierung. Bewerbungen von Menschen mit einer
+        Schwerbehinderung oder ihnen Gleichgestellten werden bei gleicher
+        Eignung bevorzugt berücksichtigt. Über benuta Seit 2008 revolutionieren
+        wir von Bonn aus den europäischen Teppich- und
+        Home-&amp;-Living-E-Commerce. Mit über 100 Millionen Euro Umsatz,
+        modernster AI-gestützter Produktinszenierung und Kunden in 17 Ländern
+        verbinden wir die Sicherheit eines etablierten Marktführers mit dem
+        Drive und den flachen Hierarchien eines Digital-Pioneers. Unser Ziel ist
+        einfach: Jedes Zuhause noch schöner zu machen. Werde Teil unseres Teams
+        und hilf uns dabei, noch mehr Menschen für unsere Produkte zu
+        begeistern. Find Jobs in Germany on Arbeitnow"
+      job_types: *a6
+      remote: false
+      score: 76
+      skill_hits: 1
+      bucket_id: digital_marketing
+      fetched_at: 2026-09-16T20:18:35.150Z
+      pulled_at: 2026-09-16T20:18:35.150Z
+      stale_days: 30
+      is_stale: true
+    - source: arbeitnow
+      source_note: ""
+      company: benuta GmbH
+      title: Senior Performance Marketing Manager – Paid Social & AI (m/w/d)
+      location: Berlin, Berlin, Deutschland
+      url: https://www.arbeitnow.com/jobs/companies/benuta-gmbh/senior-performance-marketing-manager-paid-social-ai-berlin-476502
+      updated_at: 1789569018
+      description: "Du hast die Paid-Social-Landschaft fest im Griff und nutzt KI im
+        Kampagnenmanagement nicht als Hype, sondern als tägliches Werkzeug? Du
+        möchtest datengetriebene Entscheidungen treffen, kreative Kampagnen
+        entwickeln und aktiv mitgestalten, wie modernste AI-Tools Analyse,
+        Reporting und Kreation im E-Commerce revolutionieren? Dann wartet in
+        unserem Team in Berlin deine nächste große Challenge auf dich: Bei
+        benuta übernimmst du echte Ownership für unsere Paid-Social-Kanäle und
+        treibst ein echtes Greenfield-Thema voran – die Skalierung KI-gestützter
+        Analysen, Workflows und Strategien für den europäischen Marktführer im
+        Home-&amp;-Living-Bereich! Deine Aufgaben Strategische
+        Paid-Social-Steuerung: Du entwickelst und verantwortest die
+        kanalübergreifende Paid-Social-Media-Strategie zur Erreichung unserer
+        Unternehmensziele (Brand Awareness, Lead-Gen, Performance-Ziele) und
+        richtest sie an der übergreifenden Marketingstrategie aus.
+        Kampagnenmanagement &amp; Kanal-Synergien: Du bist verantwortlich für
+        die Erstellung, das Monitoring und die Optimierung unserer
+        Paid-Social-Kampagnen (Schwerpunkt Meta, Pinterest, Reddit Ads und
+        TikTok) und arbeitest eng mit den Kolleg*innen aus Google Ads und Bing
+        Ads für eine ganzheitliche Performance-Sicht zusammen. AI-Integration
+        &amp; Workflow-Innovation: Du treibst den Einsatz von LLMs (z. B.
+        Claude, Gemini, ChatGPT) für die automatisierte Analyse und Auswertung
+        unserer Kampagnendaten aktiv voran. Du entwickelst Prompts und Workflows
+        für beschleunigtes Reporting, Anomalie-Erkennung sowie Optimierungen und
+        agierst als interner Expert für KI-gestützte Marketing-Tools. Kreative
+        Nutzung von KI: Du nutzt generative KI gezielt für Anzeigentexte,
+        Variantentests und Creative-Ideation. In engem Austausch mit dem Design-
+        und Content-Team gibst du als Senior-Ansprechperson fachlichen Input und
+        Feedback. Analyse &amp; Tracking-Setup: Du überwachst und analysierst
+        die Kampagnen-Performance anhand von KPIs (CTR, KUR, ROAS, Conversion
+        Rate) unter Nutzung unseres MMM. Du implementierst Tracking-Tools
+        (Pixel, UTM-Parameter, Conversion-APIs) und stellst eine saubere
+        Datengrundlage sicher. Testing: Du verantwortest das fortlaufende
+        A/B-Testing von Anzeigenformaten, Zielgruppen sowie Budgets und
+        bewertest neue Werbemöglichkeiten sowie KI-Werbeprodukte auf ihr
+        Potenzial für benuta. Mentoring: Du unterstützt bei der fachlichen
+        Anleitung sowie dem Onboarding von Junior-Kolleg*innen im Team und
+        teilst dein KI-Wissen. Dein Profil Ausbildung: Du hast dein Studium
+        (BWL, Marketing, Medien, Kommunikationswissenschaften o. Ä.) erfolgreich
+        abgeschlossen oder bringst eine vergleichbare Qualifikation mit.
+        Relevante Berufserfahrung: Du bringst mindestens 5 Jahre Erfahrung mit
+        Meta Ads und/oder anderen Paid-Social-Kanälen mit – idealerweise
+        inklusive nachweisbarer Budget- oder Teilprojektverantwortung. Erste
+        Erfahrung in der fachlichen Führung ist von Vorteil. AI-Expertise
+        (Must-have): Du besitzt praxiserprobte Erfahrung im Einsatz von KI-Tools
+        und LLMs im Marketing-Kontext (z. B. Prompting für Reporting,
+        Kampagnenanalysen oder Creative-Unterstützung). Du verfolgst aktuelle
+        AI-Trends aktiv und brennst darauf, eigene Ideen bei benuta
+        einzubringen. Hard Skills: Du besitzt sehr gute Kenntnisse im
+        Meta-Werbeanzeigenmanager und zeichnest dich durch ausgeprägte
+        analytische Fähigkeiten im Umgang mit gängigen
+        Reporting-/Attributions-Tools aus. Erfahrung mit Pinterest, Reddit,
+        TikTok, Bing Ads und serverseitigem Tracking ist ein Plus. Soft Skills:
+        Du arbeitest datengetrieben, denkst lösungsorientiert und begeisterst
+        dich für E-Commerce sowie die Themen Home &amp; Living. Sprachkompetenz:
+        Deine Deutsch- und Englischkenntnisse sind sehr gut (weitere Sprachen
+        sind ein Plus). Deine Benefits Impact &amp; Gestaltungsspielraum : Bei
+        uns kannst du aktiv mitgestalten, die Marke benuta weiterentwickeln und
+        spannende KI-Projekte umsetzen – wie etwa den Aufbau KI-gestützter
+        Analyse-Workflows für unsere Kampagnendaten. Deine Ideen werden gehört
+        und du bekommst Freiraum für die Umsetzung eigener Ansätze. Präsenz
+        &amp; Flexibilität: Der Schwerpunkt unserer Arbeit liegt auf dem
+        persönlichen Austausch und der gemeinsamen Zusammenarbeit vor Ort an
+        unserem Standort in Berlin. Für die nötige Flexibilität in deiner
+        Alltagsplanung - sei es für private Termine oder ungestörtes Arbeiten -
+        bieten wir dir ein jährliches Kontingent von 26 Home-Office-Tagen. Deine
+        Mobilität: Egal wie du zu uns kommst, wir unterstützen dich. Du hast die
+        Wahl zwischen einem vergünstigten Jobticket oder einer Tankkarte. Zudem
+        bieten wir dir ein Firmenrad-Leasing (JobRad) und eine gute
+        ÖPNV-Anbindung. Zeit für Erholung: Du erhältst 28 Tage Urlaub und
+        profitierst von unserem flexiblen Gleitzeitmodell. Weihnachten und
+        Silvester sind bei uns grundsätzlich arbeitsfreie Tage, die nicht von
+        deinem Urlaubskonto abgehen. Deine Entwicklung: Unsere unterschiedlichen
+        Abteilungen mit internationalen Teams arbeiten an vielfältigen Projekten
+        zusammen. Dadurch lernst Du permanent neue Sichtweisen, Tools und
+        Prozesse kennen – inklusive aktuellster KI-Anwendungen im Performance
+        Marketing. Kultur &amp; Mitarbeitervorteile: Ein strukturiertes
+        Onboarding, flache Hierarchien und attraktive Mitarbeiterrabatte warten
+        auf dich. Bei uns gilt: Come as you are – fühl dich wohl und sei einfach
+        du selbst! Klingt nach deinem nächsten Match? Dann freuen wir uns auf
+        deine Bewerbung! Lade einfach deinen Lebenslauf und deine relevanten
+        Zeugnisse über unser Online-Portal hoch. Dein Ansprechpartner ist
+        Michael Stanke (Head of Online Marketing) . *Bei uns zählt der Mensch
+        und seine Motivation - unabhängig von Geschlecht, Herkunft, Religion
+        oder sexueller Orientierung. Bewerbungen von Menschen mit einer
+        Schwerbehinderung oder ihnen Gleichgestellten werden bei gleicher
+        Eignung bevorzugt berücksichtigt. Über benuta Seit 2008 revolutionieren
+        wir von Bonn aus den europäischen Teppich- und
+        Home-&amp;-Living-E-Commerce. Mit über 100 Millionen Euro Umsatz,
+        modernster AI-gestützter Produktinszenierung und Kunden in 17 Ländern
+        verbinden wir die Sicherheit eines etablierten Marktführers mit dem
+        Drive und den flachen Hierarchien eines Digital-Pioneers. Unser Ziel ist
+        einfach: Jedes Zuhause noch schöner zu machen. Werde Teil unseres Teams
+        und hilf uns dabei, noch mehr Menschen für unsere Produkte zu
+        begeistern. Find more English Speaking Jobs in Germany on Arbeitnow"
+      job_types: *a7
+      remote: false
+      score: 76
+      skill_hits: 1
+      bucket_id: digital_marketing
+      fetched_at: 2026-09-16T20:18:35.150Z
+      pulled_at: 2026-09-16T20:18:35.150Z
+      stale_days: 30
+      is_stale: true
+    - source: recruitee
+      source_note: ""
+      company: Mainwebsolutions
+      title: SEO/SEA Manager (m/w/d) mit Fokus auf Sichtbarkeit in KI-Suchen (Remote
+        oder Würzburg)
+      location: Homeoffice, Würzburg, Deutschland
+      url: https://jobs.mainwebsolutions.de/o/seosea-manager-mwd-mit-fokus-auf-sichtbarkeit-in-ki-suchen-remote-oder-wurzburg
+      updated_at: 2026-08-04 08:48:07 UTC
+      description: "Du bist Online-Marketing-Experte mit fundierter Erfahrung in SEO /
+        SEA und willst Sichtbarkeit nicht mehr nur für Google, sondern auch für
+        ChatGPT, Perplexity und Google AI Overviews schaffen? Themen wie GEO,
+        Linkbuilding, Technical-SEO und Conversion-Tracking liegen dir, und du
+        arbeitest gerne selbstorganisiert mit deinen eigenen Kunden? Dann bist
+        du bei uns genau richtig! Wir suchen einen SEO/SEA Manager (m/w/d), der
+        klassisches Google-SEO/SEA beherrscht und mit uns die Pionierarbeit im
+        Bereich KI-Suchen mitgestaltet. Was erwartet dich bei uns? Willkommen
+        bei Mainwebsolutions, der Agentur, die Softwareentwicklung und
+        Onlinemarketing auf ein neues Level hebt! Unser Team aus Marketern und
+        Entwicklern startet jeden Tag mit einer ordentlichen Portion Humor und
+        einem morgendlichen Meeting, in dem wir uns über aktuelle Themen und
+        Fortschritte abstimmen. Anschließend tauchen wir in die Projekte ein und
+        arbeiten gemeinsam daran, den Erfolg unserer Kunden weiter zu steigern.
+        Zudem entwickeln wir laufend eigene Produkte, bei denen du mit deinen
+        Ideen und Fähigkeiten mitwirken kannst. Doch bei uns geht es nicht nur
+        um Arbeit! Wir feiern unsere Erfolge regelmäßig mit coolen Teamevents –
+        von Grillpartys auf der Dachterrasse bis zu geselligen Weinfesten. Du
+        arbeitest remote? Kein Problem - Transfer- und Übernachtungskosten für
+        Office-Besuche und Teamevents übernehmen wir selbstverständlich. Eines
+        ist sicher: Bei uns steht das Team an erster Stelle. Erlebe den Spirit
+        von Mainwebsolutions! #workatmws Dein&nbsp;Aufgabenbereich? Deine
+        Aufgaben fokussieren sich auf die digitale Sichtbarkeit deiner Kunden,
+        sowohl bei Google als auch in KI-Suchen wie ChatGPT, Perplexity und
+        Google AI Overviews. Innerhalb eines gemeinsam definierten Frameworks
+        werden dir, abhängig von Präferenz und Skill-Level, Kunden zugeteilt,
+        für deren SEO/SEA- und GEO-Betreuung du verantwortlich bist. Das umfasst
+        Analyse, Konzeption und Umsetzung: von Technical-SEO-Audits,
+        Content-Strategien und Linkbuilding über Google Ads-Kampagnen (Search,
+        Performance Max, Shopping, Demand Gen) bis hin zur Optimierung für
+        KI-Sichtbarkeit (Schema-Markup, llms.txt, Entity-Optimierung,
+        Citability-Checks). Dabei nutzt du täglich unseren hauseigenen KI-Stack,
+        den AiHub als zentrale KI-Plattform, eigene SEA-Agenten für
+        Kampagnen-Audits und Bid-Anpassungen sowie maßgeschneiderte Claude
+        Skills für GEO-Audits, Topical Cluster, Content-Briefings und vieles
+        mehr. Eigene Ideen für neue Workflows sind ausdrücklich erwünscht.
+        Wichtig ist, dass dir selbstorganisiertes, eigenständiges Arbeiten
+        liegt, wenn du mal nicht weiterkommst, stehen dir deine Kolleginnen und
+        Kollegen mit Rat und Tat zur Seite. Ready for departure? 🚀"
+      score: 74
+      skill_hits: 1
+      bucket_id: digital_marketing
+      fetched_at: 2026-09-16T20:18:35.150Z
+      pulled_at: 2026-09-16T20:18:35.150Z
+      stale_days: 30
+      is_stale: true
+    - source: recruitee
+      source_note: ""
+      company: Mainwebsolutions
+      title: SEO/SEA Werkstudent (m/w/d) mit Fokus auf Sichtbarkeit in KI-Suchen
+        (Remote oder Würzburg)
+      location: Homeoffice, Würzburg, Deutschland
+      url: https://jobs.mainwebsolutions.de/o/seosea-werkstudent-mwd-mit-fokus-auf-sichtbarkeit-in-ki-suchen-remote-oder-wurzburg
+      updated_at: 2026-08-04 17:40:57 UTC
+      description: "Du studierst, hast erste Erfahrungen in SEO oder SEA gesammelt und
+        suchst eine Werkstudentenstelle, bei der du an echten Kundenprojekten
+        mitarbeitest? Du willst dein Wissen im Google-Universum vertiefen, mit
+        modernen KI- und LLM-Tools im Marketing arbeiten und verstehen, wie
+        Marken nicht mehr nur in Google, sondern auch in ChatGPT, Perplexity und
+        Google AI Overviews sichtbar werden? Dann bewirb dich bei
+        Mainwebsolutions. Bei uns lernst du klassisches SEO/SEA von Grund auf
+        und steigst direkt in den Bereich KI-Sichtbarkeit (GEO) ein, in dem wir
+        aktuell echte Pionierarbeit leisten. Was erwartet dich bei uns?
+        Willkommen bei Mainwebsolutions, der Agentur, die Softwareentwicklung
+        und Onlinemarketing unter einem Dach vereint. Unser Team aus Marketern
+        und Entwicklern startet jeden Tag mit einer Portion Humor und einem
+        morgendlichen Team-Meeting, in dem wir uns über aktuelle Themen und
+        Fortschritte abstimmen. Anschließend tauchen wir in die Projekte ein und
+        arbeiten gemeinsam daran, den Erfolg unserer Kunden weiter zu steigern.
+        Zudem entwickeln wir laufend eigene Produkte und KI-Tools, bei denen du
+        mit deinen Ideen mitwirken kannst. Doch bei uns geht es nicht nur um
+        Arbeit. Wir feiern unsere Erfolge regelmäßig mit coolen Teamevents, von
+        Grillpartys auf der Dachterrasse über Yoga und gemeinsames Kochen bis zu
+        geselligen Weinfesten. Du arbeitest remote? Kein Problem. Transfer- und
+        Übernachtungskosten für Office-Besuche und Teamevents übernehmen wir
+        selbstverständlich. Eines ist sicher: Bei uns steht das Team an erster
+        Stelle. Erlebe den Spirit von Mainwebsolutions! #workatmws Dein
+        Aufgabenbereich? Als Werkstudent im SEO/SEA-Team unterstützt du uns
+        dabei, die digitale Sichtbarkeit unserer Kunden zu steigern, sowohl bei
+        Google als auch in KI-Suchen wie ChatGPT, Perplexity und Google AI
+        Overviews. Du arbeitest eng mit dem Team zusammen und übernimmst
+        schrittweise eigene Aufgaben in Kundenprojekten. Du führst SEO- und
+        GEO-Analysen durch, erstellst Keyword-Recherchen und Content-Briefings,
+        kümmerst dich um Content-Optimierung, Technical SEO und Linkbuilding und
+        unterstützt bei der Planung und Optimierung von Google Ads-Kampagnen.
+        Dabei arbeitest du täglich mit unserem hauseigenen KI-Stack: dem AiHub
+        als zentraler KI-Plattform, eigenen SEA-Agenten für Kampagnen-Audits und
+        maßgeschneiderten Claude Skills für GEO-Audits, Topical Cluster,
+        Content-Briefings und mehr. Du erstellst Reportings, leitest daraus
+        konkrete Optimierungspotenziale ab und kannst aktiv an der
+        Weiterentwicklung unserer internen Marketing-Tools mitwirken. Wer Lust
+        hat, eigene Workflows oder neue Claude Skills zu bauen, ist hier genau
+        richtig. Ready for departure? 🚀"
+      score: 74
+      skill_hits: 1
+      bucket_id: digital_marketing
+      fetched_at: 2026-09-16T20:18:35.150Z
+      pulled_at: 2026-09-16T20:18:35.150Z
+      stale_days: 30
+      is_stale: true
+    - source: recruitee
+      source_note: ""
+      company: Mainwebsolutions
+      title: SEO/SEA Manager (m/w/d) mit Fokus auf AI-gestütztes Online-Marketing
+        (Remote oder Würzburg)
+      location: Homeoffice, Würzburg, Deutschland
+      url: https://jobs.mainwebsolutions.de/o/seosea-manager-mwd-mit-fokus-auf-ai-gestutztes-online-marketing-remote-o-wurzburg
+      updated_at: 2026-08-05 05:50:22 UTC
+      description: "Du bist ein Online-Marketing-Experte mit tiefgehender Erfahrung in
+        SEO und SEA? Themen wie Linkbuilding, Technical-SEO oder
+        Conversion-Tracking liegen dir ebenso wie selbstorganisiertes Arbeiten
+        mit deinen zugeteilten Kunden? Du verfügst über sehr
+        gute&nbsp;organisatorische Fähigkeiten, um Maßnahmen und Aufgaben
+        eigenständig zu planen und zu verwalten? Dann bist du bei uns genau
+        richtig! Wir suchen einen SEO/SEA Manager (m/w/d) mit fundierten
+        Kenntnissen im Google-Universum und praktischer Agenturerfahrung. Was
+        erwartet dich bei uns? Willkommen bei Mainwebsolutions – der Agentur,
+        die Softwareentwicklung und Onlinemarketing auf ein neues Level hebt!
+        Unser Team besteht aus talentierten Marketern und Entwicklern, die
+        gemeinsam durchstarten. Jeder Tag beginnt mit einer ordentlichen Portion
+        Humor und einem morgendlichen Meeting, in dem wir einander über aktuelle
+        Themen und Fortschritte informieren.&nbsp;Anschließend tauchen wir in
+        die Projekte ein und arbeiten gemeinsam daran, den Erfolg unserer Kunden
+        weiter zu steigern. Zudem arbeiten wir immer wieder an eigenen
+        Produkten, bei denen du mit deinen&nbsp;Ideen und Fähigkeiten mitwirken
+        kannst.&nbsp;Doch bei uns geht es nicht nur um Arbeit! Wir feiern unsere
+        Erfolge regelmäßig mit coolen Teamevents. Von Grillpartys auf der
+        Dachterrasse bis zu geselligen Weinfesten – jeder kann sich an unseren
+        Aktivitäten beteiligen. Du arbeitest remote? Kein Problem! Runde deinen
+        Besuch bei uns doch mit ein paar Tagen im Office ab – die Transfer- und
+        Übernachtungskosten übernehmen selbstverständlich wir. Eines ist sicher:
+        Bei uns steht das Team an erster Stelle. Erlebe den Spirit von
+        Mainwebsolutions! #workatmws Dein&nbsp;Aufgabenbereich? Deine Aufgaben
+        fokussieren sich auf die digitale Sichtbarkeit bei Google. Innerhalb
+        eines gemeinsam definierten Frameworks arbeitest du an verschiedenen
+        Projekten. Was bedeutet das? Abhängig von deiner persönlichen Präferenz
+        und deinem Skill-Level werden dir Kunden zugeteilt, für deren
+        SEO/SEA-Betreuung du zuständig bist. Deine Aufgaben umfassen die
+        Analyse, Konzeption und Umsetzung von SEO- und SEA-Maßnahmen. Wichtig
+        ist hierbei, dass dir selbstorganisiertes, eigenständiges Arbeiten liegt
+        und du über notwendige organisatorische Fähigkeiten verfügst.&nbsp;Wir
+        sind überzeugt, dass du das meisterst! Und keine Sorge – wenn du mal
+        nicht weiterkommst, stehen dir deine Kolleginnen mit Rat und Tat zur
+        Seite. Unsere Mission ist es, die beste Dienstleistung zu erbringen und
+        sowohl unsere Kunden als auch eigene&nbsp;Produkte&nbsp;noch
+        erfolgreicher zu machen. Hierfür setzen wir modernste KI-Lösungen ein
+        und entwickeln eigene maßgeschneiderte KI-Tools wie beispielsweise den
+        Mainwebsolutions-AiHub.&nbsp;Ready for departure?&nbsp;🚀"
+      score: 74
+      skill_hits: 1
+      bucket_id: digital_marketing
+      fetched_at: 2026-09-16T20:18:35.150Z
+      pulled_at: 2026-09-16T20:18:35.150Z
+      stale_days: 30
+      is_stale: true
+  video_editing:
     - source: greenhouse
       source_note: ""
       company: hellofresh
@@ -9245,7 +9249,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-09-16T20:18:35.150Z
       pulled_at: 2026-09-16T20:18:35.150Z
-      stale_days: 29
+      stale_days: 30
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -9327,12 +9331,8 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-09-16T20:18:35.150Z
       pulled_at: 2026-09-16T20:18:35.150Z
-      stale_days: 29
+      stale_days: 30
       is_stale: true
-archive:
-  marketing_general: []
-  digital_marketing: []
-  video_editing: []
 meta:
   stale_after_days: 21
   inactive_after_days: 30
@@ -9357,13 +9357,13 @@ meta:
     official_career_pages: 40
     search_queries: 24
   stale_counts:
-    marketing_general: 20
-    digital_marketing: 50
-    video_editing: 8
+    marketing_general: 19
+    digital_marketing: 46
+    video_editing: 7
   inactive_counts:
-    marketing_general: 0
-    digital_marketing: 0
-    video_editing: 0
+    marketing_general: 4
+    digital_marketing: 11
+    video_editing: 2
   timings_ms:
-    fetch: 240007
-    total: 240229
+    fetch: 240008
+    total: 240257
