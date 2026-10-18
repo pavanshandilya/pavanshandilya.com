@@ -1,7 +1,7 @@
 schema_version: roles.v1
 profile_id: pooja
 profile_name: Pooja - product/scrum now, EM later
-generated_at: 2026-10-17T19:40:51.808Z
+generated_at: 2026-10-18T19:37:42.063Z
 buckets:
   pm_product:
     - source: recruitee
@@ -48,9 +48,797 @@ buckets:
       score: 92
       skill_hits: 5
       bucket_id: pm_product
+      fetched_at: 2026-10-18T19:37:42.063Z
+      pulled_at: 2026-10-18T19:37:42.063Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: TransPerfect
+      title: Associate Product Manager
+      location: Pune, Mahārāshtra, India, Pune, India
+      url: https://transperfect.com/o/associate-product-manager-1
+      updated_at: 2026-07-30 23:25:59 UTC
+      description: OVERVIEW
+        TransPerfect&nbsp;helps&nbsp;organizations&nbsp;navigate&nbsp;the&nbsp;global&nbsp;marketplace.&nbsp;It&nbsp;remains&nbsp;founder-led&nbsp;–&nbsp;and&nbsp;has&nbsp;striven&nbsp;to&nbsp;maintain&nbsp;the&nbsp;ethos&nbsp;and&nbsp;drive&nbsp;that&nbsp;led&nbsp;them&nbsp;to&nbsp;grow&nbsp;organically&nbsp;year-on-year&nbsp;for&nbsp;the&nbsp;past&nbsp;30&nbsp;years.&nbsp;Starting&nbsp;in&nbsp;an&nbsp;NYU&nbsp;dorm&nbsp;room&nbsp;in&nbsp;the&nbsp;early&nbsp;1990s,&nbsp;TransPerfect&nbsp;is&nbsp;today&nbsp;recognized&nbsp;as&nbsp;the&nbsp;largest&nbsp;translation&nbsp;and&nbsp;language&nbsp;services&nbsp;company&nbsp;in&nbsp;the&nbsp;world&nbsp;with&nbsp;thousands&nbsp;of&nbsp;employees&nbsp;located&nbsp;in&nbsp;100+&nbsp;offices&nbsp;around&nbsp;the&nbsp;world&nbsp;–&nbsp;and&nbsp;over&nbsp;$1&nbsp;billion&nbsp;in&nbsp;revenue&nbsp;in&nbsp;2023.
+        The&nbsp;TransPerfect&nbsp;TechOps&nbsp;team&nbsp;has&nbsp;been&nbsp;a&nbsp;vital&nbsp;part&nbsp;of&nbsp;the&nbsp;company’s&nbsp;success&nbsp;since&nbsp;its&nbsp;formation&nbsp;10&nbsp;years&nbsp;ago&nbsp;–&nbsp;delivering&nbsp;technology&nbsp;and&nbsp;services&nbsp;that&nbsp;have&nbsp;drastically&nbsp;simplified&nbsp;the&nbsp;lives&nbsp;of&nbsp;our&nbsp;clients&nbsp;and&nbsp;colleagues&nbsp;–&nbsp;from&nbsp;workflow&nbsp;improvements&nbsp;for&nbsp;colleagues,&nbsp;to&nbsp;core&nbsp;services&nbsp;that&nbsp;form&nbsp;the&nbsp;basis&nbsp;of&nbsp;the&nbsp;company’s&nbsp;GlobalLink&nbsp;platform,&nbsp;to&nbsp;creating&nbsp;scalable&nbsp;client&nbsp;interfaces&nbsp;that&nbsp;allow&nbsp;novice&nbsp;users&nbsp;to&nbsp;navigate&nbsp;complex&nbsp;ecosystems.
+        DESCRIPTION
+        Work&nbsp;closely&nbsp;with&nbsp;the&nbsp;Product&nbsp;Manager&nbsp;to&nbsp;align&nbsp;on&nbsp;product&nbsp;strategy&nbsp;and&nbsp;roadmap
+        Support&nbsp;the&nbsp;product&nbsp;roadmap&nbsp;that&nbsp;meets&nbsp;user&nbsp;needs&nbsp;and&nbsp;corporate&nbsp;goals
+        Write&nbsp;detailed&nbsp;user&nbsp;stories&nbsp;and&nbsp;acceptance&nbsp;criteria
+        Prioritize&nbsp;and&nbsp;groom&nbsp;the&nbsp;product&nbsp;backlog
+        Support&nbsp;the&nbsp;product&nbsp;lifecycle&nbsp;from&nbsp;planning&nbsp;to&nbsp;release
+        Participate&nbsp;in&nbsp;daily/weekly&nbsp;(agile/scrum)&nbsp;software&nbsp;development&nbsp;process&nbsp;meetings
+        Support&nbsp;delivery&nbsp;schedules&nbsp;and&nbsp;coordinate&nbsp;across&nbsp;cross-functional&nbsp;teams&nbsp;comprised&nbsp;of&nbsp;product,&nbsp;design,&nbsp;development&nbsp;and&nbsp;QA,&nbsp;to&nbsp;deliver&nbsp;functional&nbsp;solutions
+        Communicate&nbsp;daily&nbsp;with&nbsp;the&nbsp;cross-functional&nbsp;team&nbsp;to&nbsp;clarify&nbsp;any&nbsp;questions&nbsp;and&nbsp;remove&nbsp;roadblocks
+        Support&nbsp;and&nbsp;evaluate&nbsp;product&nbsp;progress&nbsp;at&nbsp;each&nbsp;stage&nbsp;of&nbsp;the&nbsp;software&nbsp;development&nbsp;process
+        Perform&nbsp;any&nbsp;other&nbsp;special&nbsp;tasks&nbsp;that&nbsp;are&nbsp;deemed&nbsp;appropriate&nbsp;for&nbsp;this&nbsp;role&nbsp;as&nbsp;assigned&nbsp;by&nbsp;the&nbsp;manager/supervisor
+        REQUIRED&nbsp;SKILLS
+        Minimum&nbsp;Bachelor’s&nbsp;degree&nbsp;or&nbsp;its&nbsp;equivalent
+        1-2&nbsp;years&nbsp;of&nbsp;related&nbsp;experience&nbsp;in&nbsp;working&nbsp;in&nbsp;an&nbsp;agile&nbsp;development&nbsp;environment
+        A&nbsp;solid&nbsp;working&nbsp;knowledge&nbsp;of&nbsp;the&nbsp;product&nbsp;management&nbsp;lifecycle&nbsp;and&nbsp;an&nbsp;understanding&nbsp;of&nbsp;the&nbsp;tenets&nbsp;of&nbsp;software&nbsp;development&nbsp;using&nbsp;Agile&nbsp;methodologies
+        Experience&nbsp;managing&nbsp;products&nbsp;or&nbsp;projects&nbsp;using&nbsp;project&nbsp;management&nbsp;tools&nbsp;such&nbsp;as&nbsp;Jira,&nbsp;Azure&nbsp;DevOps&nbsp;Server,&nbsp;Confluence,&nbsp;Trello,&nbsp;etc.&nbsp;
+        Expert&nbsp;communication&nbsp;skills:&nbsp;ability&nbsp;to&nbsp;manage&nbsp;stakeholders’&nbsp;expectations,&nbsp;be&nbsp;prepared&nbsp;to&nbsp;justify&nbsp;delays&nbsp;or&nbsp;scope&nbsp;changes,&nbsp;and&nbsp;communicate&nbsp;technical&nbsp;information&nbsp;to&nbsp;business&nbsp;stakeholders&nbsp;in&nbsp;an&nbsp;easy&nbsp;to&nbsp;understand&nbsp;way
+      score: 90
+      skill_hits: 5
+      bucket_id: pm_product
+      fetched_at: 2026-10-18T19:37:42.063Z
+      pulled_at: 2026-10-18T19:37:42.063Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: TransPerfect
+      title: Technical Product Manager
+      location: Pune, Mahārāshtra, India, Pune, India
+      url: https://transperfect.com/o/technical-product-manager
+      updated_at: 2026-07-30 15:08:53 UTC
+      description: "OVERVIEW TransPerfect helps the world's leading brands thrive in
+        the global marketplace by offering a full range of solutions to ensure
+        the success of digital and mobile initiatives. Working in 170+
+        languages, our services include website and software localization, QA
+        and testing, international SEO/SEM, customer service and call center
+        solutions, multicultural marketing, multimedia services, and more.
+        RESPOSIBILITES: TransPerfect is seeking a Technical Product Manager to
+        manage and own the product lifecycle for integration frameworks for CMS
+        &amp; e-commerce systems. This position will work with internal
+        development and QA teams and vendor partners to build integrations into
+        GlobalLink - our flagship cloud-based translation management platform.
+        We are looking for forward-thinking professionals who are more
+        interested in how things could become and who can thrive in an evolving
+        and fast-paced environment. Manage the entire product life cycle which
+        includes: Manage professional services engagements and prepare SOWs for
+        all existing customers Explore product functionality and recommend best
+        strategy to integrate Evaluate APIs and GraphQL endpoints and devise an
+        integration approach Individually carry out product deliveries from
+        inception to product roll out Design/create detailed technical
+        specifications for functional requirements Closely monitor development
+        and QA progress for ontime deliverables Do active review of test
+        strategy Planning continuous upgrades for new features Collaborate with
+        multiple teams in multiple time zones including product managers,
+        engineers, solutions engineers, QA and customers for product strategy
+        &amp; roadmap. Participate in UI/UX design. Review Documentation updates
+        Analyze application logs and debug technical issues to identify root
+        causes in collaboration with engineering teams Perform competitor
+        analysis and benchmarks and ensure that your product is always ahead of
+        the curve"
+      score: 80
+      skill_hits: 2
+      bucket_id: pm_product
+      fetched_at: 2026-10-18T19:37:42.063Z
+      pulled_at: 2026-10-18T19:37:42.063Z
+      stale_days: 0
+      is_stale: false
+    - source: arbeitnow
+      source_note: ""
+      company: Bjak
+      title: Product Manager - AI Stockbroking App
+      location: Germany
+      url: https://www.arbeitnow.com/jobs/companies/bjak/product-manager-ai-stockbroking-app-germany-396359
+      updated_at: 1792334421
+      description: "About Doit We are focused on reinventing how people spend, save,
+        invest, exchange, travel, and more. Our objective is to build tools that
+        will help people get more from their money and become an expert at ease.
+        We believe AI will help make finance smart, assessible and safe. We are
+        looking for the most talented and driven people we can find. We are
+        looking for people who work for their passion, not counting hours. Who
+        loves building great next-generation products, not status quo. Who cares
+        about redefining how everyone around us can get the best financial
+        applications, not for an exclusive few. We have teams working around the
+        world, with over 20 nationalities and growing from our offices and
+        remotely. Join us and build a better future for our society. In 2019, we
+        built the first mobile-first, insurance platform, enabling insurance to
+        be accessible online by millions in the region. Today, it's the leading
+        insurance platform in Southeast Asia. The Role We are looking for
+        product managers to own product areas within Doit's AI Stockbroking App.
+        This role is for builders who can understand users, define product
+        direction, work with engineering and design, launch fast and keep
+        improving after release. What You'll Own Own product areas across
+        insurance, payments, savings, investing, travel or other financial
+        services. Define user problems, product scope, success metrics, roadmap
+        and launch plans. Work with engineering, design, data, operations,
+        compliance and business teams. Turn complex financial products into
+        simple, usable customer journeys. Use data, feedback, research and
+        production issues to improve product decisions. Launch features, monitor
+        performance and drive iterations. Make trade-offs between speed, user
+        experience, business impact, compliance and operational complexity. What
+        We're Looking For Experience as Product Manager, Product Owner, founder,
+        growth/product operator or similar role. Strong product sense and
+        ability to simplify complex workflows. Able to work with engineers and
+        designers to ship real products. Comfortable with metrics, user
+        feedback, experiments and post-launch learning. Strong writing,
+        prioritization and stakeholder management. High ownership and ability to
+        drive work with limited guidance. Experience in fintech, insurance,
+        payments, consumer apps or high-growth products is a strong advantage.
+        The Kind of Builder We Want Starts from user problems, not feature
+        lists. Can make decisions with incomplete information. Knows how to ship
+        quickly and learn after launch. Works well with engineering without
+        hiding behind process. Honest about what changed because of their work
+        versus wider team effort. This Role Is Not For People who only write
+        decks and do not drive execution. PMs who cannot work deeply with
+        engineering. Candidates who need perfect data before making decisions.
+        People who launch features and then stop caring. PMs who exaggerate
+        business impact without understanding attribution. Location This role is
+        remote, but candidates must be based in Germany . We are hiring
+        specifically for this market, so applicants should already be based in
+        Germany . Language English is our main working language across global
+        teams. Strong English communication is required. Interview Process Our
+        process is designed to move fast: 1. Online assessment or practical task
+        2. Role-specific interview 3. CEO / final round For strong candidates,
+        we aim to complete the process and make an offer within 1 week from the
+        start of the interview process. Candidates who complete assessments
+        quickly will be prioritized. Find Jobs in Germany on Arbeitnow"
+      job_types:
+        - Full Time
+      remote: false
+      score: 80
+      skill_hits: 2
+      bucket_id: pm_product
+      fetched_at: 2026-10-18T19:37:42.063Z
+      pulled_at: 2026-10-18T19:37:42.063Z
+      stale_days: 0
+      is_stale: false
+    - source: arbeitnow
+      source_note: ""
+      company: Bjak
+      title: Product Manager - AI Stockbroking
+      location: Germany
+      url: https://www.arbeitnow.com/jobs/companies/bjak/product-manager-ai-stockbroking-germany-2631
+      updated_at: 1792334421
+      description: "About BJAK The original mission of BJAK is we believe people
+        deserve smarter ways to plan, save and grow their money. This is the
+        origin of our name. Started in 2019, we built the first mobile-first,
+        insurance platform, enabling insurance to be accessible online by
+        millions in the region. Today, its the leading insurance platform in
+        Southeast Asia. Today, we are expanding ways to help people in the
+        region — this includes spending, saving, investing, exchanging,
+        travelling, and more. Our mission is help people get more from their
+        money every day. We have teams working around the world, with over 20
+        nationalities from our offices and remotely, who truly enjoys their
+        work. We are looking for the most talented and driven people we can
+        find. We are looking for people who work for their passion, not counting
+        hours. Who loves building great next-generation products, not status
+        quo. Who cares about redefining how everyone around us can get the best
+        financial applications, not for an exclusive few. If you're this person,
+        we'd love to talk to you. The Role We are looking for product managers
+        to own product areas within BJAK's AI Stockbroking. This role is for
+        builders who can understand users, define product direction, work with
+        engineering and design, launch fast and keep improving after release.
+        What You'll Own Own product areas across insurance, payments, savings,
+        investing, travel or other financial services. Define user problems,
+        product scope, success metrics, roadmap and launch plans. Work with
+        engineering, design, data, operations, compliance and business teams.
+        Turn complex financial products into simple, usable customer journeys.
+        Use data, feedback, research and production issues to improve product
+        decisions. Launch features, monitor performance and drive iterations.
+        Make trade-offs between speed, user experience, business impact,
+        compliance and operational complexity. What We're Looking For Experience
+        as Product Manager, Product Owner, founder, growth/product operator or
+        similar role. Strong product sense and ability to simplify complex
+        workflows. Able to work with engineers and designers to ship real
+        products. Comfortable with metrics, user feedback, experiments and
+        post-launch learning. Strong writing, prioritization and stakeholder
+        management. High ownership and ability to drive work with limited
+        guidance. Experience in fintech, insurance, payments, consumer apps or
+        high-growth products is a strong advantage. The Kind of Builder We Want
+        Starts from user problems, not feature lists. Can make decisions with
+        incomplete information. Knows how to ship quickly and learn after
+        launch. Works well with engineering without hiding behind process.
+        Honest about what changed because of their work versus wider team
+        effort. This Role Is Not For People who only write decks and do not
+        drive execution. PMs who cannot work deeply with engineering. Candidates
+        who need perfect data before making decisions. People who launch
+        features and then stop caring. PMs who exaggerate business impact
+        without understanding attribution. Location This role is remote, but
+        candidates must be based in Germany. We are hiring specifically for this
+        market, so applicants should already be based in Germany. Language
+        English is our main working language across global teams. Strong English
+        communication is required. Interview Process Our process is designed to
+        move fast: 1. Online assessment or practical task 2. Role-specific
+        interview 3. CEO / final round For strong candidates, we aim to complete
+        the process and make an offer within 1 week from the start of the
+        interview process. Candidates who complete assessments quickly will be
+        prioritized. Find more English Speaking Jobs in Germany on Arbeitnow"
+      job_types:
+        - Full Time
+      remote: false
+      score: 80
+      skill_hits: 2
+      bucket_id: pm_product
+      fetched_at: 2026-10-18T19:37:42.063Z
+      pulled_at: 2026-10-18T19:37:42.063Z
+      stale_days: 0
+      is_stale: false
+    - source: arbeitnow
+      source_note: ""
+      company: Bjak
+      title: Product Manager - AI Stockbroking
+      location: Germany
+      url: https://www.arbeitnow.com/jobs/companies/bjak/product-manager-ai-stockbroking-germany-235879
+      updated_at: 1792334421
+      description: "About BJAK The original mission of BJAK is we believe people
+        deserve smarter ways to plan, save and grow their money. This is the
+        origin of our name. Started in 2019, we built the first mobile-first,
+        insurance platform, enabling insurance to be accessible online by
+        millions in the region. Today, its the leading insurance platform in
+        Southeast Asia. Today, we are expanding ways to help people in the
+        region — this includes spending, saving, investing, exchanging,
+        travelling, and more. Our mission is help people get more from their
+        money every day. We have teams working around the world, with over 20
+        nationalities from our offices and remotely, who truly enjoys their
+        work. We are looking for the most talented and driven people we can
+        find. We are looking for people who work for their passion, not counting
+        hours. Who loves building great next-generation products, not status
+        quo. Who cares about redefining how everyone around us can get the best
+        financial applications, not for an exclusive few. If you're this person,
+        we'd love to talk to you. The Role We are looking for product managers
+        to own product areas within BJAK's AI Investing. This role is for
+        builders who can understand users, define product direction, work with
+        engineering and design, launch fast and keep improving after release.
+        What You'll Own Own product areas across insurance, payments, savings,
+        investing, travel or other financial services. Define user problems,
+        product scope, success metrics, roadmap and launch plans. Work with
+        engineering, design, data, operations, compliance and business teams.
+        Turn complex financial products into simple, usable customer journeys.
+        Use data, feedback, research and production issues to improve product
+        decisions. Launch features, monitor performance and drive iterations.
+        Make trade-offs between speed, user experience, business impact,
+        compliance and operational complexity. What We're Looking For Experience
+        as Product Manager, Product Owner, founder, growth/product operator or
+        similar role. Strong product sense and ability to simplify complex
+        workflows. Able to work with engineers and designers to ship real
+        products. Comfortable with metrics, user feedback, experiments and
+        post-launch learning. Strong writing, prioritization and stakeholder
+        management. High ownership and ability to drive work with limited
+        guidance. Experience in fintech, insurance, payments, consumer apps or
+        high-growth products is a strong advantage. The Kind of Builder We Want
+        Starts from user problems, not feature lists. Can make decisions with
+        incomplete information. Knows how to ship quickly and learn after
+        launch. Works well with engineering without hiding behind process.
+        Honest about what changed because of their work versus wider team
+        effort. This Role Is Not For People who only write decks and do not
+        drive execution. PMs who cannot work deeply with engineering. Candidates
+        who need perfect data before making decisions. People who launch
+        features and then stop caring. PMs who exaggerate business impact
+        without understanding attribution. Location This role is remote, but
+        candidates must be based in Germany. We are hiring specifically for this
+        market, so applicants should already be based in Germany. Language
+        English is our main working language across global teams. Strong English
+        communication is required. Interview Process Our process is designed to
+        move fast: 1. Online assessment or practical task 2. Role-specific
+        interview 3. CEO / final round For strong candidates, we aim to complete
+        the process and make an offer within 1 week from the start of the
+        interview process. Candidates who complete assessments quickly will be
+        prioritized. Find Jobs in Germany on Arbeitnow"
+      job_types:
+        - Full Time
+      remote: false
+      score: 80
+      skill_hits: 2
+      bucket_id: pm_product
+      fetched_at: 2026-10-18T19:37:42.063Z
+      pulled_at: 2026-10-18T19:37:42.063Z
+      stale_days: 0
+      is_stale: false
+    - source: arbeitnow
+      source_note: ""
+      company: Bjak
+      title: Product Manager - AI Investing
+      location: Germany
+      url: https://www.arbeitnow.com/jobs/companies/bjak/product-manager-ai-investing-germany-432451
+      updated_at: 1792334421
+      description: "About BJAK The original mission of BJAK is we believe people
+        deserve smarter ways to plan, save and grow their money. This is the
+        origin of our name. Started in 2019, we built the first mobile-first,
+        insurance platform, enabling insurance to be accessible online by
+        millions in the region. Today, its the leading insurance platform in
+        Southeast Asia. Today, we are expanding ways to help people in the
+        region — this includes spending, saving, investing, exchanging,
+        travelling, and more. Our mission is help people get more from their
+        money every day. We have teams working around the world, with over 20
+        nationalities from our offices and remotely, who truly enjoys their
+        work. We are looking for the most talented and driven people we can
+        find. We are looking for people who work for their passion, not counting
+        hours. Who loves building great next-generation products, not status
+        quo. Who cares about redefining how everyone around us can get the best
+        financial applications, not for an exclusive few. If you're this person,
+        we'd love to talk to you. The Role We are looking for product managers
+        to own product areas within BJAK's AI Investing. This role is for
+        builders who can understand users, define product direction, work with
+        engineering and design, launch fast and keep improving after release.
+        What You'll Own Own product areas across insurance, payments, savings,
+        investing, travel or other financial services. Define user problems,
+        product scope, success metrics, roadmap and launch plans. Work with
+        engineering, design, data, operations, compliance and business teams.
+        Turn complex financial products into simple, usable customer journeys.
+        Use data, feedback, research and production issues to improve product
+        decisions. Launch features, monitor performance and drive iterations.
+        Make trade-offs between speed, user experience, business impact,
+        compliance and operational complexity. What We're Looking For Experience
+        as Product Manager, Product Owner, founder, growth/product operator or
+        similar role. Strong product sense and ability to simplify complex
+        workflows. Able to work with engineers and designers to ship real
+        products. Comfortable with metrics, user feedback, experiments and
+        post-launch learning. Strong writing, prioritization and stakeholder
+        management. High ownership and ability to drive work with limited
+        guidance. Experience in fintech, insurance, payments, consumer apps or
+        high-growth products is a strong advantage. The Kind of Builder We Want
+        Starts from user problems, not feature lists. Can make decisions with
+        incomplete information. Knows how to ship quickly and learn after
+        launch. Works well with engineering without hiding behind process.
+        Honest about what changed because of their work versus wider team
+        effort. This Role Is Not For People who only write decks and do not
+        drive execution. PMs who cannot work deeply with engineering. Candidates
+        who need perfect data before making decisions. People who launch
+        features and then stop caring. PMs who exaggerate business impact
+        without understanding attribution. Location This role is remote, but
+        candidates must be based in Germany. We are hiring specifically for this
+        market, so applicants should already be based in Germany. Language
+        English is our main working language across global teams. Strong English
+        communication is required. Interview Process Our process is designed to
+        move fast: 1. Online assessment or practical task 2. Role-specific
+        interview 3. CEO / final round For strong candidates, we aim to complete
+        the process and make an offer within 1 week from the start of the
+        interview process. Candidates who complete assessments quickly will be
+        prioritized. Find Jobs in Germany on Arbeitnow"
+      job_types:
+        - Full Time
+      remote: false
+      score: 80
+      skill_hits: 2
+      bucket_id: pm_product
+      fetched_at: 2026-10-18T19:37:42.063Z
+      pulled_at: 2026-10-18T19:37:42.063Z
+      stale_days: 0
+      is_stale: false
+    - source: arbeitnow
+      source_note: ""
+      company: Bjak
+      title: Product Manager - AI Neobank App
+      location: Germany
+      url: https://www.arbeitnow.com/jobs/companies/bjak/product-manager-ai-neobank-app-germany-485117
+      updated_at: 1792334421
+      description: "About Doit We are focused on reinventing how people spend, save,
+        invest, exchange, travel, and more. Our objective is to build tools that
+        will help people get more from their money and become an expert at ease.
+        We believe AI will help make finance smart, assessible and safe. We are
+        looking for the most talented and driven people we can find. We are
+        looking for people who work for their passion, not counting hours. Who
+        loves building great next-generation products, not status quo. Who cares
+        about redefining how everyone around us can get the best financial
+        applications, not for an exclusive few. We have teams working around the
+        world, with over 20 nationalities and growing from our offices and
+        remotely. Join us and build a better future for our society. In 2019, we
+        built the first mobile-first, insurance platform, enabling insurance to
+        be accessible online by millions in the region. Today, it's the leading
+        insurance platform in Southeast Asia. The Role We are looking for
+        product managers to own product areas within Doit's AI Neobank App. This
+        role is for builders who can understand users, define product direction,
+        work with engineering and design, launch fast and keep improving after
+        release. What You'll Own Own product areas across insurance, payments,
+        savings, investing, travel or other financial services. Define user
+        problems, product scope, success metrics, roadmap and launch plans. Work
+        with engineering, design, data, operations, compliance and business
+        teams. Turn complex financial products into simple, usable customer
+        journeys. Use data, feedback, research and production issues to improve
+        product decisions. Launch features, monitor performance and drive
+        iterations. Make trade-offs between speed, user experience, business
+        impact, compliance and operational complexity. What We're Looking For
+        Experience as Product Manager, Product Owner, founder, growth/product
+        operator or similar role. Strong product sense and ability to simplify
+        complex workflows. Able to work with engineers and designers to ship
+        real products. Comfortable with metrics, user feedback, experiments and
+        post-launch learning. Strong writing, prioritization and stakeholder
+        management. High ownership and ability to drive work with limited
+        guidance. Experience in fintech, insurance, payments, consumer apps or
+        high-growth products is a strong advantage. The Kind of Builder We Want
+        Starts from user problems, not feature lists. Can make decisions with
+        incomplete information. Knows how to ship quickly and learn after
+        launch. Works well with engineering without hiding behind process.
+        Honest about what changed because of their work versus wider team
+        effort. This Role Is Not For People who only write decks and do not
+        drive execution. PMs who cannot work deeply with engineering. Candidates
+        who need perfect data before making decisions. People who launch
+        features and then stop caring. PMs who exaggerate business impact
+        without understanding attribution. Location This role is remote, but
+        candidates must be based in Germany. We are hiring specifically for this
+        market, so applicants should already be based in Germany. Language
+        English is our main working language across global teams. Strong English
+        communication is required. Interview Process Our process is designed to
+        move fast: 1. Online assessment or practical task 2. Role-specific
+        interview 3. CEO / final round For strong candidates, we aim to complete
+        the process and make an offer within 1 week from the start of the
+        interview process. Candidates who complete assessments quickly will be
+        prioritized. Find more English Speaking Jobs in Germany on Arbeitnow"
+      job_types:
+        - Full Time
+      remote: false
+      score: 80
+      skill_hits: 2
+      bucket_id: pm_product
+      fetched_at: 2026-10-18T19:37:42.063Z
+      pulled_at: 2026-10-18T19:37:42.063Z
+      stale_days: 0
+      is_stale: false
+    - source: arbeitnow
+      source_note: ""
+      company: Bjak
+      title: Product Manager - AI Finance
+      location: Germany
+      url: https://www.arbeitnow.com/jobs/companies/bjak/product-manager-ai-finance-germany-189125
+      updated_at: 1792334421
+      description: "About BJAK The original mission of BJAK is we believe people
+        deserve smarter ways to plan, save and grow their money. This is the
+        origin of our name. Started in 2019, we built the first mobile-first,
+        insurance platform, enabling insurance to be accessible online by
+        millions in the region. Today, its the leading insurance platform in
+        Southeast Asia. Today, we are expanding ways to help people in the
+        region — this includes spending, saving, investing, exchanging,
+        travelling, and more. Our mission is help people get more from their
+        money every day. We have teams working around the world, with over 20
+        nationalities from our offices and remotely, who truly enjoys their
+        work. We are looking for the most talented and driven people we can
+        find. We are looking for people who work for their passion, not counting
+        hours. Who loves building great next-generation products, not status
+        quo. Who cares about redefining how everyone around us can get the best
+        financial applications, not for an exclusive few. If you're this person,
+        we'd love to talk to you. The Role We are looking for product managers
+        to own product areas within BJAK's AI Finance. This role is for builders
+        who can understand users, define product direction, work with
+        engineering and design, launch fast and keep improving after release.
+        What You'll Own Own product areas across insurance, payments, savings,
+        investing, travel or other financial services. Define user problems,
+        product scope, success metrics, roadmap and launch plans. Work with
+        engineering, design, data, operations, compliance and business teams.
+        Turn complex financial products into simple, usable customer journeys.
+        Use data, feedback, research and production issues to improve product
+        decisions. Launch features, monitor performance and drive iterations.
+        Make trade-offs between speed, user experience, business impact,
+        compliance and operational complexity. What We're Looking For Experience
+        as Product Manager, Product Owner, founder, growth/product operator or
+        similar role. Strong product sense and ability to simplify complex
+        workflows. Able to work with engineers and designers to ship real
+        products. Comfortable with metrics, user feedback, experiments and
+        post-launch learning. Strong writing, prioritization and stakeholder
+        management. High ownership and ability to drive work with limited
+        guidance. Experience in fintech, insurance, payments, consumer apps or
+        high-growth products is a strong advantage. The Kind of Builder We Want
+        Starts from user problems, not feature lists. Can make decisions with
+        incomplete information. Knows how to ship quickly and learn after
+        launch. Works well with engineering without hiding behind process.
+        Honest about what changed because of their work versus wider team
+        effort. This Role Is Not For People who only write decks and do not
+        drive execution. PMs who cannot work deeply with engineering. Candidates
+        who need perfect data before making decisions. People who launch
+        features and then stop caring. PMs who exaggerate business impact
+        without understanding attribution. Location This role is remote, but
+        candidates must be based in Germany. We are hiring specifically for this
+        market, so applicants should already be based in Germany. Language
+        English is our main working language across global teams. Strong English
+        communication is required. Interview Process Our process is designed to
+        move fast: 1. Online assessment or practical task 2. Role-specific
+        interview 3. CEO / final round For strong candidates, we aim to complete
+        the process and make an offer within 1 week from the start of the
+        interview process. Candidates who complete assessments quickly will be
+        prioritized. Find more English Speaking Jobs in Germany on Arbeitnow"
+      job_types:
+        - Full Time
+      remote: false
+      score: 80
+      skill_hits: 2
+      bucket_id: pm_product
+      fetched_at: 2026-10-18T19:37:42.063Z
+      pulled_at: 2026-10-18T19:37:42.063Z
+      stale_days: 0
+      is_stale: false
+    - source: arbeitnow
+      source_note: ""
+      company: Bjak
+      title: Product Manager - AI Investing
+      location: Germany
+      url: https://www.arbeitnow.com/jobs/companies/bjak/product-manager-ai-investing-germany-54588
+      updated_at: 1792334420
+      description: "About Doit We are focused on reinventing how people spend, save,
+        invest, exchange, travel, and more. Our objective is to build tools that
+        will help people get more from their money and become an expert at ease.
+        We believe AI will help make finance smart, assessible and safe. We are
+        looking for the most talented and driven people we can find. We are
+        looking for people who work for their passion, not counting hours. Who
+        loves building great next-generation products, not status quo. Who cares
+        about redefining how everyone around us can get the best financial
+        applications, not for an exclusive few. We have teams working around the
+        world, with over 20 nationalities and growing from our offices and
+        remotely. Join us and build a better future for our society. In 2019, we
+        built the first mobile-first, insurance platform, enabling insurance to
+        be accessible online by millions in the region. Today, it's the leading
+        insurance platform in Southeast Asia. The Role We are looking for
+        product managers to own product areas within Doit's AI Investing. This
+        role is for builders who can understand users, define product direction,
+        work with engineering and design, launch fast and keep improving after
+        release. What You'll Own Own product areas across insurance, payments,
+        savings, investing, travel or other financial services. Define user
+        problems, product scope, success metrics, roadmap and launch plans. Work
+        with engineering, design, data, operations, compliance and business
+        teams. Turn complex financial products into simple, usable customer
+        journeys. Use data, feedback, research and production issues to improve
+        product decisions. Launch features, monitor performance and drive
+        iterations. Make trade-offs between speed, user experience, business
+        impact, compliance and operational complexity. What We're Looking For
+        Experience as Product Manager, Product Owner, founder, growth/product
+        operator or similar role. Strong product sense and ability to simplify
+        complex workflows. Able to work with engineers and designers to ship
+        real products. Comfortable with metrics, user feedback, experiments and
+        post-launch learning. Strong writing, prioritization and stakeholder
+        management. High ownership and ability to drive work with limited
+        guidance. Experience in fintech, insurance, payments, consumer apps or
+        high-growth products is a strong advantage. The Kind of Builder We Want
+        Starts from user problems, not feature lists. Can make decisions with
+        incomplete information. Knows how to ship quickly and learn after
+        launch. Works well with engineering without hiding behind process.
+        Honest about what changed because of their work versus wider team
+        effort. This Role Is Not For People who only write decks and do not
+        drive execution. PMs who cannot work deeply with engineering. Candidates
+        who need perfect data before making decisions. People who launch
+        features and then stop caring. PMs who exaggerate business impact
+        without understanding attribution. Location This role is remote, but
+        candidates must be based in Germany. We are hiring specifically for this
+        market, so applicants should already be based in Germany. Language
+        English is our main working language across global teams. Strong English
+        communication is required. Interview Process Our process is designed to
+        move fast: 1. Online assessment or practical task 2. Role-specific
+        interview 3. CEO / final round For strong candidates, we aim to complete
+        the process and make an offer within 1 week from the start of the
+        interview process. Candidates who complete assessments quickly will be
+        prioritized. Find Jobs in Germany on Arbeitnow"
+      job_types:
+        - Full Time
+      remote: false
+      score: 80
+      skill_hits: 2
+      bucket_id: pm_product
+      fetched_at: 2026-10-18T19:37:42.063Z
+      pulled_at: 2026-10-18T19:37:42.063Z
+      stale_days: 0
+      is_stale: false
+    - source: arbeitnow
+      source_note: ""
+      company: Bjak
+      title: Product Manager - AI Finance
+      location: Germany
+      url: https://www.arbeitnow.com/jobs/companies/bjak/product-manager-ai-finance-germany-201998
+      updated_at: 1792334420
+      description: "About Doit We are focused on reinventing how people spend, save,
+        invest, exchange, travel, and more. Our objective is to build tools that
+        will help people get more from their money and become an expert at ease.
+        We believe AI will help make finance smart, assessible and safe. We are
+        looking for the most talented and driven people we can find. We are
+        looking for people who work for their passion, not counting hours. Who
+        loves building great next-generation products, not status quo. Who cares
+        about redefining how everyone around us can get the best financial
+        applications, not for an exclusive few. We have teams working around the
+        world, with over 20 nationalities and growing from our offices and
+        remotely. Join us and build a better future for our society. In 2019, we
+        built the first mobile-first, insurance platform, enabling insurance to
+        be accessible online by millions in the region. Today, it's the leading
+        insurance platform in Southeast Asia. The Role We are looking for
+        product managers to own product areas within Doit's AI Finance. This
+        role is for builders who can understand users, define product direction,
+        work with engineering and design, launch fast and keep improving after
+        release. What You'll Own Own product areas across insurance, payments,
+        savings, investing, travel or other financial services. Define user
+        problems, product scope, success metrics, roadmap and launch plans. Work
+        with engineering, design, data, operations, compliance and business
+        teams. Turn complex financial products into simple, usable customer
+        journeys. Use data, feedback, research and production issues to improve
+        product decisions. Launch features, monitor performance and drive
+        iterations. Make trade-offs between speed, user experience, business
+        impact, compliance and operational complexity. What We're Looking For
+        Experience as Product Manager, Product Owner, founder, growth/product
+        operator or similar role. Strong product sense and ability to simplify
+        complex workflows. Able to work with engineers and designers to ship
+        real products. Comfortable with metrics, user feedback, experiments and
+        post-launch learning. Strong writing, prioritization and stakeholder
+        management. High ownership and ability to drive work with limited
+        guidance. Experience in fintech, insurance, payments, consumer apps or
+        high-growth products is a strong advantage. The Kind of Builder We Want
+        Starts from user problems, not feature lists. Can make decisions with
+        incomplete information. Knows how to ship quickly and learn after
+        launch. Works well with engineering without hiding behind process.
+        Honest about what changed because of their work versus wider team
+        effort. This Role Is Not For People who only write decks and do not
+        drive execution. PMs who cannot work deeply with engineering. Candidates
+        who need perfect data before making decisions. People who launch
+        features and then stop caring. PMs who exaggerate business impact
+        without understanding attribution. Location This role is remote, but
+        candidates must be based in Germany. We are hiring specifically for this
+        market, so applicants should already be based in Germany. Language
+        English is our main working language across global teams. Strong English
+        communication is required. Interview Process Our process is designed to
+        move fast: 1. Online assessment or practical task 2. Role-specific
+        interview 3. CEO / final round For strong candidates, we aim to complete
+        the process and make an offer within 1 week from the start of the
+        interview process. Candidates who complete assessments quickly will be
+        prioritized. Find more English Speaking Jobs in Germany on Arbeitnow"
+      job_types:
+        - Full Time
+      remote: false
+      score: 80
+      skill_hits: 2
+      bucket_id: pm_product
+      fetched_at: 2026-10-18T19:37:42.063Z
+      pulled_at: 2026-10-18T19:37:42.063Z
+      stale_days: 0
+      is_stale: false
+    - source: jobicy
+      source_note: ""
+      company: Moss
+      title: Senior Product Manager (m/f/d)
+      location: Estonia,  Germany,  Poland,  UK
+      url: https://jobicy.com/jobs/155610-senior-product-manager-m-f-d
+      updated_at: 2026-10-17T14:08:44+00:00
+      description: "At Moss , we give finance professionals the power to automate
+        their day-to-day and make forward-thinking decisions. Our culture is
+        what makes that possible: we play to win, we obsess over quality, and we
+        win as One Moss, and it works. Moss closed a €35 million Series C in
+        August 2026, crossing a €1 billion valuation, and became one of Europe's
+        fintech unicorns. Join us for what's next. Our Product team is seeking a
+        Senior Product Manager to own a product area end-to-end — from problem
+        definition through delivery. You'll shape the roadmap yourself, grounded
+        in direct customer conversations, and partner with a strong
+        cross-functional team of engineers and designers to turn that vision
+        into shipped, measurable impact. You are joining at an exciting time as
+        we are defining how our experience in an AI-first finance world will
+        look like. Your responsibilities Here's a bit more on what you can
+        expect to be doing day-to-day: Own and manage the product roadmap for
+        your product area end-to-end, from discovery through delivery Define and
+        track OKRs with your squad and report progress Partner closely with
+        Engineering and Design on technical scoping, discovery, and delivery
+        Ground prioritisation in direct conversations with customers and
+        customer-facing teams - build the case for what matters rather than
+        inheriting a backlog Identify and proactively flag dependencies with
+        adjacent product teams before they become delivery risks Represent the
+        customer in cross-functional decisions and trade-off discussions Develop
+        a 12-18 months vision with focus on an AI-first UX About you We think
+        you’ll need the following experience and qualifications to succeed in
+        this role: 4+ years of product management experience, including at least
+        2 years owning a customer-facing product area end-to-end and 2 years in
+        a B2B environment You have demonstrated success in conceptualising,
+        developing, launching, and scaling products within a fast-paced
+        environment Proven experience navigating ambiguous, evidence-light
+        problem spaces and defining solutions from scratch, rather than
+        executing a pre-scoped backlog Experience partnering directly with
+        engineering on technical trade-offs and dependency management Fluent in
+        English (our working language); German is a plus In addition, here are
+        the skills and attributes we are looking for: Ownership-driven - you
+        take a problem from ambiguity to a shipped, measurable outcome without
+        waiting to be told what's next. You fundamentally care about the
+        customer. Evidence-led - you test whether the data you're using actually
+        answers the question, not just whether it points in the right direction.
+        Proactive communicator - you surface risks and dependencies early,
+        rather than after they've caused a problem. Strategic - you hold a
+        multi-quarter view of your domain, not just the next ticket.
+        Collaborative - you weigh what's best for the wider product
+        organization, not only your own roadmap. About Moss Moss is the Finance
+        AI platform for Europe's mid-sized businesses, giving companies
+        real-time visibility and full control over their spend. By automating
+        card issuing, invoice management and expenses, Moss simplifies financial
+        workflows and frees finance and accounting teams from manual,
+        administrative work. Founded in Berlin and used by more than 10,000
+        businesses including Flink, Schufa, n8n and Auto1, Moss has raised €220+
+        million to date and operates in Germany, the Netherlands, the UK and
+        further EU markets. In August 2026, Moss closed a €35 million Series C
+        led by Portage, crossing a €1 billion valuation and becoming one of
+        Europe's newest fintech unicorns. Moss is backed by investors including
+        Valar Ventures, Tiger Global, Global Founders Capital, Cherry Ventures,
+        A-Star. We're a team of 300+ people from 50+ nationalities across 5
+        offices in Europe and we hire, reward, and grow people based on Moss DNA
+        : playing to win, obsessing over quality, winning as One Moss. If that's
+        how you want to work, we want to hear from you. - here's what else to
+        expect: Top-of-market compensation package, including equity. Our
+        vibrant offices are at the heart of our culture, where in-person time
+        fuels collaboration and connection over weekly breakfasts and Friday
+        demos. Additional benefits include: 20 days “work from abroad”,
+        600EUR/GBP Learning &amp; Development Budget, and other local benefits.
+        Unless stated otherwise, benefits apply to full-time positions (interns
+        and working students receive a tailored package). By applying for the
+        above position, you will confirm that you have reviewed and agreed to
+        our Data Privacy Policy ."
+      remote: true
+      score: 78
+      skill_hits: 2
+      bucket_id: pm_product
+      fetched_at: 2026-10-18T19:37:42.063Z
+      pulled_at: 2026-10-18T19:37:42.063Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: Consultport
+      title: Product Manager (m/f/d)
+      location: Berlin, Berlin, Germany, Berlin, Germany
+      url: https://consultport.recruitee.com/o/product-manager-mfd
+      updated_at: 2026-09-15 08:12:42 UTC
+      description: Consultport is the leading digital platform that connects some of
+        the world's most iconic brands with world-class consultants. We're
+        scaling hard, and we need a PM obsessed with product-led growth (PLG).
+        This role is not about babysitting a roadmap but turning the product
+        itself into our best sales channel — removing friction, driving
+        activation, and making users fall in love before they ever talk to
+        sales.
+      score: 74
+      skill_hits: 1
+      bucket_id: pm_product
+      fetched_at: 2026-10-18T19:37:42.063Z
+      pulled_at: 2026-10-18T19:37:42.063Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: TransPerfect
+      title: Associate Product Manager
+      location: Pune, Mahārāshtra, India, Pune, India
+      url: https://transperfect.com/o/associate-product-manager
+      updated_at: 2026-08-05 06:02:31 UTC
+      description: OVERVIEW TransPerfect helps organizations navigate the global
+        marketplace. It remains founder-led – and has striven to maintain the
+        ethos and drive that led them to grow organically year-on-year for the
+        past 30 years. Starting in an NYU dorm room in the early 1990s,
+        TransPerfect is today recognized as the largest translation and language
+        services company in the world with thousands of employees located in
+        100+ offices around the world – and over $1 billion in revenue in 2023.
+        &nbsp; The TransPerfect TechOps team has been a vital part of the
+        company’s success since its formation 10 years ago – delivering
+        technology and services that have drastically simplified the lives of
+        our clients and colleagues – from workflow improvements for colleagues,
+        to core services that form the basis of the company’s GlobalLink
+        platform, to creating scalable client interfaces that allow novice users
+        to navigate complex ecosystems. DESCRIPTION
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Work closely with the Product
+        Manager to align on product strategy and roadmap
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support the product roadmap that
+        meets user needs and corporate goals
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Write detailed user stories and
+        acceptance criteria ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prioritize and
+        groom the product backlog ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support
+        the product lifecycle from planning to release
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Participate in daily/weekly
+        (agile/scrum) software development process meetings
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support delivery schedules and
+        coordinate across cross-functional teams comprised of product, design,
+        development and QA, to deliver functional solutions
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Communicate daily with the
+        cross-functional team to clarify any questions and remove roadblocks
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support and evaluate product
+        progress at each stage of the software development process
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Perform any other special tasks
+        that are deemed appropriate for this role as assigned by the
+        manager/supervisor
+      score: 92
+      skill_hits: 5
+      bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -84,7 +872,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -127,7 +915,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: jobicy
       source_note: ""
@@ -298,7 +1086,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -319,7 +1107,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -427,7 +1215,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -534,7 +1322,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-11T21:07:22.664Z
       pulled_at: 2026-10-11T21:07:22.664Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -622,7 +1410,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-11T21:07:22.664Z
       pulled_at: 2026-10-11T21:07:22.664Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -670,7 +1458,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -704,7 +1492,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -925,7 +1713,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -968,7 +1756,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -989,7 +1777,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1053,7 +1841,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1165,7 +1953,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-05T23:20:51.019Z
       pulled_at: 2026-10-05T23:20:51.019Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1213,7 +2001,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-30T21:35:30.734Z
       pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1247,7 +2035,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-30T21:35:30.734Z
       pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1340,7 +2128,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-30T21:35:30.734Z
       pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1465,7 +2253,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-30T21:35:30.734Z
       pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1508,7 +2296,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-30T21:35:30.734Z
       pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1657,7 +2445,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-30T21:35:30.734Z
       pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1774,7 +2562,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-30T21:35:30.734Z
       pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1795,7 +2583,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-30T21:35:30.734Z
       pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1843,7 +2631,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-29T21:34:20.102Z
       pulled_at: 2026-09-29T21:34:20.102Z
-      stale_days: 17
+      stale_days: 18
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1877,7 +2665,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-29T21:34:20.102Z
       pulled_at: 2026-09-29T21:34:20.102Z
-      stale_days: 17
+      stale_days: 18
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1920,7 +2708,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-29T21:34:20.102Z
       pulled_at: 2026-09-29T21:34:20.102Z
-      stale_days: 17
+      stale_days: 18
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1941,7 +2729,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-29T21:34:20.102Z
       pulled_at: 2026-09-29T21:34:20.102Z
-      stale_days: 17
+      stale_days: 18
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1989,8 +2777,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-26T20:05:59.172Z
       pulled_at: 2026-09-26T20:05:59.172Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: TransPerfect
@@ -2023,8 +2811,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-26T20:05:59.172Z
       pulled_at: 2026-09-26T20:05:59.172Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: TransPerfect
@@ -2066,8 +2854,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-26T20:05:59.172Z
       pulled_at: 2026-09-26T20:05:59.172Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: arbeitnow
       source_note: ""
       company: Bjak
@@ -2163,8 +2951,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-26T20:05:59.172Z
       pulled_at: 2026-09-26T20:05:59.172Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: Consultport
@@ -2184,8 +2972,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-26T20:05:59.172Z
       pulled_at: 2026-09-26T20:05:59.172Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: TransPerfect
@@ -2232,7 +3020,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-25T20:40:21.162Z
       pulled_at: 2026-09-25T20:40:21.162Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -2266,7 +3054,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-25T20:40:21.162Z
       pulled_at: 2026-09-25T20:40:21.162Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -2361,7 +3149,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-25T20:40:21.162Z
       pulled_at: 2026-09-25T20:40:21.162Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -2404,7 +3192,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-25T20:40:21.162Z
       pulled_at: 2026-09-25T20:40:21.162Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -2425,7 +3213,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-25T20:40:21.162Z
       pulled_at: 2026-09-25T20:40:21.162Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -2473,7 +3261,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-24T20:41:46.527Z
       pulled_at: 2026-09-24T20:41:46.527Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -2507,7 +3295,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-24T20:41:46.527Z
       pulled_at: 2026-09-24T20:41:46.527Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -2550,7 +3338,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-24T20:41:46.527Z
       pulled_at: 2026-09-24T20:41:46.527Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -2643,7 +3431,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-24T20:41:46.527Z
       pulled_at: 2026-09-24T20:41:46.527Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -2796,7 +3584,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-24T20:41:46.527Z
       pulled_at: 2026-09-24T20:41:46.527Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -2817,7 +3605,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-24T20:41:46.527Z
       pulled_at: 2026-09-24T20:41:46.527Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -2903,7 +3691,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-24T20:41:46.527Z
       pulled_at: 2026-09-24T20:41:46.527Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -2951,7 +3739,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-22T20:24:35.617Z
       pulled_at: 2026-09-22T20:24:35.617Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -2985,7 +3773,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-22T20:24:35.617Z
       pulled_at: 2026-09-22T20:24:35.617Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -3207,7 +3995,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-22T20:24:35.617Z
       pulled_at: 2026-09-22T20:24:35.617Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3250,7 +4038,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-22T20:24:35.617Z
       pulled_at: 2026-09-22T20:24:35.617Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -3487,7 +4275,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-22T20:24:35.617Z
       pulled_at: 2026-09-22T20:24:35.617Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3508,7 +4296,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-22T20:24:35.617Z
       pulled_at: 2026-09-22T20:24:35.617Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3556,7 +4344,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-21T21:15:40.949Z
       pulled_at: 2026-09-21T21:15:40.949Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3590,7 +4378,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-21T21:15:40.949Z
       pulled_at: 2026-09-21T21:15:40.949Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -3683,7 +4471,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-21T21:15:40.949Z
       pulled_at: 2026-09-21T21:15:40.949Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -3782,7 +4570,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-21T21:15:40.949Z
       pulled_at: 2026-09-21T21:15:40.949Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3825,7 +4613,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-21T21:15:40.949Z
       pulled_at: 2026-09-21T21:15:40.949Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -3941,7 +4729,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-21T21:15:40.949Z
       pulled_at: 2026-09-21T21:15:40.949Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3962,7 +4750,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-21T21:15:40.949Z
       pulled_at: 2026-09-21T21:15:40.949Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4010,7 +4798,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-19T19:31:06.864Z
       pulled_at: 2026-09-19T19:31:06.864Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4044,7 +4832,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-19T19:31:06.864Z
       pulled_at: 2026-09-19T19:31:06.864Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -4150,7 +4938,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-19T19:31:06.864Z
       pulled_at: 2026-09-19T19:31:06.864Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4193,7 +4981,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-19T19:31:06.864Z
       pulled_at: 2026-09-19T19:31:06.864Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4214,340 +5002,6 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-19T19:31:06.864Z
       pulled_at: 2026-09-19T19:31:06.864Z
-      stale_days: 28
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: TransPerfect
-      title: Associate Product Manager
-      location: Pune, Mahārāshtra, India, Pune, India
-      url: https://transperfect.com/o/associate-product-manager
-      updated_at: 2026-08-05 06:02:31 UTC
-      description: OVERVIEW TransPerfect helps organizations navigate the global
-        marketplace. It remains founder-led – and has striven to maintain the
-        ethos and drive that led them to grow organically year-on-year for the
-        past 30 years. Starting in an NYU dorm room in the early 1990s,
-        TransPerfect is today recognized as the largest translation and language
-        services company in the world with thousands of employees located in
-        100+ offices around the world – and over $1 billion in revenue in 2023.
-        &nbsp; The TransPerfect TechOps team has been a vital part of the
-        company’s success since its formation 10 years ago – delivering
-        technology and services that have drastically simplified the lives of
-        our clients and colleagues – from workflow improvements for colleagues,
-        to core services that form the basis of the company’s GlobalLink
-        platform, to creating scalable client interfaces that allow novice users
-        to navigate complex ecosystems. DESCRIPTION
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Work closely with the Product
-        Manager to align on product strategy and roadmap
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support the product roadmap that
-        meets user needs and corporate goals
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Write detailed user stories and
-        acceptance criteria ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prioritize and
-        groom the product backlog ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support
-        the product lifecycle from planning to release
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Participate in daily/weekly
-        (agile/scrum) software development process meetings
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support delivery schedules and
-        coordinate across cross-functional teams comprised of product, design,
-        development and QA, to deliver functional solutions
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Communicate daily with the
-        cross-functional team to clarify any questions and remove roadblocks
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support and evaluate product
-        progress at each stage of the software development process
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Perform any other special tasks
-        that are deemed appropriate for this role as assigned by the
-        manager/supervisor
-      score: 92
-      skill_hits: 5
-      bucket_id: pm_product
-      fetched_at: 2026-09-17T20:31:40.181Z
-      pulled_at: 2026-09-17T20:31:40.181Z
-      stale_days: 29
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: TransPerfect
-      title: Associate Product Manager
-      location: Pune, Mahārāshtra, India, Pune, India
-      url: https://transperfect.com/o/associate-product-manager-1
-      updated_at: 2026-07-30 23:25:59 UTC
-      description: OVERVIEW
-        TransPerfect&nbsp;helps&nbsp;organizations&nbsp;navigate&nbsp;the&nbsp;global&nbsp;marketplace.&nbsp;It&nbsp;remains&nbsp;founder-led&nbsp;–&nbsp;and&nbsp;has&nbsp;striven&nbsp;to&nbsp;maintain&nbsp;the&nbsp;ethos&nbsp;and&nbsp;drive&nbsp;that&nbsp;led&nbsp;them&nbsp;to&nbsp;grow&nbsp;organically&nbsp;year-on-year&nbsp;for&nbsp;the&nbsp;past&nbsp;30&nbsp;years.&nbsp;Starting&nbsp;in&nbsp;an&nbsp;NYU&nbsp;dorm&nbsp;room&nbsp;in&nbsp;the&nbsp;early&nbsp;1990s,&nbsp;TransPerfect&nbsp;is&nbsp;today&nbsp;recognized&nbsp;as&nbsp;the&nbsp;largest&nbsp;translation&nbsp;and&nbsp;language&nbsp;services&nbsp;company&nbsp;in&nbsp;the&nbsp;world&nbsp;with&nbsp;thousands&nbsp;of&nbsp;employees&nbsp;located&nbsp;in&nbsp;100+&nbsp;offices&nbsp;around&nbsp;the&nbsp;world&nbsp;–&nbsp;and&nbsp;over&nbsp;$1&nbsp;billion&nbsp;in&nbsp;revenue&nbsp;in&nbsp;2023.
-        The&nbsp;TransPerfect&nbsp;TechOps&nbsp;team&nbsp;has&nbsp;been&nbsp;a&nbsp;vital&nbsp;part&nbsp;of&nbsp;the&nbsp;company’s&nbsp;success&nbsp;since&nbsp;its&nbsp;formation&nbsp;10&nbsp;years&nbsp;ago&nbsp;–&nbsp;delivering&nbsp;technology&nbsp;and&nbsp;services&nbsp;that&nbsp;have&nbsp;drastically&nbsp;simplified&nbsp;the&nbsp;lives&nbsp;of&nbsp;our&nbsp;clients&nbsp;and&nbsp;colleagues&nbsp;–&nbsp;from&nbsp;workflow&nbsp;improvements&nbsp;for&nbsp;colleagues,&nbsp;to&nbsp;core&nbsp;services&nbsp;that&nbsp;form&nbsp;the&nbsp;basis&nbsp;of&nbsp;the&nbsp;company’s&nbsp;GlobalLink&nbsp;platform,&nbsp;to&nbsp;creating&nbsp;scalable&nbsp;client&nbsp;interfaces&nbsp;that&nbsp;allow&nbsp;novice&nbsp;users&nbsp;to&nbsp;navigate&nbsp;complex&nbsp;ecosystems.
-        DESCRIPTION
-        Work&nbsp;closely&nbsp;with&nbsp;the&nbsp;Product&nbsp;Manager&nbsp;to&nbsp;align&nbsp;on&nbsp;product&nbsp;strategy&nbsp;and&nbsp;roadmap
-        Support&nbsp;the&nbsp;product&nbsp;roadmap&nbsp;that&nbsp;meets&nbsp;user&nbsp;needs&nbsp;and&nbsp;corporate&nbsp;goals
-        Write&nbsp;detailed&nbsp;user&nbsp;stories&nbsp;and&nbsp;acceptance&nbsp;criteria
-        Prioritize&nbsp;and&nbsp;groom&nbsp;the&nbsp;product&nbsp;backlog
-        Support&nbsp;the&nbsp;product&nbsp;lifecycle&nbsp;from&nbsp;planning&nbsp;to&nbsp;release
-        Participate&nbsp;in&nbsp;daily/weekly&nbsp;(agile/scrum)&nbsp;software&nbsp;development&nbsp;process&nbsp;meetings
-        Support&nbsp;delivery&nbsp;schedules&nbsp;and&nbsp;coordinate&nbsp;across&nbsp;cross-functional&nbsp;teams&nbsp;comprised&nbsp;of&nbsp;product,&nbsp;design,&nbsp;development&nbsp;and&nbsp;QA,&nbsp;to&nbsp;deliver&nbsp;functional&nbsp;solutions
-        Communicate&nbsp;daily&nbsp;with&nbsp;the&nbsp;cross-functional&nbsp;team&nbsp;to&nbsp;clarify&nbsp;any&nbsp;questions&nbsp;and&nbsp;remove&nbsp;roadblocks
-        Support&nbsp;and&nbsp;evaluate&nbsp;product&nbsp;progress&nbsp;at&nbsp;each&nbsp;stage&nbsp;of&nbsp;the&nbsp;software&nbsp;development&nbsp;process
-        Perform&nbsp;any&nbsp;other&nbsp;special&nbsp;tasks&nbsp;that&nbsp;are&nbsp;deemed&nbsp;appropriate&nbsp;for&nbsp;this&nbsp;role&nbsp;as&nbsp;assigned&nbsp;by&nbsp;the&nbsp;manager/supervisor
-        REQUIRED&nbsp;SKILLS
-        Minimum&nbsp;Bachelor’s&nbsp;degree&nbsp;or&nbsp;its&nbsp;equivalent
-        1-2&nbsp;years&nbsp;of&nbsp;related&nbsp;experience&nbsp;in&nbsp;working&nbsp;in&nbsp;an&nbsp;agile&nbsp;development&nbsp;environment
-        A&nbsp;solid&nbsp;working&nbsp;knowledge&nbsp;of&nbsp;the&nbsp;product&nbsp;management&nbsp;lifecycle&nbsp;and&nbsp;an&nbsp;understanding&nbsp;of&nbsp;the&nbsp;tenets&nbsp;of&nbsp;software&nbsp;development&nbsp;using&nbsp;Agile&nbsp;methodologies
-        Experience&nbsp;managing&nbsp;products&nbsp;or&nbsp;projects&nbsp;using&nbsp;project&nbsp;management&nbsp;tools&nbsp;such&nbsp;as&nbsp;Jira,&nbsp;Azure&nbsp;DevOps&nbsp;Server,&nbsp;Confluence,&nbsp;Trello,&nbsp;etc.&nbsp;
-        Expert&nbsp;communication&nbsp;skills:&nbsp;ability&nbsp;to&nbsp;manage&nbsp;stakeholders’&nbsp;expectations,&nbsp;be&nbsp;prepared&nbsp;to&nbsp;justify&nbsp;delays&nbsp;or&nbsp;scope&nbsp;changes,&nbsp;and&nbsp;communicate&nbsp;technical&nbsp;information&nbsp;to&nbsp;business&nbsp;stakeholders&nbsp;in&nbsp;an&nbsp;easy&nbsp;to&nbsp;understand&nbsp;way
-      score: 90
-      skill_hits: 5
-      bucket_id: pm_product
-      fetched_at: 2026-09-17T20:31:40.181Z
-      pulled_at: 2026-09-17T20:31:40.181Z
-      stale_days: 29
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: TransPerfect
-      title: Technical Product Manager
-      location: Pune, Mahārāshtra, India, Pune, India
-      url: https://transperfect.com/o/technical-product-manager
-      updated_at: 2026-07-30 15:08:53 UTC
-      description: "OVERVIEW TransPerfect helps the world's leading brands thrive in
-        the global marketplace by offering a full range of solutions to ensure
-        the success of digital and mobile initiatives. Working in 170+
-        languages, our services include website and software localization, QA
-        and testing, international SEO/SEM, customer service and call center
-        solutions, multicultural marketing, multimedia services, and more.
-        RESPOSIBILITES: TransPerfect is seeking a Technical Product Manager to
-        manage and own the product lifecycle for integration frameworks for CMS
-        &amp; e-commerce systems. This position will work with internal
-        development and QA teams and vendor partners to build integrations into
-        GlobalLink - our flagship cloud-based translation management platform.
-        We are looking for forward-thinking professionals who are more
-        interested in how things could become and who can thrive in an evolving
-        and fast-paced environment. Manage the entire product life cycle which
-        includes: Manage professional services engagements and prepare SOWs for
-        all existing customers Explore product functionality and recommend best
-        strategy to integrate Evaluate APIs and GraphQL endpoints and devise an
-        integration approach Individually carry out product deliveries from
-        inception to product roll out Design/create detailed technical
-        specifications for functional requirements Closely monitor development
-        and QA progress for ontime deliverables Do active review of test
-        strategy Planning continuous upgrades for new features Collaborate with
-        multiple teams in multiple time zones including product managers,
-        engineers, solutions engineers, QA and customers for product strategy
-        &amp; roadmap. Participate in UI/UX design. Review Documentation updates
-        Analyze application logs and debug technical issues to identify root
-        causes in collaboration with engineering teams Perform competitor
-        analysis and benchmarks and ensure that your product is always ahead of
-        the curve"
-      score: 80
-      skill_hits: 2
-      bucket_id: pm_product
-      fetched_at: 2026-09-17T20:31:40.181Z
-      pulled_at: 2026-09-17T20:31:40.181Z
-      stale_days: 29
-      is_stale: true
-    - source: arbeitnow
-      source_note: ""
-      company: Haiilo 1
-      title: Senior Product Manager
-      location: Hamburg, Germany
-      url: https://www.arbeitnow.com/jobs/companies/haiilo-1/senior-product-manager-hamburg-425919
-      updated_at: 1789654802
-      description: "At Haiilo, we're building the digital home that connects employees
-        with the information that matters to them — reliably, efficiently, every
-        day. As our Senior Product Manager for the Analytics team, you own the
-        strategy and execution for our analytics product area end-to-end. You
-        work hands-on with a dedicated product team - partnering closely with
-        engineering and design to turn data into meaningful product experiences
-        that help our customers understand and act on what's happening in their
-        organisation. This role is hybrid with two office days per week in
-        Hamburg. 🌟 What's in it for you: Access to OpenUp for you, your family
-        and friends Urban Sports Club or Wellpass membership Lease a Bike scheme
-        Deutschlandticket subsidy 30 days holiday + 2 additional self-care days
-        Lots of room to make your mark in a growing software company Modern
-        processes and short decision-making paths — no endless approval loops
-        Who we're looking for 5+ years of proven experience as a Product Manager
-        in a B2B SaaS environment, ideally with a focus on analytics or data
-        products Solid understanding of modern product discovery and product
-        management practices Strong communication, analytical thinking, and
-        ability to work in a global, fast-moving environment Comfortable owning
-        a product roadmap - from identifying opportunities to communicating
-        changes to stakeholders Fluent english skills, german is a nice to have
-        What you'll do Own and drive the day-to-day roadmap for the analytics
-        product area, balancing strategic direction with hands-on execution Work
-        closely with your engineering lead and UI/UX designer to deliver
-        high-quality analytics experiences Develop and maintain a clear product
-        roadmap aligned to Haiilo's overall product strategy Identify market
-        trends, customer needs and opportunities to drive meaningful innovation
-        in analytics and data Act as the key liaison between your product team
-        and internal stakeholders — keeping communication structured, clear and
-        consistent Be the go-to person for product requests and ensure they're
-        handled in a structured, transparent way Foster a culture of agility,
-        collaboration and continuous improvement within your team Find Jobs in
-        Germany on Arbeitnow"
-      job_types:
-        - Full time
-      remote: false
-      score: 80
-      skill_hits: 2
-      bucket_id: pm_product
-      fetched_at: 2026-09-17T20:31:40.181Z
-      pulled_at: 2026-09-17T20:31:40.181Z
-      stale_days: 29
-      is_stale: true
-    - source: arbeitnow
-      source_note: ""
-      company: Consultport
-      title: (Senior) Product Manager
-      location: Berlin
-      url: https://www.arbeitnow.com/jobs/companies/consultport/senior-product-manager-berlin-373822
-      updated_at: 1789657227
-      description: "Consultport is the leading digital platform that connects some of
-        the world's most iconic brands with world-class consultants. We're
-        scaling hard, and we need a PM obsessed with product-led growth (PLG).
-        Tasks This role is not about babysitting a roadmap but turning the
-        product itself into our best sales channel — removing friction, driving
-        activation, and making users fall in love before they ever talk to
-        sales. What you'll do - Own the PLG strategy: activation, onboarding,
-        habit loops, and expansion - Turn data into decisions: define metrics,
-        run experiments, kill what doesn't work - Work directly with
-        Engineering, Design, and Data in a fast-moving Agile setup - Identify
-        and remove every drop of friction in the consultant and client journey -
-        Collaborate with Sales and Management to align product motions with
-        revenue Requirements - 3+ years of PM experience, ideally at a
-        marketplace or SaaS company - You know what PLG actually means and have
-        shipped it - You use AI tools daily. If you don't, don't apply - Sharp
-        analytical skills: you live in dashboards and trust numbers over
-        opinions - Strong English, both written and spoken (C1 minimum) - Based
-        in or willing to relocate to Berlin for an onsite role Benefits - Direct
-        impact on a two-sided marketplace used by thousands worldwide - A sharp,
-        driven team that moves fast and ships faster - Work from our newly
-        renovated Berlin office - Real ownership from day one - Company
-        partnership with Urban Sports Club - Contributions to your monthly
-        public transportation ticket - Unlimited snacks and drinks at the office
-        - Competitive compensation package If product-led growth is what you eat
-        for breakfast, not just a buzzword on your CV, your boarding call is now
-        . Find Jobs in Germany on Arbeitnow"
-      job_types:
-        - manager
-      remote: false
-      score: 78
-      skill_hits: 2
-      bucket_id: pm_product
-      fetched_at: 2026-09-17T20:31:40.181Z
-      pulled_at: 2026-09-17T20:31:40.181Z
-      stale_days: 29
-      is_stale: true
-    - source: arbeitnow
-      source_note: ""
-      company: Lemon Markets
-      title: Product Manager - Investing (f/m/x)
-      location: Germany  (Hybrid)
-      url: https://www.arbeitnow.com/jobs/companies/lemon-markets/product-manager-investing-berlin-463062
-      updated_at: 1789656013
-      description: "About lemon.markets 🍋 We enable anyone to be an investor. Our
-        mission is to grow investing opportunities for all European customers
-        and businesses. By empowering FinTechs, banks, and wealth managers to
-        offer investment products, we help create financial well-being for their
-        customers. lemon.markets is a Brokerage-as-a-Service platform: simple
-        digital access to capital markets through a single API. Our API-first
-        infrastructure abstracts brokerage complexity with a well-documented
-        API, a self-service customer operations portal, and a clear regulatory
-        framework, so partners can launch customer-centric, compliant products
-        in weeks, not months. As part of the dwpbank Group, we share a clear
-        goal: we enable anyone to be an investor by making investing in capital
-        markets more accessible. By combining dwpbank’s long-standing expertise
-        and stability with lemon.markets’ technology-first mindset and speed, we
-        are building a modern, modular securities services ecosystem. Together,
-        we offer faster time-to-market, modular services, and a modern customer
-        experience that helps financial service providers stay competitive and
-        respond more flexibly in a changing market. Your Mission As a Product
-        Manager in the Investing domain, you will contribute to the product
-        scope our largest partners depend on, as well as our side of the joint
-        dwpbank x lemon.markets suite. Your remit will include working with some
-        of the biggest financial institutions in Europe to deliver core
-        capabilities. These include trading mechanics, tax, corporate actions,
-        and the investing capabilities we're building jointly with dwpbank. You
-        will scope them, prioritise them, and deliver them. Reporting to the
-        Senior Product Manager, Investing, you'll drive complex,
-        multi-stakeholder commitments end-to-end. You'll work across internal
-        teams at lemon.markets, our largest partners, and dwpbank counterparts
-        in the group. Success looks like partners shipping compliant products on
-        our infrastructure without us being the bottleneck. In this role you
-        will: Own the roadmap for a set of partner-critical Investing
-        capabilities, from problem framing through to launch, adoption, and
-        iteration. Be embedded in a cross-functional crew including operations
-        and engineering, while engaging with other product teams, solutions
-        engineering, external partners, and colleagues in risk, finance, and
-        compliance. Prioritise commitments against the domain strategy using
-        quantitative and qualitative evidence, and share your trade-offs
-        internally and externally. Ensure that any partner-specific integrations
-        have longevity within our platform. Engage directly with enterprise
-        partners and prospects - scope requirements, negotiate delivery,
-        prioritise. Work with dwpbank counterparts on joint product
-        opportunities, translating between two organisations with different ways
-        of working. Propose forward-looking solutions that outlive the immediate
-        ask, rather than one-off fixes for the loudest partner. Track market and
-        regulatory developments in our space, and bring the insights back to the
-        team. You’ll be successful in this role if: You have at least 2-3 years
-        of product experience, independently shipping highly complex products.
-        You are comfortable with ambiguity - you can define a problem space,
-        structure it, and move forward without waiting for someone else to hand
-        you a spec. You argue your position based on data and evidence, and
-        iterate when the evidence changes. You can express yourself in writing.
-        Documentation, decisions, specs, partner comms - clear writing is a core
-        part of the job. You use AI tools in your day-to-day work and are
-        comfortable pushing what they can do. You are professionally fluent in
-        English and German. Experience in regulated fintech / brokerage or B2B
-        environments is a plus! How we take care of you: 🚀 Compensation
-        package: We offer you a competitive salary, based on your experience and
-        the value-add you bring to lemon.markets . 🕑 Flexible working hours: We
-        trust people to choose when they work best and avoid a rigid 9 to 5
-        mindset. You decide on the rhythm that helps you do your best work, with
-        only shared core hours from 12:00 to 16:00 to support collaboration. 🏢
-        Hybrid work setup: You can work from anywhere in Germany within a hybrid
-        model. At the same time, in-person collaboration is a key part of our
-        culture. That being said, individual contributor lemoneers work 4 or
-        more days per month on-site in our Berlin office, spending quality time
-        together with the team at events, onsites/offsites or over team dinners.
-        📈 Grow with us: We take your personal development seriously! You’ll get
-        regular mentorship and stretch opportunities, a clear career development
-        framework with frequent feedback conversations as well as an annual
-        learning budget. 🌱 People &amp; culture: You’ll feel our culture in the
-        small things, like Polaroids from our lemoneers’ first day and our
-        monthly new-joiner breakfasts. But also in the bigger things, like
-        celebrating the onboarding of new partners or our annual offsites, where
-        the whole company comes together to connect, reflect, and celebrate. 💛
-        Perks &amp; benefits: We choose benefits that add actual value. We
-        sponsor a Deutschlandticket for employees on unlimited contracts, plus
-        50% off on Beatvest - our partner for financial education and investing.
-        🏝 Workation: Get out of here! At lemon.markets you can work remotely
-        from anywhere in the EU for up to 10 consecutive days at a time, and up
-        to 60 days per year in total. Find Jobs in Germany on Arbeitnow"
-      job_types:
-        - Full Time
-      remote: false
-      score: 78
-      skill_hits: 2
-      bucket_id: pm_product
-      fetched_at: 2026-09-17T20:31:40.181Z
-      pulled_at: 2026-09-17T20:31:40.181Z
-      stale_days: 29
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: Consultport
-      title: Product Manager (m/f/d)
-      location: Berlin, Berlin, Germany, Berlin, Germany
-      url: https://consultport.recruitee.com/o/product-manager-mfd
-      updated_at: 2026-09-15 08:12:42 UTC
-      description: Consultport is the leading digital platform that connects some of
-        the world's most iconic brands with world-class consultants. We're
-        scaling hard, and we need a PM obsessed with product-led growth (PLG).
-        This role is not about babysitting a roadmap but turning the product
-        itself into our best sales channel — removing friction, driving
-        activation, and making users fall in love before they ever talk to
-        sales.
-      score: 74
-      skill_hits: 1
-      bucket_id: pm_product
-      fetched_at: 2026-09-17T20:31:40.181Z
-      pulled_at: 2026-09-17T20:31:40.181Z
       stale_days: 29
       is_stale: true
   scrum_agile:
@@ -4564,7 +5018,7 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-09-29T21:34:20.102Z
       pulled_at: 2026-09-29T21:34:20.102Z
-      stale_days: 17
+      stale_days: 18
       is_stale: false
     - source: smartrecruiters
       source_note: ""
@@ -4579,8 +5033,8 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-09-26T20:05:59.172Z
       pulled_at: 2026-09-26T20:05:59.172Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: smartrecruiters
       source_note: ""
       company: NielsenIQ
@@ -4594,8 +5048,8 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-09-26T20:05:59.172Z
       pulled_at: 2026-09-26T20:05:59.172Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: smartrecruiters
       source_note: ""
       company: Sutherland
@@ -4609,7 +5063,7 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-09-25T20:40:21.162Z
       pulled_at: 2026-09-25T20:40:21.162Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: smartrecruiters
       source_note: ""
@@ -4624,7 +5078,7 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-09-25T20:40:21.162Z
       pulled_at: 2026-09-25T20:40:21.162Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: smartrecruiters
       source_note: ""
@@ -4639,7 +5093,7 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-09-24T20:41:46.527Z
       pulled_at: 2026-09-24T20:41:46.527Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: smartrecruiters
       source_note: ""
@@ -4654,7 +5108,7 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-09-21T21:15:40.949Z
       pulled_at: 2026-09-21T21:15:40.949Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -4713,7 +5167,7 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-09-19T19:31:06.864Z
       pulled_at: 2026-09-19T19:31:06.864Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: smartrecruiters
       source_note: ""
@@ -4728,21 +5182,6 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-09-19T19:31:06.864Z
       pulled_at: 2026-09-19T19:31:06.864Z
-      stale_days: 28
-      is_stale: true
-    - source: smartrecruiters
-      source_note: ""
-      company: Cint
-      title: Scrum Master / Delivery Coach
-      location: Gurugram, HR, India
-      url: https://api.smartrecruiters.com/v1/companies/cint/postings/744000148535525
-      updated_at: 2026-09-09T15:08:54.160Z
-      description: ""
-      score: 78
-      skill_hits: 2
-      bucket_id: scrum_agile
-      fetched_at: 2026-09-17T20:31:40.181Z
-      pulled_at: 2026-09-17T20:31:40.181Z
       stale_days: 29
       is_stale: true
   program_management:
@@ -4845,8 +5284,8 @@ buckets:
       bucket_id: program_management
       fetched_at: 2026-09-26T20:05:59.172Z
       pulled_at: 2026-09-26T20:05:59.172Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
 archive:
   pm_product:
     - source: recruitee
@@ -4893,8 +5332,8 @@ archive:
       score: 92
       skill_hits: 5
       bucket_id: pm_product
-      fetched_at: 2026-09-16T20:21:50.297Z
-      pulled_at: 2026-09-16T20:21:50.297Z
+      fetched_at: 2026-09-17T20:31:40.181Z
+      pulled_at: 2026-09-17T20:31:40.181Z
       stale_days: 30
       is_stale: true
     - source: recruitee
@@ -4927,8 +5366,8 @@ archive:
       score: 90
       skill_hits: 5
       bucket_id: pm_product
-      fetched_at: 2026-09-16T20:21:50.297Z
-      pulled_at: 2026-09-16T20:21:50.297Z
+      fetched_at: 2026-09-17T20:31:40.181Z
+      pulled_at: 2026-09-17T20:31:40.181Z
       stale_days: 30
       is_stale: true
     - source: recruitee
@@ -4970,8 +5409,196 @@ archive:
       score: 80
       skill_hits: 2
       bucket_id: pm_product
-      fetched_at: 2026-09-16T20:21:50.297Z
-      pulled_at: 2026-09-16T20:21:50.297Z
+      fetched_at: 2026-09-17T20:31:40.181Z
+      pulled_at: 2026-09-17T20:31:40.181Z
+      stale_days: 30
+      is_stale: true
+    - source: arbeitnow
+      source_note: ""
+      company: Haiilo 1
+      title: Senior Product Manager
+      location: Hamburg, Germany
+      url: https://www.arbeitnow.com/jobs/companies/haiilo-1/senior-product-manager-hamburg-425919
+      updated_at: 1789654802
+      description: "At Haiilo, we're building the digital home that connects employees
+        with the information that matters to them — reliably, efficiently, every
+        day. As our Senior Product Manager for the Analytics team, you own the
+        strategy and execution for our analytics product area end-to-end. You
+        work hands-on with a dedicated product team - partnering closely with
+        engineering and design to turn data into meaningful product experiences
+        that help our customers understand and act on what's happening in their
+        organisation. This role is hybrid with two office days per week in
+        Hamburg. 🌟 What's in it for you: Access to OpenUp for you, your family
+        and friends Urban Sports Club or Wellpass membership Lease a Bike scheme
+        Deutschlandticket subsidy 30 days holiday + 2 additional self-care days
+        Lots of room to make your mark in a growing software company Modern
+        processes and short decision-making paths — no endless approval loops
+        Who we're looking for 5+ years of proven experience as a Product Manager
+        in a B2B SaaS environment, ideally with a focus on analytics or data
+        products Solid understanding of modern product discovery and product
+        management practices Strong communication, analytical thinking, and
+        ability to work in a global, fast-moving environment Comfortable owning
+        a product roadmap - from identifying opportunities to communicating
+        changes to stakeholders Fluent english skills, german is a nice to have
+        What you'll do Own and drive the day-to-day roadmap for the analytics
+        product area, balancing strategic direction with hands-on execution Work
+        closely with your engineering lead and UI/UX designer to deliver
+        high-quality analytics experiences Develop and maintain a clear product
+        roadmap aligned to Haiilo's overall product strategy Identify market
+        trends, customer needs and opportunities to drive meaningful innovation
+        in analytics and data Act as the key liaison between your product team
+        and internal stakeholders — keeping communication structured, clear and
+        consistent Be the go-to person for product requests and ensure they're
+        handled in a structured, transparent way Foster a culture of agility,
+        collaboration and continuous improvement within your team Find Jobs in
+        Germany on Arbeitnow"
+      job_types:
+        - Full time
+      remote: false
+      score: 80
+      skill_hits: 2
+      bucket_id: pm_product
+      fetched_at: 2026-09-17T20:31:40.181Z
+      pulled_at: 2026-09-17T20:31:40.181Z
+      stale_days: 30
+      is_stale: true
+    - source: arbeitnow
+      source_note: ""
+      company: Consultport
+      title: (Senior) Product Manager
+      location: Berlin
+      url: https://www.arbeitnow.com/jobs/companies/consultport/senior-product-manager-berlin-373822
+      updated_at: 1789657227
+      description: "Consultport is the leading digital platform that connects some of
+        the world's most iconic brands with world-class consultants. We're
+        scaling hard, and we need a PM obsessed with product-led growth (PLG).
+        Tasks This role is not about babysitting a roadmap but turning the
+        product itself into our best sales channel — removing friction, driving
+        activation, and making users fall in love before they ever talk to
+        sales. What you'll do - Own the PLG strategy: activation, onboarding,
+        habit loops, and expansion - Turn data into decisions: define metrics,
+        run experiments, kill what doesn't work - Work directly with
+        Engineering, Design, and Data in a fast-moving Agile setup - Identify
+        and remove every drop of friction in the consultant and client journey -
+        Collaborate with Sales and Management to align product motions with
+        revenue Requirements - 3+ years of PM experience, ideally at a
+        marketplace or SaaS company - You know what PLG actually means and have
+        shipped it - You use AI tools daily. If you don't, don't apply - Sharp
+        analytical skills: you live in dashboards and trust numbers over
+        opinions - Strong English, both written and spoken (C1 minimum) - Based
+        in or willing to relocate to Berlin for an onsite role Benefits - Direct
+        impact on a two-sided marketplace used by thousands worldwide - A sharp,
+        driven team that moves fast and ships faster - Work from our newly
+        renovated Berlin office - Real ownership from day one - Company
+        partnership with Urban Sports Club - Contributions to your monthly
+        public transportation ticket - Unlimited snacks and drinks at the office
+        - Competitive compensation package If product-led growth is what you eat
+        for breakfast, not just a buzzword on your CV, your boarding call is now
+        . Find Jobs in Germany on Arbeitnow"
+      job_types:
+        - manager
+      remote: false
+      score: 78
+      skill_hits: 2
+      bucket_id: pm_product
+      fetched_at: 2026-09-17T20:31:40.181Z
+      pulled_at: 2026-09-17T20:31:40.181Z
+      stale_days: 30
+      is_stale: true
+    - source: arbeitnow
+      source_note: ""
+      company: Lemon Markets
+      title: Product Manager - Investing (f/m/x)
+      location: Germany  (Hybrid)
+      url: https://www.arbeitnow.com/jobs/companies/lemon-markets/product-manager-investing-berlin-463062
+      updated_at: 1789656013
+      description: "About lemon.markets 🍋 We enable anyone to be an investor. Our
+        mission is to grow investing opportunities for all European customers
+        and businesses. By empowering FinTechs, banks, and wealth managers to
+        offer investment products, we help create financial well-being for their
+        customers. lemon.markets is a Brokerage-as-a-Service platform: simple
+        digital access to capital markets through a single API. Our API-first
+        infrastructure abstracts brokerage complexity with a well-documented
+        API, a self-service customer operations portal, and a clear regulatory
+        framework, so partners can launch customer-centric, compliant products
+        in weeks, not months. As part of the dwpbank Group, we share a clear
+        goal: we enable anyone to be an investor by making investing in capital
+        markets more accessible. By combining dwpbank’s long-standing expertise
+        and stability with lemon.markets’ technology-first mindset and speed, we
+        are building a modern, modular securities services ecosystem. Together,
+        we offer faster time-to-market, modular services, and a modern customer
+        experience that helps financial service providers stay competitive and
+        respond more flexibly in a changing market. Your Mission As a Product
+        Manager in the Investing domain, you will contribute to the product
+        scope our largest partners depend on, as well as our side of the joint
+        dwpbank x lemon.markets suite. Your remit will include working with some
+        of the biggest financial institutions in Europe to deliver core
+        capabilities. These include trading mechanics, tax, corporate actions,
+        and the investing capabilities we're building jointly with dwpbank. You
+        will scope them, prioritise them, and deliver them. Reporting to the
+        Senior Product Manager, Investing, you'll drive complex,
+        multi-stakeholder commitments end-to-end. You'll work across internal
+        teams at lemon.markets, our largest partners, and dwpbank counterparts
+        in the group. Success looks like partners shipping compliant products on
+        our infrastructure without us being the bottleneck. In this role you
+        will: Own the roadmap for a set of partner-critical Investing
+        capabilities, from problem framing through to launch, adoption, and
+        iteration. Be embedded in a cross-functional crew including operations
+        and engineering, while engaging with other product teams, solutions
+        engineering, external partners, and colleagues in risk, finance, and
+        compliance. Prioritise commitments against the domain strategy using
+        quantitative and qualitative evidence, and share your trade-offs
+        internally and externally. Ensure that any partner-specific integrations
+        have longevity within our platform. Engage directly with enterprise
+        partners and prospects - scope requirements, negotiate delivery,
+        prioritise. Work with dwpbank counterparts on joint product
+        opportunities, translating between two organisations with different ways
+        of working. Propose forward-looking solutions that outlive the immediate
+        ask, rather than one-off fixes for the loudest partner. Track market and
+        regulatory developments in our space, and bring the insights back to the
+        team. You’ll be successful in this role if: You have at least 2-3 years
+        of product experience, independently shipping highly complex products.
+        You are comfortable with ambiguity - you can define a problem space,
+        structure it, and move forward without waiting for someone else to hand
+        you a spec. You argue your position based on data and evidence, and
+        iterate when the evidence changes. You can express yourself in writing.
+        Documentation, decisions, specs, partner comms - clear writing is a core
+        part of the job. You use AI tools in your day-to-day work and are
+        comfortable pushing what they can do. You are professionally fluent in
+        English and German. Experience in regulated fintech / brokerage or B2B
+        environments is a plus! How we take care of you: 🚀 Compensation
+        package: We offer you a competitive salary, based on your experience and
+        the value-add you bring to lemon.markets . 🕑 Flexible working hours: We
+        trust people to choose when they work best and avoid a rigid 9 to 5
+        mindset. You decide on the rhythm that helps you do your best work, with
+        only shared core hours from 12:00 to 16:00 to support collaboration. 🏢
+        Hybrid work setup: You can work from anywhere in Germany within a hybrid
+        model. At the same time, in-person collaboration is a key part of our
+        culture. That being said, individual contributor lemoneers work 4 or
+        more days per month on-site in our Berlin office, spending quality time
+        together with the team at events, onsites/offsites or over team dinners.
+        📈 Grow with us: We take your personal development seriously! You’ll get
+        regular mentorship and stretch opportunities, a clear career development
+        framework with frequent feedback conversations as well as an annual
+        learning budget. 🌱 People &amp; culture: You’ll feel our culture in the
+        small things, like Polaroids from our lemoneers’ first day and our
+        monthly new-joiner breakfasts. But also in the bigger things, like
+        celebrating the onboarding of new partners or our annual offsites, where
+        the whole company comes together to connect, reflect, and celebrate. 💛
+        Perks &amp; benefits: We choose benefits that add actual value. We
+        sponsor a Deutschlandticket for employees on unlimited contracts, plus
+        50% off on Beatvest - our partner for financial education and investing.
+        🏝 Workation: Get out of here! At lemon.markets you can work remotely
+        from anywhere in the EU for up to 10 consecutive days at a time, and up
+        to 60 days per year in total. Find Jobs in Germany on Arbeitnow"
+      job_types:
+        - Full Time
+      remote: false
+      score: 78
+      skill_hits: 2
+      bucket_id: pm_product
+      fetched_at: 2026-09-17T20:31:40.181Z
+      pulled_at: 2026-09-17T20:31:40.181Z
       stale_days: 30
       is_stale: true
     - source: recruitee
@@ -4991,8 +5618,8 @@ archive:
       score: 74
       skill_hits: 1
       bucket_id: pm_product
-      fetched_at: 2026-09-16T20:21:50.297Z
-      pulled_at: 2026-09-16T20:21:50.297Z
+      fetched_at: 2026-09-17T20:31:40.181Z
+      pulled_at: 2026-09-17T20:31:40.181Z
       stale_days: 30
       is_stale: true
   scrum_agile:
@@ -5007,8 +5634,8 @@ archive:
       score: 78
       skill_hits: 2
       bucket_id: scrum_agile
-      fetched_at: 2026-09-16T20:21:50.297Z
-      pulled_at: 2026-09-16T20:21:50.297Z
+      fetched_at: 2026-09-17T20:31:40.181Z
+      pulled_at: 2026-09-17T20:31:40.181Z
       stale_days: 30
       is_stale: true
   program_management: []
@@ -5036,13 +5663,13 @@ meta:
     official_career_pages: 20
     search_queries: 20
   stale_counts:
-    pm_product: 37
-    scrum_agile: 7
-    program_management: 0
+    pm_product: 35
+    scrum_agile: 8
+    program_management: 1
   inactive_counts:
-    pm_product: 4
+    pm_product: 7
     scrum_agile: 1
     program_management: 0
   timings_ms:
-    fetch: 240008
-    total: 240206
+    fetch: 239189
+    total: 265748
