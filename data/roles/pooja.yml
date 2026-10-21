@@ -1,7 +1,7 @@
 schema_version: roles.v1
 profile_id: pooja
 profile_name: Pooja - product/scrum now, EM later
-generated_at: 2026-10-20T20:51:23.421Z
+generated_at: 2026-10-21T20:51:32.768Z
 buckets:
   pm_product:
     - source: recruitee
@@ -48,9 +48,317 @@ buckets:
       score: 92
       skill_hits: 5
       bucket_id: pm_product
+      fetched_at: 2026-10-21T20:51:32.768Z
+      pulled_at: 2026-10-21T20:51:32.768Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: TransPerfect
+      title: Associate Product Manager
+      location: Pune, Mahārāshtra, India, Pune, India
+      url: https://transperfect.com/o/associate-product-manager-1
+      updated_at: 2026-07-30 23:25:59 UTC
+      description: OVERVIEW
+        TransPerfect&nbsp;helps&nbsp;organizations&nbsp;navigate&nbsp;the&nbsp;global&nbsp;marketplace.&nbsp;It&nbsp;remains&nbsp;founder-led&nbsp;–&nbsp;and&nbsp;has&nbsp;striven&nbsp;to&nbsp;maintain&nbsp;the&nbsp;ethos&nbsp;and&nbsp;drive&nbsp;that&nbsp;led&nbsp;them&nbsp;to&nbsp;grow&nbsp;organically&nbsp;year-on-year&nbsp;for&nbsp;the&nbsp;past&nbsp;30&nbsp;years.&nbsp;Starting&nbsp;in&nbsp;an&nbsp;NYU&nbsp;dorm&nbsp;room&nbsp;in&nbsp;the&nbsp;early&nbsp;1990s,&nbsp;TransPerfect&nbsp;is&nbsp;today&nbsp;recognized&nbsp;as&nbsp;the&nbsp;largest&nbsp;translation&nbsp;and&nbsp;language&nbsp;services&nbsp;company&nbsp;in&nbsp;the&nbsp;world&nbsp;with&nbsp;thousands&nbsp;of&nbsp;employees&nbsp;located&nbsp;in&nbsp;100+&nbsp;offices&nbsp;around&nbsp;the&nbsp;world&nbsp;–&nbsp;and&nbsp;over&nbsp;$1&nbsp;billion&nbsp;in&nbsp;revenue&nbsp;in&nbsp;2023.
+        The&nbsp;TransPerfect&nbsp;TechOps&nbsp;team&nbsp;has&nbsp;been&nbsp;a&nbsp;vital&nbsp;part&nbsp;of&nbsp;the&nbsp;company’s&nbsp;success&nbsp;since&nbsp;its&nbsp;formation&nbsp;10&nbsp;years&nbsp;ago&nbsp;–&nbsp;delivering&nbsp;technology&nbsp;and&nbsp;services&nbsp;that&nbsp;have&nbsp;drastically&nbsp;simplified&nbsp;the&nbsp;lives&nbsp;of&nbsp;our&nbsp;clients&nbsp;and&nbsp;colleagues&nbsp;–&nbsp;from&nbsp;workflow&nbsp;improvements&nbsp;for&nbsp;colleagues,&nbsp;to&nbsp;core&nbsp;services&nbsp;that&nbsp;form&nbsp;the&nbsp;basis&nbsp;of&nbsp;the&nbsp;company’s&nbsp;GlobalLink&nbsp;platform,&nbsp;to&nbsp;creating&nbsp;scalable&nbsp;client&nbsp;interfaces&nbsp;that&nbsp;allow&nbsp;novice&nbsp;users&nbsp;to&nbsp;navigate&nbsp;complex&nbsp;ecosystems.
+        DESCRIPTION
+        Work&nbsp;closely&nbsp;with&nbsp;the&nbsp;Product&nbsp;Manager&nbsp;to&nbsp;align&nbsp;on&nbsp;product&nbsp;strategy&nbsp;and&nbsp;roadmap
+        Support&nbsp;the&nbsp;product&nbsp;roadmap&nbsp;that&nbsp;meets&nbsp;user&nbsp;needs&nbsp;and&nbsp;corporate&nbsp;goals
+        Write&nbsp;detailed&nbsp;user&nbsp;stories&nbsp;and&nbsp;acceptance&nbsp;criteria
+        Prioritize&nbsp;and&nbsp;groom&nbsp;the&nbsp;product&nbsp;backlog
+        Support&nbsp;the&nbsp;product&nbsp;lifecycle&nbsp;from&nbsp;planning&nbsp;to&nbsp;release
+        Participate&nbsp;in&nbsp;daily/weekly&nbsp;(agile/scrum)&nbsp;software&nbsp;development&nbsp;process&nbsp;meetings
+        Support&nbsp;delivery&nbsp;schedules&nbsp;and&nbsp;coordinate&nbsp;across&nbsp;cross-functional&nbsp;teams&nbsp;comprised&nbsp;of&nbsp;product,&nbsp;design,&nbsp;development&nbsp;and&nbsp;QA,&nbsp;to&nbsp;deliver&nbsp;functional&nbsp;solutions
+        Communicate&nbsp;daily&nbsp;with&nbsp;the&nbsp;cross-functional&nbsp;team&nbsp;to&nbsp;clarify&nbsp;any&nbsp;questions&nbsp;and&nbsp;remove&nbsp;roadblocks
+        Support&nbsp;and&nbsp;evaluate&nbsp;product&nbsp;progress&nbsp;at&nbsp;each&nbsp;stage&nbsp;of&nbsp;the&nbsp;software&nbsp;development&nbsp;process
+        Perform&nbsp;any&nbsp;other&nbsp;special&nbsp;tasks&nbsp;that&nbsp;are&nbsp;deemed&nbsp;appropriate&nbsp;for&nbsp;this&nbsp;role&nbsp;as&nbsp;assigned&nbsp;by&nbsp;the&nbsp;manager/supervisor
+        REQUIRED&nbsp;SKILLS
+        Minimum&nbsp;Bachelor’s&nbsp;degree&nbsp;or&nbsp;its&nbsp;equivalent
+        1-2&nbsp;years&nbsp;of&nbsp;related&nbsp;experience&nbsp;in&nbsp;working&nbsp;in&nbsp;an&nbsp;agile&nbsp;development&nbsp;environment
+        A&nbsp;solid&nbsp;working&nbsp;knowledge&nbsp;of&nbsp;the&nbsp;product&nbsp;management&nbsp;lifecycle&nbsp;and&nbsp;an&nbsp;understanding&nbsp;of&nbsp;the&nbsp;tenets&nbsp;of&nbsp;software&nbsp;development&nbsp;using&nbsp;Agile&nbsp;methodologies
+        Experience&nbsp;managing&nbsp;products&nbsp;or&nbsp;projects&nbsp;using&nbsp;project&nbsp;management&nbsp;tools&nbsp;such&nbsp;as&nbsp;Jira,&nbsp;Azure&nbsp;DevOps&nbsp;Server,&nbsp;Confluence,&nbsp;Trello,&nbsp;etc.&nbsp;
+        Expert&nbsp;communication&nbsp;skills:&nbsp;ability&nbsp;to&nbsp;manage&nbsp;stakeholders’&nbsp;expectations,&nbsp;be&nbsp;prepared&nbsp;to&nbsp;justify&nbsp;delays&nbsp;or&nbsp;scope&nbsp;changes,&nbsp;and&nbsp;communicate&nbsp;technical&nbsp;information&nbsp;to&nbsp;business&nbsp;stakeholders&nbsp;in&nbsp;an&nbsp;easy&nbsp;to&nbsp;understand&nbsp;way
+      score: 90
+      skill_hits: 5
+      bucket_id: pm_product
+      fetched_at: 2026-10-21T20:51:32.768Z
+      pulled_at: 2026-10-21T20:51:32.768Z
+      stale_days: 0
+      is_stale: false
+    - source: arbeitnow
+      source_note: ""
+      company: Vinteden
+      title: Product Manager, Marketplace
+      location: Berlin
+      url: https://www.arbeitnow.com/jobs/companies/vinteden/product-manager-marketplace-berlin-155989
+      updated_at: 1792594514
+      description: "&lt;div
+        class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;Brief info
+        about Vinted&amp;nbsp;&lt;/strong&gt;&lt;/h2&gt; &lt;p
+        data-renderer-start-pos=&quot;1&quot;&gt;&lt;span
+        data-sheets-root=&quot;1&quot;&gt;Our mission is to make second-hand the
+        first choice, and we&#39;re looking for people who want to help us get
+        there. Every day, we work together to help our members buy and sell
+        pre-loved clothing and lifestyle items, giving each piece a second life
+        – or even a third. &lt;br&gt;The Vinted Group is made up of three
+        business units that support this
+        mission:&lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;a
+        href=&quot;https://careers.vinted.com/marketplace&quot;
+        target=&quot;_blank&quot;&gt;Vinted Marketplace&lt;/a&gt;&lt;/strong&gt;
+        is Europe’s leading platform for second-hand fashion and a go-to
+        destination for all kinds of pre-loved items, with a growing range of
+        categories. Our platform connects millions of members across 20+
+        markets, helping great items find a new life.&lt;br&gt;&lt;br&gt;&lt;a
+        href=&quot;https://careers.vinted.com/vintedgo&quot;
+        target=&quot;_blank&quot;&gt;&lt;strong&gt;Vinted
+        Go&lt;/strong&gt;&lt;/a&gt; enhances the shipping experience with a vast
+        network of over 500,000 pick-up and drop-off points, partnering with
+        more than 60 carriers across Europe, with added services like item
+        verification for peace of mind on high-value
+        pieces.&lt;br&gt;&lt;br&gt;&lt;a
+        href=&quot;https://careers.vinted.com/vintedpay&quot;
+        target=&quot;_blank&quot;&gt;&lt;strong&gt;Vinted
+        Pay&lt;/strong&gt;&lt;/a&gt; is the newest part of the Vinted Group,
+        dedicated to bringing secure, reliable payments to buyers and sellers
+        across Europe. Seamlessly integrated into the Vinted app, it helps keep
+        every transaction safe, efficient, and easy for our
+        members.&lt;br&gt;&lt;br&gt;Founded in 2008 in Lithuania, Vinted began
+        as a way for friends to find new homes for clothes they no longer
+        needed. In 2019, we became Lithuania&#39;s first unicorn! Today, our
+        headquarters remain in Vilnius, and we&#39;ve grown with offices across
+        Europe, supported by a team of over 2,000
+        people.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;stron\
+        g&gt;Information about the position&amp;nbsp;&lt;/strong&gt;&lt;/h2&gt;
+        &lt;p&gt;We’re looking for Product Managers to join Vinted Marketplace
+        within our Security domain. The Security domain protects member accounts
+        and keeps the platform safe by securing sign-up and login for both
+        individuals and businesses. We prevent fake or malicious registrations
+        and automated bot activity, manage email/phone verification and
+        two-factor authentication, reduce account takeovers, detect
+        inappropriate multiple-account use, and build the core systems that
+        power identity, verification, and additional security checks when
+        needed.&lt;/p&gt; &lt;p&gt;Depending on your experience and interests,
+        you will join one of three teams tackling meaningful problems for our
+        business and members:&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Multiple
+        Accounts: &lt;/strong&gt;Shape how multiple accounts and profiles work
+        on Vinted, with an immediate priority on creating a safe, easy-to-use
+        experience for minors and teens (including parental controls,
+        compliance, and safety mechanisms), while expanding support for broader
+        usage patterns.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Registration:
+        &lt;/strong&gt;Protect genuine users while preventing malicious actors,
+        focusing on end-to-end registration flows, UX-first adaptive
+        registration, and defense mechanisms against bot activity.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Verification: &lt;/strong&gt;Own email/phone
+        verification (2FA), identity check mechanisms, and friction platforms,
+        ensuring seamless, scalable verification for genuine members while
+        stopping compromised or fake accounts.&lt;/p&gt; &lt;p&gt;In close
+        partnership with teams across your domain and neighboring areas, you’ll
+        collaborate with Product Design, Product Analytics, Engineering, and
+        cross-functional leadership to drive real impact.&lt;/p&gt;
+        &lt;h2&gt;&lt;strong&gt;In this position,
+        you’ll&amp;nbsp;&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Drive
+        and align the vision, product strategy, and measurable OKRs for your
+        ownership area, connecting member problems to business
+        opportunities.&lt;/li&gt; &lt;li&gt;Conduct rigorous product discovery,
+        framing complex member, safety, security, and business problems using
+        both qualitative research and quantitative analytics.&lt;/li&gt;
+        &lt;li&gt;Partner closely with Engineering, Design, Data, Research,
+        Legal, Compliance, Operations, Member Support, and external 3rd-party
+        vendors.&lt;/li&gt; &lt;li&gt;Understand end-to-end user journeys,
+        technical architecture constraints, safety signals, and platform
+        ecosystem dynamics for both genuine users and malicious
+        actors.&lt;/li&gt; &lt;li&gt;Oversee the product development cycle using
+        agile methodologies, making clear trade-offs, managing roadmaps, running
+        hypothesis-based experiments (A/B testing), and iterating based on
+        data.&lt;/li&gt; &lt;li&gt;Ensure regulatory, legal, and security
+        requirements are integrated into product decisions from the start
+        without compromising a smooth member journey.&lt;/li&gt; &lt;li&gt;Bring
+        clarity to ambiguous problem spaces and communicate effectively across
+        technical and non-technical stakeholders and leadership.&lt;/li&gt;
+        &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;About
+        you&amp;nbsp;&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Several
+        years of product management experience in a fast-paced, cross-functional
+        tech environment, with a track record across the full product
+        lifecycle.&lt;/li&gt; &lt;li&gt;Proven experience or strong interest in
+        Trust &amp;amp; Safety, Security, Registration/Onboarding, Bot
+        Detection, Identity, Parental Controls, Compliance, or Fraud/Abuse
+        Prevention.&lt;/li&gt; &lt;li&gt;A strong self-starter who thrives in
+        ambiguous environments, bringing structure, defining scope, and
+        translating complex concepts into actionable product steps.&lt;/li&gt;
+        &lt;li&gt;Deeply member-centric with an analytical mindset, skilled at
+        using qualitative insights and quantitative data to make product
+        decisions, track metrics, and evaluate A/B tests.&lt;/li&gt;
+        &lt;li&gt;Comfortable understanding technical architecture and
+        infrastructure constraints; hands-on and willing to dig into details to
+        unblock execution.&lt;/li&gt; &lt;li&gt;Excellent written and verbal
+        communicator who can bridge technical, design, legal, and operational
+        conversations to align stakeholders and influence priorities.&lt;/li&gt;
+        &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;Work perks&amp;nbsp;
+        &lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;The opportunity to
+        benefit from our share options programme&lt;/li&gt; &lt;li&gt;30 days of
+        paid annual leave&lt;/li&gt; &lt;li&gt;Newest MacBook models&lt;/li&gt;
+        &lt;li&gt;Digital mental and emotional health support and Employee
+        Assistant Program (EAP)&lt;/li&gt; &lt;li&gt;Home office support: we
+        provide IT workstation equipment and a personal budget of up to €540 for
+        home workplace furniture&lt;/li&gt; &lt;li&gt;Lunch benefit per your
+        workday&lt;/li&gt; &lt;li&gt;Frequent team-building events&lt;/li&gt;
+        &lt;li&gt;A personal monthly budget for shopping on Vinted&lt;/li&gt;
+        &lt;li&gt;Access to a discounted gym membership plan&lt;/li&gt;
+        &lt;li&gt;Pension Plan with Vinted matching 150% of your chosen
+        contribution&lt;/li&gt; &lt;li&gt;Supplemental Private Health
+        Insurance&lt;/li&gt; &lt;li&gt;Life and Disability insurance&lt;/li&gt;
+        &lt;li&gt;A subsidised Deutschlandticket for your commute to the office
+        by public transport&lt;/li&gt; &lt;li&gt;The opportunity to spend up to
+        90 days per year - 21 of which can be spent working outside of the EU -
+        on workation&lt;/li&gt; &lt;li&gt;A dog-friendly office&lt;/li&gt;
+        &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;Working at
+        Vinted&amp;nbsp;&lt;/strong&gt;&lt;/h2&gt;
+        &lt;p&gt;&lt;strong&gt;Individual Learning
+        Budget&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;We invest in your professional
+        growth! As part of our commitment to continuous learning, we offer an
+        annual learning budget to support your personal and career development
+        through courses, certifications, workshops and more.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Hybrid Work&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
+        &lt;p&gt;We’ve adopted a hybrid workplace model where 2 days in the
+        office are recommended but not enforced. It’s up to you and your team to
+        decide on the exact days you’ll spend working together in
+        person.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Equal
+        Opportunity&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;The Vinted Group is
+        committed to building an inclusive workplace where people from all walks
+        of life feel a sense of belonging. We welcome applications from people
+        of all backgrounds, identities and life experiences. At Vinted, all
+        applicants are treated fairly without regard to their race, age,
+        religion or belief, sex, national origin, citizenship, gender identity,
+        sexual orientation, disability, or any other protected
+        characteristic.&lt;/p&gt;&lt;div
+        class=&quot;content-pay-transparency&quot;&gt;&lt;div
+        class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;The
+        annual gross salary range for this position is:&lt;/div&gt;&lt;div
+        class=&quot;pay-range&quot;&gt;&lt;span&gt;€73.100&lt;/span&gt;&lt;span
+        class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;€98.900
+        EUR&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt; Find more English
+        Speaking Jobs in Germany on Arbeitnow"
+      job_types: []
+      remote: false
+      score: 84
+      skill_hits: 3
+      bucket_id: pm_product
+      fetched_at: 2026-10-21T20:51:32.768Z
+      pulled_at: 2026-10-21T20:51:32.768Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: TransPerfect
+      title: Technical Product Manager
+      location: Pune, Mahārāshtra, India, Pune, India
+      url: https://transperfect.com/o/technical-product-manager
+      updated_at: 2026-07-30 15:08:53 UTC
+      description: "OVERVIEW TransPerfect helps the world's leading brands thrive in
+        the global marketplace by offering a full range of solutions to ensure
+        the success of digital and mobile initiatives. Working in 170+
+        languages, our services include website and software localization, QA
+        and testing, international SEO/SEM, customer service and call center
+        solutions, multicultural marketing, multimedia services, and more.
+        RESPOSIBILITES: TransPerfect is seeking a Technical Product Manager to
+        manage and own the product lifecycle for integration frameworks for CMS
+        &amp; e-commerce systems. This position will work with internal
+        development and QA teams and vendor partners to build integrations into
+        GlobalLink - our flagship cloud-based translation management platform.
+        We are looking for forward-thinking professionals who are more
+        interested in how things could become and who can thrive in an evolving
+        and fast-paced environment. Manage the entire product life cycle which
+        includes: Manage professional services engagements and prepare SOWs for
+        all existing customers Explore product functionality and recommend best
+        strategy to integrate Evaluate APIs and GraphQL endpoints and devise an
+        integration approach Individually carry out product deliveries from
+        inception to product roll out Design/create detailed technical
+        specifications for functional requirements Closely monitor development
+        and QA progress for ontime deliverables Do active review of test
+        strategy Planning continuous upgrades for new features Collaborate with
+        multiple teams in multiple time zones including product managers,
+        engineers, solutions engineers, QA and customers for product strategy
+        &amp; roadmap. Participate in UI/UX design. Review Documentation updates
+        Analyze application logs and debug technical issues to identify root
+        causes in collaboration with engineering teams Perform competitor
+        analysis and benchmarks and ensure that your product is always ahead of
+        the curve"
+      score: 80
+      skill_hits: 2
+      bucket_id: pm_product
+      fetched_at: 2026-10-21T20:51:32.768Z
+      pulled_at: 2026-10-21T20:51:32.768Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: Consultport
+      title: Product Manager (m/f/d)
+      location: Berlin, Berlin, Germany, Berlin, Germany
+      url: https://consultport.recruitee.com/o/product-manager-mfd
+      updated_at: 2026-09-15 08:12:42 UTC
+      description: Consultport is the leading digital platform that connects some of
+        the world's most iconic brands with world-class consultants. We're
+        scaling hard, and we need a PM obsessed with product-led growth (PLG).
+        This role is not about babysitting a roadmap but turning the product
+        itself into our best sales channel — removing friction, driving
+        activation, and making users fall in love before they ever talk to
+        sales.
+      score: 74
+      skill_hits: 1
+      bucket_id: pm_product
+      fetched_at: 2026-10-21T20:51:32.768Z
+      pulled_at: 2026-10-21T20:51:32.768Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: TransPerfect
+      title: Associate Product Manager
+      location: Pune, Mahārāshtra, India, Pune, India
+      url: https://transperfect.com/o/associate-product-manager
+      updated_at: 2026-08-05 06:02:31 UTC
+      description: OVERVIEW TransPerfect helps organizations navigate the global
+        marketplace. It remains founder-led – and has striven to maintain the
+        ethos and drive that led them to grow organically year-on-year for the
+        past 30 years. Starting in an NYU dorm room in the early 1990s,
+        TransPerfect is today recognized as the largest translation and language
+        services company in the world with thousands of employees located in
+        100+ offices around the world – and over $1 billion in revenue in 2023.
+        &nbsp; The TransPerfect TechOps team has been a vital part of the
+        company’s success since its formation 10 years ago – delivering
+        technology and services that have drastically simplified the lives of
+        our clients and colleagues – from workflow improvements for colleagues,
+        to core services that form the basis of the company’s GlobalLink
+        platform, to creating scalable client interfaces that allow novice users
+        to navigate complex ecosystems. DESCRIPTION
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Work closely with the Product
+        Manager to align on product strategy and roadmap
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support the product roadmap that
+        meets user needs and corporate goals
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Write detailed user stories and
+        acceptance criteria ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prioritize and
+        groom the product backlog ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support
+        the product lifecycle from planning to release
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Participate in daily/weekly
+        (agile/scrum) software development process meetings
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support delivery schedules and
+        coordinate across cross-functional teams comprised of product, design,
+        development and QA, to deliver functional solutions
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Communicate daily with the
+        cross-functional team to clarify any questions and remove roadblocks
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support and evaluate product
+        progress at each stage of the software development process
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Perform any other special tasks
+        that are deemed appropriate for this role as assigned by the
+        manager/supervisor
+      score: 92
+      skill_hits: 5
+      bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -84,7 +392,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -127,7 +435,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -196,7 +504,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -267,7 +575,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -338,7 +646,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -409,7 +717,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -478,7 +786,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -549,7 +857,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -618,7 +926,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -687,7 +995,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: jobicy
       source_note: ""
@@ -769,7 +1077,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -790,7 +1098,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -838,7 +1146,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -872,7 +1180,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -915,7 +1223,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: jobicy
       source_note: ""
@@ -1086,7 +1394,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1107,7 +1415,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1215,7 +1523,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1322,7 +1630,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-11T21:07:22.664Z
       pulled_at: 2026-10-11T21:07:22.664Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1410,7 +1718,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-11T21:07:22.664Z
       pulled_at: 2026-10-11T21:07:22.664Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1458,7 +1766,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1492,7 +1800,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1713,7 +2021,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1756,7 +2064,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1777,7 +2085,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1841,7 +2149,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1953,7 +2261,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-05T23:20:51.019Z
       pulled_at: 2026-10-05T23:20:51.019Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2001,7 +2309,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-30T21:35:30.734Z
       pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2035,7 +2343,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-30T21:35:30.734Z
       pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2128,7 +2436,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-30T21:35:30.734Z
       pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2253,7 +2561,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-30T21:35:30.734Z
       pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2296,7 +2604,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-30T21:35:30.734Z
       pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2445,7 +2753,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-30T21:35:30.734Z
       pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2562,7 +2870,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-30T21:35:30.734Z
       pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2583,7 +2891,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-30T21:35:30.734Z
       pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2631,8 +2939,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-29T21:34:20.102Z
       pulled_at: 2026-09-29T21:34:20.102Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: TransPerfect
@@ -2665,8 +2973,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-29T21:34:20.102Z
       pulled_at: 2026-09-29T21:34:20.102Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: TransPerfect
@@ -2708,8 +3016,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-29T21:34:20.102Z
       pulled_at: 2026-09-29T21:34:20.102Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: Consultport
@@ -2729,8 +3037,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-29T21:34:20.102Z
       pulled_at: 2026-09-29T21:34:20.102Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: TransPerfect
@@ -2777,7 +3085,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-26T20:05:59.172Z
       pulled_at: 2026-09-26T20:05:59.172Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -2811,7 +3119,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-26T20:05:59.172Z
       pulled_at: 2026-09-26T20:05:59.172Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -2854,7 +3162,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-26T20:05:59.172Z
       pulled_at: 2026-09-26T20:05:59.172Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -2951,7 +3259,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-26T20:05:59.172Z
       pulled_at: 2026-09-26T20:05:59.172Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -2972,7 +3280,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-26T20:05:59.172Z
       pulled_at: 2026-09-26T20:05:59.172Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3020,7 +3328,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-25T20:40:21.162Z
       pulled_at: 2026-09-25T20:40:21.162Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3054,7 +3362,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-25T20:40:21.162Z
       pulled_at: 2026-09-25T20:40:21.162Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -3149,7 +3457,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-25T20:40:21.162Z
       pulled_at: 2026-09-25T20:40:21.162Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3192,7 +3500,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-25T20:40:21.162Z
       pulled_at: 2026-09-25T20:40:21.162Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3213,7 +3521,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-25T20:40:21.162Z
       pulled_at: 2026-09-25T20:40:21.162Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3261,7 +3569,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-24T20:41:46.527Z
       pulled_at: 2026-09-24T20:41:46.527Z
-      stale_days: 26
+      stale_days: 27
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3295,7 +3603,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-24T20:41:46.527Z
       pulled_at: 2026-09-24T20:41:46.527Z
-      stale_days: 26
+      stale_days: 27
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3338,7 +3646,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-24T20:41:46.527Z
       pulled_at: 2026-09-24T20:41:46.527Z
-      stale_days: 26
+      stale_days: 27
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -3431,7 +3739,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-24T20:41:46.527Z
       pulled_at: 2026-09-24T20:41:46.527Z
-      stale_days: 26
+      stale_days: 27
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -3584,7 +3892,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-24T20:41:46.527Z
       pulled_at: 2026-09-24T20:41:46.527Z
-      stale_days: 26
+      stale_days: 27
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3605,7 +3913,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-24T20:41:46.527Z
       pulled_at: 2026-09-24T20:41:46.527Z
-      stale_days: 26
+      stale_days: 27
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -3691,7 +3999,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-24T20:41:46.527Z
       pulled_at: 2026-09-24T20:41:46.527Z
-      stale_days: 26
+      stale_days: 27
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3739,7 +4047,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-22T20:24:35.617Z
       pulled_at: 2026-09-22T20:24:35.617Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3773,7 +4081,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-22T20:24:35.617Z
       pulled_at: 2026-09-22T20:24:35.617Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -3995,7 +4303,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-22T20:24:35.617Z
       pulled_at: 2026-09-22T20:24:35.617Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4038,7 +4346,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-22T20:24:35.617Z
       pulled_at: 2026-09-22T20:24:35.617Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -4275,7 +4583,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-22T20:24:35.617Z
       pulled_at: 2026-09-22T20:24:35.617Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4296,7 +4604,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-22T20:24:35.617Z
       pulled_at: 2026-09-22T20:24:35.617Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4344,7 +4652,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-21T21:15:40.949Z
       pulled_at: 2026-09-21T21:15:40.949Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4378,7 +4686,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-21T21:15:40.949Z
       pulled_at: 2026-09-21T21:15:40.949Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -4471,7 +4779,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-21T21:15:40.949Z
       pulled_at: 2026-09-21T21:15:40.949Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -4570,7 +4878,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-21T21:15:40.949Z
       pulled_at: 2026-09-21T21:15:40.949Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4613,7 +4921,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-21T21:15:40.949Z
       pulled_at: 2026-09-21T21:15:40.949Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -4729,7 +5037,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-21T21:15:40.949Z
       pulled_at: 2026-09-21T21:15:40.949Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4750,7 +5058,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-21T21:15:40.949Z
       pulled_at: 2026-09-21T21:15:40.949Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
   scrum_agile:
     - source: smartrecruiters
@@ -4766,8 +5074,8 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-09-29T21:34:20.102Z
       pulled_at: 2026-09-29T21:34:20.102Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: smartrecruiters
       source_note: ""
       company: Sutherland
@@ -4781,7 +5089,7 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-09-26T20:05:59.172Z
       pulled_at: 2026-09-26T20:05:59.172Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: smartrecruiters
       source_note: ""
@@ -4796,7 +5104,7 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-09-26T20:05:59.172Z
       pulled_at: 2026-09-26T20:05:59.172Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: smartrecruiters
       source_note: ""
@@ -4811,7 +5119,7 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-09-25T20:40:21.162Z
       pulled_at: 2026-09-25T20:40:21.162Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: smartrecruiters
       source_note: ""
@@ -4826,7 +5134,7 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-09-25T20:40:21.162Z
       pulled_at: 2026-09-25T20:40:21.162Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: smartrecruiters
       source_note: ""
@@ -4841,7 +5149,7 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-09-24T20:41:46.527Z
       pulled_at: 2026-09-24T20:41:46.527Z
-      stale_days: 26
+      stale_days: 27
       is_stale: true
     - source: smartrecruiters
       source_note: ""
@@ -4856,7 +5164,7 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-09-21T21:15:40.949Z
       pulled_at: 2026-09-21T21:15:40.949Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
   program_management:
     - source: arbeitnow
@@ -4958,7 +5266,7 @@ buckets:
       bucket_id: program_management
       fetched_at: 2026-09-26T20:05:59.172Z
       pulled_at: 2026-09-26T20:05:59.172Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
 archive:
   pm_product: []
@@ -4988,13 +5296,13 @@ meta:
     official_career_pages: 20
     search_queries: 20
   stale_counts:
-    pm_product: 30
-    scrum_agile: 6
+    pm_product: 34
+    scrum_agile: 7
     program_management: 1
   inactive_counts:
     pm_product: 0
     scrum_agile: 0
     program_management: 0
   timings_ms:
-    fetch: 240007
-    total: 240156
+    fetch: 239563
+    total: 268043

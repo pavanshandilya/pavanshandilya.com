@@ -1,4 +1,4 @@
-generated_at: 2026-10-20T20:51:23.421Z
+generated_at: 2026-10-21T20:51:32.768Z
 explicit:
   company_names:
     - SAP
@@ -1043,6 +1043,8 @@ discovered:
     - eggai
     - hamelin
     - legalfly
+    - sardine
+    - stealthrocketrystartup
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -2586,6 +2588,8 @@ discovered:
     - redis
     - twelve-labs
     - eggai
+    - sardine
+    - stealthrocketrystartup
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
