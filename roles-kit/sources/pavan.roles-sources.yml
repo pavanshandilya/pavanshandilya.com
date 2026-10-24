@@ -1,4 +1,4 @@
-generated_at: 2026-10-23T20:34:40.811Z
+generated_at: 2026-10-24T19:38:21.560Z
 explicit:
   company_names:
     - SAP
@@ -1056,6 +1056,12 @@ discovered:
     - eggai
     - pysae
     - alta-ares
+    - trafineo
+    - oviva
+    - true-talent-solutions-partners
+    - cuspai
+    - granola
+    - veezu
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -2168,6 +2174,7 @@ discovered:
     - topchrono
     - anywherenow
     - pysae
+    - trafineo
   ashby_organizations:
     - telus-digital
     - a-team
@@ -2608,6 +2615,11 @@ discovered:
     - transficc
     - eggai
     - alta-ares
+    - oviva
+    - true-talent-solutions-partners
+    - cuspai
+    - granola
+    - veezu
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
