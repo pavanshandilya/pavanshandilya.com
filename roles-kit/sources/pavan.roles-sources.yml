@@ -1,4 +1,4 @@
-generated_at: 2026-10-25T19:50:56.807Z
+generated_at: 2026-10-26T21:45:35.255Z
 explicit:
   company_names:
     - SAP
@@ -1064,6 +1064,9 @@ discovered:
     - veezu
     - cinder
     - g2
+    - mkp-gmbh
+    - alloy
+    - tillo
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -2053,6 +2056,8 @@ discovered:
     - https://msg-industry-advisors-ag.jobs.personio.com/xml
     - https://listan-gmbh.jobs.personio.de/xml
     - https://listan-gmbh.jobs.personio.com/xml
+    - https://mkp-gmbh.jobs.personio.de/xml
+    - https://mkp-gmbh.jobs.personio.com/xml
   smartrecruiters_companies:
     - dataiku
     - cint
@@ -2624,6 +2629,8 @@ discovered:
     - veezu
     - cinder
     - g2
+    - alloy
+    - tillo
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
