@@ -1,7 +1,7 @@
 schema_version: roles.v1
 profile_id: pooja
 profile_name: Pooja - product/scrum now, EM later
-generated_at: 2026-10-26T21:48:52.451Z
+generated_at: 2026-10-27T21:32:05.780Z
 buckets:
   pm_product:
     - source: recruitee
@@ -50,7 +50,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -84,7 +84,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -127,7 +127,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -217,7 +217,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -307,7 +307,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -328,7 +328,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -415,7 +415,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -463,7 +463,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-23T20:37:43.569Z
       pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -497,7 +497,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-23T20:37:43.569Z
       pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -540,7 +540,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-23T20:37:43.569Z
       pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -561,7 +561,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-23T20:37:43.569Z
       pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -674,7 +674,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-23T20:37:43.569Z
       pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -722,7 +722,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-21T20:51:32.768Z
       pulled_at: 2026-10-21T20:51:32.768Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -756,7 +756,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-21T20:51:32.768Z
       pulled_at: 2026-10-21T20:51:32.768Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -918,7 +918,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-21T20:51:32.768Z
       pulled_at: 2026-10-21T20:51:32.768Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -961,7 +961,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-21T20:51:32.768Z
       pulled_at: 2026-10-21T20:51:32.768Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -982,7 +982,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-21T20:51:32.768Z
       pulled_at: 2026-10-21T20:51:32.768Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1030,7 +1030,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1064,7 +1064,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1107,7 +1107,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1176,7 +1176,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1247,7 +1247,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1318,7 +1318,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1389,7 +1389,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1458,7 +1458,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1529,7 +1529,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1598,7 +1598,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1667,7 +1667,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: jobicy
       source_note: ""
@@ -1749,7 +1749,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1770,7 +1770,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1818,7 +1818,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1852,7 +1852,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1895,7 +1895,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: jobicy
       source_note: ""
@@ -2066,7 +2066,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2087,7 +2087,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2195,7 +2195,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2302,7 +2302,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-11T21:07:22.664Z
       pulled_at: 2026-10-11T21:07:22.664Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2390,7 +2390,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-11T21:07:22.664Z
       pulled_at: 2026-10-11T21:07:22.664Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2438,7 +2438,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2472,7 +2472,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2693,7 +2693,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2736,7 +2736,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2757,7 +2757,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2821,7 +2821,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2933,8 +2933,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-05T23:20:51.019Z
       pulled_at: 2026-10-05T23:20:51.019Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: TransPerfect
@@ -3729,654 +3729,9 @@ buckets:
       is_stale: true
   program_management: []
 archive:
-  pm_product:
-    - source: recruitee
-      source_note: ""
-      company: TransPerfect
-      title: Associate Product Manager
-      location: Pune, Mahārāshtra, India, Pune, India
-      url: https://transperfect.com/o/associate-product-manager
-      updated_at: 2026-08-05 06:02:31 UTC
-      description: OVERVIEW TransPerfect helps organizations navigate the global
-        marketplace. It remains founder-led – and has striven to maintain the
-        ethos and drive that led them to grow organically year-on-year for the
-        past 30 years. Starting in an NYU dorm room in the early 1990s,
-        TransPerfect is today recognized as the largest translation and language
-        services company in the world with thousands of employees located in
-        100+ offices around the world – and over $1 billion in revenue in 2023.
-        &nbsp; The TransPerfect TechOps team has been a vital part of the
-        company’s success since its formation 10 years ago – delivering
-        technology and services that have drastically simplified the lives of
-        our clients and colleagues – from workflow improvements for colleagues,
-        to core services that form the basis of the company’s GlobalLink
-        platform, to creating scalable client interfaces that allow novice users
-        to navigate complex ecosystems. DESCRIPTION
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Work closely with the Product
-        Manager to align on product strategy and roadmap
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support the product roadmap that
-        meets user needs and corporate goals
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Write detailed user stories and
-        acceptance criteria ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prioritize and
-        groom the product backlog ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support
-        the product lifecycle from planning to release
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Participate in daily/weekly
-        (agile/scrum) software development process meetings
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support delivery schedules and
-        coordinate across cross-functional teams comprised of product, design,
-        development and QA, to deliver functional solutions
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Communicate daily with the
-        cross-functional team to clarify any questions and remove roadblocks
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support and evaluate product
-        progress at each stage of the software development process
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Perform any other special tasks
-        that are deemed appropriate for this role as assigned by the
-        manager/supervisor
-      score: 92
-      skill_hits: 5
-      bucket_id: pm_product
-      fetched_at: 2026-09-26T20:05:59.172Z
-      pulled_at: 2026-09-26T20:05:59.172Z
-      stale_days: 30
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: TransPerfect
-      title: Associate Product Manager
-      location: Pune, Mahārāshtra, India, Pune, India
-      url: https://transperfect.com/o/associate-product-manager-1
-      updated_at: 2026-07-30 23:25:59 UTC
-      description: OVERVIEW
-        TransPerfect&nbsp;helps&nbsp;organizations&nbsp;navigate&nbsp;the&nbsp;global&nbsp;marketplace.&nbsp;It&nbsp;remains&nbsp;founder-led&nbsp;–&nbsp;and&nbsp;has&nbsp;striven&nbsp;to&nbsp;maintain&nbsp;the&nbsp;ethos&nbsp;and&nbsp;drive&nbsp;that&nbsp;led&nbsp;them&nbsp;to&nbsp;grow&nbsp;organically&nbsp;year-on-year&nbsp;for&nbsp;the&nbsp;past&nbsp;30&nbsp;years.&nbsp;Starting&nbsp;in&nbsp;an&nbsp;NYU&nbsp;dorm&nbsp;room&nbsp;in&nbsp;the&nbsp;early&nbsp;1990s,&nbsp;TransPerfect&nbsp;is&nbsp;today&nbsp;recognized&nbsp;as&nbsp;the&nbsp;largest&nbsp;translation&nbsp;and&nbsp;language&nbsp;services&nbsp;company&nbsp;in&nbsp;the&nbsp;world&nbsp;with&nbsp;thousands&nbsp;of&nbsp;employees&nbsp;located&nbsp;in&nbsp;100+&nbsp;offices&nbsp;around&nbsp;the&nbsp;world&nbsp;–&nbsp;and&nbsp;over&nbsp;$1&nbsp;billion&nbsp;in&nbsp;revenue&nbsp;in&nbsp;2023.
-        The&nbsp;TransPerfect&nbsp;TechOps&nbsp;team&nbsp;has&nbsp;been&nbsp;a&nbsp;vital&nbsp;part&nbsp;of&nbsp;the&nbsp;company’s&nbsp;success&nbsp;since&nbsp;its&nbsp;formation&nbsp;10&nbsp;years&nbsp;ago&nbsp;–&nbsp;delivering&nbsp;technology&nbsp;and&nbsp;services&nbsp;that&nbsp;have&nbsp;drastically&nbsp;simplified&nbsp;the&nbsp;lives&nbsp;of&nbsp;our&nbsp;clients&nbsp;and&nbsp;colleagues&nbsp;–&nbsp;from&nbsp;workflow&nbsp;improvements&nbsp;for&nbsp;colleagues,&nbsp;to&nbsp;core&nbsp;services&nbsp;that&nbsp;form&nbsp;the&nbsp;basis&nbsp;of&nbsp;the&nbsp;company’s&nbsp;GlobalLink&nbsp;platform,&nbsp;to&nbsp;creating&nbsp;scalable&nbsp;client&nbsp;interfaces&nbsp;that&nbsp;allow&nbsp;novice&nbsp;users&nbsp;to&nbsp;navigate&nbsp;complex&nbsp;ecosystems.
-        DESCRIPTION
-        Work&nbsp;closely&nbsp;with&nbsp;the&nbsp;Product&nbsp;Manager&nbsp;to&nbsp;align&nbsp;on&nbsp;product&nbsp;strategy&nbsp;and&nbsp;roadmap
-        Support&nbsp;the&nbsp;product&nbsp;roadmap&nbsp;that&nbsp;meets&nbsp;user&nbsp;needs&nbsp;and&nbsp;corporate&nbsp;goals
-        Write&nbsp;detailed&nbsp;user&nbsp;stories&nbsp;and&nbsp;acceptance&nbsp;criteria
-        Prioritize&nbsp;and&nbsp;groom&nbsp;the&nbsp;product&nbsp;backlog
-        Support&nbsp;the&nbsp;product&nbsp;lifecycle&nbsp;from&nbsp;planning&nbsp;to&nbsp;release
-        Participate&nbsp;in&nbsp;daily/weekly&nbsp;(agile/scrum)&nbsp;software&nbsp;development&nbsp;process&nbsp;meetings
-        Support&nbsp;delivery&nbsp;schedules&nbsp;and&nbsp;coordinate&nbsp;across&nbsp;cross-functional&nbsp;teams&nbsp;comprised&nbsp;of&nbsp;product,&nbsp;design,&nbsp;development&nbsp;and&nbsp;QA,&nbsp;to&nbsp;deliver&nbsp;functional&nbsp;solutions
-        Communicate&nbsp;daily&nbsp;with&nbsp;the&nbsp;cross-functional&nbsp;team&nbsp;to&nbsp;clarify&nbsp;any&nbsp;questions&nbsp;and&nbsp;remove&nbsp;roadblocks
-        Support&nbsp;and&nbsp;evaluate&nbsp;product&nbsp;progress&nbsp;at&nbsp;each&nbsp;stage&nbsp;of&nbsp;the&nbsp;software&nbsp;development&nbsp;process
-        Perform&nbsp;any&nbsp;other&nbsp;special&nbsp;tasks&nbsp;that&nbsp;are&nbsp;deemed&nbsp;appropriate&nbsp;for&nbsp;this&nbsp;role&nbsp;as&nbsp;assigned&nbsp;by&nbsp;the&nbsp;manager/supervisor
-        REQUIRED&nbsp;SKILLS
-        Minimum&nbsp;Bachelor’s&nbsp;degree&nbsp;or&nbsp;its&nbsp;equivalent
-        1-2&nbsp;years&nbsp;of&nbsp;related&nbsp;experience&nbsp;in&nbsp;working&nbsp;in&nbsp;an&nbsp;agile&nbsp;development&nbsp;environment
-        A&nbsp;solid&nbsp;working&nbsp;knowledge&nbsp;of&nbsp;the&nbsp;product&nbsp;management&nbsp;lifecycle&nbsp;and&nbsp;an&nbsp;understanding&nbsp;of&nbsp;the&nbsp;tenets&nbsp;of&nbsp;software&nbsp;development&nbsp;using&nbsp;Agile&nbsp;methodologies
-        Experience&nbsp;managing&nbsp;products&nbsp;or&nbsp;projects&nbsp;using&nbsp;project&nbsp;management&nbsp;tools&nbsp;such&nbsp;as&nbsp;Jira,&nbsp;Azure&nbsp;DevOps&nbsp;Server,&nbsp;Confluence,&nbsp;Trello,&nbsp;etc.&nbsp;
-        Expert&nbsp;communication&nbsp;skills:&nbsp;ability&nbsp;to&nbsp;manage&nbsp;stakeholders’&nbsp;expectations,&nbsp;be&nbsp;prepared&nbsp;to&nbsp;justify&nbsp;delays&nbsp;or&nbsp;scope&nbsp;changes,&nbsp;and&nbsp;communicate&nbsp;technical&nbsp;information&nbsp;to&nbsp;business&nbsp;stakeholders&nbsp;in&nbsp;an&nbsp;easy&nbsp;to&nbsp;understand&nbsp;way
-      score: 90
-      skill_hits: 5
-      bucket_id: pm_product
-      fetched_at: 2026-09-26T20:05:59.172Z
-      pulled_at: 2026-09-26T20:05:59.172Z
-      stale_days: 30
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: TransPerfect
-      title: Technical Product Manager
-      location: Pune, Mahārāshtra, India, Pune, India
-      url: https://transperfect.com/o/technical-product-manager
-      updated_at: 2026-07-30 15:08:53 UTC
-      description: "OVERVIEW TransPerfect helps the world's leading brands thrive in
-        the global marketplace by offering a full range of solutions to ensure
-        the success of digital and mobile initiatives. Working in 170+
-        languages, our services include website and software localization, QA
-        and testing, international SEO/SEM, customer service and call center
-        solutions, multicultural marketing, multimedia services, and more.
-        RESPOSIBILITES: TransPerfect is seeking a Technical Product Manager to
-        manage and own the product lifecycle for integration frameworks for CMS
-        &amp; e-commerce systems. This position will work with internal
-        development and QA teams and vendor partners to build integrations into
-        GlobalLink - our flagship cloud-based translation management platform.
-        We are looking for forward-thinking professionals who are more
-        interested in how things could become and who can thrive in an evolving
-        and fast-paced environment. Manage the entire product life cycle which
-        includes: Manage professional services engagements and prepare SOWs for
-        all existing customers Explore product functionality and recommend best
-        strategy to integrate Evaluate APIs and GraphQL endpoints and devise an
-        integration approach Individually carry out product deliveries from
-        inception to product roll out Design/create detailed technical
-        specifications for functional requirements Closely monitor development
-        and QA progress for ontime deliverables Do active review of test
-        strategy Planning continuous upgrades for new features Collaborate with
-        multiple teams in multiple time zones including product managers,
-        engineers, solutions engineers, QA and customers for product strategy
-        &amp; roadmap. Participate in UI/UX design. Review Documentation updates
-        Analyze application logs and debug technical issues to identify root
-        causes in collaboration with engineering teams Perform competitor
-        analysis and benchmarks and ensure that your product is always ahead of
-        the curve"
-      score: 80
-      skill_hits: 2
-      bucket_id: pm_product
-      fetched_at: 2026-09-26T20:05:59.172Z
-      pulled_at: 2026-09-26T20:05:59.172Z
-      stale_days: 30
-      is_stale: true
-    - source: arbeitnow
-      source_note: ""
-      company: Bjak
-      title: Technical Product Manager
-      location: Germany
-      url: https://www.arbeitnow.com/jobs/companies/bjak/technical-product-manager-germany-20520
-      updated_at: 1790433603
-      description: "About BJAK The original mission of BJAK is we believe people
-        deserve smarter ways to plan, save and grow their money. This is the
-        origin of our name. Started in 2019, we built the first mobile-first,
-        insurance platform, enabling insurance to be accessible online by
-        millions in the region. Today, its the leading insurance platform in
-        Southeast Asia. Today, we are expanding ways to help people in the
-        region — this includes spending, saving, investing, exchanging,
-        travelling, and more. Our mission is help people get more from their
-        money every day. We have teams working around the world, with over 20
-        nationalities from our offices and remotely, who truly enjoys their
-        work. We are looking for the most talented and driven people we can
-        find. We are looking for people who work for their passion, not counting
-        hours. Who loves building great next-generation products, not status
-        quo. Who cares about redefining how everyone around us can get the best
-        financial applications, not for an exclusive few. If you're this person,
-        we'd love to talk to you. The Role BJAK is building a Neobank Superapp
-        for Southeast Asia. As a Technical Product Manager, you’ll own a product
-        vertical end to end—such as payments and expense management, remittance,
-        insurance, or wealth and trading—from strategy, outcomes, and roadmap
-        through to the technical design and delivery of the systems behind it.
-        This is a product where real money moves, mistakes are immediately
-        visible, and licensing, compliance, and third-party rails are core
-        product constraints—not considerations around the edges. We are
-        AI-native by default, but AI is a means, not the goal. The bar is
-        knowing where a model can genuinely improve an outcome, where
-        deterministic systems must remain in control, and how to build products
-        that are reliable, auditable, and trusted when money is involved. What
-        you'll be doing Own a vertical end-to-end — outcomes and metrics, a
-        backlog prioritised by value / risk / dependency / strategic priority,
-        acceptance criteria crisp enough to build and test against. Shape the
-        technical design with engineering — system boundaries, money-movement
-        correctness (idempotency, ledgering, reconciliation), third-party-rail
-        reliance and rail-down behaviour, failure/retry/refund paths, security,
-        latency, scalability, recovery. Make hard trade-offs across correctness,
-        speed, cost, reliability and UX — and defend them to an engineering,
-        compliance or ops lead who pushes back. Treat regulated constraints as
-        first-class product inputs — licensing scope, CDD/KYC and limits,
-        sanctions/PEP screening, transaction monitoring, data residency and
-        privacy. Know which are hard launch gates and which are
-        forward-readiness. Apply AI where it earns its place — define what it's
-        allowed to decide, where a human stays in the loop, how it's evaluated,
-        and what it does when unsure. Every AI-surfaced number traces back to a
-        real record. Ship against external gates — build feature-complete behind
-        flags; go live per rail as each partner and regulatory gate clears. Work
-        across Engineering, Design, Compliance, Operations, Treasury and
-        Finance/Reconciliation. What you'll need Product leadership —
-        significant experience owning a complex technical product end-to-end;
-        strong judgement and decisiveness under ambiguity; ability to balance
-        ambition against technical, regulatory and operational reality; can hold
-        their own with senior engineers. Technical foundation — solid system
-        design (boundaries, datastores, queues/workflows, APIs, failure modes,
-        consistency under concurrency); comfort reading, reviewing and
-        challenging design docs; can sketch an architecture and a sequence. No
-        production code, but technical enough that engineers don't have to
-        simplify. Domain — experience in a regulated / high-consequence domain
-        (payments, banking, remittance, insurance, …) or demonstrable fast-ramp
-        ability; understands why money movement is different (correctness over
-        convenience, irreversible states, partners you don't control). AI
-        judgement — hands-on with LLM-based products; can frame a feature as
-        eval-able (offline, online, human feedback); realistic on
-        hallucination/drift/data gaps, including data-blocked vs model-blocked
-        and when a model must not be in the loop at all. Nice to have — engineer
-        or highly-technical-PM background · zero-to-one · shipped AI-heavy
-        consumer products · defined eval metrics for ML/LLM systems · AI UX +
-        failure-handling intuition · SEA market experience. Outcomes Clear
-        vertical strategy and legible roadmap Ships fast and clears the gates
-        that actually block launch Money is correct and users are never misled
-        about the state of their funds AI features are valuable, predictable and
-        trusted Trade-offs made deliberately under uncertainty and hold up when
-        challenged Engineering, design, compliance, and operations are aligned
-        with minimal friction Location This role is remote, but candidates must
-        be based in Germany . We are hiring specifically for this market, so
-        applicants should already be based in Germany . Language English is our
-        main working language across global teams. Strong English communication
-        is required. Interview Process Our process is designed to move fast: 1.
-        Online assessment or practical task 2. Role-specific interview 3. CEO /
-        final round For strong candidates, we aim to complete the process and
-        make an offer within 1 week from the start of the interview process.
-        Candidates who complete assessments quickly will be prioritized. Find
-        more English Speaking Jobs in Germany on Arbeitnow"
-      job_types:
-        - Full Time
-      remote: false
-      score: 78
-      skill_hits: 2
-      bucket_id: pm_product
-      fetched_at: 2026-09-26T20:05:59.172Z
-      pulled_at: 2026-09-26T20:05:59.172Z
-      stale_days: 30
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: Consultport
-      title: Product Manager (m/f/d)
-      location: Berlin, Berlin, Germany, Berlin, Germany
-      url: https://consultport.recruitee.com/o/product-manager-mfd
-      updated_at: 2026-09-15 08:12:42 UTC
-      description: Consultport is the leading digital platform that connects some of
-        the world's most iconic brands with world-class consultants. We're
-        scaling hard, and we need a PM obsessed with product-led growth (PLG).
-        This role is not about babysitting a roadmap but turning the product
-        itself into our best sales channel — removing friction, driving
-        activation, and making users fall in love before they ever talk to
-        sales.
-      score: 74
-      skill_hits: 1
-      bucket_id: pm_product
-      fetched_at: 2026-09-26T20:05:59.172Z
-      pulled_at: 2026-09-26T20:05:59.172Z
-      stale_days: 30
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: TransPerfect
-      title: Associate Product Manager
-      location: Pune, Mahārāshtra, India, Pune, India
-      url: https://transperfect.com/o/associate-product-manager
-      updated_at: 2026-08-05 06:02:31 UTC
-      description: OVERVIEW TransPerfect helps organizations navigate the global
-        marketplace. It remains founder-led – and has striven to maintain the
-        ethos and drive that led them to grow organically year-on-year for the
-        past 30 years. Starting in an NYU dorm room in the early 1990s,
-        TransPerfect is today recognized as the largest translation and language
-        services company in the world with thousands of employees located in
-        100+ offices around the world – and over $1 billion in revenue in 2023.
-        &nbsp; The TransPerfect TechOps team has been a vital part of the
-        company’s success since its formation 10 years ago – delivering
-        technology and services that have drastically simplified the lives of
-        our clients and colleagues – from workflow improvements for colleagues,
-        to core services that form the basis of the company’s GlobalLink
-        platform, to creating scalable client interfaces that allow novice users
-        to navigate complex ecosystems. DESCRIPTION
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Work closely with the Product
-        Manager to align on product strategy and roadmap
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support the product roadmap that
-        meets user needs and corporate goals
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Write detailed user stories and
-        acceptance criteria ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prioritize and
-        groom the product backlog ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support
-        the product lifecycle from planning to release
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Participate in daily/weekly
-        (agile/scrum) software development process meetings
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support delivery schedules and
-        coordinate across cross-functional teams comprised of product, design,
-        development and QA, to deliver functional solutions
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Communicate daily with the
-        cross-functional team to clarify any questions and remove roadblocks
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support and evaluate product
-        progress at each stage of the software development process
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Perform any other special tasks
-        that are deemed appropriate for this role as assigned by the
-        manager/supervisor
-      score: 92
-      skill_hits: 5
-      bucket_id: pm_product
-      fetched_at: 2026-09-25T20:40:21.162Z
-      pulled_at: 2026-09-25T20:40:21.162Z
-      stale_days: 31
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: TransPerfect
-      title: Associate Product Manager
-      location: Pune, Mahārāshtra, India, Pune, India
-      url: https://transperfect.com/o/associate-product-manager-1
-      updated_at: 2026-07-30 23:25:59 UTC
-      description: OVERVIEW
-        TransPerfect&nbsp;helps&nbsp;organizations&nbsp;navigate&nbsp;the&nbsp;global&nbsp;marketplace.&nbsp;It&nbsp;remains&nbsp;founder-led&nbsp;–&nbsp;and&nbsp;has&nbsp;striven&nbsp;to&nbsp;maintain&nbsp;the&nbsp;ethos&nbsp;and&nbsp;drive&nbsp;that&nbsp;led&nbsp;them&nbsp;to&nbsp;grow&nbsp;organically&nbsp;year-on-year&nbsp;for&nbsp;the&nbsp;past&nbsp;30&nbsp;years.&nbsp;Starting&nbsp;in&nbsp;an&nbsp;NYU&nbsp;dorm&nbsp;room&nbsp;in&nbsp;the&nbsp;early&nbsp;1990s,&nbsp;TransPerfect&nbsp;is&nbsp;today&nbsp;recognized&nbsp;as&nbsp;the&nbsp;largest&nbsp;translation&nbsp;and&nbsp;language&nbsp;services&nbsp;company&nbsp;in&nbsp;the&nbsp;world&nbsp;with&nbsp;thousands&nbsp;of&nbsp;employees&nbsp;located&nbsp;in&nbsp;100+&nbsp;offices&nbsp;around&nbsp;the&nbsp;world&nbsp;–&nbsp;and&nbsp;over&nbsp;$1&nbsp;billion&nbsp;in&nbsp;revenue&nbsp;in&nbsp;2023.
-        The&nbsp;TransPerfect&nbsp;TechOps&nbsp;team&nbsp;has&nbsp;been&nbsp;a&nbsp;vital&nbsp;part&nbsp;of&nbsp;the&nbsp;company’s&nbsp;success&nbsp;since&nbsp;its&nbsp;formation&nbsp;10&nbsp;years&nbsp;ago&nbsp;–&nbsp;delivering&nbsp;technology&nbsp;and&nbsp;services&nbsp;that&nbsp;have&nbsp;drastically&nbsp;simplified&nbsp;the&nbsp;lives&nbsp;of&nbsp;our&nbsp;clients&nbsp;and&nbsp;colleagues&nbsp;–&nbsp;from&nbsp;workflow&nbsp;improvements&nbsp;for&nbsp;colleagues,&nbsp;to&nbsp;core&nbsp;services&nbsp;that&nbsp;form&nbsp;the&nbsp;basis&nbsp;of&nbsp;the&nbsp;company’s&nbsp;GlobalLink&nbsp;platform,&nbsp;to&nbsp;creating&nbsp;scalable&nbsp;client&nbsp;interfaces&nbsp;that&nbsp;allow&nbsp;novice&nbsp;users&nbsp;to&nbsp;navigate&nbsp;complex&nbsp;ecosystems.
-        DESCRIPTION
-        Work&nbsp;closely&nbsp;with&nbsp;the&nbsp;Product&nbsp;Manager&nbsp;to&nbsp;align&nbsp;on&nbsp;product&nbsp;strategy&nbsp;and&nbsp;roadmap
-        Support&nbsp;the&nbsp;product&nbsp;roadmap&nbsp;that&nbsp;meets&nbsp;user&nbsp;needs&nbsp;and&nbsp;corporate&nbsp;goals
-        Write&nbsp;detailed&nbsp;user&nbsp;stories&nbsp;and&nbsp;acceptance&nbsp;criteria
-        Prioritize&nbsp;and&nbsp;groom&nbsp;the&nbsp;product&nbsp;backlog
-        Support&nbsp;the&nbsp;product&nbsp;lifecycle&nbsp;from&nbsp;planning&nbsp;to&nbsp;release
-        Participate&nbsp;in&nbsp;daily/weekly&nbsp;(agile/scrum)&nbsp;software&nbsp;development&nbsp;process&nbsp;meetings
-        Support&nbsp;delivery&nbsp;schedules&nbsp;and&nbsp;coordinate&nbsp;across&nbsp;cross-functional&nbsp;teams&nbsp;comprised&nbsp;of&nbsp;product,&nbsp;design,&nbsp;development&nbsp;and&nbsp;QA,&nbsp;to&nbsp;deliver&nbsp;functional&nbsp;solutions
-        Communicate&nbsp;daily&nbsp;with&nbsp;the&nbsp;cross-functional&nbsp;team&nbsp;to&nbsp;clarify&nbsp;any&nbsp;questions&nbsp;and&nbsp;remove&nbsp;roadblocks
-        Support&nbsp;and&nbsp;evaluate&nbsp;product&nbsp;progress&nbsp;at&nbsp;each&nbsp;stage&nbsp;of&nbsp;the&nbsp;software&nbsp;development&nbsp;process
-        Perform&nbsp;any&nbsp;other&nbsp;special&nbsp;tasks&nbsp;that&nbsp;are&nbsp;deemed&nbsp;appropriate&nbsp;for&nbsp;this&nbsp;role&nbsp;as&nbsp;assigned&nbsp;by&nbsp;the&nbsp;manager/supervisor
-        REQUIRED&nbsp;SKILLS
-        Minimum&nbsp;Bachelor’s&nbsp;degree&nbsp;or&nbsp;its&nbsp;equivalent
-        1-2&nbsp;years&nbsp;of&nbsp;related&nbsp;experience&nbsp;in&nbsp;working&nbsp;in&nbsp;an&nbsp;agile&nbsp;development&nbsp;environment
-        A&nbsp;solid&nbsp;working&nbsp;knowledge&nbsp;of&nbsp;the&nbsp;product&nbsp;management&nbsp;lifecycle&nbsp;and&nbsp;an&nbsp;understanding&nbsp;of&nbsp;the&nbsp;tenets&nbsp;of&nbsp;software&nbsp;development&nbsp;using&nbsp;Agile&nbsp;methodologies
-        Experience&nbsp;managing&nbsp;products&nbsp;or&nbsp;projects&nbsp;using&nbsp;project&nbsp;management&nbsp;tools&nbsp;such&nbsp;as&nbsp;Jira,&nbsp;Azure&nbsp;DevOps&nbsp;Server,&nbsp;Confluence,&nbsp;Trello,&nbsp;etc.&nbsp;
-        Expert&nbsp;communication&nbsp;skills:&nbsp;ability&nbsp;to&nbsp;manage&nbsp;stakeholders’&nbsp;expectations,&nbsp;be&nbsp;prepared&nbsp;to&nbsp;justify&nbsp;delays&nbsp;or&nbsp;scope&nbsp;changes,&nbsp;and&nbsp;communicate&nbsp;technical&nbsp;information&nbsp;to&nbsp;business&nbsp;stakeholders&nbsp;in&nbsp;an&nbsp;easy&nbsp;to&nbsp;understand&nbsp;way
-      score: 90
-      skill_hits: 5
-      bucket_id: pm_product
-      fetched_at: 2026-09-25T20:40:21.162Z
-      pulled_at: 2026-09-25T20:40:21.162Z
-      stale_days: 31
-      is_stale: true
-    - source: arbeitnow
-      source_note: ""
-      company: Progyny Global
-      title: (Senior) Product Manager (m/f/x)
-      location: Berlin
-      url: https://www.arbeitnow.com/jobs/companies/progyny-global/senior-product-manager-berlin-427251
-      updated_at: 1790350243
-      description: "Who We Are At Progyny Global, part of the Progyny, Inc. family,
-        we're on a mission to make fertility, pregnancy, and family-forming care
-        accessible worldwide. By combining world-class clinical expertise with
-        innovative technology, we deliver inclusive, culturally competent
-        support that helps individuals and families navigate some of life's most
-        important journeys. With Progyny's support and global reach, we're
-        expanding access to care and breaking down barriers so that more people
-        can build the families they want, wherever they are in the world. Role
-        Overview We're looking for an experienced, energetic, AI-forward, and
-        performance driven (Senior) Product Manager to join our Product team in
-        Berlin. In this role, you'll take end-to-end ownership of one or more
-        core product capabilities across our member portal and internal
-        operations experience, from discovery and strategy through delivery and
-        iteration. You'll work closely with Design, Engineering, and business
-        stakeholders across Sales, Member Experience, Finance, and Legal to
-        build products that support people through some of life's most sensitive
-        moments. This role is ideal for someone who is self-driven and
-        comfortable owning a domain without heavy oversight, who brings
-        structure and clarity to ambiguity, and who communicates decisions and
-        rationale clearly and concisely to both technical and non-technical
-        audiences. You thrive in start-up speed and maneuverability, while you
-        take steps to improve and optimize how you and the team work to deliver
-        results. You will be working within a small but mighty product team with
-        Product Management, Content and localization, and design, reporting into
-        our Sr. Director of Global Product. Tasks Own multiple product
-        capabilities end to end – from problem definition and discovery through
-        delivery, launch, and ongoing iteration Define product strategy,
-        roadmap, and success metrics for your area, in partnership with product
-        leadership, Engineering, and Design Translate ambiguous business and
-        user problems into clear requirements, user stories, and acceptance
-        criteria – can include business analyst-like activities Partner closely
-        with Product Designers on user research, journey mapping, and validating
-        solutions before and during build Work closely with Engineering to
-        prioritize the backlog, unblock delivery, and make sound trade-off calls
-        Coordinate cross-functionally with Sales, Member Experience, Finance,
-        and Legal to align product decisions with operational and business
-        realities Facilitate workshops, stakeholder alignment sessions, and
-        retrospectives Monitor product performance post-launch and drive
-        iteration based on data and user feedback Communicate progress,
-        decisions, and the reasoning behind them clearly and proactively,
-        without needing to be asked Navigate ambiguity and shifting priorities
-        in a fast-moving, dynamic environment balancing oversight on changing
-        variables with granular details Requirements What You Bring At least 6+
-        years of experience in Product Management, with a track record of owning
-        a product area or capability end to end, from discovery through launch
-        and iteration Demonstrated ability to work independently and proactively
-        – highly organized, self-driven, and comfortable making progress without
-        close direction Clear, structured communicator, able to explain context,
-        decisions, and trade-offs to stakeholders at all levels Strong
-        experience partnering with Design and Engineering throughout the product
-        development lifecycle Comfortable introducing and shaping ‘best
-        practices’ while balancing with the current organizational context
-        AI-forward mindset, ruthless prioritization and consistent, clear verbal
-        and written communication with stakeholders in English Comfortable
-        defining and tracking success metrics, and using data to inform product
-        decisions Comfortable navigating ambiguity and adapting to change in a
-        fast-moving, scaling environment Nice to Have Experience owning
-        workflow-heavy or process-driven capabilities, for example in fintech,
-        insurance, or healthtech (e.g. claims, payments, reimbursement, or
-        similarly regulated operational flows) Familiarity with and affinity for
-        healthcare, wellbeing, or HR technology products Experience working in
-        international teams Benefits Why Join Us 💰 Competitive Base Salary :
-        From €75,000-85,000 per year. 🎯 Bonus Program &#x26; Company Equity :
-        Bonuses and ownership opportunities to share in Progyny’s success. 👶
-        Fertility &#x26; Family-Building Benefits : Access to the Progyny Global
-        Platform with a €5,000 benefits budget. 🧘 Mental Health Support : Eight
-        1:1 psychologist and coaching sessions and wellness tools via Spring
-        Health. 🚲 Sustainable Mobility Benefit : Choice between a Dance e-bike
-        subscription or a BVG public transport ticket. 💪 Urban Sports Club
-        Discount : Access to discounted fitness and wellness activities. 🌴 Paid
-        Leave : 30 days of paid leave per year. 🏡 Hybrid Work : Work from home
-        up to two days per week. ✈️ Remote Work : Up to 8 weeks of remote work
-        per year. 🍽️ Weekly Team Lunches : Team lunch every Thursday. 🐶 Dog
-        Friendly office: Bring your dog to work. We believe that great leaders
-        come from diverse backgrounds. If you’re passionate about building
-        high-performing teams, delivering world-class care, and shaping the
-        future of global member experience, we’d love to hear from you. Find
-        more English Speaking Jobs in Germany on Arbeitnow"
-      job_types:
-        - manager
-      remote: false
-      score: 84
-      skill_hits: 3
-      bucket_id: pm_product
-      fetched_at: 2026-09-25T20:40:21.162Z
-      pulled_at: 2026-09-25T20:40:21.162Z
-      stale_days: 31
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: TransPerfect
-      title: Technical Product Manager
-      location: Pune, Mahārāshtra, India, Pune, India
-      url: https://transperfect.com/o/technical-product-manager
-      updated_at: 2026-07-30 15:08:53 UTC
-      description: "OVERVIEW TransPerfect helps the world's leading brands thrive in
-        the global marketplace by offering a full range of solutions to ensure
-        the success of digital and mobile initiatives. Working in 170+
-        languages, our services include website and software localization, QA
-        and testing, international SEO/SEM, customer service and call center
-        solutions, multicultural marketing, multimedia services, and more.
-        RESPOSIBILITES: TransPerfect is seeking a Technical Product Manager to
-        manage and own the product lifecycle for integration frameworks for CMS
-        &amp; e-commerce systems. This position will work with internal
-        development and QA teams and vendor partners to build integrations into
-        GlobalLink - our flagship cloud-based translation management platform.
-        We are looking for forward-thinking professionals who are more
-        interested in how things could become and who can thrive in an evolving
-        and fast-paced environment. Manage the entire product life cycle which
-        includes: Manage professional services engagements and prepare SOWs for
-        all existing customers Explore product functionality and recommend best
-        strategy to integrate Evaluate APIs and GraphQL endpoints and devise an
-        integration approach Individually carry out product deliveries from
-        inception to product roll out Design/create detailed technical
-        specifications for functional requirements Closely monitor development
-        and QA progress for ontime deliverables Do active review of test
-        strategy Planning continuous upgrades for new features Collaborate with
-        multiple teams in multiple time zones including product managers,
-        engineers, solutions engineers, QA and customers for product strategy
-        &amp; roadmap. Participate in UI/UX design. Review Documentation updates
-        Analyze application logs and debug technical issues to identify root
-        causes in collaboration with engineering teams Perform competitor
-        analysis and benchmarks and ensure that your product is always ahead of
-        the curve"
-      score: 80
-      skill_hits: 2
-      bucket_id: pm_product
-      fetched_at: 2026-09-25T20:40:21.162Z
-      pulled_at: 2026-09-25T20:40:21.162Z
-      stale_days: 31
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: Consultport
-      title: Product Manager (m/f/d)
-      location: Berlin, Berlin, Germany, Berlin, Germany
-      url: https://consultport.recruitee.com/o/product-manager-mfd
-      updated_at: 2026-09-15 08:12:42 UTC
-      description: Consultport is the leading digital platform that connects some of
-        the world's most iconic brands with world-class consultants. We're
-        scaling hard, and we need a PM obsessed with product-led growth (PLG).
-        This role is not about babysitting a roadmap but turning the product
-        itself into our best sales channel — removing friction, driving
-        activation, and making users fall in love before they ever talk to
-        sales.
-      score: 74
-      skill_hits: 1
-      bucket_id: pm_product
-      fetched_at: 2026-09-25T20:40:21.162Z
-      pulled_at: 2026-09-25T20:40:21.162Z
-      stale_days: 31
-      is_stale: true
-  scrum_agile:
-    - source: smartrecruiters
-      source_note: ""
-      company: Sutherland
-      title: Scrum Master
-      location: Bengaluru, KA, India
-      url: https://api.smartrecruiters.com/v1/companies/sutherland/postings/744000151584824
-      updated_at: 2026-09-24T10:53:52.177Z
-      description: ""
-      score: 74
-      skill_hits: 1
-      bucket_id: scrum_agile
-      fetched_at: 2026-09-26T20:05:59.172Z
-      pulled_at: 2026-09-26T20:05:59.172Z
-      stale_days: 30
-      is_stale: true
-    - source: smartrecruiters
-      source_note: ""
-      company: NielsenIQ
-      title: Senior Agile Coach
-      location: Chennai, TN, India
-      url: https://api.smartrecruiters.com/v1/companies/nielseniq/postings/744000151787449
-      updated_at: 2026-09-25T08:19:03.536Z
-      description: ""
-      score: 74
-      skill_hits: 1
-      bucket_id: scrum_agile
-      fetched_at: 2026-09-26T20:05:59.172Z
-      pulled_at: 2026-09-26T20:05:59.172Z
-      stale_days: 30
-      is_stale: true
-    - source: smartrecruiters
-      source_note: ""
-      company: Sutherland
-      title: Scrum Master
-      location: Bengaluru, KA, India
-      url: https://api.smartrecruiters.com/v1/companies/sutherland/postings/744000151584824
-      updated_at: 2026-09-24T10:53:52.177Z
-      description: ""
-      score: 74
-      skill_hits: 1
-      bucket_id: scrum_agile
-      fetched_at: 2026-09-25T20:40:21.162Z
-      pulled_at: 2026-09-25T20:40:21.162Z
-      stale_days: 31
-      is_stale: true
-    - source: smartrecruiters
-      source_note: ""
-      company: NielsenIQ
-      title: Senior Agile Coach
-      location: Chennai, TN, India
-      url: https://api.smartrecruiters.com/v1/companies/nielseniq/postings/744000151787449
-      updated_at: 2026-09-25T08:19:03.536Z
-      description: ""
-      score: 74
-      skill_hits: 1
-      bucket_id: scrum_agile
-      fetched_at: 2026-09-25T20:40:21.162Z
-      pulled_at: 2026-09-25T20:40:21.162Z
-      stale_days: 31
-      is_stale: true
-  program_management:
-    - source: arbeitnow
-      source_note: ""
-      company: RobCo
-      title: Technical Program Manager (m/f/d)
-      location: Munich
-      url: https://www.arbeitnow.com/jobs/companies/robco/technical-program-manager-munich-388491
-      updated_at: 1790444410
-      description: "About the Role at RobCo RobCo is building the category of
-        Autonomous Industrial Robotics and we're doing it fast. We believe that
-        automating the ordinary frees humans to do the extraordinary, and we're
-        building the end-to-end robotics infrastructure to make that possible -
-        hardware, software, and AI in one stack that just works. At RobCo, we
-        automate the ordinary, so humans can do the extraordinary. To achieve
-        this, we are looking for an ambitious Technical Program Manager (m/f/d)
-        to help us establish RobCo as leading provider of automation solutions.
-        As a Technical Program Manager (TPM) at RobCo, you take responsibility
-        for overseeing and managing multiple complex robot deployment projects
-        simultaneously. You actively contribute to shaping the structures and
-        processes that drive our projects to success. Your goal is to ensure
-        that all your projects are delivered efficiently, on time, and in line
-        with the highest quality standards. Your Responsibilities End-to-End
-        Program Ownership: You are responsible for multiple strategically
-        relevant robotics deployment programs simultaneously – from pre-sales
-        alignment and technical solution design through implementation to
-        successful handover into operational business. Building Scalable
-        Structures: You develop governance frameworks, reporting standards, and
-        delivery processes that enable fast, high-quality growth. In doing so,
-        you establish best practices for future programs. Strategic Stakeholder
-        Management: You act as a sparring partner to C-level executives,
-        customers, and internal leadership teams. You create transparency
-        regarding progress, risks, dependencies, and business impact, and make
-        data-driven decisions. Technical and Commercial Steering: You maintain
-        oversight of both technical integration details and commercial aspects
-        such as budgets, margins, resource planning, and business cases,
-        ensuring projects are delivered successfully from a financial
-        perspective. Risk and Escalation Management: You identify systemic risks
-        at an early stage, initiate preventive measures, and manage escalations
-        in a structured and solution-oriented manner. Innovation and Continuous
-        Improvement: You analyze recurring patterns, identify optimization
-        potential, and actively drive automation and standardization of our
-        deployment processes. We're looking for someone who has: Excellent
-        German and English language skills, both are critical. Completed
-        technical university degree (e.g., Mechanical Engineering, Electrical
-        Engineering, Computer Science) or equivalent qualification with
-        significant technical professional experience 5+ years of experience
-        managing complex technical programs, ideally in robotics, automation,
-        industrial tech, or hardware-software integration Proven experience in
-        building scalable project or deployment structures in a high-growth
-        environment Strong systems understanding of mechatronic or
-        cyber-physical systems Ability to abstract technical details to an
-        executive level and translate them into business impact Confident
-        presence when interacting with customers, management, and external
-        partners Experience with budget responsibility, resource planning, and
-        commercial management Structured, data-driven working style combined
-        with pragmatic execution skills Why join RobCo? Develop modular,
-        software-defined robotics solutions with us that set new standards in
-        automation. Help us build robots equipped with state-of-the-art AI that
-        perceive their environment, analyze data, and make intelligent decisions
-        in real time. As part of a very dynamic and fast-growing scale-up, you
-        will take on responsibility from day one, drive your own projects, and
-        see the direct impact of your work. Flat hierarchies, open
-        communication, and regular 360° feedback enable fast decisions and
-        support your professional and personal development. Work out across
-        Germany in over 7,200 studios with our subsidized Wellpass membership.
-        Flexible working hours, a modern office, and—depending on the role—the
-        option to work from home. Regular team events—from relaxed beer &amp;
-        pizza nights on the rooftop terrace to shared experiences on ski trips
-        or at Oktoberfest. About RobCo Founded in Munich in 2020, RobCo leads
-        the transition toward fully Autonomous Industrial Robotics. Our mission
-        is to deploy RobCo in every factory - solving the industrial labor
-        shortage through end-to-end robotics that just works. Powered by
-        Physical AI, our solutions combine a scalable modular hardware
-        architecture with intelligent software that adapts to your use case,
-        improves over time, and requires zero upfront investment through our
-        Robotics-as-a-Service (RaaS) model. We solve our customers' most
-        pressing pain points - labor shortage, cost pressure, workplace safety,
-        and national reshoring - across the full spectrum of Autonomous
-        Industrial Robotics. With $160M raised from investors including
-        Lightspeed, Lingotto Innovation, and Sequoia, 200+ people globally, and
-        2.5M+ operating hours in the field, we are deploying robots in factories
-        across Europe and the United States - with our US operations
-        headquartered in Austin, TX, and our RobCo Bay Area Demo Lab in San
-        Francisco. Don’t meet every single requirement? If you’re excited about
-        this role but your past experience doesn’t align perfectly with every
-        qualification in the job description, we encourage you to apply anyway.
-        You may be just the right candidate for this or other roles. At RobCo,
-        applicants are selected regardless of ethnic origin, religion, gender,
-        age, disability, or sexual orientation. All decisions throughout the
-        recruitment process are based solely on applicants’ qualifications,
-        skills, knowledge, and experience, as well as relevant business
-        requirements. Find Jobs in Germany on Arbeitnow"
-      job_types:
-        - Full Time
-      remote: false
-      score: 80
-      skill_hits: 2
-      bucket_id: program_management
-      fetched_at: 2026-09-26T20:05:59.172Z
-      pulled_at: 2026-09-26T20:05:59.172Z
-      stale_days: 30
-      is_stale: true
+  pm_product: []
+  scrum_agile: []
+  program_management: []
 meta:
   stale_after_days: 21
   inactive_after_days: 30
@@ -4384,11 +3739,11 @@ meta:
   source_counts:
     greenhouse: 7
     lever: 2
-    personio_xml_feeds: 984
+    personio_xml_feeds: 986
     smartrecruiters_companies: 40
     teamtailor_companies: 0
     recruitee_companies: 78
-    ashby_organizations: 454
+    ashby_organizations: 455
     stepstone_feeds: 0
     arbeitnow: 1
     remotive: 1
@@ -4401,13 +3756,13 @@ meta:
     official_career_pages: 20
     search_queries: 20
   stale_counts:
-    pm_product: 12
+    pm_product: 13
     scrum_agile: 1
     program_management: 0
   inactive_counts:
-    pm_product: 10
-    scrum_agile: 4
-    program_management: 1
+    pm_product: 0
+    scrum_agile: 0
+    program_management: 0
   timings_ms:
-    fetch: 169935
-    total: 193723
+    fetch: 240007
+    total: 240130
