@@ -1,7 +1,7 @@
 schema_version: roles.v1
 profile_id: pooja
 profile_name: Pooja - product/scrum now, EM later
-generated_at: 2026-10-27T21:32:05.780Z
+generated_at: 2026-10-28T21:52:48.367Z
 buckets:
   pm_product:
     - source: recruitee
@@ -48,9 +48,214 @@ buckets:
       score: 92
       skill_hits: 5
       bucket_id: pm_product
+      fetched_at: 2026-10-28T21:52:48.367Z
+      pulled_at: 2026-10-28T21:52:48.367Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: TransPerfect
+      title: Associate Product Manager
+      location: Pune, Mahārāshtra, India, Pune, India
+      url: https://transperfect.com/o/associate-product-manager-1
+      updated_at: 2026-07-30 23:25:59 UTC
+      description: OVERVIEW
+        TransPerfect&nbsp;helps&nbsp;organizations&nbsp;navigate&nbsp;the&nbsp;global&nbsp;marketplace.&nbsp;It&nbsp;remains&nbsp;founder-led&nbsp;–&nbsp;and&nbsp;has&nbsp;striven&nbsp;to&nbsp;maintain&nbsp;the&nbsp;ethos&nbsp;and&nbsp;drive&nbsp;that&nbsp;led&nbsp;them&nbsp;to&nbsp;grow&nbsp;organically&nbsp;year-on-year&nbsp;for&nbsp;the&nbsp;past&nbsp;30&nbsp;years.&nbsp;Starting&nbsp;in&nbsp;an&nbsp;NYU&nbsp;dorm&nbsp;room&nbsp;in&nbsp;the&nbsp;early&nbsp;1990s,&nbsp;TransPerfect&nbsp;is&nbsp;today&nbsp;recognized&nbsp;as&nbsp;the&nbsp;largest&nbsp;translation&nbsp;and&nbsp;language&nbsp;services&nbsp;company&nbsp;in&nbsp;the&nbsp;world&nbsp;with&nbsp;thousands&nbsp;of&nbsp;employees&nbsp;located&nbsp;in&nbsp;100+&nbsp;offices&nbsp;around&nbsp;the&nbsp;world&nbsp;–&nbsp;and&nbsp;over&nbsp;$1&nbsp;billion&nbsp;in&nbsp;revenue&nbsp;in&nbsp;2023.
+        The&nbsp;TransPerfect&nbsp;TechOps&nbsp;team&nbsp;has&nbsp;been&nbsp;a&nbsp;vital&nbsp;part&nbsp;of&nbsp;the&nbsp;company’s&nbsp;success&nbsp;since&nbsp;its&nbsp;formation&nbsp;10&nbsp;years&nbsp;ago&nbsp;–&nbsp;delivering&nbsp;technology&nbsp;and&nbsp;services&nbsp;that&nbsp;have&nbsp;drastically&nbsp;simplified&nbsp;the&nbsp;lives&nbsp;of&nbsp;our&nbsp;clients&nbsp;and&nbsp;colleagues&nbsp;–&nbsp;from&nbsp;workflow&nbsp;improvements&nbsp;for&nbsp;colleagues,&nbsp;to&nbsp;core&nbsp;services&nbsp;that&nbsp;form&nbsp;the&nbsp;basis&nbsp;of&nbsp;the&nbsp;company’s&nbsp;GlobalLink&nbsp;platform,&nbsp;to&nbsp;creating&nbsp;scalable&nbsp;client&nbsp;interfaces&nbsp;that&nbsp;allow&nbsp;novice&nbsp;users&nbsp;to&nbsp;navigate&nbsp;complex&nbsp;ecosystems.
+        DESCRIPTION
+        Work&nbsp;closely&nbsp;with&nbsp;the&nbsp;Product&nbsp;Manager&nbsp;to&nbsp;align&nbsp;on&nbsp;product&nbsp;strategy&nbsp;and&nbsp;roadmap
+        Support&nbsp;the&nbsp;product&nbsp;roadmap&nbsp;that&nbsp;meets&nbsp;user&nbsp;needs&nbsp;and&nbsp;corporate&nbsp;goals
+        Write&nbsp;detailed&nbsp;user&nbsp;stories&nbsp;and&nbsp;acceptance&nbsp;criteria
+        Prioritize&nbsp;and&nbsp;groom&nbsp;the&nbsp;product&nbsp;backlog
+        Support&nbsp;the&nbsp;product&nbsp;lifecycle&nbsp;from&nbsp;planning&nbsp;to&nbsp;release
+        Participate&nbsp;in&nbsp;daily/weekly&nbsp;(agile/scrum)&nbsp;software&nbsp;development&nbsp;process&nbsp;meetings
+        Support&nbsp;delivery&nbsp;schedules&nbsp;and&nbsp;coordinate&nbsp;across&nbsp;cross-functional&nbsp;teams&nbsp;comprised&nbsp;of&nbsp;product,&nbsp;design,&nbsp;development&nbsp;and&nbsp;QA,&nbsp;to&nbsp;deliver&nbsp;functional&nbsp;solutions
+        Communicate&nbsp;daily&nbsp;with&nbsp;the&nbsp;cross-functional&nbsp;team&nbsp;to&nbsp;clarify&nbsp;any&nbsp;questions&nbsp;and&nbsp;remove&nbsp;roadblocks
+        Support&nbsp;and&nbsp;evaluate&nbsp;product&nbsp;progress&nbsp;at&nbsp;each&nbsp;stage&nbsp;of&nbsp;the&nbsp;software&nbsp;development&nbsp;process
+        Perform&nbsp;any&nbsp;other&nbsp;special&nbsp;tasks&nbsp;that&nbsp;are&nbsp;deemed&nbsp;appropriate&nbsp;for&nbsp;this&nbsp;role&nbsp;as&nbsp;assigned&nbsp;by&nbsp;the&nbsp;manager/supervisor
+        REQUIRED&nbsp;SKILLS
+        Minimum&nbsp;Bachelor’s&nbsp;degree&nbsp;or&nbsp;its&nbsp;equivalent
+        1-2&nbsp;years&nbsp;of&nbsp;related&nbsp;experience&nbsp;in&nbsp;working&nbsp;in&nbsp;an&nbsp;agile&nbsp;development&nbsp;environment
+        A&nbsp;solid&nbsp;working&nbsp;knowledge&nbsp;of&nbsp;the&nbsp;product&nbsp;management&nbsp;lifecycle&nbsp;and&nbsp;an&nbsp;understanding&nbsp;of&nbsp;the&nbsp;tenets&nbsp;of&nbsp;software&nbsp;development&nbsp;using&nbsp;Agile&nbsp;methodologies
+        Experience&nbsp;managing&nbsp;products&nbsp;or&nbsp;projects&nbsp;using&nbsp;project&nbsp;management&nbsp;tools&nbsp;such&nbsp;as&nbsp;Jira,&nbsp;Azure&nbsp;DevOps&nbsp;Server,&nbsp;Confluence,&nbsp;Trello,&nbsp;etc.&nbsp;
+        Expert&nbsp;communication&nbsp;skills:&nbsp;ability&nbsp;to&nbsp;manage&nbsp;stakeholders’&nbsp;expectations,&nbsp;be&nbsp;prepared&nbsp;to&nbsp;justify&nbsp;delays&nbsp;or&nbsp;scope&nbsp;changes,&nbsp;and&nbsp;communicate&nbsp;technical&nbsp;information&nbsp;to&nbsp;business&nbsp;stakeholders&nbsp;in&nbsp;an&nbsp;easy&nbsp;to&nbsp;understand&nbsp;way
+      score: 90
+      skill_hits: 5
+      bucket_id: pm_product
+      fetched_at: 2026-10-28T21:52:48.367Z
+      pulled_at: 2026-10-28T21:52:48.367Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: TransPerfect
+      title: Technical Product Manager
+      location: Pune, Mahārāshtra, India, Pune, India
+      url: https://transperfect.com/o/technical-product-manager
+      updated_at: 2026-07-30 15:08:53 UTC
+      description: "OVERVIEW TransPerfect helps the world's leading brands thrive in
+        the global marketplace by offering a full range of solutions to ensure
+        the success of digital and mobile initiatives. Working in 170+
+        languages, our services include website and software localization, QA
+        and testing, international SEO/SEM, customer service and call center
+        solutions, multicultural marketing, multimedia services, and more.
+        RESPOSIBILITES: TransPerfect is seeking a Technical Product Manager to
+        manage and own the product lifecycle for integration frameworks for CMS
+        &amp; e-commerce systems. This position will work with internal
+        development and QA teams and vendor partners to build integrations into
+        GlobalLink - our flagship cloud-based translation management platform.
+        We are looking for forward-thinking professionals who are more
+        interested in how things could become and who can thrive in an evolving
+        and fast-paced environment. Manage the entire product life cycle which
+        includes: Manage professional services engagements and prepare SOWs for
+        all existing customers Explore product functionality and recommend best
+        strategy to integrate Evaluate APIs and GraphQL endpoints and devise an
+        integration approach Individually carry out product deliveries from
+        inception to product roll out Design/create detailed technical
+        specifications for functional requirements Closely monitor development
+        and QA progress for ontime deliverables Do active review of test
+        strategy Planning continuous upgrades for new features Collaborate with
+        multiple teams in multiple time zones including product managers,
+        engineers, solutions engineers, QA and customers for product strategy
+        &amp; roadmap. Participate in UI/UX design. Review Documentation updates
+        Analyze application logs and debug technical issues to identify root
+        causes in collaboration with engineering teams Perform competitor
+        analysis and benchmarks and ensure that your product is always ahead of
+        the curve"
+      score: 80
+      skill_hits: 2
+      bucket_id: pm_product
+      fetched_at: 2026-10-28T21:52:48.367Z
+      pulled_at: 2026-10-28T21:52:48.367Z
+      stale_days: 0
+      is_stale: false
+    - source: arbeitnow
+      source_note: ""
+      company: Verwaltungssprung GmbH
+      title: Senior Product Manager – Agentic AI (f/m/d)
+      location: Berlin
+      url: https://www.arbeitnow.com/jobs/companies/verwaltungssprung-gmbh/senior-product-manager-agentic-ai-berlin-475635
+      updated_at: 1793206853
+      description: "Verwaltungssprung is a Berlin-based GovTech company developing
+        AI-powered software solutions to simplify and digitize administrative
+        processes. Our platform enables citizens and public institutions to
+        access secure, user-friendly, and fully digital public services. As we
+        expand our agentic AI platform with new use cases, we are looking for a
+        Senior Product Manager (f/m/d) who thrives on building new use cases
+        from scratch and enjoys bringing clarity and focus to evolving
+        environments. Tasks Drive the full product development cycle: ideation,
+        concept, development, release and continuous improvement Shape the
+        product architecture together with Engineering and AI, combining
+        knowledge bases, agentic workflows and conversational interfaces Conduct
+        user research and discovery with internal and external stakeholders,
+        validate assumptions early and feed learnings back into the product
+        lifecycle Set up priorities, rituals, documentation and decision-making
+        routines Define scope, success metrics and roadmap, and make clear
+        trade-offs between speed, quality and scope Manage progress and
+        expectations towards stakeholders at all levels Ensure quality,
+        usability and reliability of AI features, including evaluation of answer
+        quality and workflow outcomes What you bring to the role 5+ years of
+        experience in product management, building customer-facing digital
+        products An AI-native way of working: you use tools such as Claude and
+        Claude Code daily to prototype, analyze and accelerate your work, not
+        just experimenting with them A proven track record of building
+        commercially successful products from 0 to 1 Self-driven and resilient:
+        you feel comfortable in fast-moving settings where not everything is
+        defined yet Strong communication skills: you align business, technical
+        and non-technical people and hold your ground when needed Solid
+        experience with modern agile product development methods Experience in
+        startup, scale-up or consulting-like environments with high ownership
+        and fast decision-making Fluent English skills; German is a strong plus
+        Nice to have Previous experience shipping agentic AI or RAG-based
+        products Technical depth to discuss system design and LLM evaluation
+        with engineers as a peer Benefits Attractive compensation package
+        Centrally located offices with access to the unique ThinkTank Campus in
+        Berlin-Wannsee Free snacks and beverages in our offices Flat
+        hierarchies, fast decision-making, and room for your own ideas
+        International team spirit with recognition of both collective and
+        individual successes Early responsibility and strategic influence from
+        day one Structured onboarding with a buddy and experienced mentor
+        Continuous training programs and regular development discussions Find
+        Jobs in Germany on Arbeitnow"
+      job_types:
+        - Permanent employment (unbefristeter arbeitsvertrag)
+        - professional / experienced
+      remote: false
+      score: 78
+      skill_hits: 2
+      bucket_id: pm_product
+      fetched_at: 2026-10-28T21:52:48.367Z
+      pulled_at: 2026-10-28T21:52:48.367Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: Consultport
+      title: Product Manager (m/f/d)
+      location: Berlin, Berlin, Germany, Berlin, Germany
+      url: https://consultport.recruitee.com/o/product-manager-mfd
+      updated_at: 2026-09-15 08:12:42 UTC
+      description: Consultport is the leading digital platform that connects some of
+        the world's most iconic brands with world-class consultants. We're
+        scaling hard, and we need a PM obsessed with product-led growth (PLG).
+        This role is not about babysitting a roadmap but turning the product
+        itself into our best sales channel — removing friction, driving
+        activation, and making users fall in love before they ever talk to
+        sales.
+      score: 74
+      skill_hits: 1
+      bucket_id: pm_product
+      fetched_at: 2026-10-28T21:52:48.367Z
+      pulled_at: 2026-10-28T21:52:48.367Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: TransPerfect
+      title: Associate Product Manager
+      location: Pune, Mahārāshtra, India, Pune, India
+      url: https://transperfect.com/o/associate-product-manager
+      updated_at: 2026-08-05 06:02:31 UTC
+      description: OVERVIEW TransPerfect helps organizations navigate the global
+        marketplace. It remains founder-led – and has striven to maintain the
+        ethos and drive that led them to grow organically year-on-year for the
+        past 30 years. Starting in an NYU dorm room in the early 1990s,
+        TransPerfect is today recognized as the largest translation and language
+        services company in the world with thousands of employees located in
+        100+ offices around the world – and over $1 billion in revenue in 2023.
+        &nbsp; The TransPerfect TechOps team has been a vital part of the
+        company’s success since its formation 10 years ago – delivering
+        technology and services that have drastically simplified the lives of
+        our clients and colleagues – from workflow improvements for colleagues,
+        to core services that form the basis of the company’s GlobalLink
+        platform, to creating scalable client interfaces that allow novice users
+        to navigate complex ecosystems. DESCRIPTION
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Work closely with the Product
+        Manager to align on product strategy and roadmap
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support the product roadmap that
+        meets user needs and corporate goals
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Write detailed user stories and
+        acceptance criteria ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prioritize and
+        groom the product backlog ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support
+        the product lifecycle from planning to release
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Participate in daily/weekly
+        (agile/scrum) software development process meetings
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support delivery schedules and
+        coordinate across cross-functional teams comprised of product, design,
+        development and QA, to deliver functional solutions
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Communicate daily with the
+        cross-functional team to clarify any questions and remove roadblocks
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support and evaluate product
+        progress at each stage of the software development process
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Perform any other special tasks
+        that are deemed appropriate for this role as assigned by the
+        manager/supervisor
+      score: 92
+      skill_hits: 5
+      bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -84,7 +289,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -127,7 +332,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -217,7 +422,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -307,7 +512,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -328,7 +533,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -415,7 +620,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -463,7 +668,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-23T20:37:43.569Z
       pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -497,7 +702,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-23T20:37:43.569Z
       pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -540,7 +745,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-23T20:37:43.569Z
       pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -561,7 +766,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-23T20:37:43.569Z
       pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -674,7 +879,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-23T20:37:43.569Z
       pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -722,7 +927,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-21T20:51:32.768Z
       pulled_at: 2026-10-21T20:51:32.768Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -756,7 +961,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-21T20:51:32.768Z
       pulled_at: 2026-10-21T20:51:32.768Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -918,7 +1123,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-21T20:51:32.768Z
       pulled_at: 2026-10-21T20:51:32.768Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -961,7 +1166,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-21T20:51:32.768Z
       pulled_at: 2026-10-21T20:51:32.768Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -982,7 +1187,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-21T20:51:32.768Z
       pulled_at: 2026-10-21T20:51:32.768Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1030,7 +1235,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1064,7 +1269,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1107,7 +1312,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1176,7 +1381,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1247,7 +1452,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1318,7 +1523,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1389,7 +1594,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1458,7 +1663,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1529,7 +1734,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1598,7 +1803,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1667,7 +1872,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: jobicy
       source_note: ""
@@ -1749,7 +1954,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1770,7 +1975,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1818,7 +2023,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1852,7 +2057,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1895,7 +2100,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: jobicy
       source_note: ""
@@ -2066,7 +2271,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2087,7 +2292,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2195,7 +2400,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2302,7 +2507,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-11T21:07:22.664Z
       pulled_at: 2026-10-11T21:07:22.664Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2390,7 +2595,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-11T21:07:22.664Z
       pulled_at: 2026-10-11T21:07:22.664Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2438,8 +2643,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: TransPerfect
@@ -2472,8 +2677,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: arbeitnow
       source_note: ""
       company: affinidi
@@ -2693,8 +2898,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: TransPerfect
@@ -2736,8 +2941,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: Consultport
@@ -2757,8 +2962,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: arbeitnow
       source_note: ""
       company: NeuroNation
@@ -2821,8 +3026,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: arbeitnow
       source_note: ""
       company: Skoove
@@ -2933,7 +3138,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-05T23:20:51.019Z
       pulled_at: 2026-10-05T23:20:51.019Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -2981,7 +3186,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-30T21:35:30.734Z
       pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 26
+      stale_days: 28
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3015,7 +3220,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-30T21:35:30.734Z
       pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 26
+      stale_days: 28
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -3108,7 +3313,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-30T21:35:30.734Z
       pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 26
+      stale_days: 28
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -3233,7 +3438,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-30T21:35:30.734Z
       pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 26
+      stale_days: 28
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3276,7 +3481,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-30T21:35:30.734Z
       pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 26
+      stale_days: 28
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -3425,7 +3630,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-30T21:35:30.734Z
       pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 26
+      stale_days: 28
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -3542,7 +3747,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-30T21:35:30.734Z
       pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 26
+      stale_days: 28
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3563,7 +3768,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-30T21:35:30.734Z
       pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 26
+      stale_days: 28
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3611,7 +3816,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-29T21:34:20.102Z
       pulled_at: 2026-09-29T21:34:20.102Z
-      stale_days: 27
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3645,7 +3850,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-29T21:34:20.102Z
       pulled_at: 2026-09-29T21:34:20.102Z
-      stale_days: 27
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3688,7 +3893,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-29T21:34:20.102Z
       pulled_at: 2026-09-29T21:34:20.102Z
-      stale_days: 27
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3709,9 +3914,179 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-29T21:34:20.102Z
       pulled_at: 2026-09-29T21:34:20.102Z
-      stale_days: 27
+      stale_days: 29
       is_stale: true
   scrum_agile:
+    - source: arbeitnow
+      source_note: ""
+      company: Axon
+      title: Senior Technical Program Manager I
+      location: ""
+      url: https://www.arbeitnow.com/jobs/companies/axon/senior-technical-program-manager-i-178890
+      updated_at: 1793213722
+      description: "&lt;div
+        class=&quot;content-intro&quot;&gt;&lt;h4&gt;&lt;strong&gt;Join Axon and
+        be a Force for Good.&lt;/strong&gt;&lt;/h4&gt; &lt;p&gt;At Axon, we’re
+        on a mission to Protect Life. We’re explorers, pursuing society’s most
+        critical safety and justice issues with our ecosystem of devices and
+        cloud software. Like our products, we work better together. We connect
+        with candor and care, seeking out diverse perspectives from our
+        customers, communities and each other.&lt;br&gt;&lt;br&gt;Life at Axon
+        is fast-paced, challenging and meaningful. Here, you’ll take ownership
+        and drive real change. Constantly grow as you work hard for a mission
+        that matters at a company where you
+        matter.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Location: Amsterdam,
+        Netherlands OR Germany -
+        Remote&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;Travel: &lt;/strong&gt;up
+        to 40% within DACH, Benelux, Nordics (an other European countries as
+        needed)&lt;br&gt;&lt;strong&gt;Reports to:&lt;/strong&gt; Director,
+        Professional Services, EMEA&lt;br&gt;&amp;nbsp;&lt;/p&gt;
+        &lt;h2&gt;&lt;strong&gt;Your Impact&lt;/strong&gt;&lt;/h2&gt;
+        &lt;p&gt;As a Senior Technical Project Manager, you’ll lead
+        high-visibility projects, directly contributing to the development and
+        implementation of solutions that truly make a difference. In this role,
+        you’ll tackle complex challenges, working with some of the most advanced
+        technologies in the industry, including cloud and on-prem platforms, and
+        mission-critical systems. You’ll have the opportunity to collaborate
+        with brilliant minds across professional services, sales, engineering,
+        product, and customer teams to deliver solutions that save lives and
+        enhance public trust.&lt;br&gt;&lt;br&gt;At Axon, we’re driven by a
+        powerful mission: to protect life, capture truth, and accelerate
+        justice. We’re growing rapidly, and this is your chance to make a
+        lasting impact at a company where innovation meets purpose.&lt;/p&gt;
+        &lt;h2&gt;&lt;br&gt;&lt;strong&gt;What You’ll
+        Do&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;&lt;br&gt;&lt;strong&gt;Program
+        &amp;amp; Project Management&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt;
+        &lt;li&gt;Manage all aspects of complex enterprise-grade product
+        deployments&lt;/li&gt; &lt;li&gt;Oversee project milestones, resource
+        planning, scope, timeline, and risk management.&lt;/li&gt;
+        &lt;li&gt;Manage cross-functional stakeholders to ensure alignment,
+        transparency, and on-time delivery.&lt;/li&gt; &lt;li&gt;Ensures project
+        milestones and deadlines are met and associated documentation supports
+        customer acceptance for purposes of revenue recognition&lt;/li&gt;
+        &lt;li&gt;Support pre-sales scoping and post-sales implementation
+        handoff.&lt;/li&gt; &lt;li&gt;Operates with a sense of urgency,
+        accuracy, and detail-orientation, while maintaining consistent lines of
+        communication with all teams involved in each project&lt;/li&gt;
+        &lt;li&gt;Maintain customer confidence, especially in high-pressure
+        situations&lt;/li&gt; &lt;li&gt;Remain organized and focused on removing
+        obstacles through creativity and adaptation to rapidly changing
+        circumstances&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Partner
+        Management&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Own the
+        relationship with 3rd party integrator and the client throughout the
+        length of the contract&lt;/li&gt; &lt;/ul&gt;
+        &lt;p&gt;&lt;strong&gt;Stakeholder
+        Collaboration&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Work closely
+        with Professional Services, Product Managers, and Engineers to align
+        program execution with business goals.&lt;/li&gt; &lt;li&gt;Act as a
+        liaison between customers and internal teams to manage change requests,
+        solution feasibility, and roadmap alignment.&lt;/li&gt; &lt;/ul&gt;
+        &lt;p&gt;&lt;strong&gt;Process Improvement&lt;/strong&gt;&lt;/p&gt;
+        &lt;ul&gt; &lt;li&gt;Identify process inefficiencies and propose
+        improvements to increase deployment speed, quality, and customer
+        satisfaction.&lt;/li&gt; &lt;li&gt;Contribute to internal SOPs,
+        implementation playbooks, and best practices.&lt;/li&gt; &lt;/ul&gt;
+        &lt;h2&gt;&lt;strong&gt;What You Bring&lt;/strong&gt;&lt;/h2&gt;
+        &lt;ul&gt; &lt;li&gt;Fluency in both German and English&lt;/li&gt;
+        &lt;li&gt;European citizenship is required in order to work with
+        sensitive Government data, willing to undergo a security
+        check&lt;/li&gt; &lt;li&gt;5+ years of experience leading and delivering
+        highly complex programs, with demonstrated success in technical program
+        management.&lt;/li&gt; &lt;li&gt;Proven track record of managing
+        enterprise-level software deployments, infrastructure projects, or
+        large-scale enterprise application programs.&lt;/li&gt; &lt;li&gt;Deep
+        expertise in delivering complex projects involving cross-functional
+        teams, including sales, engineering, and product.&lt;/li&gt;
+        &lt;li&gt;Mastery of program/project management tools and methodologies
+        to track, report, and deliver on objectives. (PMP, PRINCE2,
+        SCRUM)&lt;/li&gt; &lt;li&gt;Experience gathering requirements,
+        optimizing workflows, and facilitating change management within
+        teams.&lt;/li&gt; &lt;li&gt;Familiarity with software configurations and
+        coding experience (particularly JSON) preferred.&lt;/li&gt;
+        &lt;li&gt;Advanced communication and presentation skills, with the
+        ability to distill technical concepts for diverse audiences.&lt;/li&gt;
+        &lt;li&gt;Proficiency in guiding client and internal teams through
+        ambiguity, driving alignment, and executing on shared goals.&lt;/li&gt;
+        &lt;/ul&gt;&lt;div
+        class=&quot;content-conclusion&quot;&gt;&lt;p&gt;Don’t meet every single
+        requirement? That&#39;s ok. At Axon, we Aim Far. We think big with a
+        long-term view because we want to reinvent the world to be a safer,
+        better place. We are also committed to building diverse teams that
+        reflect the communities we serve.&lt;/p&gt; &lt;p&gt;Studies have shown
+        that women and people of color are less likely to apply to jobs unless
+        they check every box in the job description. If you’re excited about
+        this role and our mission to Protect Life but your experience doesn’t
+        align perfectly with every qualification listed here, we encourage you
+        to apply anyways. You may be just the right candidate for this or other
+        roles.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Important
+        Notes&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;The above job
+        description is not intended as, nor should it be construed as,
+        exhaustive of all duties, responsibilities, skills, efforts, or working
+        conditions associated with this job. The job description may change or
+        be supplemented at any time in accordance with business needs and
+        conditions.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Some roles may also
+        require legal eligibility to work in a firearms
+        environment.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;We collect personal
+        information from applicants to evaluate candidates for employment. You
+        may request access, deletion, or exercise other CCPA rights
+        at&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;&lt;a
+        class=&quot;c-link c-link--underline&quot; -----
+        target=&quot;_blank&quot; ----- ----- via our&amp;nbsp;&lt;a
+        class=&quot;c-link c-link--underline&quot;
+        href=&quot;https://privacyportal.onetrust.com/webform/0efc1702-9321-411\
+        9-bc9d-a06c3a1d3e4e/ca57cc26-a159-4193-9f6e-58ffe3fd2509&quot;
+        target=&quot;_blank&quot;
+        data-stringify-link=&quot;https://privacyportal.onetrust.com/webform/0e\
+        fc1702-9321-4119-bc9d-a06c3a1d3e4e/ca57cc26-a159-4193-9f6e-58ffe3fd2509\
+        &quot; data-sk=&quot;tooltip_parent&quot;&gt;Axon Privacy Web
+        Form&lt;/a&gt;. For more information, please see the Your California
+        Privacy Rights section of our&amp;nbsp;&lt;a class=&quot;c-link
+        c-link--underline&quot;
+        href=&quot;https://www.axon.com/candidateprivacypolicy&quot;
+        target=&quot;_blank&quot;
+        data-stringify-link=&quot;https://www.axon.com/candidateprivacypolicy&q\
+        uot; data-sk=&quot;tooltip_parent&quot;&gt;Applicant and Candidate
+        Privacy Notice.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Axon’s
+        mission is to Protect Life and is committed to the well-being and safety
+        of its employees as well as Axon’s impact on the environment. All Axon
+        employees must be aware of and committed to the appropriate
+        environmental, health, and safety regulations, policies, and procedures.
+        Axon employees are empowered to report safety concerns as they arise and
+        activities potentially impacting the environment.&lt;/em&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;em&gt;We are an equal opportunity employer that promotes
+        justice, advances equity, values diversity and fosters inclusion. We’re
+        committed to hiring the best talent — regardless of race, creed, color,
+        ancestry, religion, sex (including pregnancy), national origin, sexual
+        orientation, age, citizenship status, marital status, disability, gender
+        identity, genetic information, veteran status, or any other
+        characteristic protected by applicable laws, regulations and ordinances
+        — and empowering all of our employees so they can do their best work. If
+        you have a disability or special need that requires assistance or
+        accommodation during the application or the recruiting process, please
+        email &lt;a ---------- &lt;/a&gt;&amp;nbsp;Please note that this email
+        address is for accommodation purposes only. Axon will not respond to
+        inquiries for other purposes.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;Phishing
+        alert:&amp;nbsp; Axon will never ask you to pay for any part of the
+        hiring process, including training, equipment, or background checks. We
+        do not make job offers via text message, WhatsApp, or instant messaging
+        platforms without a formal interview process.&amp;nbsp; All legitimate
+        job openings are listed on our official careers page at &lt;a
+        href=&quot;https://www.axon.com/careers&quot;&gt;https://www.axon.com/c\
+        areers&lt;/a&gt;. &amp;nbsp;If you receive a suspicious offer or
+        outreach from an email address that is not ----- or if you are asked for
+        sensitive personal information (bank details, Social Security Number)
+        prematurely, please ignore the message and report it to &lt;a ----------
+        &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt; Find more English Speaking
+        Jobs in Germany on Arbeitnow"
+      job_types: &a1 []
+      remote: false
+      score: 88
+      skill_hits: 4
+      bucket_id: scrum_agile
+      fetched_at: 2026-10-28T21:52:48.367Z
+      pulled_at: 2026-10-28T21:52:48.367Z
+      stale_days: 0
+      is_stale: false
     - source: smartrecruiters
       source_note: ""
       company: NielsenIQ
@@ -3725,9 +4100,179 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-09-29T21:34:20.102Z
       pulled_at: 2026-09-29T21:34:20.102Z
-      stale_days: 27
+      stale_days: 29
       is_stale: true
-  program_management: []
+  program_management:
+    - source: arbeitnow
+      source_note: ""
+      company: Axon
+      title: Senior Technical Program Manager I
+      location: ""
+      url: https://www.arbeitnow.com/jobs/companies/axon/senior-technical-program-manager-i-178890
+      updated_at: 1793213722
+      description: "&lt;div
+        class=&quot;content-intro&quot;&gt;&lt;h4&gt;&lt;strong&gt;Join Axon and
+        be a Force for Good.&lt;/strong&gt;&lt;/h4&gt; &lt;p&gt;At Axon, we’re
+        on a mission to Protect Life. We’re explorers, pursuing society’s most
+        critical safety and justice issues with our ecosystem of devices and
+        cloud software. Like our products, we work better together. We connect
+        with candor and care, seeking out diverse perspectives from our
+        customers, communities and each other.&lt;br&gt;&lt;br&gt;Life at Axon
+        is fast-paced, challenging and meaningful. Here, you’ll take ownership
+        and drive real change. Constantly grow as you work hard for a mission
+        that matters at a company where you
+        matter.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Location: Amsterdam,
+        Netherlands OR Germany -
+        Remote&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;Travel: &lt;/strong&gt;up
+        to 40% within DACH, Benelux, Nordics (an other European countries as
+        needed)&lt;br&gt;&lt;strong&gt;Reports to:&lt;/strong&gt; Director,
+        Professional Services, EMEA&lt;br&gt;&amp;nbsp;&lt;/p&gt;
+        &lt;h2&gt;&lt;strong&gt;Your Impact&lt;/strong&gt;&lt;/h2&gt;
+        &lt;p&gt;As a Senior Technical Project Manager, you’ll lead
+        high-visibility projects, directly contributing to the development and
+        implementation of solutions that truly make a difference. In this role,
+        you’ll tackle complex challenges, working with some of the most advanced
+        technologies in the industry, including cloud and on-prem platforms, and
+        mission-critical systems. You’ll have the opportunity to collaborate
+        with brilliant minds across professional services, sales, engineering,
+        product, and customer teams to deliver solutions that save lives and
+        enhance public trust.&lt;br&gt;&lt;br&gt;At Axon, we’re driven by a
+        powerful mission: to protect life, capture truth, and accelerate
+        justice. We’re growing rapidly, and this is your chance to make a
+        lasting impact at a company where innovation meets purpose.&lt;/p&gt;
+        &lt;h2&gt;&lt;br&gt;&lt;strong&gt;What You’ll
+        Do&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;&lt;br&gt;&lt;strong&gt;Program
+        &amp;amp; Project Management&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt;
+        &lt;li&gt;Manage all aspects of complex enterprise-grade product
+        deployments&lt;/li&gt; &lt;li&gt;Oversee project milestones, resource
+        planning, scope, timeline, and risk management.&lt;/li&gt;
+        &lt;li&gt;Manage cross-functional stakeholders to ensure alignment,
+        transparency, and on-time delivery.&lt;/li&gt; &lt;li&gt;Ensures project
+        milestones and deadlines are met and associated documentation supports
+        customer acceptance for purposes of revenue recognition&lt;/li&gt;
+        &lt;li&gt;Support pre-sales scoping and post-sales implementation
+        handoff.&lt;/li&gt; &lt;li&gt;Operates with a sense of urgency,
+        accuracy, and detail-orientation, while maintaining consistent lines of
+        communication with all teams involved in each project&lt;/li&gt;
+        &lt;li&gt;Maintain customer confidence, especially in high-pressure
+        situations&lt;/li&gt; &lt;li&gt;Remain organized and focused on removing
+        obstacles through creativity and adaptation to rapidly changing
+        circumstances&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Partner
+        Management&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Own the
+        relationship with 3rd party integrator and the client throughout the
+        length of the contract&lt;/li&gt; &lt;/ul&gt;
+        &lt;p&gt;&lt;strong&gt;Stakeholder
+        Collaboration&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Work closely
+        with Professional Services, Product Managers, and Engineers to align
+        program execution with business goals.&lt;/li&gt; &lt;li&gt;Act as a
+        liaison between customers and internal teams to manage change requests,
+        solution feasibility, and roadmap alignment.&lt;/li&gt; &lt;/ul&gt;
+        &lt;p&gt;&lt;strong&gt;Process Improvement&lt;/strong&gt;&lt;/p&gt;
+        &lt;ul&gt; &lt;li&gt;Identify process inefficiencies and propose
+        improvements to increase deployment speed, quality, and customer
+        satisfaction.&lt;/li&gt; &lt;li&gt;Contribute to internal SOPs,
+        implementation playbooks, and best practices.&lt;/li&gt; &lt;/ul&gt;
+        &lt;h2&gt;&lt;strong&gt;What You Bring&lt;/strong&gt;&lt;/h2&gt;
+        &lt;ul&gt; &lt;li&gt;Fluency in both German and English&lt;/li&gt;
+        &lt;li&gt;European citizenship is required in order to work with
+        sensitive Government data, willing to undergo a security
+        check&lt;/li&gt; &lt;li&gt;5+ years of experience leading and delivering
+        highly complex programs, with demonstrated success in technical program
+        management.&lt;/li&gt; &lt;li&gt;Proven track record of managing
+        enterprise-level software deployments, infrastructure projects, or
+        large-scale enterprise application programs.&lt;/li&gt; &lt;li&gt;Deep
+        expertise in delivering complex projects involving cross-functional
+        teams, including sales, engineering, and product.&lt;/li&gt;
+        &lt;li&gt;Mastery of program/project management tools and methodologies
+        to track, report, and deliver on objectives. (PMP, PRINCE2,
+        SCRUM)&lt;/li&gt; &lt;li&gt;Experience gathering requirements,
+        optimizing workflows, and facilitating change management within
+        teams.&lt;/li&gt; &lt;li&gt;Familiarity with software configurations and
+        coding experience (particularly JSON) preferred.&lt;/li&gt;
+        &lt;li&gt;Advanced communication and presentation skills, with the
+        ability to distill technical concepts for diverse audiences.&lt;/li&gt;
+        &lt;li&gt;Proficiency in guiding client and internal teams through
+        ambiguity, driving alignment, and executing on shared goals.&lt;/li&gt;
+        &lt;/ul&gt;&lt;div
+        class=&quot;content-conclusion&quot;&gt;&lt;p&gt;Don’t meet every single
+        requirement? That&#39;s ok. At Axon, we Aim Far. We think big with a
+        long-term view because we want to reinvent the world to be a safer,
+        better place. We are also committed to building diverse teams that
+        reflect the communities we serve.&lt;/p&gt; &lt;p&gt;Studies have shown
+        that women and people of color are less likely to apply to jobs unless
+        they check every box in the job description. If you’re excited about
+        this role and our mission to Protect Life but your experience doesn’t
+        align perfectly with every qualification listed here, we encourage you
+        to apply anyways. You may be just the right candidate for this or other
+        roles.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Important
+        Notes&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;The above job
+        description is not intended as, nor should it be construed as,
+        exhaustive of all duties, responsibilities, skills, efforts, or working
+        conditions associated with this job. The job description may change or
+        be supplemented at any time in accordance with business needs and
+        conditions.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Some roles may also
+        require legal eligibility to work in a firearms
+        environment.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;We collect personal
+        information from applicants to evaluate candidates for employment. You
+        may request access, deletion, or exercise other CCPA rights
+        at&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;&lt;a
+        class=&quot;c-link c-link--underline&quot; -----
+        target=&quot;_blank&quot; ----- ----- via our&amp;nbsp;&lt;a
+        class=&quot;c-link c-link--underline&quot;
+        href=&quot;https://privacyportal.onetrust.com/webform/0efc1702-9321-411\
+        9-bc9d-a06c3a1d3e4e/ca57cc26-a159-4193-9f6e-58ffe3fd2509&quot;
+        target=&quot;_blank&quot;
+        data-stringify-link=&quot;https://privacyportal.onetrust.com/webform/0e\
+        fc1702-9321-4119-bc9d-a06c3a1d3e4e/ca57cc26-a159-4193-9f6e-58ffe3fd2509\
+        &quot; data-sk=&quot;tooltip_parent&quot;&gt;Axon Privacy Web
+        Form&lt;/a&gt;. For more information, please see the Your California
+        Privacy Rights section of our&amp;nbsp;&lt;a class=&quot;c-link
+        c-link--underline&quot;
+        href=&quot;https://www.axon.com/candidateprivacypolicy&quot;
+        target=&quot;_blank&quot;
+        data-stringify-link=&quot;https://www.axon.com/candidateprivacypolicy&q\
+        uot; data-sk=&quot;tooltip_parent&quot;&gt;Applicant and Candidate
+        Privacy Notice.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Axon’s
+        mission is to Protect Life and is committed to the well-being and safety
+        of its employees as well as Axon’s impact on the environment. All Axon
+        employees must be aware of and committed to the appropriate
+        environmental, health, and safety regulations, policies, and procedures.
+        Axon employees are empowered to report safety concerns as they arise and
+        activities potentially impacting the environment.&lt;/em&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;em&gt;We are an equal opportunity employer that promotes
+        justice, advances equity, values diversity and fosters inclusion. We’re
+        committed to hiring the best talent — regardless of race, creed, color,
+        ancestry, religion, sex (including pregnancy), national origin, sexual
+        orientation, age, citizenship status, marital status, disability, gender
+        identity, genetic information, veteran status, or any other
+        characteristic protected by applicable laws, regulations and ordinances
+        — and empowering all of our employees so they can do their best work. If
+        you have a disability or special need that requires assistance or
+        accommodation during the application or the recruiting process, please
+        email &lt;a ---------- &lt;/a&gt;&amp;nbsp;Please note that this email
+        address is for accommodation purposes only. Axon will not respond to
+        inquiries for other purposes.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;Phishing
+        alert:&amp;nbsp; Axon will never ask you to pay for any part of the
+        hiring process, including training, equipment, or background checks. We
+        do not make job offers via text message, WhatsApp, or instant messaging
+        platforms without a formal interview process.&amp;nbsp; All legitimate
+        job openings are listed on our official careers page at &lt;a
+        href=&quot;https://www.axon.com/careers&quot;&gt;https://www.axon.com/c\
+        areers&lt;/a&gt;. &amp;nbsp;If you receive a suspicious offer or
+        outreach from an email address that is not ----- or if you are asked for
+        sensitive personal information (bank details, Social Security Number)
+        prematurely, please ignore the message and report it to &lt;a ----------
+        &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt; Find more English Speaking
+        Jobs in Germany on Arbeitnow"
+      job_types: *a1
+      remote: false
+      score: 88
+      skill_hits: 4
+      bucket_id: program_management
+      fetched_at: 2026-10-28T21:52:48.367Z
+      pulled_at: 2026-10-28T21:52:48.367Z
+      stale_days: 0
+      is_stale: false
 archive:
   pm_product: []
   scrum_agile: []
@@ -3756,7 +4301,7 @@ meta:
     official_career_pages: 20
     search_queries: 20
   stale_counts:
-    pm_product: 13
+    pm_product: 19
     scrum_agile: 1
     program_management: 0
   inactive_counts:
@@ -3764,5 +4309,5 @@ meta:
     scrum_agile: 0
     program_management: 0
   timings_ms:
-    fetch: 240007
-    total: 240130
+    fetch: 176692
+    total: 203633
