@@ -1,4 +1,4 @@
-generated_at: 2026-10-28T21:52:48.367Z
+generated_at: 2026-10-29T22:01:06.957Z
 explicit:
   company_names:
     - SAP
@@ -1063,6 +1063,11 @@ discovered:
     - mkp-gmbh
     - alloy
     - haut-ai
+    - light-inc
+    - juro
+    - trustflight
+    - benchling
+    - kernel
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -2171,6 +2176,7 @@ discovered:
     - anywherenow
     - pysae
     - trafineo
+    - trustflight
   ashby_organizations:
     - telus-digital
     - a-team
@@ -2628,6 +2634,10 @@ discovered:
     - swarmaero
     - alloy
     - haut-ai
+    - light-inc
+    - juro
+    - benchling
+    - kernel
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers

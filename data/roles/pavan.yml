@@ -1,7 +1,7 @@
 schema_version: roles.v1
 profile_id: pavan
 profile_name: Pavan - marketing, digital marketing, video editing
-generated_at: 2026-10-28T21:49:24.706Z
+generated_at: 2026-10-29T21:57:20.510Z
 buckets:
   marketing_general:
     - source: recruitee
@@ -52,7 +52,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -101,7 +101,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -164,7 +164,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -233,7 +233,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -279,7 +279,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -357,7 +357,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -432,7 +432,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -508,7 +508,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -563,7 +563,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: ashby
       source_note: ""
@@ -578,7 +578,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -627,7 +627,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -674,7 +674,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -737,7 +737,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -812,7 +812,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -888,7 +888,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -943,7 +943,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1035,7 +1035,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1082,7 +1082,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1145,7 +1145,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1220,7 +1220,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1296,7 +1296,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1351,7 +1351,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1398,7 +1398,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1461,7 +1461,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1583,7 +1583,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1658,7 +1658,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1734,7 +1734,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1789,7 +1789,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1871,7 +1871,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1918,7 +1918,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1981,7 +1981,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2056,7 +2056,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2132,7 +2132,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2187,7 +2187,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2234,7 +2234,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-11T21:03:47.567Z
       pulled_at: 2026-10-11T21:03:47.567Z
-      stale_days: 17
+      stale_days: 18
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2349,7 +2349,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-11T21:03:47.567Z
       pulled_at: 2026-10-11T21:03:47.567Z
-      stale_days: 17
+      stale_days: 18
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2404,7 +2404,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-11T21:03:47.567Z
       pulled_at: 2026-10-11T21:03:47.567Z
-      stale_days: 17
+      stale_days: 18
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2451,7 +2451,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-06T21:48:27.843Z
       pulled_at: 2026-10-06T21:48:27.843Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -2506,7 +2506,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-06T21:48:27.843Z
       pulled_at: 2026-10-06T21:48:27.843Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -2588,7 +2588,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-06T21:48:27.843Z
       pulled_at: 2026-10-06T21:48:27.843Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -2635,7 +2635,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-05T23:16:43.362Z
       pulled_at: 2026-10-05T23:16:43.362Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -2690,7 +2690,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-05T23:16:43.362Z
       pulled_at: 2026-10-05T23:16:43.362Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -2835,7 +2835,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-09-30T21:31:26.014Z
       pulled_at: 2026-09-30T21:31:26.014Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -2882,7 +2882,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-09-30T21:31:26.014Z
       pulled_at: 2026-09-30T21:31:26.014Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -2961,7 +2961,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-09-30T21:31:26.014Z
       pulled_at: 2026-09-30T21:31:26.014Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3016,7 +3016,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-09-30T21:31:26.014Z
       pulled_at: 2026-09-30T21:31:26.014Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -3108,7 +3108,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-09-30T21:31:26.014Z
       pulled_at: 2026-09-30T21:31:26.014Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -3185,282 +3185,6 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-09-30T21:31:26.014Z
       pulled_at: 2026-09-30T21:31:26.014Z
-      stale_days: 28
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: Consultport
-      title: Growth Marketing Manager
-      location: Berlin, Berlin, Germany, Berlin, Germany
-      url: https://consultport.recruitee.com/o/growth-marketing-manager
-      updated_at: 2026-08-06 14:09:57 UTC
-      description: "Who are we? Consultport is a global platform redefining how
-        businesses access top-tier consulting talent. We connect top companies
-        with world-class consultants and digital experts, helping them drive
-        critical initiatives faster, smarter, and more flexibly than ever
-        before. Join us at this growth stage. We're building the future of
-        consulting, and this is your chance to be part of shaping it. The role
-        As a Growth Marketing Manager (m/f/d) at Consultport, you'll own and
-        drive our digital marketing strategy across all channels, from
-        performance and paid media to content, SEO, and brand. You'll work
-        closely with our sales and business development teams to generate
-        high-quality demand and fuel our growth engine. This is a hands-on,
-        all-round marketing role that blends strategic thinking with executional
-        excellence, ideally suited to someone who has thrived in a fast-paced
-        agency or digital-first environment. We are currently ramping up our
-        Marketing team and this is where you come in! As Growth Marketing
-        Manager (m/f/d) at Consultport, you'll be responsible for: Digital
-        Strategy &amp; Execution Develop and own a 360° digital marketing
-        strategy across paid, owned, and earned channels Manage and optimise
-        marketing campaigns across Google Ads, LinkedIn, and Meta Drive SEO
-        strategy to ensure our content and web presence consistently ranks and
-        converts Demand Generation &amp; Lead Nurturing Own the full marketing
-        funnel from awareness through to qualified lead handoff to sales Build
-        campaigns for key customer segments to drive user acquisition and
-        engagement Manage and optimise our CRM and marketing automation
-        workflows (e.g. HubSpot) Analytics &amp; Performance Set up and maintain
-        robust tracking and reporting across all channels (Google Tag Manager,
-        Google Analytics) Use data-driven insights to improve campaign
-        performance, conversion rates, and ROI Run A/B tests and implement
-        optimisation strategies across the customer journey Brand &amp; Content
-        Oversee brand consistency across all digital touchpoints and
-        communications Develop content that speaks to our target audience of
-        senior business decision-makers Identify and act on market trends and
-        emerging digital marketing opportunities"
-      score: 84
-      skill_hits: 3
-      bucket_id: marketing_general
-      fetched_at: 2026-09-29T21:30:40.201Z
-      pulled_at: 2026-09-29T21:30:40.201Z
-      stale_days: 29
-      is_stale: true
-    - source: arbeitnow
-      source_note: ""
-      company: Denkwerk Gmbh
-      title: Senior Digital Marketing Manager SEO/GEO (all genders)
-      location: Berlin
-      url: https://www.arbeitnow.com/jobs/companies/denkwerk-gmbh/senior-digital-marketing-manager-seo-geo-all-genders-berlin-156382
-      updated_at: 1790701756
-      description: "You are the one we miss! We’re looking for someone with a passion
-        for digital marketing, a keen eye for trends and a clear understanding
-        of the dynamic evolution of search engines and AI-driven response
-        systems (e.g. Google AI Overviews, ChatGPT, Gemini) You’ll be
-        responsible for developing, implementing and continuously optimising
-        holistic SEO and GEO strategies to boost our clients’ organic visibility
-        In this role, you will develop forward-looking strategies for GEO, for
-        example through structured content approaches, entity optimisation, and
-        by strengthening authority and trustworthiness You will use standard
-        tools such as Sistrix, Semrush, Google Search Console, Peec.ai and
-        Google Analytics to derive data-driven recommendations You bring a deep
-        understanding of technical SEO, content strategies and information
-        architecture, and apply this knowledge when working with the
-        development, UX and editorial teams You continuously refine on-page,
-        off-page and content optimisations, with a focus on traditional search
-        engines and AI systems You always keep a close eye on PageSpeed, Core
-        Web Vitals, structured data and technical SEO It would be a plus if you
-        have experience in setting up and optimising Google Ads campaigns Do you
-        have an agile mindset? Absolutely! Our projects are mainly carried out
-        in an agile environment and we use tools such as Miro, Jira and
-        Confluence You have a very good German skills (C1), as our current
-        projects are predominantly conducted in German. A good command of
-        English is an advantage What you can look forward to Flexibility &amp;
-        trust: Hybrid working at one of our denkwerk locations &amp; flexible
-        working hours Your health matters: Urban Sports Club membership and
-        JobRad leasing We celebrate success together: Profit sharing for all
-        permanent denkwerk employees, big parties, and event formats Your
-        development is important to us: Training budget for new skills and
-        training; denkwerk inspiration in form of tech talks, lunch club,
-        resilience, AI, and design formats Securing the future: 20% employer
-        contribution to company pension plan Support in all situations: advice
-        from pme Familienservice and the Mindance app More than just vacation:
-        31 vacation days, including three joint “denkfrei days” (Christmas Eve,
-        New Year's Eve, Carnival Monday) Get started with support: Your personal
-        denkmate will accompany you as you get started Recommend us to others -
-        Find Your Mate: Bring great people with you and we will thank you with a
-        bonus Discounts &amp; goodies: Access to exclusive corporate benefits as
-        well as free snacks, coffee, cool drinks, and fresh fruit Ready to get
-        started with us? Then simply send us: your resume a short cover letter
-        your possible start date and your salary expectations How to get here 1.
-        Application Receipt We carefully review your documents and forward them
-        to the relevant department. 2. Interviews First interview: digitally via
-        Microsoft Teams Second interview: in person at one of our locations
-        Task? If so, we will let you know in good time 3. Individual Journey If
-        it makes sense to take a different approach, we will be happy to work
-        with you to tailor the application process to your individual needs. 4.
-        Feedback We will get back to you as soon as possible. If you think it's
-        taking too long, please feel free to contact us! This is us, your
-        contact persons Janina Schulte-Kellinghaus &amp; Marie Rybarczik, Talent
-        Acquisition Team Our profile on kununu Find Jobs in Germany on
-        Arbeitnow"
-      job_types: &a4
-        - Experienced
-        - Permanent
-        - Full time
-      remote: false
-      score: 82
-      skill_hits: 3
-      bucket_id: marketing_general
-      fetched_at: 2026-09-29T21:30:40.201Z
-      pulled_at: 2026-09-29T21:30:40.201Z
-      stale_days: 29
-      is_stale: true
-    - source: arbeitnow
-      source_note: ""
-      company: everydays
-      title: Senior Performance Marketing Manager (m/w/d) - Meta Ads & Full-Funnel
-        Growth - 100% remote
-      location: Berlin
-      url: https://www.arbeitnow.com/jobs/companies/everydays/senior-performance-marketing-manager-meta-ads-full-funnel-growth-100-remote-berlin-28423
-      updated_at: 1790697637
-      description: "Wir sind eine stark wachsende Direct-to-Consumer-Marke im
-        Gesundheitsbereich und verkaufen hochwertige Supplements direkt an
-        unsere Kund:innen. Unsere wichtigste Wachstumsmaschine:
-        Direct-Response-Marketing über Meta Ads. Ein hoher ROAS ist für uns kein
-        Ziel – meistens ist er ein Zeichen dafür, dass zu wenig ausgegeben wird.
-        Wir steuern auf Wachstum: Neukunden, CM3, aMER, MER und ein CAC, der
-        sich am Kundenwert misst. Wenn du ohnehin in Deckungsbeiträgen und
-        CAC/CLV denkst statt in Plattformkennzahlen, ist das hier dein Standard.
-        Wenn nicht, ist es die falsche Stelle. Wir suchen jemanden, der den
-        kompletten Funnel von der Ad über das Offer und die Landingpage bis zum
-        Kauf als ein System versteht, systematisch testet und Budget dorthin
-        bringt, wo es profitables Wachstum erzeugt – auch wenn das auf
-        Plattformebene erstmal unbequem aussieht. Aufgaben Deine Aufgaben Media
-        Buying auf Wachstum steuern: Du verantwortest unsere Paid-Social-Konten
-        eigenständig – Budget, Kampagnensetup, Adsets, Creatives einbuchen. Du
-        skalierst, solange die Unit Economics tragen, und skalierst nicht, um
-        Plattformmetriken zu schonen. Full-Funnel-Diagnose: Du analysierst
-        regelmäßig den gesamten Weg von Ad über Offer und Landingpage bis zur
-        Conversion, findest den größten Engpass und priorisierst genau dort.
-        Creative Testing &#x26; Creative Diversity: Du entwickelst
-        Testhypothesen, bewertest Creative-Performance und sorgst dafür, dass
-        das Konto nicht von zwei Winning Ads abhängt: verschiedene Angles,
-        Formate, Creator und Hooks parallel im Test, damit Skalierung nicht an
-        Creative Fatigue scheitert. Learnings gehen konkret und datenbasiert an
-        Creative Strategist und Copywriting zurück. Offer- und Landingpage-Tests
-        koordinieren: Du priorisierst den Test-Backlog für Bundles, Preislogik,
-        Value Stack, Message-Match und Landingpage-Struktur, briefst die
-        Fachteams, wertest aus und rollst Gewinner aus. Steuerung nach
-        Gesamtwirtschaftlichkeit: Deine Entscheidungsgrundlage sind Neukunden,
-        CM3, aMER, MER und CAC im Verhältnis zum Kundenwert – nicht der ROAS
-        einer einzelnen Kampagne. Attribution &#x26; Datenqualität: Du liest
-        Performance nicht aus dem Ads Manager, sondern aus unserem
-        Attributionsmodell. Du weißt, wo Plattform-Attribution und Realität
-        auseinanderlaufen, sorgst für saubere Datenerfassung und klärst
-        Auffälligkeiten früh mit IT. Struktur &#x26; Reporting: Einheitliche
-        Naming Convention, nachvollziehbare Account-Struktur, feste Reporting-
-        und Review-Routinen für Wachstum, Budget und Learnings. Qualifikation
-        Dein Profil Mehrjährige Erfahrung im Media Buying für Meta Ads im
-        D2C-Kontext – du hast eigenverantwortlich Budgets gesteuert und ein
-        Konto profitabel wachsen lassen , nicht nur effizient gehalten. Du
-        kannst erklären, warum ein Konto mit ROAS 1,0 und wachsendem
-        Neukundenstamm mehr wert ist als eines mit ROAS 4 und stagnierendem
-        Umsatz – und du hast das schon einmal jemandem erklären müssen. Du
-        denkst in Funnels und Kohorten: Du weißt, dass ein schlechter
-        Neukunden-CAC auch am Offer oder an der Landingpage liegen kann, und
-        dass der Wert eines Neukunden erst nach dem ersten Kauf entsteht.
-        Testgetrieben: Du setzt Tests mit klarer Hypothese, Erfolgskriterium und
-        Auswertungslogik auf und dokumentierst, was du lernst. Sicher in
-        Datenanalyse und Attribution – du hast mit Attributionstools jenseits
-        des Ads Managers gearbeitet, kennst die Grenzen von
-        Plattform-Attribution und Tracking-Setups (Pixel, CAPI, UTMs) und
-        erkennst, wenn Daten nicht stimmen. Du kennst gängige DR-Mechaniken
-        (Hook–Problem–Solution, Value Stack, Social Proof, Scarcity) und kannst
-        beurteilen, warum ein Creative oder Offer performt. Du weißt, dass
-        Creative Diversity kein Kreativ-Nice-to-have ist, sondern die
-        Voraussetzung dafür, dass ein Konto skaliert – und planst deinen
-        Testing-Mix entsprechend. Du arbeitest gern mit Creative-, Copy- und
-        Web-Teams zusammen – als Taktgeber mit klaren Briefings, nicht als
-        Einzelkämpfer. AI-Tools für Reporting, Anomalie-Erkennung und
-        Creative-Analyse nutzt du bereits Idealerweise Erfahrung mit Supplement-
-        oder Health-Brands. 🛠 So arbeitest du bei uns Du bekommst volle
-        Verantwortung für die Paid-Social-Konten und ein Team, das zusammen mit
-        dir Creatives, Copy, Landingpages und Tracking bearbeitet – du
-        priorisierst, was gerade am Wichtigsten ist. Du steuerst mit denselben
-        Zahlen wie die Geschäftsführung: CM3, aMER, MER, Neukunden, Kundenwert.
-        Kein separates „Marketing-Dashboard\", das schöner aussieht als die
-        Realität. Wir arbeiten mit Notion für Prozesse, Slack fürs Team und
-        einem eigenen Attributionsstack, in den wir laufend investieren – du
-        steuerst nach diesen Zahlen, nicht nach Meta's Zahlen. Rollen sind bei
-        uns klar definiert: Objective, Job Results, KPIs. Du weißt, wofür du
-        verantwortlich bist – und was nicht. Entscheidungen fallen auf Basis von
-        Daten. Wenn die Daten fehlen, holen wir sie, bevor wir raten. Benefits
-        Was dich erwartet Eine Marke mit klarer Positionierung und Produkten,
-        perfekt für unsere Zielgruppe – und eine Organisation, die Paid Social
-        als Wachstumsmotor denkt, nicht als Kostenstelle. Kurze
-        Entscheidungswege, echtes Mandat über Budget und Testing. Regelmäßige
-        Performance-Reviews und Learnings – wir skalieren, was funktioniert, und
-        dokumentieren, warum. Remote-Only mit klaren Prozessen und hoher
-        Eigenverantwortung Die Möglichkeit, das Performance-Marketing-System
-        einer wachsenden Health-Brand von Grund auf mitzubauen – und mit ihr zu
-        wachsen. Let's grow it! Du denkst in Full-Funnel, Neukunden,
-        Deckungsbeiträgen und hast den den CLV im Blick? Dann bewirb dich jetzt
-        mit deinem Lebenslauf, zwei bis drei konkreten Beispielen, in denen du
-        Meta Ads mit Direct Response Mechaniken zum Wachstum geführt hast und
-        einem kurzen Statement, warum du in unser Team gehörst. Wir freuen uns
-        auf dich. Find Jobs in Germany on Arbeitnow"
-      job_types: &a5
-        - teamleitung
-      remote: true
-      score: 78
-      skill_hits: 1
-      bucket_id: marketing_general
-      fetched_at: 2026-09-29T21:30:40.201Z
-      pulled_at: 2026-09-29T21:30:40.201Z
-      stale_days: 29
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: TransPerfect
-      title: Senior Performance Marketing Manager
-      location: Pune, Mahārāshtra, India, Pune, India
-      url: https://transperfect.com/o/senior-performance-marketing-manager
-      updated_at: 2026-08-06 10:17:14 UTC
-      description: "OVERVIEW: If running paid campaigns across a bunch of platforms is
-        your happy place, and you think as much about the journey as the click,
-        this could be a good fit. You're in Google Ads in the morning, LinkedIn
-        Campaign Manager over lunch, and Reddit or TikTok in the afternoon. In
-        between, you're thinking about how these campaigns work together to move
-        real people through our funnel. We're hiring a Paid Media Lead to plan,
-        deploy, and optimize campaigns across our paid channels. This role isn't
-        just about setting campaigns live and watching the numbers. It's about
-        thinking carefully about the marketing funnel, inventing new ways to
-        bring quality leads and accounts into it, and using paid media to move
-        them all the way through to sales-ready. You'll work closely with our
-        Senior Director of Creative Performance Marketing, turning creative
-        briefs and campaign strategies into live campaigns that actually
-        perform. You'll own the technical craft of paid media (structure,
-        targeting, bidding, testing, iteration) and the strategic craft of
-        designing campaigns that do their job at each funnel stage. This is an
-        individual contributor role with no direct reports. What you'll be doing
-        is deep, hands on platform work combined with real strategic thinking
-        about how paid fits into the broader journey. JOB RESPONSIBILITES: Plan
-        campaign architecture across platforms with clear funnel intent
-        (awareness, consideration, decision) and matching audience, creative,
-        and CTA logic for each stage Get creative about lead acquisition itself:
-        figure out how to reach new audiences, test new platforms and formats,
-        and keep growing both the quantity and quality of leads coming into the
-        funnel Design retargeting and lifecycle audiences that work with email
-        nurture, content offers, and sales outreach to move leads through the
-        funnel Partner with the rest of the marketing team on lead qualification
-        and hand-off criteria, so what reaches sales is actually ready to
-        convert Contribute creative direction to ad concepts and copy, working
-        with our creative resources on work that resonates Build and launch
-        campaigns in Google Ads, Microsoft Ads, LinkedIn, Meta (Facebook and
-        Instagram), Reddit, TikTok, and emerging platforms like ChatGPT Ads Set
-        up and manage audience targeting, including custom audiences,
-        lookalikes, contextual, intent, and account-based lists Own bid strategy
-        selection and budget pacing across campaigns Traffic creative assets,
-        keep naming conventions consistent, and manage UTMs Set up conversion
-        tracking (pixels, server-side, offline conversions) and make sure GA4 is
-        telling us the truth Run structured A/B tests on copy, creative,
-        audiences, and bidding Pull data, build reports, and share what's
-        working (and what isn't) with the team Continuously optimize campaigns,
-        moving budget toward what's performing and shutting off what isn't"
-      score: 76
-      skill_hits: 1
-      bucket_id: marketing_general
-      fetched_at: 2026-09-29T21:30:40.201Z
-      pulled_at: 2026-09-29T21:30:40.201Z
       stale_days: 29
       is_stale: true
   digital_marketing:
@@ -3598,7 +3322,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3648,7 +3372,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3715,7 +3439,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3818,7 +3542,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3867,7 +3591,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3943,7 +3667,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3982,7 +3706,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4000,7 +3724,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4055,7 +3779,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: ashby
       source_note: ""
@@ -4070,7 +3794,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -4200,7 +3924,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4254,7 +3978,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: ashby
       source_note: ""
@@ -4269,7 +3993,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: ashby
       source_note: ""
@@ -4284,7 +4008,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: ashby
       source_note: ""
@@ -4299,7 +4023,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: ashby
       source_note: ""
@@ -4314,7 +4038,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: ashby
       source_note: ""
@@ -4329,7 +4053,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: ashby
       source_note: ""
@@ -4344,7 +4068,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: ashby
       source_note: ""
@@ -4359,7 +4083,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: ashby
       source_note: ""
@@ -4374,7 +4098,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: ashby
       source_note: ""
@@ -4389,7 +4113,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -4525,7 +4249,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4569,7 +4293,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4616,7 +4340,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -4697,7 +4421,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4746,7 +4470,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4801,7 +4525,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -4889,7 +4613,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4943,7 +4667,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: ashby
       source_note: ""
@@ -4958,7 +4682,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: ashby
       source_note: ""
@@ -4973,7 +4697,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: ashby
       source_note: ""
@@ -4988,7 +4712,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: ashby
       source_note: ""
@@ -5003,7 +4727,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: ashby
       source_note: ""
@@ -5018,7 +4742,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: ashby
       source_note: ""
@@ -5033,7 +4757,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: ashby
       source_note: ""
@@ -5048,7 +4772,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: ashby
       source_note: ""
@@ -5063,7 +4787,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: ashby
       source_note: ""
@@ -5078,7 +4802,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -5122,7 +4846,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -5169,7 +4893,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -5218,7 +4942,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -5273,7 +4997,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -5327,7 +5051,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: ashby
       source_note: ""
@@ -5342,7 +5066,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: ashby
       source_note: ""
@@ -5357,7 +5081,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: ashby
       source_note: ""
@@ -5372,7 +5096,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: ashby
       source_note: ""
@@ -5387,7 +5111,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: ashby
       source_note: ""
@@ -5402,7 +5126,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: ashby
       source_note: ""
@@ -5417,7 +5141,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -5461,7 +5185,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -5508,7 +5232,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -5658,7 +5382,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -5707,7 +5431,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -5762,7 +5486,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -5816,7 +5540,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: ashby
       source_note: ""
@@ -5831,7 +5555,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: ashby
       source_note: ""
@@ -5846,7 +5570,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: ashby
       source_note: ""
@@ -5861,7 +5585,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: ashby
       source_note: ""
@@ -5876,7 +5600,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: ashby
       source_note: ""
@@ -5891,7 +5615,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: ashby
       source_note: ""
@@ -5906,7 +5630,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: ashby
       source_note: ""
@@ -5921,7 +5645,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -5965,7 +5689,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -6012,7 +5736,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -6061,7 +5785,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -6116,7 +5840,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -6170,7 +5894,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: ashby
       source_note: ""
@@ -6185,7 +5909,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: ashby
       source_note: ""
@@ -6200,7 +5924,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: ashby
       source_note: ""
@@ -6215,7 +5939,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: ashby
       source_note: ""
@@ -6230,7 +5954,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: ashby
       source_note: ""
@@ -6245,7 +5969,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: ashby
       source_note: ""
@@ -6260,7 +5984,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -6304,7 +6028,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-11T21:03:47.567Z
       pulled_at: 2026-10-11T21:03:47.567Z
-      stale_days: 17
+      stale_days: 18
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -6351,7 +6075,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-11T21:03:47.567Z
       pulled_at: 2026-10-11T21:03:47.567Z
-      stale_days: 17
+      stale_days: 18
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -6463,7 +6187,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-11T21:03:47.567Z
       pulled_at: 2026-10-11T21:03:47.567Z
-      stale_days: 17
+      stale_days: 18
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -6585,7 +6309,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-11T21:03:47.567Z
       pulled_at: 2026-10-11T21:03:47.567Z
-      stale_days: 17
+      stale_days: 18
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -6634,7 +6358,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-11T21:03:47.567Z
       pulled_at: 2026-10-11T21:03:47.567Z
-      stale_days: 17
+      stale_days: 18
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -6689,7 +6413,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-11T21:03:47.567Z
       pulled_at: 2026-10-11T21:03:47.567Z
-      stale_days: 17
+      stale_days: 18
       is_stale: false
     - source: ashby
       source_note: ""
@@ -6704,7 +6428,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-11T21:03:47.567Z
       pulled_at: 2026-10-11T21:03:47.567Z
-      stale_days: 17
+      stale_days: 18
       is_stale: false
     - source: ashby
       source_note: ""
@@ -6719,7 +6443,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-11T21:03:47.567Z
       pulled_at: 2026-10-11T21:03:47.567Z
-      stale_days: 17
+      stale_days: 18
       is_stale: false
     - source: ashby
       source_note: ""
@@ -6734,7 +6458,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-11T21:03:47.567Z
       pulled_at: 2026-10-11T21:03:47.567Z
-      stale_days: 17
+      stale_days: 18
       is_stale: false
     - source: ashby
       source_note: ""
@@ -6749,7 +6473,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-11T21:03:47.567Z
       pulled_at: 2026-10-11T21:03:47.567Z
-      stale_days: 17
+      stale_days: 18
       is_stale: false
     - source: ashby
       source_note: ""
@@ -6764,7 +6488,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-11T21:03:47.567Z
       pulled_at: 2026-10-11T21:03:47.567Z
-      stale_days: 17
+      stale_days: 18
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -6808,7 +6532,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-06T21:48:27.843Z
       pulled_at: 2026-10-06T21:48:27.843Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -6855,7 +6579,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-06T21:48:27.843Z
       pulled_at: 2026-10-06T21:48:27.843Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -6904,7 +6628,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-06T21:48:27.843Z
       pulled_at: 2026-10-06T21:48:27.843Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -6959,7 +6683,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-06T21:48:27.843Z
       pulled_at: 2026-10-06T21:48:27.843Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: ashby
       source_note: ""
@@ -6974,7 +6698,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-06T21:48:27.843Z
       pulled_at: 2026-10-06T21:48:27.843Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: ashby
       source_note: ""
@@ -6989,7 +6713,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-06T21:48:27.843Z
       pulled_at: 2026-10-06T21:48:27.843Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: ashby
       source_note: ""
@@ -7004,7 +6728,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-06T21:48:27.843Z
       pulled_at: 2026-10-06T21:48:27.843Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: ashby
       source_note: ""
@@ -7019,7 +6743,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-06T21:48:27.843Z
       pulled_at: 2026-10-06T21:48:27.843Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -7063,7 +6787,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-05T23:16:43.362Z
       pulled_at: 2026-10-05T23:16:43.362Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -7110,7 +6834,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-05T23:16:43.362Z
       pulled_at: 2026-10-05T23:16:43.362Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -7189,7 +6913,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-05T23:16:43.362Z
       pulled_at: 2026-10-05T23:16:43.362Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -7238,7 +6962,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-05T23:16:43.362Z
       pulled_at: 2026-10-05T23:16:43.362Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -7293,7 +7017,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-05T23:16:43.362Z
       pulled_at: 2026-10-05T23:16:43.362Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: ashby
       source_note: ""
@@ -7308,7 +7032,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-05T23:16:43.362Z
       pulled_at: 2026-10-05T23:16:43.362Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: ashby
       source_note: ""
@@ -7323,7 +7047,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-05T23:16:43.362Z
       pulled_at: 2026-10-05T23:16:43.362Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: ashby
       source_note: ""
@@ -7338,7 +7062,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-05T23:16:43.362Z
       pulled_at: 2026-10-05T23:16:43.362Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: ashby
       source_note: ""
@@ -7353,7 +7077,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-05T23:16:43.362Z
       pulled_at: 2026-10-05T23:16:43.362Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -7397,7 +7121,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-30T21:31:26.014Z
       pulled_at: 2026-09-30T21:31:26.014Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -7444,7 +7168,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-30T21:31:26.014Z
       pulled_at: 2026-09-30T21:31:26.014Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -7493,7 +7217,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-30T21:31:26.014Z
       pulled_at: 2026-09-30T21:31:26.014Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -7548,7 +7272,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-30T21:31:26.014Z
       pulled_at: 2026-09-30T21:31:26.014Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: ashby
       source_note: ""
@@ -7563,7 +7287,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-30T21:31:26.014Z
       pulled_at: 2026-09-30T21:31:26.014Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: ashby
       source_note: ""
@@ -7578,8 +7302,1131 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-30T21:31:26.014Z
       pulled_at: 2026-09-30T21:31:26.014Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
+  video_editing:
+    - source: greenhouse
+      source_note: ""
+      company: hellofresh
+      title: Senior AI Content Creator (x/f/m)
+      location: Berlin, Berlin, Germany
+      url: https://careers.hellofresh.com/global/en/job/8113656?gh_jid=8113656
+      updated_at: 2026-10-15T10:25:03-04:00
+      description: "&lt;p&gt;&lt;strong&gt;AI Content Creator - Content
+        Creation&lt;/strong&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;The
+        role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As a Senior AI Content Creator
+        in the HelloFresh Studio, you are part of the AI Content Creation team
+        and play a leading role in developing and scaling AI-powered content
+        creation across mainly photography, but also supporting video, design,
+        and emerging creative formats.&lt;/p&gt; &lt;p&gt;You combine a strong
+        background in commercial visual production with hands-on expertise in
+        generative AI. You have a refined visual eye and strong creative
+        judgment, allowing you to create high-quality content yourself and
+        recognize what makes an image or video successful. Beyond creating
+        individual assets, a key part of your role is translating creative
+        direction and successful approaches into reliable, production-ready
+        workflows that expand the Studio&#39;s AI capabilities. Working closely
+        with art directors, photographers, retouchers, video, design, and tech,
+        you identify where AI can improve creative possibilities, production
+        efficiency, and scale. You help define best practices, evaluate emerging
+        technologies, and continuously develop how AI is used in visual
+        production across the Studio.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What
+        you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Create
+        high-quality AI-powered content across commercial photography and video,
+        including lifestyle, food, product, and campaign content, translating
+        creative direction into assets ready for real production and marketing
+        use.&lt;/li&gt; &lt;li&gt;Develop and refine AI content creation
+        workflows, prompts, techniques, and reusable approaches using tools such
+        as Krea, Higgsfield, Claude, ComfyUI, and emerging platforms.&lt;/li&gt;
+        &lt;li&gt;Work closely with Art Directors, Photographers, Video, Design,
+        and Post-Production to translate creative concepts and established
+        visual approaches into scalable AI-powered production
+        workflows.&lt;/li&gt; &lt;li&gt;Use your creative judgment and
+        production experience to continuously improve visual quality, realism,
+        consistency, and efficiency across AI-generated content.&lt;/li&gt;
+        &lt;li&gt;Partner with Workflow Specialists to identify automation
+        opportunities and help turn successful creative processes into scalable
+        or automated content-generation workflows.&lt;/li&gt; &lt;li&gt;Evaluate
+        emerging AI models, tools, and techniques, testing their practical value
+        and introducing those that meaningfully improve creative output or
+        production.&lt;/li&gt; &lt;li&gt;Define and share best practices,
+        standards, and documentation for AI content creation, and support
+        colleagues in developing their AI capabilities.&lt;/li&gt;
+        &lt;li&gt;Stay closely connected to developments in generative AI,
+        actively experimenting with new approaches and identifying opportunities
+        to expand what the Studio can create.&lt;/li&gt; &lt;/ul&gt;
+        &lt;h2&gt;&lt;strong&gt;What you’ll bring&lt;/strong&gt;&lt;/h2&gt;
+        &lt;ul&gt; &lt;li&gt;&lt;strong&gt;5+ years of professional experience
+        in commercial photography, retouching, art direction, or a closely
+        related visual production discipline&lt;/strong&gt;, with a strong
+        understanding of professional photography and/or video
+        production.&lt;/li&gt; &lt;li&gt;Advanced hands-on experience creating
+        high-quality visual content with generative AI tools and integrating AI
+        into real creative or production workflows.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;A refined visual eye and strong creative
+        judgment&lt;/strong&gt;, with an excellent understanding of photography,
+        composition, lighting, colour, visual storytelling, realism, and what
+        makes commercial imagery feel premium and intentional.&lt;/li&gt;
+        &lt;li&gt;Proven ability to interpret creative briefs and translate
+        creative direction into high-quality visual content and repeatable
+        production approaches.&lt;/li&gt; &lt;li&gt;Strong collaboration and
+        communication skills, with the ability to work effectively across
+        creative, production, and technical teams.&lt;/li&gt; &lt;li&gt;You are
+        proactive, curious, and solution-oriented, with a strong sense of
+        ownership, an experimental mindset, and genuine enthusiasm for emerging
+        AI technologies.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Please
+        include a portfolio of your recent and relevant
+        work.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;"
+      score: 94
+      skill_hits: 1
+      bucket_id: video_editing
+      fetched_at: 2026-10-28T21:49:24.706Z
+      pulled_at: 2026-10-28T21:49:24.706Z
+      stale_days: 1
+      is_stale: false
+    - source: arbeitnow
+      source_note: ""
+      company: Bundesverbraucherhilfe e.V.
+      title: Content Creator Social Media (m/w/d) im Ehrenamt
+      location: Berlin
+      url: https://www.arbeitnow.com/jobs/companies/bundesverbraucherhilfe-ev/content-creator-social-media-im-ehrenamt-berlin-264383
+      updated_at: 1793201494
+      description: Viele Menschen erfahren über Instagram, TikTok oder Facebook von
+        ihren Rechten. Wir wollen dort mit kurzen, verständlichen Formaten
+        präsent sein, die wirklich weiterhelfen. Als Content Creator Social
+        Media entwickeln und produzieren Sie Beiträge, Reels und kurze Videos
+        auf Grundlage unserer Ratgeber und Stellungnahmen. Ihre Aufgaben
+        Konzeption und Produktion von Beiträgen, Reels und kurzen Videos
+        Übersetzung von Ratgeberinhalten in leicht verständliche Formate Pflege
+        eines Redaktionsplans in Abstimmung mit der Bereichsleitung
+        Kommunikation Community-Management und Weiterleitung von Anfragen an die
+        zuständigen Stellen Auswertung der Reichweite und Weiterentwicklung der
+        Formate Das bringen Sie mit Erfahrung in der Erstellung von
+        Social-Media-Inhalten, gern auch privat oder semiprofessionell Sicherer
+        Umgang mit Smartphone-Videografie und gängigen Schnittwerkzeugen Gespür
+        für Trends, ohne Inhalte zu verkürzen Sorgfalt bei Fakten und
+        Formulierungen Ein formaler Abschluss ist keine Voraussetzung, Ihre
+        Praxis zählt Was wir bieten Kreative Freiheit bei Formaten, die viele
+        Menschen erreichen Berufliche Vernetzung mit Fach- und Führungskräften
+        aus Recht, Wirtschaft und Verwaltung Qualifizierte
+        Tätigkeitsbescheinigung und auf Wunsch ein Referenzschreiben Zugang zu
+        unseren Fortbildungen, Fachtagungen und Ausschusssitzungen Freie
+        Zeiteinteilung, Zusammenarbeit überwiegend remote Die Tätigkeit wird
+        ehrenamtlich ausgeübt. Notwendige Auslagen werden nach unserer
+        Reisekosten- und Auslagenordnung erstattet. Find Jobs in Germany on
+        Arbeitnow
+      job_types:
+        - Minijob (geringfügige beschäftigung)
+        - side
+        - hilfstätigkeit / student
+      remote: true
+      score: 78
+      skill_hits: 2
+      bucket_id: video_editing
+      fetched_at: 2026-10-28T21:49:24.706Z
+      pulled_at: 2026-10-28T21:49:24.706Z
+      stale_days: 1
+      is_stale: false
+    - source: greenhouse
+      source_note: ""
+      company: hellofresh
+      title: Senior AI Content Creator (x/f/m)
+      location: Berlin, Berlin, Germany
+      url: https://careers.hellofresh.com/global/en/job/8113656?gh_jid=8113656
+      updated_at: 2026-10-15T10:25:03-04:00
+      description: "&lt;p&gt;&lt;strong&gt;AI Content Creator - Content
+        Creation&lt;/strong&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;The
+        role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As a Senior AI Content Creator
+        in the HelloFresh Studio, you are part of the AI Content Creation team
+        and play a leading role in developing and scaling AI-powered content
+        creation across mainly photography, but also supporting video, design,
+        and emerging creative formats.&lt;/p&gt; &lt;p&gt;You combine a strong
+        background in commercial visual production with hands-on expertise in
+        generative AI. You have a refined visual eye and strong creative
+        judgment, allowing you to create high-quality content yourself and
+        recognize what makes an image or video successful. Beyond creating
+        individual assets, a key part of your role is translating creative
+        direction and successful approaches into reliable, production-ready
+        workflows that expand the Studio&#39;s AI capabilities. Working closely
+        with art directors, photographers, retouchers, video, design, and tech,
+        you identify where AI can improve creative possibilities, production
+        efficiency, and scale. You help define best practices, evaluate emerging
+        technologies, and continuously develop how AI is used in visual
+        production across the Studio.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What
+        you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Create
+        high-quality AI-powered content across commercial photography and video,
+        including lifestyle, food, product, and campaign content, translating
+        creative direction into assets ready for real production and marketing
+        use.&lt;/li&gt; &lt;li&gt;Develop and refine AI content creation
+        workflows, prompts, techniques, and reusable approaches using tools such
+        as Krea, Higgsfield, Claude, ComfyUI, and emerging platforms.&lt;/li&gt;
+        &lt;li&gt;Work closely with Art Directors, Photographers, Video, Design,
+        and Post-Production to translate creative concepts and established
+        visual approaches into scalable AI-powered production
+        workflows.&lt;/li&gt; &lt;li&gt;Use your creative judgment and
+        production experience to continuously improve visual quality, realism,
+        consistency, and efficiency across AI-generated content.&lt;/li&gt;
+        &lt;li&gt;Partner with Workflow Specialists to identify automation
+        opportunities and help turn successful creative processes into scalable
+        or automated content-generation workflows.&lt;/li&gt; &lt;li&gt;Evaluate
+        emerging AI models, tools, and techniques, testing their practical value
+        and introducing those that meaningfully improve creative output or
+        production.&lt;/li&gt; &lt;li&gt;Define and share best practices,
+        standards, and documentation for AI content creation, and support
+        colleagues in developing their AI capabilities.&lt;/li&gt;
+        &lt;li&gt;Stay closely connected to developments in generative AI,
+        actively experimenting with new approaches and identifying opportunities
+        to expand what the Studio can create.&lt;/li&gt; &lt;/ul&gt;
+        &lt;h2&gt;&lt;strong&gt;What you’ll bring&lt;/strong&gt;&lt;/h2&gt;
+        &lt;ul&gt; &lt;li&gt;&lt;strong&gt;5+ years of professional experience
+        in commercial photography, retouching, art direction, or a closely
+        related visual production discipline&lt;/strong&gt;, with a strong
+        understanding of professional photography and/or video
+        production.&lt;/li&gt; &lt;li&gt;Advanced hands-on experience creating
+        high-quality visual content with generative AI tools and integrating AI
+        into real creative or production workflows.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;A refined visual eye and strong creative
+        judgment&lt;/strong&gt;, with an excellent understanding of photography,
+        composition, lighting, colour, visual storytelling, realism, and what
+        makes commercial imagery feel premium and intentional.&lt;/li&gt;
+        &lt;li&gt;Proven ability to interpret creative briefs and translate
+        creative direction into high-quality visual content and repeatable
+        production approaches.&lt;/li&gt; &lt;li&gt;Strong collaboration and
+        communication skills, with the ability to work effectively across
+        creative, production, and technical teams.&lt;/li&gt; &lt;li&gt;You are
+        proactive, curious, and solution-oriented, with a strong sense of
+        ownership, an experimental mindset, and genuine enthusiasm for emerging
+        AI technologies.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Please
+        include a portfolio of your recent and relevant
+        work.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;"
+      score: 94
+      skill_hits: 1
+      bucket_id: video_editing
+      fetched_at: 2026-10-26T21:45:35.255Z
+      pulled_at: 2026-10-26T21:45:35.255Z
+      stale_days: 3
+      is_stale: false
+    - source: arbeitnow
+      source_note: ""
+      company: Fortisana
+      title: Content Creator, Personal Brand (50–100 %)
+      location: Berlin
+      url: https://www.arbeitnow.com/jobs/companies/fortisana/content-creator-personal-brand-50-100-berlin-34800
+      updated_at: 1793037651
+      description: "Gute Geschichten brauchen jemanden, der sie entdeckt. Und umsetzt.
+        ✨ Wir bauen die Marke, auf die unsere Eltern gewartet haben: Fortisana,
+        einen wissenschaftlich fundierten All-in-One-Drink rund um Muskelerhalt
+        und ein aktives Leben. Mit dir wollen wir die Menschen und Ideen
+        dahinter sichtbar machen. Hinter Fortisana stehen Piran, Leon und Max:
+        Piran hat KoRo mitgegründet und über neun Jahre zu einer der
+        erfolgreichsten Lebensmittelmarken Deutschlands aufgebaut. Leon ist
+        Ernährungsberater und in der Welt der Nahrungsergänzung aufgewachsen.
+        Seine Familie produziert seit über 25 Jahren Nahrungsergänzungsmittel in
+        Deutschland. Max hat bereits mehr als sechs Startups begleitet und
+        zuletzt bei 1KOMMA5° gelernt, wie aus einer Vision ein operativ
+        exzellentes Unternehmen wird. Du arbeitest direkt mit Leon daran, seine
+        persönliche Marke aufzubauen. Du machst aus seinem Wissen, seinen Ideen
+        und seinem Alltag als Gründer Inhalte, die Menschen wirklich sehen
+        wollen. Du findest die Geschichte, fragst nach und bringst sie vom
+        ersten Gedanken bis zum veröffentlichten Video. Lerne Leon kennen: Auf
+        Instagram @leonbader99 (https://www.instagram.com/leonbader99/) bekommst
+        du einen Eindruck von seinen Themen, seinem Stil und den Inhalten, die
+        du mit ihm weiterentwickelst. Was du bei uns machst Du entwickelst
+        eigene Formate. Gemeinsam mit Leon findest du Themen, starke Einstiege
+        und Geschichten rund um Ernährung, Unternehmertum und den Aufbau von
+        Fortisana. Du setzt selbst um. Du planst Drehs, filmst Interviews und
+        direkte Ansprachen an die Kamera und hältst spontane Momente hinter den
+        Kulissen fest. Du machst aus Material gute Videos. Du schneidest
+        Kurzvideos mit Rhythmus, sauberem Ton und Untertiteln, die das Anschauen
+        leicht machen. Du denkst bis zur Veröffentlichung. Du schreibst
+        Begleittexte, veröffentlichst Beiträge und gehst auf Fragen und
+        Reaktionen der Community ein. Du lernst aus den Ergebnissen. Du
+        erkennst, welche Themen, Einstiege und Formate funktionieren, und
+        entwickelst sie weiter. Was du mitbringst Du verstehst Social Media. Du
+        kannst Geschichten erzählen und bei Menschen eine Reaktion auslösen.
+        Dein Portfolio zeigt dein Können in Konzeption, Dreh und Schnitt. Eigene
+        Projekte zählen genauso. Du hast ein gutes Gespür. Für Ästhetik, Sprache
+        und Details – und dafür, wann eine Geschichte echt wirkt. Du bist
+        neugierig und fragst nach. Du kannst Menschen vor der Kamera begleiten,
+        gute Fragen stellen und aus einer ersten Idee mehr herausholen. Du
+        packst an. Du bringst eigene Ideen ein und übernimmst Verantwortung für
+        ihre Umsetzung. Du kommunizierst sicher. Ausgezeichnete Deutsch- und
+        Englischkenntnisse in Wort und Schrift sind Voraussetzung. Du
+        formulierst in beiden Sprachen sicher, präzise und zielgruppengerecht.
+        Du denkst mit. Ernährung, Sport oder Unternehmertum interessieren dich.
+        Du recherchierst sorgfältig und vermittelst Gesundheitsthemen
+        verständlich und ohne übertriebene Versprechen. Du bist beim Dreh dabei.
+        Für diese Stelle kannst du regelmäßig vor Ort in Berlin mit Leon drehen.
+        Drehs in Zürich oder Berlin stimmen wir gemeinsam ab. Du arbeitest
+        AI-native und mit Qualitätsanspruch. Du testest eigenständig neue
+        KI-Tools und kreative Ansätze und integrierst sie sinnvoll in deine
+        Workflows. Dabei prüfst du die Ergebnisse kritisch und hältst unseren
+        Qualitätsstandard bei Inhalt, Gestaltung und Genauigkeit hoch. Was wir
+        dir bieten Direkte Zusammenarbeit mit Leon. Kurze Wege, ehrliches
+        Feedback und die Chance, eine persönliche Marke von Anfang an
+        mitzugestalten. Kreativen Freiraum. Deine Ideen sind gefragt. Du kannst
+        Formate ausprobieren und einen Stil entwickeln, der wiedererkennbar ist.
+        Einblick in echten Markenaufbau. Du erlebst den Aufbau von Fortisana und
+        lernst von Pirans KoRo-Erfahrung und Leons Wissen aus der
+        Nahrungsergänzungsbranche. Arbeit, die deine Handschrift trägt. Du
+        entwickelst dich in Storytelling, Produktion und Schnitt weiter und
+        baust ein sichtbares Portfolio auf. Zwei Wege ins Team Du kannst mit
+        einem sechsmonatigen Vollzeitpraktikum einsteigen, mit der Möglichkeit
+        einer Festanstellung nach erfolgreichem Abschluss. Wenn du bereits mehr
+        Erfahrung mitbringst, ist auch eine Teilzeit- oder freiberufliche
+        Zusammenarbeit mit einem Umfang von mindestens 50 % möglich. Zeig uns
+        deine Arbeit 🤎 Ein perfektes Anschreiben brauchen wir nicht. Uns
+        interessiert, wie du denkst und was du selbst auf die Straße gebracht
+        hast. Schick uns drei Arbeiten, auf die du stolz bist. Sag bei jeder
+        Arbeit konkret, was von dir stammt: Idee, Skript, Dreh, Schnitt oder
+        Veröffentlichung – und ob sie im Job, für einen Kunden oder als eigenes
+        Projekt entstanden ist. Wenn vorhanden, ergänze Ergebnisse und was du
+        daraus gelernt hast. Dazu brauchen wir deinen Standort, deinen möglichen
+        Starttermin und ein kurzes Profil oder einen Lebenslauf. Find more
+        English Speaking Jobs in Germany on Arbeitnow"
+      job_types:
+        - Unbefristeter arbeitsvertrag
+        - berufserfahren
+      remote: false
+      score: 74
+      skill_hits: 1
+      bucket_id: video_editing
+      fetched_at: 2026-10-26T21:45:35.255Z
+      pulled_at: 2026-10-26T21:45:35.255Z
+      stale_days: 3
+      is_stale: false
+    - source: greenhouse
+      source_note: ""
+      company: hellofresh
+      title: Senior AI Content Creator (x/f/m)
+      location: Berlin, Berlin, Germany
+      url: https://careers.hellofresh.com/global/en/job/8113656?gh_jid=8113656
+      updated_at: 2026-10-15T10:25:03-04:00
+      description: "&lt;p&gt;&lt;strong&gt;AI Content Creator - Content
+        Creation&lt;/strong&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;The
+        role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As a Senior AI Content Creator
+        in the HelloFresh Studio, you are part of the AI Content Creation team
+        and play a leading role in developing and scaling AI-powered content
+        creation across mainly photography, but also supporting video, design,
+        and emerging creative formats.&lt;/p&gt; &lt;p&gt;You combine a strong
+        background in commercial visual production with hands-on expertise in
+        generative AI. You have a refined visual eye and strong creative
+        judgment, allowing you to create high-quality content yourself and
+        recognize what makes an image or video successful. Beyond creating
+        individual assets, a key part of your role is translating creative
+        direction and successful approaches into reliable, production-ready
+        workflows that expand the Studio&#39;s AI capabilities. Working closely
+        with art directors, photographers, retouchers, video, design, and tech,
+        you identify where AI can improve creative possibilities, production
+        efficiency, and scale. You help define best practices, evaluate emerging
+        technologies, and continuously develop how AI is used in visual
+        production across the Studio.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What
+        you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Create
+        high-quality AI-powered content across commercial photography and video,
+        including lifestyle, food, product, and campaign content, translating
+        creative direction into assets ready for real production and marketing
+        use.&lt;/li&gt; &lt;li&gt;Develop and refine AI content creation
+        workflows, prompts, techniques, and reusable approaches using tools such
+        as Krea, Higgsfield, Claude, ComfyUI, and emerging platforms.&lt;/li&gt;
+        &lt;li&gt;Work closely with Art Directors, Photographers, Video, Design,
+        and Post-Production to translate creative concepts and established
+        visual approaches into scalable AI-powered production
+        workflows.&lt;/li&gt; &lt;li&gt;Use your creative judgment and
+        production experience to continuously improve visual quality, realism,
+        consistency, and efficiency across AI-generated content.&lt;/li&gt;
+        &lt;li&gt;Partner with Workflow Specialists to identify automation
+        opportunities and help turn successful creative processes into scalable
+        or automated content-generation workflows.&lt;/li&gt; &lt;li&gt;Evaluate
+        emerging AI models, tools, and techniques, testing their practical value
+        and introducing those that meaningfully improve creative output or
+        production.&lt;/li&gt; &lt;li&gt;Define and share best practices,
+        standards, and documentation for AI content creation, and support
+        colleagues in developing their AI capabilities.&lt;/li&gt;
+        &lt;li&gt;Stay closely connected to developments in generative AI,
+        actively experimenting with new approaches and identifying opportunities
+        to expand what the Studio can create.&lt;/li&gt; &lt;/ul&gt;
+        &lt;h2&gt;&lt;strong&gt;What you’ll bring&lt;/strong&gt;&lt;/h2&gt;
+        &lt;ul&gt; &lt;li&gt;&lt;strong&gt;5+ years of professional experience
+        in commercial photography, retouching, art direction, or a closely
+        related visual production discipline&lt;/strong&gt;, with a strong
+        understanding of professional photography and/or video
+        production.&lt;/li&gt; &lt;li&gt;Advanced hands-on experience creating
+        high-quality visual content with generative AI tools and integrating AI
+        into real creative or production workflows.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;A refined visual eye and strong creative
+        judgment&lt;/strong&gt;, with an excellent understanding of photography,
+        composition, lighting, colour, visual storytelling, realism, and what
+        makes commercial imagery feel premium and intentional.&lt;/li&gt;
+        &lt;li&gt;Proven ability to interpret creative briefs and translate
+        creative direction into high-quality visual content and repeatable
+        production approaches.&lt;/li&gt; &lt;li&gt;Strong collaboration and
+        communication skills, with the ability to work effectively across
+        creative, production, and technical teams.&lt;/li&gt; &lt;li&gt;You are
+        proactive, curious, and solution-oriented, with a strong sense of
+        ownership, an experimental mindset, and genuine enthusiasm for emerging
+        AI technologies.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Please
+        include a portfolio of your recent and relevant
+        work.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;"
+      score: 94
+      skill_hits: 1
+      bucket_id: video_editing
+      fetched_at: 2026-10-25T19:50:56.807Z
+      pulled_at: 2026-10-25T19:50:56.807Z
+      stale_days: 4
+      is_stale: false
+    - source: greenhouse
+      source_note: ""
+      company: hellofresh
+      title: Senior AI Content Creator (x/f/m)
+      location: Berlin, Berlin, Germany
+      url: https://careers.hellofresh.com/global/en/job/8113656?gh_jid=8113656
+      updated_at: 2026-10-15T10:25:03-04:00
+      description: "&lt;p&gt;&lt;strong&gt;AI Content Creator - Content
+        Creation&lt;/strong&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;The
+        role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As a Senior AI Content Creator
+        in the HelloFresh Studio, you are part of the AI Content Creation team
+        and play a leading role in developing and scaling AI-powered content
+        creation across mainly photography, but also supporting video, design,
+        and emerging creative formats.&lt;/p&gt; &lt;p&gt;You combine a strong
+        background in commercial visual production with hands-on expertise in
+        generative AI. You have a refined visual eye and strong creative
+        judgment, allowing you to create high-quality content yourself and
+        recognize what makes an image or video successful. Beyond creating
+        individual assets, a key part of your role is translating creative
+        direction and successful approaches into reliable, production-ready
+        workflows that expand the Studio&#39;s AI capabilities. Working closely
+        with art directors, photographers, retouchers, video, design, and tech,
+        you identify where AI can improve creative possibilities, production
+        efficiency, and scale. You help define best practices, evaluate emerging
+        technologies, and continuously develop how AI is used in visual
+        production across the Studio.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What
+        you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Create
+        high-quality AI-powered content across commercial photography and video,
+        including lifestyle, food, product, and campaign content, translating
+        creative direction into assets ready for real production and marketing
+        use.&lt;/li&gt; &lt;li&gt;Develop and refine AI content creation
+        workflows, prompts, techniques, and reusable approaches using tools such
+        as Krea, Higgsfield, Claude, ComfyUI, and emerging platforms.&lt;/li&gt;
+        &lt;li&gt;Work closely with Art Directors, Photographers, Video, Design,
+        and Post-Production to translate creative concepts and established
+        visual approaches into scalable AI-powered production
+        workflows.&lt;/li&gt; &lt;li&gt;Use your creative judgment and
+        production experience to continuously improve visual quality, realism,
+        consistency, and efficiency across AI-generated content.&lt;/li&gt;
+        &lt;li&gt;Partner with Workflow Specialists to identify automation
+        opportunities and help turn successful creative processes into scalable
+        or automated content-generation workflows.&lt;/li&gt; &lt;li&gt;Evaluate
+        emerging AI models, tools, and techniques, testing their practical value
+        and introducing those that meaningfully improve creative output or
+        production.&lt;/li&gt; &lt;li&gt;Define and share best practices,
+        standards, and documentation for AI content creation, and support
+        colleagues in developing their AI capabilities.&lt;/li&gt;
+        &lt;li&gt;Stay closely connected to developments in generative AI,
+        actively experimenting with new approaches and identifying opportunities
+        to expand what the Studio can create.&lt;/li&gt; &lt;/ul&gt;
+        &lt;h2&gt;&lt;strong&gt;What you’ll bring&lt;/strong&gt;&lt;/h2&gt;
+        &lt;ul&gt; &lt;li&gt;&lt;strong&gt;5+ years of professional experience
+        in commercial photography, retouching, art direction, or a closely
+        related visual production discipline&lt;/strong&gt;, with a strong
+        understanding of professional photography and/or video
+        production.&lt;/li&gt; &lt;li&gt;Advanced hands-on experience creating
+        high-quality visual content with generative AI tools and integrating AI
+        into real creative or production workflows.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;A refined visual eye and strong creative
+        judgment&lt;/strong&gt;, with an excellent understanding of photography,
+        composition, lighting, colour, visual storytelling, realism, and what
+        makes commercial imagery feel premium and intentional.&lt;/li&gt;
+        &lt;li&gt;Proven ability to interpret creative briefs and translate
+        creative direction into high-quality visual content and repeatable
+        production approaches.&lt;/li&gt; &lt;li&gt;Strong collaboration and
+        communication skills, with the ability to work effectively across
+        creative, production, and technical teams.&lt;/li&gt; &lt;li&gt;You are
+        proactive, curious, and solution-oriented, with a strong sense of
+        ownership, an experimental mindset, and genuine enthusiasm for emerging
+        AI technologies.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Please
+        include a portfolio of your recent and relevant
+        work.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;"
+      score: 94
+      skill_hits: 1
+      bucket_id: video_editing
+      fetched_at: 2026-10-24T19:38:21.560Z
+      pulled_at: 2026-10-24T19:38:21.560Z
+      stale_days: 5
+      is_stale: false
+    - source: greenhouse
+      source_note: ""
+      company: hellofresh
+      title: Senior AI Content Creator (x/f/m)
+      location: Berlin, Berlin, Germany
+      url: https://careers.hellofresh.com/global/en/job/8113656?gh_jid=8113656
+      updated_at: 2026-10-15T10:25:03-04:00
+      description: "&lt;p&gt;&lt;strong&gt;AI Content Creator - Content
+        Creation&lt;/strong&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;The
+        role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As a Senior AI Content Creator
+        in the HelloFresh Studio, you are part of the AI Content Creation team
+        and play a leading role in developing and scaling AI-powered content
+        creation across mainly photography, but also supporting video, design,
+        and emerging creative formats.&lt;/p&gt; &lt;p&gt;You combine a strong
+        background in commercial visual production with hands-on expertise in
+        generative AI. You have a refined visual eye and strong creative
+        judgment, allowing you to create high-quality content yourself and
+        recognize what makes an image or video successful. Beyond creating
+        individual assets, a key part of your role is translating creative
+        direction and successful approaches into reliable, production-ready
+        workflows that expand the Studio&#39;s AI capabilities. Working closely
+        with art directors, photographers, retouchers, video, design, and tech,
+        you identify where AI can improve creative possibilities, production
+        efficiency, and scale. You help define best practices, evaluate emerging
+        technologies, and continuously develop how AI is used in visual
+        production across the Studio.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What
+        you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Create
+        high-quality AI-powered content across commercial photography and video,
+        including lifestyle, food, product, and campaign content, translating
+        creative direction into assets ready for real production and marketing
+        use.&lt;/li&gt; &lt;li&gt;Develop and refine AI content creation
+        workflows, prompts, techniques, and reusable approaches using tools such
+        as Krea, Higgsfield, Claude, ComfyUI, and emerging platforms.&lt;/li&gt;
+        &lt;li&gt;Work closely with Art Directors, Photographers, Video, Design,
+        and Post-Production to translate creative concepts and established
+        visual approaches into scalable AI-powered production
+        workflows.&lt;/li&gt; &lt;li&gt;Use your creative judgment and
+        production experience to continuously improve visual quality, realism,
+        consistency, and efficiency across AI-generated content.&lt;/li&gt;
+        &lt;li&gt;Partner with Workflow Specialists to identify automation
+        opportunities and help turn successful creative processes into scalable
+        or automated content-generation workflows.&lt;/li&gt; &lt;li&gt;Evaluate
+        emerging AI models, tools, and techniques, testing their practical value
+        and introducing those that meaningfully improve creative output or
+        production.&lt;/li&gt; &lt;li&gt;Define and share best practices,
+        standards, and documentation for AI content creation, and support
+        colleagues in developing their AI capabilities.&lt;/li&gt;
+        &lt;li&gt;Stay closely connected to developments in generative AI,
+        actively experimenting with new approaches and identifying opportunities
+        to expand what the Studio can create.&lt;/li&gt; &lt;/ul&gt;
+        &lt;h2&gt;&lt;strong&gt;What you’ll bring&lt;/strong&gt;&lt;/h2&gt;
+        &lt;ul&gt; &lt;li&gt;&lt;strong&gt;5+ years of professional experience
+        in commercial photography, retouching, art direction, or a closely
+        related visual production discipline&lt;/strong&gt;, with a strong
+        understanding of professional photography and/or video
+        production.&lt;/li&gt; &lt;li&gt;Advanced hands-on experience creating
+        high-quality visual content with generative AI tools and integrating AI
+        into real creative or production workflows.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;A refined visual eye and strong creative
+        judgment&lt;/strong&gt;, with an excellent understanding of photography,
+        composition, lighting, colour, visual storytelling, realism, and what
+        makes commercial imagery feel premium and intentional.&lt;/li&gt;
+        &lt;li&gt;Proven ability to interpret creative briefs and translate
+        creative direction into high-quality visual content and repeatable
+        production approaches.&lt;/li&gt; &lt;li&gt;Strong collaboration and
+        communication skills, with the ability to work effectively across
+        creative, production, and technical teams.&lt;/li&gt; &lt;li&gt;You are
+        proactive, curious, and solution-oriented, with a strong sense of
+        ownership, an experimental mindset, and genuine enthusiasm for emerging
+        AI technologies.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Please
+        include a portfolio of your recent and relevant
+        work.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;"
+      score: 94
+      skill_hits: 1
+      bucket_id: video_editing
+      fetched_at: 2026-10-23T20:34:40.811Z
+      pulled_at: 2026-10-23T20:34:40.811Z
+      stale_days: 6
+      is_stale: false
+    - source: greenhouse
+      source_note: ""
+      company: hellofresh
+      title: Senior AI Content Creator (x/f/m)
+      location: Berlin, Berlin, Germany
+      url: https://careers.hellofresh.com/global/en/job/8113656?gh_jid=8113656
+      updated_at: 2026-09-15T05:55:16-04:00
+      description: "&lt;p&gt;&lt;strong&gt;AI Content Creator - Content
+        Creation&lt;/strong&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;The
+        role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As a Senior AI Content Creator
+        in the HelloFresh Studio, you are part of the AI Content Creation team
+        and play a leading role in developing and scaling AI-powered content
+        creation across mainly photography, but also supporting video, design,
+        and emerging creative formats.&lt;/p&gt; &lt;p&gt;You combine a strong
+        background in commercial visual production with hands-on expertise in
+        generative AI. You have a refined visual eye and strong creative
+        judgment, allowing you to create high-quality content yourself and
+        recognize what makes an image or video successful. Beyond creating
+        individual assets, a key part of your role is translating creative
+        direction and successful approaches into reliable, production-ready
+        workflows that expand the Studio&#39;s AI capabilities. Working closely
+        with art directors, photographers, retouchers, video, design, and tech,
+        you identify where AI can improve creative possibilities, production
+        efficiency, and scale. You help define best practices, evaluate emerging
+        technologies, and continuously develop how AI is used in visual
+        production across the Studio.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What
+        you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Create
+        high-quality AI-powered content across commercial photography and video,
+        including lifestyle, food, product, and campaign content, translating
+        creative direction into assets ready for real production and marketing
+        use.&lt;/li&gt; &lt;li&gt;Develop and refine AI content creation
+        workflows, prompts, techniques, and reusable approaches using tools such
+        as Krea, Higgsfield, Claude, ComfyUI, and emerging platforms.&lt;/li&gt;
+        &lt;li&gt;Work closely with Art Directors, Photographers, Video, Design,
+        and Post-Production to translate creative concepts and established
+        visual approaches into scalable AI-powered production
+        workflows.&lt;/li&gt; &lt;li&gt;Use your creative judgment and
+        production experience to continuously improve visual quality, realism,
+        consistency, and efficiency across AI-generated content.&lt;/li&gt;
+        &lt;li&gt;Partner with Workflow Specialists to identify automation
+        opportunities and help turn successful creative processes into scalable
+        or automated content-generation workflows.&lt;/li&gt; &lt;li&gt;Evaluate
+        emerging AI models, tools, and techniques, testing their practical value
+        and introducing those that meaningfully improve creative output or
+        production.&lt;/li&gt; &lt;li&gt;Define and share best practices,
+        standards, and documentation for AI content creation, and support
+        colleagues in developing their AI capabilities.&lt;/li&gt;
+        &lt;li&gt;Stay closely connected to developments in generative AI,
+        actively experimenting with new approaches and identifying opportunities
+        to expand what the Studio can create.&lt;/li&gt; &lt;/ul&gt;
+        &lt;h2&gt;&lt;strong&gt;What you’ll bring&lt;/strong&gt;&lt;/h2&gt;
+        &lt;ul&gt; &lt;li&gt;&lt;strong&gt;5+ years of professional experience
+        in commercial photography, retouching, art direction, or a closely
+        related visual production discipline&lt;/strong&gt;, with a strong
+        understanding of professional photography and/or video
+        production.&lt;/li&gt; &lt;li&gt;Advanced hands-on experience creating
+        high-quality visual content with generative AI tools and integrating AI
+        into real creative or production workflows.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;A refined visual eye and strong creative
+        judgment&lt;/strong&gt;, with an excellent understanding of photography,
+        composition, lighting, colour, visual storytelling, realism, and what
+        makes commercial imagery feel premium and intentional.&lt;/li&gt;
+        &lt;li&gt;Proven ability to interpret creative briefs and translate
+        creative direction into high-quality visual content and repeatable
+        production approaches.&lt;/li&gt; &lt;li&gt;Strong collaboration and
+        communication skills, with the ability to work effectively across
+        creative, production, and technical teams.&lt;/li&gt; &lt;li&gt;You are
+        proactive, curious, and solution-oriented, with a strong sense of
+        ownership, an experimental mindset, and genuine enthusiasm for emerging
+        AI technologies.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Please
+        include a portfolio of your recent and relevant
+        work.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;"
+      score: 94
+      skill_hits: 1
+      bucket_id: video_editing
+      fetched_at: 2026-10-11T21:03:47.567Z
+      pulled_at: 2026-10-11T21:03:47.567Z
+      stale_days: 18
+      is_stale: false
+    - source: greenhouse
+      source_note: ""
+      company: hellofresh
+      title: Senior AI Content Creator (x/f/m)
+      location: Berlin, Berlin, Germany
+      url: https://careers.hellofresh.com/global/en/job/8113656?gh_jid=8113656
+      updated_at: 2026-09-15T05:55:16-04:00
+      description: "&lt;p&gt;&lt;strong&gt;AI Content Creator - Content
+        Creation&lt;/strong&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;The
+        role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As a Senior AI Content Creator
+        in the HelloFresh Studio, you are part of the AI Content Creation team
+        and play a leading role in developing and scaling AI-powered content
+        creation across mainly photography, but also supporting video, design,
+        and emerging creative formats.&lt;/p&gt; &lt;p&gt;You combine a strong
+        background in commercial visual production with hands-on expertise in
+        generative AI. You have a refined visual eye and strong creative
+        judgment, allowing you to create high-quality content yourself and
+        recognize what makes an image or video successful. Beyond creating
+        individual assets, a key part of your role is translating creative
+        direction and successful approaches into reliable, production-ready
+        workflows that expand the Studio&#39;s AI capabilities. Working closely
+        with art directors, photographers, retouchers, video, design, and tech,
+        you identify where AI can improve creative possibilities, production
+        efficiency, and scale. You help define best practices, evaluate emerging
+        technologies, and continuously develop how AI is used in visual
+        production across the Studio.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What
+        you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Create
+        high-quality AI-powered content across commercial photography and video,
+        including lifestyle, food, product, and campaign content, translating
+        creative direction into assets ready for real production and marketing
+        use.&lt;/li&gt; &lt;li&gt;Develop and refine AI content creation
+        workflows, prompts, techniques, and reusable approaches using tools such
+        as Krea, Higgsfield, Claude, ComfyUI, and emerging platforms.&lt;/li&gt;
+        &lt;li&gt;Work closely with Art Directors, Photographers, Video, Design,
+        and Post-Production to translate creative concepts and established
+        visual approaches into scalable AI-powered production
+        workflows.&lt;/li&gt; &lt;li&gt;Use your creative judgment and
+        production experience to continuously improve visual quality, realism,
+        consistency, and efficiency across AI-generated content.&lt;/li&gt;
+        &lt;li&gt;Partner with Workflow Specialists to identify automation
+        opportunities and help turn successful creative processes into scalable
+        or automated content-generation workflows.&lt;/li&gt; &lt;li&gt;Evaluate
+        emerging AI models, tools, and techniques, testing their practical value
+        and introducing those that meaningfully improve creative output or
+        production.&lt;/li&gt; &lt;li&gt;Define and share best practices,
+        standards, and documentation for AI content creation, and support
+        colleagues in developing their AI capabilities.&lt;/li&gt;
+        &lt;li&gt;Stay closely connected to developments in generative AI,
+        actively experimenting with new approaches and identifying opportunities
+        to expand what the Studio can create.&lt;/li&gt; &lt;/ul&gt;
+        &lt;h2&gt;&lt;strong&gt;What you’ll bring&lt;/strong&gt;&lt;/h2&gt;
+        &lt;ul&gt; &lt;li&gt;&lt;strong&gt;5+ years of professional experience
+        in commercial photography, retouching, art direction, or a closely
+        related visual production discipline&lt;/strong&gt;, with a strong
+        understanding of professional photography and/or video
+        production.&lt;/li&gt; &lt;li&gt;Advanced hands-on experience creating
+        high-quality visual content with generative AI tools and integrating AI
+        into real creative or production workflows.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;A refined visual eye and strong creative
+        judgment&lt;/strong&gt;, with an excellent understanding of photography,
+        composition, lighting, colour, visual storytelling, realism, and what
+        makes commercial imagery feel premium and intentional.&lt;/li&gt;
+        &lt;li&gt;Proven ability to interpret creative briefs and translate
+        creative direction into high-quality visual content and repeatable
+        production approaches.&lt;/li&gt; &lt;li&gt;Strong collaboration and
+        communication skills, with the ability to work effectively across
+        creative, production, and technical teams.&lt;/li&gt; &lt;li&gt;You are
+        proactive, curious, and solution-oriented, with a strong sense of
+        ownership, an experimental mindset, and genuine enthusiasm for emerging
+        AI technologies.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Please
+        include a portfolio of your recent and relevant
+        work.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;"
+      score: 94
+      skill_hits: 1
+      bucket_id: video_editing
+      fetched_at: 2026-10-06T21:48:27.843Z
+      pulled_at: 2026-10-06T21:48:27.843Z
+      stale_days: 23
+      is_stale: true
+    - source: greenhouse
+      source_note: ""
+      company: hellofresh
+      title: Senior AI Content Creator (x/f/m)
+      location: Berlin, Berlin, Germany
+      url: https://careers.hellofresh.com/global/en/job/8113656?gh_jid=8113656
+      updated_at: 2026-09-15T05:55:16-04:00
+      description: "&lt;p&gt;&lt;strong&gt;AI Content Creator - Content
+        Creation&lt;/strong&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;The
+        role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As a Senior AI Content Creator
+        in the HelloFresh Studio, you are part of the AI Content Creation team
+        and play a leading role in developing and scaling AI-powered content
+        creation across mainly photography, but also supporting video, design,
+        and emerging creative formats.&lt;/p&gt; &lt;p&gt;You combine a strong
+        background in commercial visual production with hands-on expertise in
+        generative AI. You have a refined visual eye and strong creative
+        judgment, allowing you to create high-quality content yourself and
+        recognize what makes an image or video successful. Beyond creating
+        individual assets, a key part of your role is translating creative
+        direction and successful approaches into reliable, production-ready
+        workflows that expand the Studio&#39;s AI capabilities. Working closely
+        with art directors, photographers, retouchers, video, design, and tech,
+        you identify where AI can improve creative possibilities, production
+        efficiency, and scale. You help define best practices, evaluate emerging
+        technologies, and continuously develop how AI is used in visual
+        production across the Studio.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What
+        you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Create
+        high-quality AI-powered content across commercial photography and video,
+        including lifestyle, food, product, and campaign content, translating
+        creative direction into assets ready for real production and marketing
+        use.&lt;/li&gt; &lt;li&gt;Develop and refine AI content creation
+        workflows, prompts, techniques, and reusable approaches using tools such
+        as Krea, Higgsfield, Claude, ComfyUI, and emerging platforms.&lt;/li&gt;
+        &lt;li&gt;Work closely with Art Directors, Photographers, Video, Design,
+        and Post-Production to translate creative concepts and established
+        visual approaches into scalable AI-powered production
+        workflows.&lt;/li&gt; &lt;li&gt;Use your creative judgment and
+        production experience to continuously improve visual quality, realism,
+        consistency, and efficiency across AI-generated content.&lt;/li&gt;
+        &lt;li&gt;Partner with Workflow Specialists to identify automation
+        opportunities and help turn successful creative processes into scalable
+        or automated content-generation workflows.&lt;/li&gt; &lt;li&gt;Evaluate
+        emerging AI models, tools, and techniques, testing their practical value
+        and introducing those that meaningfully improve creative output or
+        production.&lt;/li&gt; &lt;li&gt;Define and share best practices,
+        standards, and documentation for AI content creation, and support
+        colleagues in developing their AI capabilities.&lt;/li&gt;
+        &lt;li&gt;Stay closely connected to developments in generative AI,
+        actively experimenting with new approaches and identifying opportunities
+        to expand what the Studio can create.&lt;/li&gt; &lt;/ul&gt;
+        &lt;h2&gt;&lt;strong&gt;What you’ll bring&lt;/strong&gt;&lt;/h2&gt;
+        &lt;ul&gt; &lt;li&gt;&lt;strong&gt;5+ years of professional experience
+        in commercial photography, retouching, art direction, or a closely
+        related visual production discipline&lt;/strong&gt;, with a strong
+        understanding of professional photography and/or video
+        production.&lt;/li&gt; &lt;li&gt;Advanced hands-on experience creating
+        high-quality visual content with generative AI tools and integrating AI
+        into real creative or production workflows.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;A refined visual eye and strong creative
+        judgment&lt;/strong&gt;, with an excellent understanding of photography,
+        composition, lighting, colour, visual storytelling, realism, and what
+        makes commercial imagery feel premium and intentional.&lt;/li&gt;
+        &lt;li&gt;Proven ability to interpret creative briefs and translate
+        creative direction into high-quality visual content and repeatable
+        production approaches.&lt;/li&gt; &lt;li&gt;Strong collaboration and
+        communication skills, with the ability to work effectively across
+        creative, production, and technical teams.&lt;/li&gt; &lt;li&gt;You are
+        proactive, curious, and solution-oriented, with a strong sense of
+        ownership, an experimental mindset, and genuine enthusiasm for emerging
+        AI technologies.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Please
+        include a portfolio of your recent and relevant
+        work.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;"
+      score: 94
+      skill_hits: 1
+      bucket_id: video_editing
+      fetched_at: 2026-10-05T23:16:43.362Z
+      pulled_at: 2026-10-05T23:16:43.362Z
+      stale_days: 23
+      is_stale: true
+    - source: greenhouse
+      source_note: ""
+      company: hellofresh
+      title: Senior AI Content Creator (x/f/m)
+      location: Berlin, Berlin, Germany
+      url: https://careers.hellofresh.com/global/en/job/8113656?gh_jid=8113656
+      updated_at: 2026-09-15T05:55:16-04:00
+      description: "&lt;p&gt;&lt;strong&gt;AI Content Creator - Content
+        Creation&lt;/strong&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;The
+        role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As a Senior AI Content Creator
+        in the HelloFresh Studio, you are part of the AI Content Creation team
+        and play a leading role in developing and scaling AI-powered content
+        creation across mainly photography, but also supporting video, design,
+        and emerging creative formats.&lt;/p&gt; &lt;p&gt;You combine a strong
+        background in commercial visual production with hands-on expertise in
+        generative AI. You have a refined visual eye and strong creative
+        judgment, allowing you to create high-quality content yourself and
+        recognize what makes an image or video successful. Beyond creating
+        individual assets, a key part of your role is translating creative
+        direction and successful approaches into reliable, production-ready
+        workflows that expand the Studio&#39;s AI capabilities. Working closely
+        with art directors, photographers, retouchers, video, design, and tech,
+        you identify where AI can improve creative possibilities, production
+        efficiency, and scale. You help define best practices, evaluate emerging
+        technologies, and continuously develop how AI is used in visual
+        production across the Studio.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What
+        you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Create
+        high-quality AI-powered content across commercial photography and video,
+        including lifestyle, food, product, and campaign content, translating
+        creative direction into assets ready for real production and marketing
+        use.&lt;/li&gt; &lt;li&gt;Develop and refine AI content creation
+        workflows, prompts, techniques, and reusable approaches using tools such
+        as Krea, Higgsfield, Claude, ComfyUI, and emerging platforms.&lt;/li&gt;
+        &lt;li&gt;Work closely with Art Directors, Photographers, Video, Design,
+        and Post-Production to translate creative concepts and established
+        visual approaches into scalable AI-powered production
+        workflows.&lt;/li&gt; &lt;li&gt;Use your creative judgment and
+        production experience to continuously improve visual quality, realism,
+        consistency, and efficiency across AI-generated content.&lt;/li&gt;
+        &lt;li&gt;Partner with Workflow Specialists to identify automation
+        opportunities and help turn successful creative processes into scalable
+        or automated content-generation workflows.&lt;/li&gt; &lt;li&gt;Evaluate
+        emerging AI models, tools, and techniques, testing their practical value
+        and introducing those that meaningfully improve creative output or
+        production.&lt;/li&gt; &lt;li&gt;Define and share best practices,
+        standards, and documentation for AI content creation, and support
+        colleagues in developing their AI capabilities.&lt;/li&gt;
+        &lt;li&gt;Stay closely connected to developments in generative AI,
+        actively experimenting with new approaches and identifying opportunities
+        to expand what the Studio can create.&lt;/li&gt; &lt;/ul&gt;
+        &lt;h2&gt;&lt;strong&gt;What you’ll bring&lt;/strong&gt;&lt;/h2&gt;
+        &lt;ul&gt; &lt;li&gt;&lt;strong&gt;5+ years of professional experience
+        in commercial photography, retouching, art direction, or a closely
+        related visual production discipline&lt;/strong&gt;, with a strong
+        understanding of professional photography and/or video
+        production.&lt;/li&gt; &lt;li&gt;Advanced hands-on experience creating
+        high-quality visual content with generative AI tools and integrating AI
+        into real creative or production workflows.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;A refined visual eye and strong creative
+        judgment&lt;/strong&gt;, with an excellent understanding of photography,
+        composition, lighting, colour, visual storytelling, realism, and what
+        makes commercial imagery feel premium and intentional.&lt;/li&gt;
+        &lt;li&gt;Proven ability to interpret creative briefs and translate
+        creative direction into high-quality visual content and repeatable
+        production approaches.&lt;/li&gt; &lt;li&gt;Strong collaboration and
+        communication skills, with the ability to work effectively across
+        creative, production, and technical teams.&lt;/li&gt; &lt;li&gt;You are
+        proactive, curious, and solution-oriented, with a strong sense of
+        ownership, an experimental mindset, and genuine enthusiasm for emerging
+        AI technologies.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Please
+        include a portfolio of your recent and relevant
+        work.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;"
+      score: 94
+      skill_hits: 1
+      bucket_id: video_editing
+      fetched_at: 2026-09-30T21:31:26.014Z
+      pulled_at: 2026-09-30T21:31:26.014Z
+      stale_days: 29
+      is_stale: true
+archive:
+  marketing_general:
+    - source: recruitee
+      source_note: ""
+      company: Consultport
+      title: Growth Marketing Manager
+      location: Berlin, Berlin, Germany, Berlin, Germany
+      url: https://consultport.recruitee.com/o/growth-marketing-manager
+      updated_at: 2026-08-06 14:09:57 UTC
+      description: "Who are we? Consultport is a global platform redefining how
+        businesses access top-tier consulting talent. We connect top companies
+        with world-class consultants and digital experts, helping them drive
+        critical initiatives faster, smarter, and more flexibly than ever
+        before. Join us at this growth stage. We're building the future of
+        consulting, and this is your chance to be part of shaping it. The role
+        As a Growth Marketing Manager (m/f/d) at Consultport, you'll own and
+        drive our digital marketing strategy across all channels, from
+        performance and paid media to content, SEO, and brand. You'll work
+        closely with our sales and business development teams to generate
+        high-quality demand and fuel our growth engine. This is a hands-on,
+        all-round marketing role that blends strategic thinking with executional
+        excellence, ideally suited to someone who has thrived in a fast-paced
+        agency or digital-first environment. We are currently ramping up our
+        Marketing team and this is where you come in! As Growth Marketing
+        Manager (m/f/d) at Consultport, you'll be responsible for: Digital
+        Strategy &amp; Execution Develop and own a 360° digital marketing
+        strategy across paid, owned, and earned channels Manage and optimise
+        marketing campaigns across Google Ads, LinkedIn, and Meta Drive SEO
+        strategy to ensure our content and web presence consistently ranks and
+        converts Demand Generation &amp; Lead Nurturing Own the full marketing
+        funnel from awareness through to qualified lead handoff to sales Build
+        campaigns for key customer segments to drive user acquisition and
+        engagement Manage and optimise our CRM and marketing automation
+        workflows (e.g. HubSpot) Analytics &amp; Performance Set up and maintain
+        robust tracking and reporting across all channels (Google Tag Manager,
+        Google Analytics) Use data-driven insights to improve campaign
+        performance, conversion rates, and ROI Run A/B tests and implement
+        optimisation strategies across the customer journey Brand &amp; Content
+        Oversee brand consistency across all digital touchpoints and
+        communications Develop content that speaks to our target audience of
+        senior business decision-makers Identify and act on market trends and
+        emerging digital marketing opportunities"
+      score: 84
+      skill_hits: 3
+      bucket_id: marketing_general
+      fetched_at: 2026-09-29T21:30:40.201Z
+      pulled_at: 2026-09-29T21:30:40.201Z
+      stale_days: 30
+      is_stale: true
+    - source: arbeitnow
+      source_note: ""
+      company: Denkwerk Gmbh
+      title: Senior Digital Marketing Manager SEO/GEO (all genders)
+      location: Berlin
+      url: https://www.arbeitnow.com/jobs/companies/denkwerk-gmbh/senior-digital-marketing-manager-seo-geo-all-genders-berlin-156382
+      updated_at: 1790701756
+      description: "You are the one we miss! We’re looking for someone with a passion
+        for digital marketing, a keen eye for trends and a clear understanding
+        of the dynamic evolution of search engines and AI-driven response
+        systems (e.g. Google AI Overviews, ChatGPT, Gemini) You’ll be
+        responsible for developing, implementing and continuously optimising
+        holistic SEO and GEO strategies to boost our clients’ organic visibility
+        In this role, you will develop forward-looking strategies for GEO, for
+        example through structured content approaches, entity optimisation, and
+        by strengthening authority and trustworthiness You will use standard
+        tools such as Sistrix, Semrush, Google Search Console, Peec.ai and
+        Google Analytics to derive data-driven recommendations You bring a deep
+        understanding of technical SEO, content strategies and information
+        architecture, and apply this knowledge when working with the
+        development, UX and editorial teams You continuously refine on-page,
+        off-page and content optimisations, with a focus on traditional search
+        engines and AI systems You always keep a close eye on PageSpeed, Core
+        Web Vitals, structured data and technical SEO It would be a plus if you
+        have experience in setting up and optimising Google Ads campaigns Do you
+        have an agile mindset? Absolutely! Our projects are mainly carried out
+        in an agile environment and we use tools such as Miro, Jira and
+        Confluence You have a very good German skills (C1), as our current
+        projects are predominantly conducted in German. A good command of
+        English is an advantage What you can look forward to Flexibility &amp;
+        trust: Hybrid working at one of our denkwerk locations &amp; flexible
+        working hours Your health matters: Urban Sports Club membership and
+        JobRad leasing We celebrate success together: Profit sharing for all
+        permanent denkwerk employees, big parties, and event formats Your
+        development is important to us: Training budget for new skills and
+        training; denkwerk inspiration in form of tech talks, lunch club,
+        resilience, AI, and design formats Securing the future: 20% employer
+        contribution to company pension plan Support in all situations: advice
+        from pme Familienservice and the Mindance app More than just vacation:
+        31 vacation days, including three joint “denkfrei days” (Christmas Eve,
+        New Year's Eve, Carnival Monday) Get started with support: Your personal
+        denkmate will accompany you as you get started Recommend us to others -
+        Find Your Mate: Bring great people with you and we will thank you with a
+        bonus Discounts &amp; goodies: Access to exclusive corporate benefits as
+        well as free snacks, coffee, cool drinks, and fresh fruit Ready to get
+        started with us? Then simply send us: your resume a short cover letter
+        your possible start date and your salary expectations How to get here 1.
+        Application Receipt We carefully review your documents and forward them
+        to the relevant department. 2. Interviews First interview: digitally via
+        Microsoft Teams Second interview: in person at one of our locations
+        Task? If so, we will let you know in good time 3. Individual Journey If
+        it makes sense to take a different approach, we will be happy to work
+        with you to tailor the application process to your individual needs. 4.
+        Feedback We will get back to you as soon as possible. If you think it's
+        taking too long, please feel free to contact us! This is us, your
+        contact persons Janina Schulte-Kellinghaus &amp; Marie Rybarczik, Talent
+        Acquisition Team Our profile on kununu Find Jobs in Germany on
+        Arbeitnow"
+      job_types: &a4
+        - Experienced
+        - Permanent
+        - Full time
+      remote: false
+      score: 82
+      skill_hits: 3
+      bucket_id: marketing_general
+      fetched_at: 2026-09-29T21:30:40.201Z
+      pulled_at: 2026-09-29T21:30:40.201Z
+      stale_days: 30
+      is_stale: true
+    - source: arbeitnow
+      source_note: ""
+      company: everydays
+      title: Senior Performance Marketing Manager (m/w/d) - Meta Ads & Full-Funnel
+        Growth - 100% remote
+      location: Berlin
+      url: https://www.arbeitnow.com/jobs/companies/everydays/senior-performance-marketing-manager-meta-ads-full-funnel-growth-100-remote-berlin-28423
+      updated_at: 1790697637
+      description: "Wir sind eine stark wachsende Direct-to-Consumer-Marke im
+        Gesundheitsbereich und verkaufen hochwertige Supplements direkt an
+        unsere Kund:innen. Unsere wichtigste Wachstumsmaschine:
+        Direct-Response-Marketing über Meta Ads. Ein hoher ROAS ist für uns kein
+        Ziel – meistens ist er ein Zeichen dafür, dass zu wenig ausgegeben wird.
+        Wir steuern auf Wachstum: Neukunden, CM3, aMER, MER und ein CAC, der
+        sich am Kundenwert misst. Wenn du ohnehin in Deckungsbeiträgen und
+        CAC/CLV denkst statt in Plattformkennzahlen, ist das hier dein Standard.
+        Wenn nicht, ist es die falsche Stelle. Wir suchen jemanden, der den
+        kompletten Funnel von der Ad über das Offer und die Landingpage bis zum
+        Kauf als ein System versteht, systematisch testet und Budget dorthin
+        bringt, wo es profitables Wachstum erzeugt – auch wenn das auf
+        Plattformebene erstmal unbequem aussieht. Aufgaben Deine Aufgaben Media
+        Buying auf Wachstum steuern: Du verantwortest unsere Paid-Social-Konten
+        eigenständig – Budget, Kampagnensetup, Adsets, Creatives einbuchen. Du
+        skalierst, solange die Unit Economics tragen, und skalierst nicht, um
+        Plattformmetriken zu schonen. Full-Funnel-Diagnose: Du analysierst
+        regelmäßig den gesamten Weg von Ad über Offer und Landingpage bis zur
+        Conversion, findest den größten Engpass und priorisierst genau dort.
+        Creative Testing &#x26; Creative Diversity: Du entwickelst
+        Testhypothesen, bewertest Creative-Performance und sorgst dafür, dass
+        das Konto nicht von zwei Winning Ads abhängt: verschiedene Angles,
+        Formate, Creator und Hooks parallel im Test, damit Skalierung nicht an
+        Creative Fatigue scheitert. Learnings gehen konkret und datenbasiert an
+        Creative Strategist und Copywriting zurück. Offer- und Landingpage-Tests
+        koordinieren: Du priorisierst den Test-Backlog für Bundles, Preislogik,
+        Value Stack, Message-Match und Landingpage-Struktur, briefst die
+        Fachteams, wertest aus und rollst Gewinner aus. Steuerung nach
+        Gesamtwirtschaftlichkeit: Deine Entscheidungsgrundlage sind Neukunden,
+        CM3, aMER, MER und CAC im Verhältnis zum Kundenwert – nicht der ROAS
+        einer einzelnen Kampagne. Attribution &#x26; Datenqualität: Du liest
+        Performance nicht aus dem Ads Manager, sondern aus unserem
+        Attributionsmodell. Du weißt, wo Plattform-Attribution und Realität
+        auseinanderlaufen, sorgst für saubere Datenerfassung und klärst
+        Auffälligkeiten früh mit IT. Struktur &#x26; Reporting: Einheitliche
+        Naming Convention, nachvollziehbare Account-Struktur, feste Reporting-
+        und Review-Routinen für Wachstum, Budget und Learnings. Qualifikation
+        Dein Profil Mehrjährige Erfahrung im Media Buying für Meta Ads im
+        D2C-Kontext – du hast eigenverantwortlich Budgets gesteuert und ein
+        Konto profitabel wachsen lassen , nicht nur effizient gehalten. Du
+        kannst erklären, warum ein Konto mit ROAS 1,0 und wachsendem
+        Neukundenstamm mehr wert ist als eines mit ROAS 4 und stagnierendem
+        Umsatz – und du hast das schon einmal jemandem erklären müssen. Du
+        denkst in Funnels und Kohorten: Du weißt, dass ein schlechter
+        Neukunden-CAC auch am Offer oder an der Landingpage liegen kann, und
+        dass der Wert eines Neukunden erst nach dem ersten Kauf entsteht.
+        Testgetrieben: Du setzt Tests mit klarer Hypothese, Erfolgskriterium und
+        Auswertungslogik auf und dokumentierst, was du lernst. Sicher in
+        Datenanalyse und Attribution – du hast mit Attributionstools jenseits
+        des Ads Managers gearbeitet, kennst die Grenzen von
+        Plattform-Attribution und Tracking-Setups (Pixel, CAPI, UTMs) und
+        erkennst, wenn Daten nicht stimmen. Du kennst gängige DR-Mechaniken
+        (Hook–Problem–Solution, Value Stack, Social Proof, Scarcity) und kannst
+        beurteilen, warum ein Creative oder Offer performt. Du weißt, dass
+        Creative Diversity kein Kreativ-Nice-to-have ist, sondern die
+        Voraussetzung dafür, dass ein Konto skaliert – und planst deinen
+        Testing-Mix entsprechend. Du arbeitest gern mit Creative-, Copy- und
+        Web-Teams zusammen – als Taktgeber mit klaren Briefings, nicht als
+        Einzelkämpfer. AI-Tools für Reporting, Anomalie-Erkennung und
+        Creative-Analyse nutzt du bereits Idealerweise Erfahrung mit Supplement-
+        oder Health-Brands. 🛠 So arbeitest du bei uns Du bekommst volle
+        Verantwortung für die Paid-Social-Konten und ein Team, das zusammen mit
+        dir Creatives, Copy, Landingpages und Tracking bearbeitet – du
+        priorisierst, was gerade am Wichtigsten ist. Du steuerst mit denselben
+        Zahlen wie die Geschäftsführung: CM3, aMER, MER, Neukunden, Kundenwert.
+        Kein separates „Marketing-Dashboard\", das schöner aussieht als die
+        Realität. Wir arbeiten mit Notion für Prozesse, Slack fürs Team und
+        einem eigenen Attributionsstack, in den wir laufend investieren – du
+        steuerst nach diesen Zahlen, nicht nach Meta's Zahlen. Rollen sind bei
+        uns klar definiert: Objective, Job Results, KPIs. Du weißt, wofür du
+        verantwortlich bist – und was nicht. Entscheidungen fallen auf Basis von
+        Daten. Wenn die Daten fehlen, holen wir sie, bevor wir raten. Benefits
+        Was dich erwartet Eine Marke mit klarer Positionierung und Produkten,
+        perfekt für unsere Zielgruppe – und eine Organisation, die Paid Social
+        als Wachstumsmotor denkt, nicht als Kostenstelle. Kurze
+        Entscheidungswege, echtes Mandat über Budget und Testing. Regelmäßige
+        Performance-Reviews und Learnings – wir skalieren, was funktioniert, und
+        dokumentieren, warum. Remote-Only mit klaren Prozessen und hoher
+        Eigenverantwortung Die Möglichkeit, das Performance-Marketing-System
+        einer wachsenden Health-Brand von Grund auf mitzubauen – und mit ihr zu
+        wachsen. Let's grow it! Du denkst in Full-Funnel, Neukunden,
+        Deckungsbeiträgen und hast den den CLV im Blick? Dann bewirb dich jetzt
+        mit deinem Lebenslauf, zwei bis drei konkreten Beispielen, in denen du
+        Meta Ads mit Direct Response Mechaniken zum Wachstum geführt hast und
+        einem kurzen Statement, warum du in unser Team gehörst. Wir freuen uns
+        auf dich. Find Jobs in Germany on Arbeitnow"
+      job_types: &a5
+        - teamleitung
+      remote: true
+      score: 78
+      skill_hits: 1
+      bucket_id: marketing_general
+      fetched_at: 2026-09-29T21:30:40.201Z
+      pulled_at: 2026-09-29T21:30:40.201Z
+      stale_days: 30
+      is_stale: true
+    - source: recruitee
+      source_note: ""
+      company: TransPerfect
+      title: Senior Performance Marketing Manager
+      location: Pune, Mahārāshtra, India, Pune, India
+      url: https://transperfect.com/o/senior-performance-marketing-manager
+      updated_at: 2026-08-06 10:17:14 UTC
+      description: "OVERVIEW: If running paid campaigns across a bunch of platforms is
+        your happy place, and you think as much about the journey as the click,
+        this could be a good fit. You're in Google Ads in the morning, LinkedIn
+        Campaign Manager over lunch, and Reddit or TikTok in the afternoon. In
+        between, you're thinking about how these campaigns work together to move
+        real people through our funnel. We're hiring a Paid Media Lead to plan,
+        deploy, and optimize campaigns across our paid channels. This role isn't
+        just about setting campaigns live and watching the numbers. It's about
+        thinking carefully about the marketing funnel, inventing new ways to
+        bring quality leads and accounts into it, and using paid media to move
+        them all the way through to sales-ready. You'll work closely with our
+        Senior Director of Creative Performance Marketing, turning creative
+        briefs and campaign strategies into live campaigns that actually
+        perform. You'll own the technical craft of paid media (structure,
+        targeting, bidding, testing, iteration) and the strategic craft of
+        designing campaigns that do their job at each funnel stage. This is an
+        individual contributor role with no direct reports. What you'll be doing
+        is deep, hands on platform work combined with real strategic thinking
+        about how paid fits into the broader journey. JOB RESPONSIBILITES: Plan
+        campaign architecture across platforms with clear funnel intent
+        (awareness, consideration, decision) and matching audience, creative,
+        and CTA logic for each stage Get creative about lead acquisition itself:
+        figure out how to reach new audiences, test new platforms and formats,
+        and keep growing both the quantity and quality of leads coming into the
+        funnel Design retargeting and lifecycle audiences that work with email
+        nurture, content offers, and sales outreach to move leads through the
+        funnel Partner with the rest of the marketing team on lead qualification
+        and hand-off criteria, so what reaches sales is actually ready to
+        convert Contribute creative direction to ad concepts and copy, working
+        with our creative resources on work that resonates Build and launch
+        campaigns in Google Ads, Microsoft Ads, LinkedIn, Meta (Facebook and
+        Instagram), Reddit, TikTok, and emerging platforms like ChatGPT Ads Set
+        up and manage audience targeting, including custom audiences,
+        lookalikes, contextual, intent, and account-based lists Own bid strategy
+        selection and budget pacing across campaigns Traffic creative assets,
+        keep naming conventions consistent, and manage UTMs Set up conversion
+        tracking (pixels, server-side, offline conversions) and make sure GA4 is
+        telling us the truth Run structured A/B tests on copy, creative,
+        audiences, and bidding Pull data, build reports, and share what's
+        working (and what isn't) with the team Continuously optimize campaigns,
+        moving budget toward what's performing and shutting off what isn't"
+      score: 76
+      skill_hits: 1
+      bucket_id: marketing_general
+      fetched_at: 2026-09-29T21:30:40.201Z
+      pulled_at: 2026-09-29T21:30:40.201Z
+      stale_days: 30
+      is_stale: true
+  digital_marketing:
     - source: recruitee
       source_note: ""
       company: Consultport
@@ -7622,7 +8469,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-29T21:30:40.201Z
       pulled_at: 2026-09-29T21:30:40.201Z
-      stale_days: 29
+      stale_days: 30
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -7669,7 +8516,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-29T21:30:40.201Z
       pulled_at: 2026-09-29T21:30:40.201Z
-      stale_days: 29
+      stale_days: 30
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -7733,7 +8580,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-29T21:30:40.201Z
       pulled_at: 2026-09-29T21:30:40.201Z
-      stale_days: 29
+      stale_days: 30
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -7800,7 +8647,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-29T21:30:40.201Z
       pulled_at: 2026-09-29T21:30:40.201Z
-      stale_days: 29
+      stale_days: 30
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -7849,7 +8696,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-29T21:30:40.201Z
       pulled_at: 2026-09-29T21:30:40.201Z
-      stale_days: 29
+      stale_days: 30
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -7952,7 +8799,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-29T21:30:40.201Z
       pulled_at: 2026-09-29T21:30:40.201Z
-      stale_days: 29
+      stale_days: 30
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -8007,7 +8854,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-29T21:30:40.201Z
       pulled_at: 2026-09-29T21:30:40.201Z
-      stale_days: 29
+      stale_days: 30
       is_stale: true
     - source: ashby
       source_note: ""
@@ -8022,7 +8869,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-29T21:30:40.201Z
       pulled_at: 2026-09-29T21:30:40.201Z
-      stale_days: 29
+      stale_days: 30
       is_stale: true
     - source: ashby
       source_note: ""
@@ -8037,852 +8884,9 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-09-29T21:30:40.201Z
       pulled_at: 2026-09-29T21:30:40.201Z
-      stale_days: 29
+      stale_days: 30
       is_stale: true
   video_editing:
-    - source: greenhouse
-      source_note: ""
-      company: hellofresh
-      title: Senior AI Content Creator (x/f/m)
-      location: Berlin, Berlin, Germany
-      url: https://careers.hellofresh.com/global/en/job/8113656?gh_jid=8113656
-      updated_at: 2026-10-15T10:25:03-04:00
-      description: "&lt;p&gt;&lt;strong&gt;AI Content Creator - Content
-        Creation&lt;/strong&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;The
-        role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As a Senior AI Content Creator
-        in the HelloFresh Studio, you are part of the AI Content Creation team
-        and play a leading role in developing and scaling AI-powered content
-        creation across mainly photography, but also supporting video, design,
-        and emerging creative formats.&lt;/p&gt; &lt;p&gt;You combine a strong
-        background in commercial visual production with hands-on expertise in
-        generative AI. You have a refined visual eye and strong creative
-        judgment, allowing you to create high-quality content yourself and
-        recognize what makes an image or video successful. Beyond creating
-        individual assets, a key part of your role is translating creative
-        direction and successful approaches into reliable, production-ready
-        workflows that expand the Studio&#39;s AI capabilities. Working closely
-        with art directors, photographers, retouchers, video, design, and tech,
-        you identify where AI can improve creative possibilities, production
-        efficiency, and scale. You help define best practices, evaluate emerging
-        technologies, and continuously develop how AI is used in visual
-        production across the Studio.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What
-        you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Create
-        high-quality AI-powered content across commercial photography and video,
-        including lifestyle, food, product, and campaign content, translating
-        creative direction into assets ready for real production and marketing
-        use.&lt;/li&gt; &lt;li&gt;Develop and refine AI content creation
-        workflows, prompts, techniques, and reusable approaches using tools such
-        as Krea, Higgsfield, Claude, ComfyUI, and emerging platforms.&lt;/li&gt;
-        &lt;li&gt;Work closely with Art Directors, Photographers, Video, Design,
-        and Post-Production to translate creative concepts and established
-        visual approaches into scalable AI-powered production
-        workflows.&lt;/li&gt; &lt;li&gt;Use your creative judgment and
-        production experience to continuously improve visual quality, realism,
-        consistency, and efficiency across AI-generated content.&lt;/li&gt;
-        &lt;li&gt;Partner with Workflow Specialists to identify automation
-        opportunities and help turn successful creative processes into scalable
-        or automated content-generation workflows.&lt;/li&gt; &lt;li&gt;Evaluate
-        emerging AI models, tools, and techniques, testing their practical value
-        and introducing those that meaningfully improve creative output or
-        production.&lt;/li&gt; &lt;li&gt;Define and share best practices,
-        standards, and documentation for AI content creation, and support
-        colleagues in developing their AI capabilities.&lt;/li&gt;
-        &lt;li&gt;Stay closely connected to developments in generative AI,
-        actively experimenting with new approaches and identifying opportunities
-        to expand what the Studio can create.&lt;/li&gt; &lt;/ul&gt;
-        &lt;h2&gt;&lt;strong&gt;What you’ll bring&lt;/strong&gt;&lt;/h2&gt;
-        &lt;ul&gt; &lt;li&gt;&lt;strong&gt;5+ years of professional experience
-        in commercial photography, retouching, art direction, or a closely
-        related visual production discipline&lt;/strong&gt;, with a strong
-        understanding of professional photography and/or video
-        production.&lt;/li&gt; &lt;li&gt;Advanced hands-on experience creating
-        high-quality visual content with generative AI tools and integrating AI
-        into real creative or production workflows.&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;A refined visual eye and strong creative
-        judgment&lt;/strong&gt;, with an excellent understanding of photography,
-        composition, lighting, colour, visual storytelling, realism, and what
-        makes commercial imagery feel premium and intentional.&lt;/li&gt;
-        &lt;li&gt;Proven ability to interpret creative briefs and translate
-        creative direction into high-quality visual content and repeatable
-        production approaches.&lt;/li&gt; &lt;li&gt;Strong collaboration and
-        communication skills, with the ability to work effectively across
-        creative, production, and technical teams.&lt;/li&gt; &lt;li&gt;You are
-        proactive, curious, and solution-oriented, with a strong sense of
-        ownership, an experimental mindset, and genuine enthusiasm for emerging
-        AI technologies.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Please
-        include a portfolio of your recent and relevant
-        work.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;"
-      score: 94
-      skill_hits: 1
-      bucket_id: video_editing
-      fetched_at: 2026-10-28T21:49:24.706Z
-      pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 0
-      is_stale: false
-    - source: arbeitnow
-      source_note: ""
-      company: Bundesverbraucherhilfe e.V.
-      title: Content Creator Social Media (m/w/d) im Ehrenamt
-      location: Berlin
-      url: https://www.arbeitnow.com/jobs/companies/bundesverbraucherhilfe-ev/content-creator-social-media-im-ehrenamt-berlin-264383
-      updated_at: 1793201494
-      description: Viele Menschen erfahren über Instagram, TikTok oder Facebook von
-        ihren Rechten. Wir wollen dort mit kurzen, verständlichen Formaten
-        präsent sein, die wirklich weiterhelfen. Als Content Creator Social
-        Media entwickeln und produzieren Sie Beiträge, Reels und kurze Videos
-        auf Grundlage unserer Ratgeber und Stellungnahmen. Ihre Aufgaben
-        Konzeption und Produktion von Beiträgen, Reels und kurzen Videos
-        Übersetzung von Ratgeberinhalten in leicht verständliche Formate Pflege
-        eines Redaktionsplans in Abstimmung mit der Bereichsleitung
-        Kommunikation Community-Management und Weiterleitung von Anfragen an die
-        zuständigen Stellen Auswertung der Reichweite und Weiterentwicklung der
-        Formate Das bringen Sie mit Erfahrung in der Erstellung von
-        Social-Media-Inhalten, gern auch privat oder semiprofessionell Sicherer
-        Umgang mit Smartphone-Videografie und gängigen Schnittwerkzeugen Gespür
-        für Trends, ohne Inhalte zu verkürzen Sorgfalt bei Fakten und
-        Formulierungen Ein formaler Abschluss ist keine Voraussetzung, Ihre
-        Praxis zählt Was wir bieten Kreative Freiheit bei Formaten, die viele
-        Menschen erreichen Berufliche Vernetzung mit Fach- und Führungskräften
-        aus Recht, Wirtschaft und Verwaltung Qualifizierte
-        Tätigkeitsbescheinigung und auf Wunsch ein Referenzschreiben Zugang zu
-        unseren Fortbildungen, Fachtagungen und Ausschusssitzungen Freie
-        Zeiteinteilung, Zusammenarbeit überwiegend remote Die Tätigkeit wird
-        ehrenamtlich ausgeübt. Notwendige Auslagen werden nach unserer
-        Reisekosten- und Auslagenordnung erstattet. Find Jobs in Germany on
-        Arbeitnow
-      job_types:
-        - Minijob (geringfügige beschäftigung)
-        - side
-        - hilfstätigkeit / student
-      remote: true
-      score: 78
-      skill_hits: 2
-      bucket_id: video_editing
-      fetched_at: 2026-10-28T21:49:24.706Z
-      pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 0
-      is_stale: false
-    - source: greenhouse
-      source_note: ""
-      company: hellofresh
-      title: Senior AI Content Creator (x/f/m)
-      location: Berlin, Berlin, Germany
-      url: https://careers.hellofresh.com/global/en/job/8113656?gh_jid=8113656
-      updated_at: 2026-10-15T10:25:03-04:00
-      description: "&lt;p&gt;&lt;strong&gt;AI Content Creator - Content
-        Creation&lt;/strong&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;The
-        role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As a Senior AI Content Creator
-        in the HelloFresh Studio, you are part of the AI Content Creation team
-        and play a leading role in developing and scaling AI-powered content
-        creation across mainly photography, but also supporting video, design,
-        and emerging creative formats.&lt;/p&gt; &lt;p&gt;You combine a strong
-        background in commercial visual production with hands-on expertise in
-        generative AI. You have a refined visual eye and strong creative
-        judgment, allowing you to create high-quality content yourself and
-        recognize what makes an image or video successful. Beyond creating
-        individual assets, a key part of your role is translating creative
-        direction and successful approaches into reliable, production-ready
-        workflows that expand the Studio&#39;s AI capabilities. Working closely
-        with art directors, photographers, retouchers, video, design, and tech,
-        you identify where AI can improve creative possibilities, production
-        efficiency, and scale. You help define best practices, evaluate emerging
-        technologies, and continuously develop how AI is used in visual
-        production across the Studio.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What
-        you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Create
-        high-quality AI-powered content across commercial photography and video,
-        including lifestyle, food, product, and campaign content, translating
-        creative direction into assets ready for real production and marketing
-        use.&lt;/li&gt; &lt;li&gt;Develop and refine AI content creation
-        workflows, prompts, techniques, and reusable approaches using tools such
-        as Krea, Higgsfield, Claude, ComfyUI, and emerging platforms.&lt;/li&gt;
-        &lt;li&gt;Work closely with Art Directors, Photographers, Video, Design,
-        and Post-Production to translate creative concepts and established
-        visual approaches into scalable AI-powered production
-        workflows.&lt;/li&gt; &lt;li&gt;Use your creative judgment and
-        production experience to continuously improve visual quality, realism,
-        consistency, and efficiency across AI-generated content.&lt;/li&gt;
-        &lt;li&gt;Partner with Workflow Specialists to identify automation
-        opportunities and help turn successful creative processes into scalable
-        or automated content-generation workflows.&lt;/li&gt; &lt;li&gt;Evaluate
-        emerging AI models, tools, and techniques, testing their practical value
-        and introducing those that meaningfully improve creative output or
-        production.&lt;/li&gt; &lt;li&gt;Define and share best practices,
-        standards, and documentation for AI content creation, and support
-        colleagues in developing their AI capabilities.&lt;/li&gt;
-        &lt;li&gt;Stay closely connected to developments in generative AI,
-        actively experimenting with new approaches and identifying opportunities
-        to expand what the Studio can create.&lt;/li&gt; &lt;/ul&gt;
-        &lt;h2&gt;&lt;strong&gt;What you’ll bring&lt;/strong&gt;&lt;/h2&gt;
-        &lt;ul&gt; &lt;li&gt;&lt;strong&gt;5+ years of professional experience
-        in commercial photography, retouching, art direction, or a closely
-        related visual production discipline&lt;/strong&gt;, with a strong
-        understanding of professional photography and/or video
-        production.&lt;/li&gt; &lt;li&gt;Advanced hands-on experience creating
-        high-quality visual content with generative AI tools and integrating AI
-        into real creative or production workflows.&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;A refined visual eye and strong creative
-        judgment&lt;/strong&gt;, with an excellent understanding of photography,
-        composition, lighting, colour, visual storytelling, realism, and what
-        makes commercial imagery feel premium and intentional.&lt;/li&gt;
-        &lt;li&gt;Proven ability to interpret creative briefs and translate
-        creative direction into high-quality visual content and repeatable
-        production approaches.&lt;/li&gt; &lt;li&gt;Strong collaboration and
-        communication skills, with the ability to work effectively across
-        creative, production, and technical teams.&lt;/li&gt; &lt;li&gt;You are
-        proactive, curious, and solution-oriented, with a strong sense of
-        ownership, an experimental mindset, and genuine enthusiasm for emerging
-        AI technologies.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Please
-        include a portfolio of your recent and relevant
-        work.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;"
-      score: 94
-      skill_hits: 1
-      bucket_id: video_editing
-      fetched_at: 2026-10-26T21:45:35.255Z
-      pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 2
-      is_stale: false
-    - source: arbeitnow
-      source_note: ""
-      company: Fortisana
-      title: Content Creator, Personal Brand (50–100 %)
-      location: Berlin
-      url: https://www.arbeitnow.com/jobs/companies/fortisana/content-creator-personal-brand-50-100-berlin-34800
-      updated_at: 1793037651
-      description: "Gute Geschichten brauchen jemanden, der sie entdeckt. Und umsetzt.
-        ✨ Wir bauen die Marke, auf die unsere Eltern gewartet haben: Fortisana,
-        einen wissenschaftlich fundierten All-in-One-Drink rund um Muskelerhalt
-        und ein aktives Leben. Mit dir wollen wir die Menschen und Ideen
-        dahinter sichtbar machen. Hinter Fortisana stehen Piran, Leon und Max:
-        Piran hat KoRo mitgegründet und über neun Jahre zu einer der
-        erfolgreichsten Lebensmittelmarken Deutschlands aufgebaut. Leon ist
-        Ernährungsberater und in der Welt der Nahrungsergänzung aufgewachsen.
-        Seine Familie produziert seit über 25 Jahren Nahrungsergänzungsmittel in
-        Deutschland. Max hat bereits mehr als sechs Startups begleitet und
-        zuletzt bei 1KOMMA5° gelernt, wie aus einer Vision ein operativ
-        exzellentes Unternehmen wird. Du arbeitest direkt mit Leon daran, seine
-        persönliche Marke aufzubauen. Du machst aus seinem Wissen, seinen Ideen
-        und seinem Alltag als Gründer Inhalte, die Menschen wirklich sehen
-        wollen. Du findest die Geschichte, fragst nach und bringst sie vom
-        ersten Gedanken bis zum veröffentlichten Video. Lerne Leon kennen: Auf
-        Instagram @leonbader99 (https://www.instagram.com/leonbader99/) bekommst
-        du einen Eindruck von seinen Themen, seinem Stil und den Inhalten, die
-        du mit ihm weiterentwickelst. Was du bei uns machst Du entwickelst
-        eigene Formate. Gemeinsam mit Leon findest du Themen, starke Einstiege
-        und Geschichten rund um Ernährung, Unternehmertum und den Aufbau von
-        Fortisana. Du setzt selbst um. Du planst Drehs, filmst Interviews und
-        direkte Ansprachen an die Kamera und hältst spontane Momente hinter den
-        Kulissen fest. Du machst aus Material gute Videos. Du schneidest
-        Kurzvideos mit Rhythmus, sauberem Ton und Untertiteln, die das Anschauen
-        leicht machen. Du denkst bis zur Veröffentlichung. Du schreibst
-        Begleittexte, veröffentlichst Beiträge und gehst auf Fragen und
-        Reaktionen der Community ein. Du lernst aus den Ergebnissen. Du
-        erkennst, welche Themen, Einstiege und Formate funktionieren, und
-        entwickelst sie weiter. Was du mitbringst Du verstehst Social Media. Du
-        kannst Geschichten erzählen und bei Menschen eine Reaktion auslösen.
-        Dein Portfolio zeigt dein Können in Konzeption, Dreh und Schnitt. Eigene
-        Projekte zählen genauso. Du hast ein gutes Gespür. Für Ästhetik, Sprache
-        und Details – und dafür, wann eine Geschichte echt wirkt. Du bist
-        neugierig und fragst nach. Du kannst Menschen vor der Kamera begleiten,
-        gute Fragen stellen und aus einer ersten Idee mehr herausholen. Du
-        packst an. Du bringst eigene Ideen ein und übernimmst Verantwortung für
-        ihre Umsetzung. Du kommunizierst sicher. Ausgezeichnete Deutsch- und
-        Englischkenntnisse in Wort und Schrift sind Voraussetzung. Du
-        formulierst in beiden Sprachen sicher, präzise und zielgruppengerecht.
-        Du denkst mit. Ernährung, Sport oder Unternehmertum interessieren dich.
-        Du recherchierst sorgfältig und vermittelst Gesundheitsthemen
-        verständlich und ohne übertriebene Versprechen. Du bist beim Dreh dabei.
-        Für diese Stelle kannst du regelmäßig vor Ort in Berlin mit Leon drehen.
-        Drehs in Zürich oder Berlin stimmen wir gemeinsam ab. Du arbeitest
-        AI-native und mit Qualitätsanspruch. Du testest eigenständig neue
-        KI-Tools und kreative Ansätze und integrierst sie sinnvoll in deine
-        Workflows. Dabei prüfst du die Ergebnisse kritisch und hältst unseren
-        Qualitätsstandard bei Inhalt, Gestaltung und Genauigkeit hoch. Was wir
-        dir bieten Direkte Zusammenarbeit mit Leon. Kurze Wege, ehrliches
-        Feedback und die Chance, eine persönliche Marke von Anfang an
-        mitzugestalten. Kreativen Freiraum. Deine Ideen sind gefragt. Du kannst
-        Formate ausprobieren und einen Stil entwickeln, der wiedererkennbar ist.
-        Einblick in echten Markenaufbau. Du erlebst den Aufbau von Fortisana und
-        lernst von Pirans KoRo-Erfahrung und Leons Wissen aus der
-        Nahrungsergänzungsbranche. Arbeit, die deine Handschrift trägt. Du
-        entwickelst dich in Storytelling, Produktion und Schnitt weiter und
-        baust ein sichtbares Portfolio auf. Zwei Wege ins Team Du kannst mit
-        einem sechsmonatigen Vollzeitpraktikum einsteigen, mit der Möglichkeit
-        einer Festanstellung nach erfolgreichem Abschluss. Wenn du bereits mehr
-        Erfahrung mitbringst, ist auch eine Teilzeit- oder freiberufliche
-        Zusammenarbeit mit einem Umfang von mindestens 50 % möglich. Zeig uns
-        deine Arbeit 🤎 Ein perfektes Anschreiben brauchen wir nicht. Uns
-        interessiert, wie du denkst und was du selbst auf die Straße gebracht
-        hast. Schick uns drei Arbeiten, auf die du stolz bist. Sag bei jeder
-        Arbeit konkret, was von dir stammt: Idee, Skript, Dreh, Schnitt oder
-        Veröffentlichung – und ob sie im Job, für einen Kunden oder als eigenes
-        Projekt entstanden ist. Wenn vorhanden, ergänze Ergebnisse und was du
-        daraus gelernt hast. Dazu brauchen wir deinen Standort, deinen möglichen
-        Starttermin und ein kurzes Profil oder einen Lebenslauf. Find more
-        English Speaking Jobs in Germany on Arbeitnow"
-      job_types:
-        - Unbefristeter arbeitsvertrag
-        - berufserfahren
-      remote: false
-      score: 74
-      skill_hits: 1
-      bucket_id: video_editing
-      fetched_at: 2026-10-26T21:45:35.255Z
-      pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 2
-      is_stale: false
-    - source: greenhouse
-      source_note: ""
-      company: hellofresh
-      title: Senior AI Content Creator (x/f/m)
-      location: Berlin, Berlin, Germany
-      url: https://careers.hellofresh.com/global/en/job/8113656?gh_jid=8113656
-      updated_at: 2026-10-15T10:25:03-04:00
-      description: "&lt;p&gt;&lt;strong&gt;AI Content Creator - Content
-        Creation&lt;/strong&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;The
-        role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As a Senior AI Content Creator
-        in the HelloFresh Studio, you are part of the AI Content Creation team
-        and play a leading role in developing and scaling AI-powered content
-        creation across mainly photography, but also supporting video, design,
-        and emerging creative formats.&lt;/p&gt; &lt;p&gt;You combine a strong
-        background in commercial visual production with hands-on expertise in
-        generative AI. You have a refined visual eye and strong creative
-        judgment, allowing you to create high-quality content yourself and
-        recognize what makes an image or video successful. Beyond creating
-        individual assets, a key part of your role is translating creative
-        direction and successful approaches into reliable, production-ready
-        workflows that expand the Studio&#39;s AI capabilities. Working closely
-        with art directors, photographers, retouchers, video, design, and tech,
-        you identify where AI can improve creative possibilities, production
-        efficiency, and scale. You help define best practices, evaluate emerging
-        technologies, and continuously develop how AI is used in visual
-        production across the Studio.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What
-        you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Create
-        high-quality AI-powered content across commercial photography and video,
-        including lifestyle, food, product, and campaign content, translating
-        creative direction into assets ready for real production and marketing
-        use.&lt;/li&gt; &lt;li&gt;Develop and refine AI content creation
-        workflows, prompts, techniques, and reusable approaches using tools such
-        as Krea, Higgsfield, Claude, ComfyUI, and emerging platforms.&lt;/li&gt;
-        &lt;li&gt;Work closely with Art Directors, Photographers, Video, Design,
-        and Post-Production to translate creative concepts and established
-        visual approaches into scalable AI-powered production
-        workflows.&lt;/li&gt; &lt;li&gt;Use your creative judgment and
-        production experience to continuously improve visual quality, realism,
-        consistency, and efficiency across AI-generated content.&lt;/li&gt;
-        &lt;li&gt;Partner with Workflow Specialists to identify automation
-        opportunities and help turn successful creative processes into scalable
-        or automated content-generation workflows.&lt;/li&gt; &lt;li&gt;Evaluate
-        emerging AI models, tools, and techniques, testing their practical value
-        and introducing those that meaningfully improve creative output or
-        production.&lt;/li&gt; &lt;li&gt;Define and share best practices,
-        standards, and documentation for AI content creation, and support
-        colleagues in developing their AI capabilities.&lt;/li&gt;
-        &lt;li&gt;Stay closely connected to developments in generative AI,
-        actively experimenting with new approaches and identifying opportunities
-        to expand what the Studio can create.&lt;/li&gt; &lt;/ul&gt;
-        &lt;h2&gt;&lt;strong&gt;What you’ll bring&lt;/strong&gt;&lt;/h2&gt;
-        &lt;ul&gt; &lt;li&gt;&lt;strong&gt;5+ years of professional experience
-        in commercial photography, retouching, art direction, or a closely
-        related visual production discipline&lt;/strong&gt;, with a strong
-        understanding of professional photography and/or video
-        production.&lt;/li&gt; &lt;li&gt;Advanced hands-on experience creating
-        high-quality visual content with generative AI tools and integrating AI
-        into real creative or production workflows.&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;A refined visual eye and strong creative
-        judgment&lt;/strong&gt;, with an excellent understanding of photography,
-        composition, lighting, colour, visual storytelling, realism, and what
-        makes commercial imagery feel premium and intentional.&lt;/li&gt;
-        &lt;li&gt;Proven ability to interpret creative briefs and translate
-        creative direction into high-quality visual content and repeatable
-        production approaches.&lt;/li&gt; &lt;li&gt;Strong collaboration and
-        communication skills, with the ability to work effectively across
-        creative, production, and technical teams.&lt;/li&gt; &lt;li&gt;You are
-        proactive, curious, and solution-oriented, with a strong sense of
-        ownership, an experimental mindset, and genuine enthusiasm for emerging
-        AI technologies.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Please
-        include a portfolio of your recent and relevant
-        work.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;"
-      score: 94
-      skill_hits: 1
-      bucket_id: video_editing
-      fetched_at: 2026-10-25T19:50:56.807Z
-      pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 3
-      is_stale: false
-    - source: greenhouse
-      source_note: ""
-      company: hellofresh
-      title: Senior AI Content Creator (x/f/m)
-      location: Berlin, Berlin, Germany
-      url: https://careers.hellofresh.com/global/en/job/8113656?gh_jid=8113656
-      updated_at: 2026-10-15T10:25:03-04:00
-      description: "&lt;p&gt;&lt;strong&gt;AI Content Creator - Content
-        Creation&lt;/strong&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;The
-        role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As a Senior AI Content Creator
-        in the HelloFresh Studio, you are part of the AI Content Creation team
-        and play a leading role in developing and scaling AI-powered content
-        creation across mainly photography, but also supporting video, design,
-        and emerging creative formats.&lt;/p&gt; &lt;p&gt;You combine a strong
-        background in commercial visual production with hands-on expertise in
-        generative AI. You have a refined visual eye and strong creative
-        judgment, allowing you to create high-quality content yourself and
-        recognize what makes an image or video successful. Beyond creating
-        individual assets, a key part of your role is translating creative
-        direction and successful approaches into reliable, production-ready
-        workflows that expand the Studio&#39;s AI capabilities. Working closely
-        with art directors, photographers, retouchers, video, design, and tech,
-        you identify where AI can improve creative possibilities, production
-        efficiency, and scale. You help define best practices, evaluate emerging
-        technologies, and continuously develop how AI is used in visual
-        production across the Studio.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What
-        you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Create
-        high-quality AI-powered content across commercial photography and video,
-        including lifestyle, food, product, and campaign content, translating
-        creative direction into assets ready for real production and marketing
-        use.&lt;/li&gt; &lt;li&gt;Develop and refine AI content creation
-        workflows, prompts, techniques, and reusable approaches using tools such
-        as Krea, Higgsfield, Claude, ComfyUI, and emerging platforms.&lt;/li&gt;
-        &lt;li&gt;Work closely with Art Directors, Photographers, Video, Design,
-        and Post-Production to translate creative concepts and established
-        visual approaches into scalable AI-powered production
-        workflows.&lt;/li&gt; &lt;li&gt;Use your creative judgment and
-        production experience to continuously improve visual quality, realism,
-        consistency, and efficiency across AI-generated content.&lt;/li&gt;
-        &lt;li&gt;Partner with Workflow Specialists to identify automation
-        opportunities and help turn successful creative processes into scalable
-        or automated content-generation workflows.&lt;/li&gt; &lt;li&gt;Evaluate
-        emerging AI models, tools, and techniques, testing their practical value
-        and introducing those that meaningfully improve creative output or
-        production.&lt;/li&gt; &lt;li&gt;Define and share best practices,
-        standards, and documentation for AI content creation, and support
-        colleagues in developing their AI capabilities.&lt;/li&gt;
-        &lt;li&gt;Stay closely connected to developments in generative AI,
-        actively experimenting with new approaches and identifying opportunities
-        to expand what the Studio can create.&lt;/li&gt; &lt;/ul&gt;
-        &lt;h2&gt;&lt;strong&gt;What you’ll bring&lt;/strong&gt;&lt;/h2&gt;
-        &lt;ul&gt; &lt;li&gt;&lt;strong&gt;5+ years of professional experience
-        in commercial photography, retouching, art direction, or a closely
-        related visual production discipline&lt;/strong&gt;, with a strong
-        understanding of professional photography and/or video
-        production.&lt;/li&gt; &lt;li&gt;Advanced hands-on experience creating
-        high-quality visual content with generative AI tools and integrating AI
-        into real creative or production workflows.&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;A refined visual eye and strong creative
-        judgment&lt;/strong&gt;, with an excellent understanding of photography,
-        composition, lighting, colour, visual storytelling, realism, and what
-        makes commercial imagery feel premium and intentional.&lt;/li&gt;
-        &lt;li&gt;Proven ability to interpret creative briefs and translate
-        creative direction into high-quality visual content and repeatable
-        production approaches.&lt;/li&gt; &lt;li&gt;Strong collaboration and
-        communication skills, with the ability to work effectively across
-        creative, production, and technical teams.&lt;/li&gt; &lt;li&gt;You are
-        proactive, curious, and solution-oriented, with a strong sense of
-        ownership, an experimental mindset, and genuine enthusiasm for emerging
-        AI technologies.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Please
-        include a portfolio of your recent and relevant
-        work.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;"
-      score: 94
-      skill_hits: 1
-      bucket_id: video_editing
-      fetched_at: 2026-10-24T19:38:21.560Z
-      pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 4
-      is_stale: false
-    - source: greenhouse
-      source_note: ""
-      company: hellofresh
-      title: Senior AI Content Creator (x/f/m)
-      location: Berlin, Berlin, Germany
-      url: https://careers.hellofresh.com/global/en/job/8113656?gh_jid=8113656
-      updated_at: 2026-10-15T10:25:03-04:00
-      description: "&lt;p&gt;&lt;strong&gt;AI Content Creator - Content
-        Creation&lt;/strong&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;The
-        role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As a Senior AI Content Creator
-        in the HelloFresh Studio, you are part of the AI Content Creation team
-        and play a leading role in developing and scaling AI-powered content
-        creation across mainly photography, but also supporting video, design,
-        and emerging creative formats.&lt;/p&gt; &lt;p&gt;You combine a strong
-        background in commercial visual production with hands-on expertise in
-        generative AI. You have a refined visual eye and strong creative
-        judgment, allowing you to create high-quality content yourself and
-        recognize what makes an image or video successful. Beyond creating
-        individual assets, a key part of your role is translating creative
-        direction and successful approaches into reliable, production-ready
-        workflows that expand the Studio&#39;s AI capabilities. Working closely
-        with art directors, photographers, retouchers, video, design, and tech,
-        you identify where AI can improve creative possibilities, production
-        efficiency, and scale. You help define best practices, evaluate emerging
-        technologies, and continuously develop how AI is used in visual
-        production across the Studio.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What
-        you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Create
-        high-quality AI-powered content across commercial photography and video,
-        including lifestyle, food, product, and campaign content, translating
-        creative direction into assets ready for real production and marketing
-        use.&lt;/li&gt; &lt;li&gt;Develop and refine AI content creation
-        workflows, prompts, techniques, and reusable approaches using tools such
-        as Krea, Higgsfield, Claude, ComfyUI, and emerging platforms.&lt;/li&gt;
-        &lt;li&gt;Work closely with Art Directors, Photographers, Video, Design,
-        and Post-Production to translate creative concepts and established
-        visual approaches into scalable AI-powered production
-        workflows.&lt;/li&gt; &lt;li&gt;Use your creative judgment and
-        production experience to continuously improve visual quality, realism,
-        consistency, and efficiency across AI-generated content.&lt;/li&gt;
-        &lt;li&gt;Partner with Workflow Specialists to identify automation
-        opportunities and help turn successful creative processes into scalable
-        or automated content-generation workflows.&lt;/li&gt; &lt;li&gt;Evaluate
-        emerging AI models, tools, and techniques, testing their practical value
-        and introducing those that meaningfully improve creative output or
-        production.&lt;/li&gt; &lt;li&gt;Define and share best practices,
-        standards, and documentation for AI content creation, and support
-        colleagues in developing their AI capabilities.&lt;/li&gt;
-        &lt;li&gt;Stay closely connected to developments in generative AI,
-        actively experimenting with new approaches and identifying opportunities
-        to expand what the Studio can create.&lt;/li&gt; &lt;/ul&gt;
-        &lt;h2&gt;&lt;strong&gt;What you’ll bring&lt;/strong&gt;&lt;/h2&gt;
-        &lt;ul&gt; &lt;li&gt;&lt;strong&gt;5+ years of professional experience
-        in commercial photography, retouching, art direction, or a closely
-        related visual production discipline&lt;/strong&gt;, with a strong
-        understanding of professional photography and/or video
-        production.&lt;/li&gt; &lt;li&gt;Advanced hands-on experience creating
-        high-quality visual content with generative AI tools and integrating AI
-        into real creative or production workflows.&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;A refined visual eye and strong creative
-        judgment&lt;/strong&gt;, with an excellent understanding of photography,
-        composition, lighting, colour, visual storytelling, realism, and what
-        makes commercial imagery feel premium and intentional.&lt;/li&gt;
-        &lt;li&gt;Proven ability to interpret creative briefs and translate
-        creative direction into high-quality visual content and repeatable
-        production approaches.&lt;/li&gt; &lt;li&gt;Strong collaboration and
-        communication skills, with the ability to work effectively across
-        creative, production, and technical teams.&lt;/li&gt; &lt;li&gt;You are
-        proactive, curious, and solution-oriented, with a strong sense of
-        ownership, an experimental mindset, and genuine enthusiasm for emerging
-        AI technologies.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Please
-        include a portfolio of your recent and relevant
-        work.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;"
-      score: 94
-      skill_hits: 1
-      bucket_id: video_editing
-      fetched_at: 2026-10-23T20:34:40.811Z
-      pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 5
-      is_stale: false
-    - source: greenhouse
-      source_note: ""
-      company: hellofresh
-      title: Senior AI Content Creator (x/f/m)
-      location: Berlin, Berlin, Germany
-      url: https://careers.hellofresh.com/global/en/job/8113656?gh_jid=8113656
-      updated_at: 2026-09-15T05:55:16-04:00
-      description: "&lt;p&gt;&lt;strong&gt;AI Content Creator - Content
-        Creation&lt;/strong&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;The
-        role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As a Senior AI Content Creator
-        in the HelloFresh Studio, you are part of the AI Content Creation team
-        and play a leading role in developing and scaling AI-powered content
-        creation across mainly photography, but also supporting video, design,
-        and emerging creative formats.&lt;/p&gt; &lt;p&gt;You combine a strong
-        background in commercial visual production with hands-on expertise in
-        generative AI. You have a refined visual eye and strong creative
-        judgment, allowing you to create high-quality content yourself and
-        recognize what makes an image or video successful. Beyond creating
-        individual assets, a key part of your role is translating creative
-        direction and successful approaches into reliable, production-ready
-        workflows that expand the Studio&#39;s AI capabilities. Working closely
-        with art directors, photographers, retouchers, video, design, and tech,
-        you identify where AI can improve creative possibilities, production
-        efficiency, and scale. You help define best practices, evaluate emerging
-        technologies, and continuously develop how AI is used in visual
-        production across the Studio.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What
-        you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Create
-        high-quality AI-powered content across commercial photography and video,
-        including lifestyle, food, product, and campaign content, translating
-        creative direction into assets ready for real production and marketing
-        use.&lt;/li&gt; &lt;li&gt;Develop and refine AI content creation
-        workflows, prompts, techniques, and reusable approaches using tools such
-        as Krea, Higgsfield, Claude, ComfyUI, and emerging platforms.&lt;/li&gt;
-        &lt;li&gt;Work closely with Art Directors, Photographers, Video, Design,
-        and Post-Production to translate creative concepts and established
-        visual approaches into scalable AI-powered production
-        workflows.&lt;/li&gt; &lt;li&gt;Use your creative judgment and
-        production experience to continuously improve visual quality, realism,
-        consistency, and efficiency across AI-generated content.&lt;/li&gt;
-        &lt;li&gt;Partner with Workflow Specialists to identify automation
-        opportunities and help turn successful creative processes into scalable
-        or automated content-generation workflows.&lt;/li&gt; &lt;li&gt;Evaluate
-        emerging AI models, tools, and techniques, testing their practical value
-        and introducing those that meaningfully improve creative output or
-        production.&lt;/li&gt; &lt;li&gt;Define and share best practices,
-        standards, and documentation for AI content creation, and support
-        colleagues in developing their AI capabilities.&lt;/li&gt;
-        &lt;li&gt;Stay closely connected to developments in generative AI,
-        actively experimenting with new approaches and identifying opportunities
-        to expand what the Studio can create.&lt;/li&gt; &lt;/ul&gt;
-        &lt;h2&gt;&lt;strong&gt;What you’ll bring&lt;/strong&gt;&lt;/h2&gt;
-        &lt;ul&gt; &lt;li&gt;&lt;strong&gt;5+ years of professional experience
-        in commercial photography, retouching, art direction, or a closely
-        related visual production discipline&lt;/strong&gt;, with a strong
-        understanding of professional photography and/or video
-        production.&lt;/li&gt; &lt;li&gt;Advanced hands-on experience creating
-        high-quality visual content with generative AI tools and integrating AI
-        into real creative or production workflows.&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;A refined visual eye and strong creative
-        judgment&lt;/strong&gt;, with an excellent understanding of photography,
-        composition, lighting, colour, visual storytelling, realism, and what
-        makes commercial imagery feel premium and intentional.&lt;/li&gt;
-        &lt;li&gt;Proven ability to interpret creative briefs and translate
-        creative direction into high-quality visual content and repeatable
-        production approaches.&lt;/li&gt; &lt;li&gt;Strong collaboration and
-        communication skills, with the ability to work effectively across
-        creative, production, and technical teams.&lt;/li&gt; &lt;li&gt;You are
-        proactive, curious, and solution-oriented, with a strong sense of
-        ownership, an experimental mindset, and genuine enthusiasm for emerging
-        AI technologies.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Please
-        include a portfolio of your recent and relevant
-        work.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;"
-      score: 94
-      skill_hits: 1
-      bucket_id: video_editing
-      fetched_at: 2026-10-11T21:03:47.567Z
-      pulled_at: 2026-10-11T21:03:47.567Z
-      stale_days: 17
-      is_stale: false
-    - source: greenhouse
-      source_note: ""
-      company: hellofresh
-      title: Senior AI Content Creator (x/f/m)
-      location: Berlin, Berlin, Germany
-      url: https://careers.hellofresh.com/global/en/job/8113656?gh_jid=8113656
-      updated_at: 2026-09-15T05:55:16-04:00
-      description: "&lt;p&gt;&lt;strong&gt;AI Content Creator - Content
-        Creation&lt;/strong&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;The
-        role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As a Senior AI Content Creator
-        in the HelloFresh Studio, you are part of the AI Content Creation team
-        and play a leading role in developing and scaling AI-powered content
-        creation across mainly photography, but also supporting video, design,
-        and emerging creative formats.&lt;/p&gt; &lt;p&gt;You combine a strong
-        background in commercial visual production with hands-on expertise in
-        generative AI. You have a refined visual eye and strong creative
-        judgment, allowing you to create high-quality content yourself and
-        recognize what makes an image or video successful. Beyond creating
-        individual assets, a key part of your role is translating creative
-        direction and successful approaches into reliable, production-ready
-        workflows that expand the Studio&#39;s AI capabilities. Working closely
-        with art directors, photographers, retouchers, video, design, and tech,
-        you identify where AI can improve creative possibilities, production
-        efficiency, and scale. You help define best practices, evaluate emerging
-        technologies, and continuously develop how AI is used in visual
-        production across the Studio.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What
-        you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Create
-        high-quality AI-powered content across commercial photography and video,
-        including lifestyle, food, product, and campaign content, translating
-        creative direction into assets ready for real production and marketing
-        use.&lt;/li&gt; &lt;li&gt;Develop and refine AI content creation
-        workflows, prompts, techniques, and reusable approaches using tools such
-        as Krea, Higgsfield, Claude, ComfyUI, and emerging platforms.&lt;/li&gt;
-        &lt;li&gt;Work closely with Art Directors, Photographers, Video, Design,
-        and Post-Production to translate creative concepts and established
-        visual approaches into scalable AI-powered production
-        workflows.&lt;/li&gt; &lt;li&gt;Use your creative judgment and
-        production experience to continuously improve visual quality, realism,
-        consistency, and efficiency across AI-generated content.&lt;/li&gt;
-        &lt;li&gt;Partner with Workflow Specialists to identify automation
-        opportunities and help turn successful creative processes into scalable
-        or automated content-generation workflows.&lt;/li&gt; &lt;li&gt;Evaluate
-        emerging AI models, tools, and techniques, testing their practical value
-        and introducing those that meaningfully improve creative output or
-        production.&lt;/li&gt; &lt;li&gt;Define and share best practices,
-        standards, and documentation for AI content creation, and support
-        colleagues in developing their AI capabilities.&lt;/li&gt;
-        &lt;li&gt;Stay closely connected to developments in generative AI,
-        actively experimenting with new approaches and identifying opportunities
-        to expand what the Studio can create.&lt;/li&gt; &lt;/ul&gt;
-        &lt;h2&gt;&lt;strong&gt;What you’ll bring&lt;/strong&gt;&lt;/h2&gt;
-        &lt;ul&gt; &lt;li&gt;&lt;strong&gt;5+ years of professional experience
-        in commercial photography, retouching, art direction, or a closely
-        related visual production discipline&lt;/strong&gt;, with a strong
-        understanding of professional photography and/or video
-        production.&lt;/li&gt; &lt;li&gt;Advanced hands-on experience creating
-        high-quality visual content with generative AI tools and integrating AI
-        into real creative or production workflows.&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;A refined visual eye and strong creative
-        judgment&lt;/strong&gt;, with an excellent understanding of photography,
-        composition, lighting, colour, visual storytelling, realism, and what
-        makes commercial imagery feel premium and intentional.&lt;/li&gt;
-        &lt;li&gt;Proven ability to interpret creative briefs and translate
-        creative direction into high-quality visual content and repeatable
-        production approaches.&lt;/li&gt; &lt;li&gt;Strong collaboration and
-        communication skills, with the ability to work effectively across
-        creative, production, and technical teams.&lt;/li&gt; &lt;li&gt;You are
-        proactive, curious, and solution-oriented, with a strong sense of
-        ownership, an experimental mindset, and genuine enthusiasm for emerging
-        AI technologies.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Please
-        include a portfolio of your recent and relevant
-        work.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;"
-      score: 94
-      skill_hits: 1
-      bucket_id: video_editing
-      fetched_at: 2026-10-06T21:48:27.843Z
-      pulled_at: 2026-10-06T21:48:27.843Z
-      stale_days: 22
-      is_stale: true
-    - source: greenhouse
-      source_note: ""
-      company: hellofresh
-      title: Senior AI Content Creator (x/f/m)
-      location: Berlin, Berlin, Germany
-      url: https://careers.hellofresh.com/global/en/job/8113656?gh_jid=8113656
-      updated_at: 2026-09-15T05:55:16-04:00
-      description: "&lt;p&gt;&lt;strong&gt;AI Content Creator - Content
-        Creation&lt;/strong&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;The
-        role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As a Senior AI Content Creator
-        in the HelloFresh Studio, you are part of the AI Content Creation team
-        and play a leading role in developing and scaling AI-powered content
-        creation across mainly photography, but also supporting video, design,
-        and emerging creative formats.&lt;/p&gt; &lt;p&gt;You combine a strong
-        background in commercial visual production with hands-on expertise in
-        generative AI. You have a refined visual eye and strong creative
-        judgment, allowing you to create high-quality content yourself and
-        recognize what makes an image or video successful. Beyond creating
-        individual assets, a key part of your role is translating creative
-        direction and successful approaches into reliable, production-ready
-        workflows that expand the Studio&#39;s AI capabilities. Working closely
-        with art directors, photographers, retouchers, video, design, and tech,
-        you identify where AI can improve creative possibilities, production
-        efficiency, and scale. You help define best practices, evaluate emerging
-        technologies, and continuously develop how AI is used in visual
-        production across the Studio.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What
-        you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Create
-        high-quality AI-powered content across commercial photography and video,
-        including lifestyle, food, product, and campaign content, translating
-        creative direction into assets ready for real production and marketing
-        use.&lt;/li&gt; &lt;li&gt;Develop and refine AI content creation
-        workflows, prompts, techniques, and reusable approaches using tools such
-        as Krea, Higgsfield, Claude, ComfyUI, and emerging platforms.&lt;/li&gt;
-        &lt;li&gt;Work closely with Art Directors, Photographers, Video, Design,
-        and Post-Production to translate creative concepts and established
-        visual approaches into scalable AI-powered production
-        workflows.&lt;/li&gt; &lt;li&gt;Use your creative judgment and
-        production experience to continuously improve visual quality, realism,
-        consistency, and efficiency across AI-generated content.&lt;/li&gt;
-        &lt;li&gt;Partner with Workflow Specialists to identify automation
-        opportunities and help turn successful creative processes into scalable
-        or automated content-generation workflows.&lt;/li&gt; &lt;li&gt;Evaluate
-        emerging AI models, tools, and techniques, testing their practical value
-        and introducing those that meaningfully improve creative output or
-        production.&lt;/li&gt; &lt;li&gt;Define and share best practices,
-        standards, and documentation for AI content creation, and support
-        colleagues in developing their AI capabilities.&lt;/li&gt;
-        &lt;li&gt;Stay closely connected to developments in generative AI,
-        actively experimenting with new approaches and identifying opportunities
-        to expand what the Studio can create.&lt;/li&gt; &lt;/ul&gt;
-        &lt;h2&gt;&lt;strong&gt;What you’ll bring&lt;/strong&gt;&lt;/h2&gt;
-        &lt;ul&gt; &lt;li&gt;&lt;strong&gt;5+ years of professional experience
-        in commercial photography, retouching, art direction, or a closely
-        related visual production discipline&lt;/strong&gt;, with a strong
-        understanding of professional photography and/or video
-        production.&lt;/li&gt; &lt;li&gt;Advanced hands-on experience creating
-        high-quality visual content with generative AI tools and integrating AI
-        into real creative or production workflows.&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;A refined visual eye and strong creative
-        judgment&lt;/strong&gt;, with an excellent understanding of photography,
-        composition, lighting, colour, visual storytelling, realism, and what
-        makes commercial imagery feel premium and intentional.&lt;/li&gt;
-        &lt;li&gt;Proven ability to interpret creative briefs and translate
-        creative direction into high-quality visual content and repeatable
-        production approaches.&lt;/li&gt; &lt;li&gt;Strong collaboration and
-        communication skills, with the ability to work effectively across
-        creative, production, and technical teams.&lt;/li&gt; &lt;li&gt;You are
-        proactive, curious, and solution-oriented, with a strong sense of
-        ownership, an experimental mindset, and genuine enthusiasm for emerging
-        AI technologies.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Please
-        include a portfolio of your recent and relevant
-        work.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;"
-      score: 94
-      skill_hits: 1
-      bucket_id: video_editing
-      fetched_at: 2026-10-05T23:16:43.362Z
-      pulled_at: 2026-10-05T23:16:43.362Z
-      stale_days: 22
-      is_stale: true
-    - source: greenhouse
-      source_note: ""
-      company: hellofresh
-      title: Senior AI Content Creator (x/f/m)
-      location: Berlin, Berlin, Germany
-      url: https://careers.hellofresh.com/global/en/job/8113656?gh_jid=8113656
-      updated_at: 2026-09-15T05:55:16-04:00
-      description: "&lt;p&gt;&lt;strong&gt;AI Content Creator - Content
-        Creation&lt;/strong&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;The
-        role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As a Senior AI Content Creator
-        in the HelloFresh Studio, you are part of the AI Content Creation team
-        and play a leading role in developing and scaling AI-powered content
-        creation across mainly photography, but also supporting video, design,
-        and emerging creative formats.&lt;/p&gt; &lt;p&gt;You combine a strong
-        background in commercial visual production with hands-on expertise in
-        generative AI. You have a refined visual eye and strong creative
-        judgment, allowing you to create high-quality content yourself and
-        recognize what makes an image or video successful. Beyond creating
-        individual assets, a key part of your role is translating creative
-        direction and successful approaches into reliable, production-ready
-        workflows that expand the Studio&#39;s AI capabilities. Working closely
-        with art directors, photographers, retouchers, video, design, and tech,
-        you identify where AI can improve creative possibilities, production
-        efficiency, and scale. You help define best practices, evaluate emerging
-        technologies, and continuously develop how AI is used in visual
-        production across the Studio.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What
-        you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Create
-        high-quality AI-powered content across commercial photography and video,
-        including lifestyle, food, product, and campaign content, translating
-        creative direction into assets ready for real production and marketing
-        use.&lt;/li&gt; &lt;li&gt;Develop and refine AI content creation
-        workflows, prompts, techniques, and reusable approaches using tools such
-        as Krea, Higgsfield, Claude, ComfyUI, and emerging platforms.&lt;/li&gt;
-        &lt;li&gt;Work closely with Art Directors, Photographers, Video, Design,
-        and Post-Production to translate creative concepts and established
-        visual approaches into scalable AI-powered production
-        workflows.&lt;/li&gt; &lt;li&gt;Use your creative judgment and
-        production experience to continuously improve visual quality, realism,
-        consistency, and efficiency across AI-generated content.&lt;/li&gt;
-        &lt;li&gt;Partner with Workflow Specialists to identify automation
-        opportunities and help turn successful creative processes into scalable
-        or automated content-generation workflows.&lt;/li&gt; &lt;li&gt;Evaluate
-        emerging AI models, tools, and techniques, testing their practical value
-        and introducing those that meaningfully improve creative output or
-        production.&lt;/li&gt; &lt;li&gt;Define and share best practices,
-        standards, and documentation for AI content creation, and support
-        colleagues in developing their AI capabilities.&lt;/li&gt;
-        &lt;li&gt;Stay closely connected to developments in generative AI,
-        actively experimenting with new approaches and identifying opportunities
-        to expand what the Studio can create.&lt;/li&gt; &lt;/ul&gt;
-        &lt;h2&gt;&lt;strong&gt;What you’ll bring&lt;/strong&gt;&lt;/h2&gt;
-        &lt;ul&gt; &lt;li&gt;&lt;strong&gt;5+ years of professional experience
-        in commercial photography, retouching, art direction, or a closely
-        related visual production discipline&lt;/strong&gt;, with a strong
-        understanding of professional photography and/or video
-        production.&lt;/li&gt; &lt;li&gt;Advanced hands-on experience creating
-        high-quality visual content with generative AI tools and integrating AI
-        into real creative or production workflows.&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;A refined visual eye and strong creative
-        judgment&lt;/strong&gt;, with an excellent understanding of photography,
-        composition, lighting, colour, visual storytelling, realism, and what
-        makes commercial imagery feel premium and intentional.&lt;/li&gt;
-        &lt;li&gt;Proven ability to interpret creative briefs and translate
-        creative direction into high-quality visual content and repeatable
-        production approaches.&lt;/li&gt; &lt;li&gt;Strong collaboration and
-        communication skills, with the ability to work effectively across
-        creative, production, and technical teams.&lt;/li&gt; &lt;li&gt;You are
-        proactive, curious, and solution-oriented, with a strong sense of
-        ownership, an experimental mindset, and genuine enthusiasm for emerging
-        AI technologies.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Please
-        include a portfolio of your recent and relevant
-        work.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;"
-      score: 94
-      skill_hits: 1
-      bucket_id: video_editing
-      fetched_at: 2026-09-30T21:31:26.014Z
-      pulled_at: 2026-09-30T21:31:26.014Z
-      stale_days: 28
-      is_stale: true
     - source: greenhouse
       source_note: ""
       company: hellofresh
@@ -8960,7 +8964,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-09-29T21:30:40.201Z
       pulled_at: 2026-09-29T21:30:40.201Z
-      stale_days: 29
+      stale_days: 30
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -9047,12 +9051,8 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-09-29T21:30:40.201Z
       pulled_at: 2026-09-29T21:30:40.201Z
-      stale_days: 29
+      stale_days: 30
       is_stale: true
-archive:
-  marketing_general: []
-  digital_marketing: []
-  video_editing: []
 meta:
   stale_after_days: 21
   inactive_after_days: 30
@@ -9064,7 +9064,7 @@ meta:
     smartrecruiters_companies: 39
     teamtailor_companies: 0
     recruitee_companies: 82
-    ashby_organizations: 448
+    ashby_organizations: 449
     stepstone_feeds: 0
     arbeitnow: 1
     remotive: 1
@@ -9077,13 +9077,13 @@ meta:
     official_career_pages: 40
     search_queries: 24
   stale_counts:
-    marketing_general: 15
-    digital_marketing: 32
-    video_editing: 5
+    marketing_general: 11
+    digital_marketing: 23
+    video_editing: 3
   inactive_counts:
-    marketing_general: 0
-    digital_marketing: 0
-    video_editing: 0
+    marketing_general: 4
+    digital_marketing: 9
+    video_editing: 2
   timings_ms:
-    fetch: 204911
-    total: 230444
+    fetch: 240007
+    total: 240204

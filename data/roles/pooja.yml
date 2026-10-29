@@ -1,7 +1,7 @@
 schema_version: roles.v1
 profile_id: pooja
 profile_name: Pooja - product/scrum now, EM later
-generated_at: 2026-10-28T21:52:48.367Z
+generated_at: 2026-10-29T22:01:06.957Z
 buckets:
   pm_product:
     - source: recruitee
@@ -48,9 +48,563 @@ buckets:
       score: 92
       skill_hits: 5
       bucket_id: pm_product
+      fetched_at: 2026-10-29T22:01:06.957Z
+      pulled_at: 2026-10-29T22:01:06.957Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: TransPerfect
+      title: Associate Product Manager
+      location: Pune, Mahārāshtra, India, Pune, India
+      url: https://transperfect.com/o/associate-product-manager-1
+      updated_at: 2026-07-30 23:25:59 UTC
+      description: OVERVIEW
+        TransPerfect&nbsp;helps&nbsp;organizations&nbsp;navigate&nbsp;the&nbsp;global&nbsp;marketplace.&nbsp;It&nbsp;remains&nbsp;founder-led&nbsp;–&nbsp;and&nbsp;has&nbsp;striven&nbsp;to&nbsp;maintain&nbsp;the&nbsp;ethos&nbsp;and&nbsp;drive&nbsp;that&nbsp;led&nbsp;them&nbsp;to&nbsp;grow&nbsp;organically&nbsp;year-on-year&nbsp;for&nbsp;the&nbsp;past&nbsp;30&nbsp;years.&nbsp;Starting&nbsp;in&nbsp;an&nbsp;NYU&nbsp;dorm&nbsp;room&nbsp;in&nbsp;the&nbsp;early&nbsp;1990s,&nbsp;TransPerfect&nbsp;is&nbsp;today&nbsp;recognized&nbsp;as&nbsp;the&nbsp;largest&nbsp;translation&nbsp;and&nbsp;language&nbsp;services&nbsp;company&nbsp;in&nbsp;the&nbsp;world&nbsp;with&nbsp;thousands&nbsp;of&nbsp;employees&nbsp;located&nbsp;in&nbsp;100+&nbsp;offices&nbsp;around&nbsp;the&nbsp;world&nbsp;–&nbsp;and&nbsp;over&nbsp;$1&nbsp;billion&nbsp;in&nbsp;revenue&nbsp;in&nbsp;2023.
+        The&nbsp;TransPerfect&nbsp;TechOps&nbsp;team&nbsp;has&nbsp;been&nbsp;a&nbsp;vital&nbsp;part&nbsp;of&nbsp;the&nbsp;company’s&nbsp;success&nbsp;since&nbsp;its&nbsp;formation&nbsp;10&nbsp;years&nbsp;ago&nbsp;–&nbsp;delivering&nbsp;technology&nbsp;and&nbsp;services&nbsp;that&nbsp;have&nbsp;drastically&nbsp;simplified&nbsp;the&nbsp;lives&nbsp;of&nbsp;our&nbsp;clients&nbsp;and&nbsp;colleagues&nbsp;–&nbsp;from&nbsp;workflow&nbsp;improvements&nbsp;for&nbsp;colleagues,&nbsp;to&nbsp;core&nbsp;services&nbsp;that&nbsp;form&nbsp;the&nbsp;basis&nbsp;of&nbsp;the&nbsp;company’s&nbsp;GlobalLink&nbsp;platform,&nbsp;to&nbsp;creating&nbsp;scalable&nbsp;client&nbsp;interfaces&nbsp;that&nbsp;allow&nbsp;novice&nbsp;users&nbsp;to&nbsp;navigate&nbsp;complex&nbsp;ecosystems.
+        DESCRIPTION
+        Work&nbsp;closely&nbsp;with&nbsp;the&nbsp;Product&nbsp;Manager&nbsp;to&nbsp;align&nbsp;on&nbsp;product&nbsp;strategy&nbsp;and&nbsp;roadmap
+        Support&nbsp;the&nbsp;product&nbsp;roadmap&nbsp;that&nbsp;meets&nbsp;user&nbsp;needs&nbsp;and&nbsp;corporate&nbsp;goals
+        Write&nbsp;detailed&nbsp;user&nbsp;stories&nbsp;and&nbsp;acceptance&nbsp;criteria
+        Prioritize&nbsp;and&nbsp;groom&nbsp;the&nbsp;product&nbsp;backlog
+        Support&nbsp;the&nbsp;product&nbsp;lifecycle&nbsp;from&nbsp;planning&nbsp;to&nbsp;release
+        Participate&nbsp;in&nbsp;daily/weekly&nbsp;(agile/scrum)&nbsp;software&nbsp;development&nbsp;process&nbsp;meetings
+        Support&nbsp;delivery&nbsp;schedules&nbsp;and&nbsp;coordinate&nbsp;across&nbsp;cross-functional&nbsp;teams&nbsp;comprised&nbsp;of&nbsp;product,&nbsp;design,&nbsp;development&nbsp;and&nbsp;QA,&nbsp;to&nbsp;deliver&nbsp;functional&nbsp;solutions
+        Communicate&nbsp;daily&nbsp;with&nbsp;the&nbsp;cross-functional&nbsp;team&nbsp;to&nbsp;clarify&nbsp;any&nbsp;questions&nbsp;and&nbsp;remove&nbsp;roadblocks
+        Support&nbsp;and&nbsp;evaluate&nbsp;product&nbsp;progress&nbsp;at&nbsp;each&nbsp;stage&nbsp;of&nbsp;the&nbsp;software&nbsp;development&nbsp;process
+        Perform&nbsp;any&nbsp;other&nbsp;special&nbsp;tasks&nbsp;that&nbsp;are&nbsp;deemed&nbsp;appropriate&nbsp;for&nbsp;this&nbsp;role&nbsp;as&nbsp;assigned&nbsp;by&nbsp;the&nbsp;manager/supervisor
+        REQUIRED&nbsp;SKILLS
+        Minimum&nbsp;Bachelor’s&nbsp;degree&nbsp;or&nbsp;its&nbsp;equivalent
+        1-2&nbsp;years&nbsp;of&nbsp;related&nbsp;experience&nbsp;in&nbsp;working&nbsp;in&nbsp;an&nbsp;agile&nbsp;development&nbsp;environment
+        A&nbsp;solid&nbsp;working&nbsp;knowledge&nbsp;of&nbsp;the&nbsp;product&nbsp;management&nbsp;lifecycle&nbsp;and&nbsp;an&nbsp;understanding&nbsp;of&nbsp;the&nbsp;tenets&nbsp;of&nbsp;software&nbsp;development&nbsp;using&nbsp;Agile&nbsp;methodologies
+        Experience&nbsp;managing&nbsp;products&nbsp;or&nbsp;projects&nbsp;using&nbsp;project&nbsp;management&nbsp;tools&nbsp;such&nbsp;as&nbsp;Jira,&nbsp;Azure&nbsp;DevOps&nbsp;Server,&nbsp;Confluence,&nbsp;Trello,&nbsp;etc.&nbsp;
+        Expert&nbsp;communication&nbsp;skills:&nbsp;ability&nbsp;to&nbsp;manage&nbsp;stakeholders’&nbsp;expectations,&nbsp;be&nbsp;prepared&nbsp;to&nbsp;justify&nbsp;delays&nbsp;or&nbsp;scope&nbsp;changes,&nbsp;and&nbsp;communicate&nbsp;technical&nbsp;information&nbsp;to&nbsp;business&nbsp;stakeholders&nbsp;in&nbsp;an&nbsp;easy&nbsp;to&nbsp;understand&nbsp;way
+      score: 90
+      skill_hits: 5
+      bucket_id: pm_product
+      fetched_at: 2026-10-29T22:01:06.957Z
+      pulled_at: 2026-10-29T22:01:06.957Z
+      stale_days: 0
+      is_stale: false
+    - source: arbeitnow
+      source_note: ""
+      company: sumup
+      title: Senior Product Manager - SuperApp
+      location: Berlin
+      url: https://www.arbeitnow.com/jobs/companies/sumup/senior-product-manager-superapp-berlin-51564
+      updated_at: 1793300119
+      description: "&lt;p&gt;&lt;strong&gt;About the team:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p class=&quot;p1&quot;&gt;The Engagement tribe sits at the heart of
+        SumUp&#39;s merchant experience, responsible for the product surfaces
+        that 4.3 million business owners interact with every day, from the
+        information they see about their business to the actions they take to
+        grow it. As our Senior Product Manager, you&#39;ll own the merchant
+        facing SuperApp end to end, a rare individual contributor role spanning
+        product strategy, UX quality, and squad delivery, on the single surface
+        the wider product organisation depends on to build and ship effectively.
+        If you&#39;re looking for a role where your product decisions have a
+        direct impact on how millions of businesses run and scale every day,
+        this is it.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What you&#39;ll
+        do:&lt;/strong&gt;&lt;/p&gt; &lt;ul class=&quot;ul1&quot;&gt; &lt;li
+        class=&quot;li2&quot;&gt;Own the end to end product experience of our
+        SuperApp across iOS, Android and web dashboard, raising the bar on UX
+        quality, information architecture, and navigation for the surfaces
+        merchants rely on most&lt;/li&gt; &lt;li class=&quot;li2&quot;&gt;Spot
+        and execute activation, upsell, cross sell, and retention opportunities
+        that measurably grow engagement and long term value for
+        merchants&lt;/li&gt; &lt;li class=&quot;li2&quot;&gt;Shape the product
+        strategy that makes the SuperApp an essential, everyday tool for small
+        business owners running their business globally&lt;/li&gt; &lt;li
+        class=&quot;li2&quot;&gt;Act as the main point of contact for
+        stakeholders across the business who depend on the SuperApp to reach
+        merchants, partnering closely with design and data on
+        priorities&lt;/li&gt; &lt;li class=&quot;li2&quot;&gt;Build strong
+        working relationships across engineering, design, and commercial teams,
+        turning direct merchant insight into a clear, prioritised
+        roadmap&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;You&#39;ll be
+        great for this role if:&lt;/strong&gt;&lt;/p&gt; &lt;ul
+        class=&quot;ul1&quot;&gt; &lt;li class=&quot;li2&quot;&gt;Track record
+        leading a product squad end to end, from strategy through to shipped
+        outcomes in engagement, retention, or monetisation&lt;/li&gt; &lt;li
+        class=&quot;li2&quot;&gt;Strong technical or analytical foundation,
+        whether from an engineering background or hands on experience as a data
+        or business analyst, with the ability to think in systems and structure
+        ambiguous problems&lt;/li&gt; &lt;li class=&quot;li2&quot;&gt;Comfort
+        working fluently with both qualitative and quantitative data to inform
+        decisions, rather than relying on others to surface the
+        answer&lt;/li&gt; &lt;li class=&quot;li2&quot;&gt;Strong visual and UX
+        judgement, with experience partnering closely with design and giving
+        clear, constructive feedback&lt;/li&gt; &lt;li
+        class=&quot;li2&quot;&gt;Ability to build a well reasoned product
+        strategy independently, without needing a dedicated research or strategy
+        function to get there&lt;/li&gt; &lt;li
+        class=&quot;li2&quot;&gt;Experience advocating for merchants, with a
+        track record of translating their everyday problems into practical
+        product decisions&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Why you
+        should join SumUp:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;🌎 Opportunity to
+        work with SumUppers globally on large-scale fintech products used by
+        millions of businesses worldwide, from our Berlin office. This involves
+        an office-first setu&lt;/p&gt; &lt;p&gt;🌈 Commitment to Diversity and
+        Inclusion: be part of a workplace that values and promotes diversity,
+        fostering an inclusive environment where everyone&#39;s perspectives are
+        respected and embraced&amp;nbsp;&lt;/p&gt; &lt;p&gt;🚀 Enrolment onto
+        our Virtual Stock Option programme: you will own a stake in SumUp&#39;s
+        future success&lt;/p&gt; &lt;p&gt;📚 A dedicated annual L&amp;amp;D
+        budget of €2000 for your individual development, which can be used to
+        attend conferences and/or advance your career through further education
+        💶 A corporate pension scheme where we match up to 20% of your
+        contributions&lt;/p&gt; &lt;p&gt;🏖 Generous time off: enjoy 28 days of
+        paid leave plus public holidays and special leave days&lt;/p&gt;
+        &lt;p&gt;&amp;nbsp;🏙 Numerous other benefits such as Urban Sports Club
+        subsidy, Kita placement assistance, subsidised office lunches&lt;/p&gt;
+        &lt;p&gt;🌴 Break4me: 1-month sabbatical after 3 years of
+        service&lt;/p&gt; &lt;p&gt;🔗 Referral Bonus: earn additional rewards by
+        referring talented individuals to join the SumUp team&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;About SumUp:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Be
+        empowered to do more that matters.&lt;/p&gt; &lt;p&gt;At SumUp,
+        we&#39;re on a mission to empower small businesses across the globe by
+        providing simple and affordable tools that allow them to thrive. Today,
+        over 4 million businesses in 37 markets rely on SumUp as their financial
+        partner to manage payments, finance and customer
+        relationships.&lt;/p&gt; &lt;p&gt;Our commitment to small businesses is
+        reflected in &lt;a class=&quot;text-primary underline
+        cursor-pointer&quot;
+        href=&quot;https://youtu.be/9DG64C3moeQ?si=YpcWuBNBTOQPzeLI&quot;
+        target=&quot;_blank&quot;&gt;our diverse team&lt;/a&gt; of over 3,000
+        SumUppers from over 90 nationalities, united by global collaboration and
+        an innovative mindset. &lt;a class=&quot;text-primary underline
+        cursor-pointer&quot;
+        href=&quot;https://www.sumup.com/careers/culture/&quot;
+        target=&quot;_blank&quot;&gt;Our core values&lt;/a&gt; lay the
+        foundation for who we are and what we stand for, shaping our work
+        culture and driving our success. We foster inclusivity and a continuous
+        learning culture, providing a safe space for personal and professional
+        growth. Our differences make us unique and strong as we strive to create
+        an environment where everyone belongs and feels supported, no matter how
+        they identify.&lt;/p&gt; &lt;p&gt;SumUp is proud to be an Equal
+        Employment Opportunity employer, actively seeking and embracing
+        diversity in our workforce. We don&#39;t make hiring or employment
+        decisions based on race, colour, religion or religious belief, ethnic or
+        national origin, nationality, sex, gender, gender identity, sexual
+        orientation, disability, age or any other basis protected by applicable
+        laws or prohibited by company policy. Our commitment extends beyond
+        recruitment to creating a safe and respectful workplace where harassment
+        of any form is strictly prohibited. Discover more about our culture and
+        opportunities on our &lt;a class=&quot;text-primary underline
+        cursor-pointer&quot; href=&quot;https://www.sumup.com/careers/&quot;
+        target=&quot;_blank&quot;&gt;careers website&lt;/a&gt;, and follow our
+        journey on &lt;a class=&quot;text-primary underline cursor-pointer&quot;
+        href=&quot;https://www.linkedin.com/company/sumup/&quot;
+        target=&quot;_blank&quot;&gt;LinkedIn&lt;/a&gt;, &lt;a
+        class=&quot;text-primary underline cursor-pointer&quot;
+        href=&quot;https://www.instagram.com/insidesumup/&quot;
+        target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;, and &lt;a
+        class=&quot;text-primary underline cursor-pointer&quot;
+        href=&quot;https://www.tiktok.com/@insidesumup&quot;
+        target=&quot;_blank&quot;&gt;TikTok&lt;/a&gt;.&lt;/p&gt;&lt;div
+        class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;Job
+        Application Tip&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;span
+        style=&quot;font-weight: 400;&quot;&gt;We recognise that candidates feel
+        they need to meet 100% of the job criteria in order to apply for a job.
+        Please note that this is only a guide. If you don’t tick every box, it’s
+        ok too because it means you have room to learn and develop your career
+        at SumUp.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt; Find Jobs in Germany on
+        Arbeitnow"
+      job_types: []
+      remote: false
+      score: 84
+      skill_hits: 3
+      bucket_id: pm_product
+      fetched_at: 2026-10-29T22:01:06.957Z
+      pulled_at: 2026-10-29T22:01:06.957Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: TransPerfect
+      title: Technical Product Manager
+      location: Pune, Mahārāshtra, India, Pune, India
+      url: https://transperfect.com/o/technical-product-manager
+      updated_at: 2026-07-30 15:08:53 UTC
+      description: "OVERVIEW TransPerfect helps the world's leading brands thrive in
+        the global marketplace by offering a full range of solutions to ensure
+        the success of digital and mobile initiatives. Working in 170+
+        languages, our services include website and software localization, QA
+        and testing, international SEO/SEM, customer service and call center
+        solutions, multicultural marketing, multimedia services, and more.
+        RESPOSIBILITES: TransPerfect is seeking a Technical Product Manager to
+        manage and own the product lifecycle for integration frameworks for CMS
+        &amp; e-commerce systems. This position will work with internal
+        development and QA teams and vendor partners to build integrations into
+        GlobalLink - our flagship cloud-based translation management platform.
+        We are looking for forward-thinking professionals who are more
+        interested in how things could become and who can thrive in an evolving
+        and fast-paced environment. Manage the entire product life cycle which
+        includes: Manage professional services engagements and prepare SOWs for
+        all existing customers Explore product functionality and recommend best
+        strategy to integrate Evaluate APIs and GraphQL endpoints and devise an
+        integration approach Individually carry out product deliveries from
+        inception to product roll out Design/create detailed technical
+        specifications for functional requirements Closely monitor development
+        and QA progress for ontime deliverables Do active review of test
+        strategy Planning continuous upgrades for new features Collaborate with
+        multiple teams in multiple time zones including product managers,
+        engineers, solutions engineers, QA and customers for product strategy
+        &amp; roadmap. Participate in UI/UX design. Review Documentation updates
+        Analyze application logs and debug technical issues to identify root
+        causes in collaboration with engineering teams Perform competitor
+        analysis and benchmarks and ensure that your product is always ahead of
+        the curve"
+      score: 80
+      skill_hits: 2
+      bucket_id: pm_product
+      fetched_at: 2026-10-29T22:01:06.957Z
+      pulled_at: 2026-10-29T22:01:06.957Z
+      stale_days: 0
+      is_stale: false
+    - source: arbeitnow
+      source_note: ""
+      company: leasingmarkt
+      title: Senior Product Manager - Consumer Experience (m/f/d)
+      location: ""
+      url: https://www.arbeitnow.com/jobs/companies/leasingmarkt/senior-product-manager-consumer-experience-220001
+      updated_at: 1793300117
+      description: "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;img
+        style=&quot;max-width: 100%;&quot;&gt;&lt;img style=&quot;max-width:
+        100%;&quot;&gt;&lt;img style=&quot;max-width:
+        100%;&quot;&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;&lt;span
+        data-contrast=&quot;none&quot;&gt;A career driven by you.
+        &lt;/span&gt;&lt;/strong&gt;&lt;span
+        data-contrast=&quot;none&quot;&gt;At LeasingMarkt.de, we bring customers
+        and dealers together to make car leasing more accessible, transparent,
+        and efficient. &lt;/span&gt;&lt;span
+        data-ccp-props=&quot;{&amp;quot;335551550&amp;quot;:1,&amp;quot;3355516\
+        20&amp;quot;:1}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;We’re looking for a
+        &lt;/span&gt;&lt;strong&gt;&lt;span
+        data-contrast=&quot;auto&quot;&gt;Senior Product
+        Manager&lt;/span&gt;&lt;/strong&gt;&lt;span
+        data-contrast=&quot;auto&quot;&gt; to lead product direction for
+        LeasingMarkt’s Attraction &amp;amp; Loyalty team. You’ll help us build
+        stronger relationships with consumers, from their first interaction
+        through returning visits and qualified enquiries.&lt;/span&gt;&lt;span
+        data-contrast=&quot;auto&quot;&gt;This is a hands-on senior individual
+        contributor role. You’ll identify the right problems, set clear
+        priorities and work with your team to deliver measurable
+        improvements.&lt;/span&gt; &lt;span
+        data-contrast=&quot;auto&quot;&gt;Your focus will be on making
+        LeasingMarkt a more useful part of people’s car-shopping journey:
+        helping them discover relevant offers, giving them reasons to return and
+        creating better-qualified demand for our dealer
+        partners.&lt;/span&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;stron\
+        g&gt;&lt;span data-contrast=&quot;auto&quot;&gt;What you’ll
+        do&lt;/span&gt;&lt;/strong&gt;&lt;span
+        data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134\
+        233118&amp;quot;:false,&amp;quot;335559738&amp;quot;:240,&amp;quot;3355\
+        59739&amp;quot;:240}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+        &lt;ul&gt; &lt;li data-leveltext=&quot;&quot;
+        data-font=&quot;Symbol&quot; data-listid=&quot;3&quot;
+        data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;3\
+        35559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;4697\
+        69226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot\
+        ;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;qu\
+        ot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;qu\
+        ot;:&amp;quot;multilevel&amp;quot;}&quot;
+        data-aria-posinset=&quot;1&quot;
+        data-aria-level=&quot;1&quot;&gt;&lt;span
+        data-contrast=&quot;auto&quot;&gt;Own the product direction and roadmap
+        for Attraction &amp;amp; Loyalty, translating customer needs and
+        business priorities into a focused set of
+        opportunities.&lt;/span&gt;&lt;/li&gt; &lt;li
+        data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot;
+        data-listid=&quot;3&quot;
+        data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;3\
+        35559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;4697\
+        69226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot\
+        ;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;qu\
+        ot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;qu\
+        ot;:&amp;quot;multilevel&amp;quot;}&quot;
+        data-aria-posinset=&quot;1&quot;
+        data-aria-level=&quot;1&quot;&gt;Improve activation and ongoing
+        engagement through experiences such as onboarding, accounts, saved
+        offers, personalised recommendations and useful reasons to
+        return.&lt;/li&gt; &lt;li data-leveltext=&quot;&quot;
+        data-font=&quot;Symbol&quot; data-listid=&quot;3&quot;
+        data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;3\
+        35559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;4697\
+        69226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot\
+        ;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;qu\
+        ot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;qu\
+        ot;:&amp;quot;multilevel&amp;quot;}&quot;
+        data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;Build
+        connected journeys across web, app and lifecycle touchpoints, working
+        closely with CRM, Marketing and the app team. Make communication and
+        product experiences reinforce each other.&lt;/li&gt; &lt;li
+        data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot;
+        data-listid=&quot;3&quot;
+        data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;3\
+        35559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;4697\
+        69226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot\
+        ;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;qu\
+        ot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;qu\
+        ot;:&amp;quot;multilevel&amp;quot;}&quot;
+        data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;Use
+        customer research, behavioural data and commercial context to understand
+        what prevents people from taking the next meaningful step.&lt;/li&gt;
+        &lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot;
+        data-listid=&quot;3&quot;
+        data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;3\
+        35559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;4697\
+        69226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot\
+        ;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;qu\
+        ot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;qu\
+        ot;:&amp;quot;multilevel&amp;quot;}&quot;
+        data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;Size
+        opportunities and make explicit trade-offs. Explain why a problem
+        deserves investment, what success looks like and what you would
+        deprioritise to make room for it.&lt;/li&gt; &lt;li
+        data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot;
+        data-listid=&quot;3&quot;
+        data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;3\
+        35559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;4697\
+        69226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot\
+        ;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;qu\
+        ot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;qu\
+        ot;:&amp;quot;multilevel&amp;quot;}&quot;
+        data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;Lead
+        discovery and experimentation with Engineering, Design and Analytics.
+        Define hypotheses, measurement and guardrails before launch, then use
+        the results to improve, scale or stop an initiative.&lt;/li&gt; &lt;li
+        data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot;
+        data-listid=&quot;3&quot;
+        data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;3\
+        35559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;4697\
+        69226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot\
+        ;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;qu\
+        ot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;qu\
+        ot;:&amp;quot;multilevel&amp;quot;}&quot;
+        data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;Stay
+        accountable after delivery. Understand whether changes create
+        incremental engagement and qualified demand, rather than simply shifting
+        activity between channels or increasing notification volume.&lt;/li&gt;
+        &lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot;
+        data-listid=&quot;3&quot;
+        data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;3\
+        35559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;4697\
+        69226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot\
+        ;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;qu\
+        ot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;qu\
+        ot;:&amp;quot;multilevel&amp;quot;}&quot;
+        data-aria-posinset=&quot;1&quot;
+        data-aria-level=&quot;1&quot;&gt;Communicate direction, decisions and
+        risks clearly, bringing recommendations and resolving dependencies with
+        the people needed to move the work forward.&lt;span
+        data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+        &lt;/ul&gt; &lt;p&gt;&amp;nbsp;&lt;br&gt;&lt;strong&gt;&lt;span
+        data-contrast=&quot;auto&quot;&gt;What you’ll
+        bring&lt;/span&gt;&lt;/strong&gt;&lt;span
+        data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+        &lt;ul&gt; &lt;li data-leveltext=&quot;&quot;
+        data-font=&quot;Symbol&quot; data-listid=&quot;4&quot;
+        data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;3\
+        35559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;4697\
+        69226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot\
+        ;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;qu\
+        ot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;qu\
+        ot;:&amp;quot;multilevel&amp;quot;}&quot;
+        data-aria-posinset=&quot;1&quot;
+        data-aria-level=&quot;1&quot;&gt;&lt;span
+        data-contrast=&quot;auto&quot;&gt;Experience independently owning a
+        consumer digital product area and delivering measurable improvements for
+        both customers and the business.&lt;/span&gt;&lt;/li&gt; &lt;li
+        data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot;
+        data-listid=&quot;4&quot;
+        data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;3\
+        35559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;4697\
+        69226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot\
+        ;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;qu\
+        ot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;qu\
+        ot;:&amp;quot;multilevel&amp;quot;}&quot;
+        data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;Strong
+        product judgment: you can shape a strategy and roadmap, not just execute
+        a list of requested features.&lt;/li&gt; &lt;li
+        data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot;
+        data-listid=&quot;4&quot;
+        data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;3\
+        35559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;4697\
+        69226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot\
+        ;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;qu\
+        ot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;qu\
+        ot;:&amp;quot;multilevel&amp;quot;}&quot;
+        data-aria-posinset=&quot;1&quot;
+        data-aria-level=&quot;1&quot;&gt;Analytical depth and curiosity. You can
+        investigate performance, challenge assumptions, interpret experiments
+        and recognise when the evidence is incomplete.&lt;/li&gt; &lt;li
+        data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot;
+        data-listid=&quot;4&quot;
+        data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;3\
+        35559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;4697\
+        69226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot\
+        ;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;qu\
+        ot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;qu\
+        ot;:&amp;quot;multilevel&amp;quot;}&quot;
+        data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;A
+        practical understanding of activation, engagement or retention, and how
+        relevant experiences can build a lasting customer
+        relationship.&lt;/li&gt; &lt;li data-leveltext=&quot;&quot;
+        data-font=&quot;Symbol&quot; data-listid=&quot;4&quot;
+        data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;3\
+        35559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;4697\
+        69226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot\
+        ;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;qu\
+        ot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;qu\
+        ot;:&amp;quot;multilevel&amp;quot;}&quot;
+        data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;Strong
+        discovery skills and the ability to combine customer insight with
+        quantitative evidence when deciding what to build.&lt;/li&gt; &lt;li
+        data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot;
+        data-listid=&quot;4&quot;
+        data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;3\
+        35559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;4697\
+        69226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot\
+        ;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;qu\
+        ot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;qu\
+        ot;:&amp;quot;multilevel&amp;quot;}&quot;
+        data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;A
+        hands-on approach to execution, including attention to experience
+        quality, technical dependencies and reliable measurement.&lt;/li&gt;
+        &lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot;
+        data-listid=&quot;4&quot;
+        data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;3\
+        35559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;4697\
+        69226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot\
+        ;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;qu\
+        ot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;qu\
+        ot;:&amp;quot;multilevel&amp;quot;}&quot;
+        data-aria-posinset=&quot;1&quot; data-aria-level=&quot;1&quot;&gt;Clear
+        communication and collaborative leadership. You can work through
+        competing priorities with engineers, designers, analysts and commercial
+        stakeholders, and explain your decisions to senior leaders.&lt;/li&gt;
+        &lt;li data-leveltext=&quot;&quot; data-font=&quot;Symbol&quot;
+        data-listid=&quot;4&quot;
+        data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;3\
+        35559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;4697\
+        69226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot\
+        ;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;qu\
+        ot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;qu\
+        ot;:&amp;quot;multilevel&amp;quot;}&quot;
+        data-aria-posinset=&quot;1&quot;
+        data-aria-level=&quot;1&quot;&gt;Experience with marketplaces,
+        personalisation, recommendation systems or lifecycle products would be
+        valuable. Automotive or leasing experience is a plus, not a
+        prerequisite.&lt;span
+        data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+        &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;&lt;span
+        data-contrast=&quot;none&quot;&gt;A culture of
+        growth&amp;nbsp;&lt;/span&gt;&lt;/strong&gt;&lt;span
+        data-contrast=&quot;none&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span
+        data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134\
+        233118&amp;quot;:false,&amp;quot;335557856&amp;quot;:16777215,&amp;quot\
+        ;335559738&amp;quot;:240,&amp;quot;335559739&amp;quot;:240}&quot;&gt;&a\
+        mp;nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span
+        data-contrast=&quot;none&quot;&gt;With over 50 nationalities
+        represented, we’re proud to welcome people of all backgrounds to our
+        growing community, and we’re always finding new ways to help people feel
+        welcomed and included. Here, you’ll have the tools, training and support
+        you need to work in a way that suits you, learn new skills and reach
+        your potential.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span
+        data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134\
+        233118&amp;quot;:false,&amp;quot;335557856&amp;quot;:16777215,&amp;quot\
+        ;335559738&amp;quot;:240,&amp;quot;335559739&amp;quot;:240}&quot;&gt;&a\
+        mp;nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;span
+        data-contrast=&quot;none&quot;&gt;For a career where you can drive our
+        business and shape your future, apply
+        now.&lt;/span&gt;&lt;/strong&gt;&lt;span
+        data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134\
+        233118&amp;quot;:false,&amp;quot;335557856&amp;quot;:16777215,&amp;quot\
+        ;335559738&amp;quot;:240,&amp;quot;335559739&amp;quot;:240}&quot;&gt;&a\
+        mp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;div
+        class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;a
+        href=&quot;https://www.leasingmarkt.de/karriere&quot;
+        target=&quot;_blank&quot;&gt;https://www.leasingmarkt.de/karriere&lt;/a\
+        &gt;&lt;/p&gt;&lt;/div&gt; Find Jobs in Germany on Arbeitnow"
+      job_types: []
+      remote: false
+      score: 78
+      skill_hits: 2
+      bucket_id: pm_product
+      fetched_at: 2026-10-29T22:01:06.957Z
+      pulled_at: 2026-10-29T22:01:06.957Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: Consultport
+      title: Product Manager (m/f/d)
+      location: Berlin, Berlin, Germany, Berlin, Germany
+      url: https://consultport.recruitee.com/o/product-manager-mfd
+      updated_at: 2026-09-15 08:12:42 UTC
+      description: Consultport is the leading digital platform that connects some of
+        the world's most iconic brands with world-class consultants. We're
+        scaling hard, and we need a PM obsessed with product-led growth (PLG).
+        This role is not about babysitting a roadmap but turning the product
+        itself into our best sales channel — removing friction, driving
+        activation, and making users fall in love before they ever talk to
+        sales.
+      score: 74
+      skill_hits: 1
+      bucket_id: pm_product
+      fetched_at: 2026-10-29T22:01:06.957Z
+      pulled_at: 2026-10-29T22:01:06.957Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: TransPerfect
+      title: Associate Product Manager
+      location: Pune, Mahārāshtra, India, Pune, India
+      url: https://transperfect.com/o/associate-product-manager
+      updated_at: 2026-08-05 06:02:31 UTC
+      description: OVERVIEW TransPerfect helps organizations navigate the global
+        marketplace. It remains founder-led – and has striven to maintain the
+        ethos and drive that led them to grow organically year-on-year for the
+        past 30 years. Starting in an NYU dorm room in the early 1990s,
+        TransPerfect is today recognized as the largest translation and language
+        services company in the world with thousands of employees located in
+        100+ offices around the world – and over $1 billion in revenue in 2023.
+        &nbsp; The TransPerfect TechOps team has been a vital part of the
+        company’s success since its formation 10 years ago – delivering
+        technology and services that have drastically simplified the lives of
+        our clients and colleagues – from workflow improvements for colleagues,
+        to core services that form the basis of the company’s GlobalLink
+        platform, to creating scalable client interfaces that allow novice users
+        to navigate complex ecosystems. DESCRIPTION
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Work closely with the Product
+        Manager to align on product strategy and roadmap
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support the product roadmap that
+        meets user needs and corporate goals
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Write detailed user stories and
+        acceptance criteria ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prioritize and
+        groom the product backlog ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support
+        the product lifecycle from planning to release
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Participate in daily/weekly
+        (agile/scrum) software development process meetings
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support delivery schedules and
+        coordinate across cross-functional teams comprised of product, design,
+        development and QA, to deliver functional solutions
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Communicate daily with the
+        cross-functional team to clarify any questions and remove roadblocks
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support and evaluate product
+        progress at each stage of the software development process
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Perform any other special tasks
+        that are deemed appropriate for this role as assigned by the
+        manager/supervisor
+      score: 92
+      skill_hits: 5
+      bucket_id: pm_product
       fetched_at: 2026-10-28T21:52:48.367Z
       pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -84,7 +638,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-28T21:52:48.367Z
       pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -127,7 +681,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-28T21:52:48.367Z
       pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -186,7 +740,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-28T21:52:48.367Z
       pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -207,7 +761,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-28T21:52:48.367Z
       pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -255,7 +809,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -289,7 +843,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -332,7 +886,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -422,7 +976,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -512,7 +1066,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -533,7 +1087,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -620,7 +1174,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -668,7 +1222,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-23T20:37:43.569Z
       pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -702,7 +1256,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-23T20:37:43.569Z
       pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -745,7 +1299,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-23T20:37:43.569Z
       pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -766,7 +1320,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-23T20:37:43.569Z
       pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -879,7 +1433,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-23T20:37:43.569Z
       pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -927,7 +1481,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-21T20:51:32.768Z
       pulled_at: 2026-10-21T20:51:32.768Z
-      stale_days: 7
+      stale_days: 8
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -961,7 +1515,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-21T20:51:32.768Z
       pulled_at: 2026-10-21T20:51:32.768Z
-      stale_days: 7
+      stale_days: 8
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1123,7 +1677,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-21T20:51:32.768Z
       pulled_at: 2026-10-21T20:51:32.768Z
-      stale_days: 7
+      stale_days: 8
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1166,7 +1720,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-21T20:51:32.768Z
       pulled_at: 2026-10-21T20:51:32.768Z
-      stale_days: 7
+      stale_days: 8
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1187,7 +1741,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-21T20:51:32.768Z
       pulled_at: 2026-10-21T20:51:32.768Z
-      stale_days: 7
+      stale_days: 8
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1235,7 +1789,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1269,7 +1823,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1312,7 +1866,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1381,7 +1935,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1452,7 +2006,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1523,7 +2077,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1594,7 +2148,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1663,7 +2217,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1734,7 +2288,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1803,7 +2357,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1872,7 +2426,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: jobicy
       source_note: ""
@@ -1954,7 +2508,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1975,7 +2529,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2023,7 +2577,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2057,7 +2611,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2100,7 +2654,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: jobicy
       source_note: ""
@@ -2271,7 +2825,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2292,7 +2846,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2400,7 +2954,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2507,7 +3061,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-11T21:07:22.664Z
       pulled_at: 2026-10-11T21:07:22.664Z
-      stale_days: 17
+      stale_days: 18
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2595,7 +3149,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-11T21:07:22.664Z
       pulled_at: 2026-10-11T21:07:22.664Z
-      stale_days: 17
+      stale_days: 18
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2643,7 +3197,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 21
+      stale_days: 23
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -2677,7 +3231,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 21
+      stale_days: 23
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -2898,7 +3452,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 21
+      stale_days: 23
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -2941,7 +3495,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 21
+      stale_days: 23
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -2962,7 +3516,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 21
+      stale_days: 23
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -3026,7 +3580,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 21
+      stale_days: 23
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -3138,7 +3692,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-05T23:20:51.019Z
       pulled_at: 2026-10-05T23:20:51.019Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3186,7 +3740,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-30T21:35:30.734Z
       pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3220,7 +3774,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-30T21:35:30.734Z
       pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -3313,7 +3867,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-30T21:35:30.734Z
       pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -3438,7 +3992,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-30T21:35:30.734Z
       pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3481,7 +4035,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-30T21:35:30.734Z
       pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -3630,7 +4184,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-30T21:35:30.734Z
       pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -3747,7 +4301,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-30T21:35:30.734Z
       pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3768,152 +4322,6 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-09-30T21:35:30.734Z
       pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 28
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: TransPerfect
-      title: Associate Product Manager
-      location: Pune, Mahārāshtra, India, Pune, India
-      url: https://transperfect.com/o/associate-product-manager
-      updated_at: 2026-08-05 06:02:31 UTC
-      description: OVERVIEW TransPerfect helps organizations navigate the global
-        marketplace. It remains founder-led – and has striven to maintain the
-        ethos and drive that led them to grow organically year-on-year for the
-        past 30 years. Starting in an NYU dorm room in the early 1990s,
-        TransPerfect is today recognized as the largest translation and language
-        services company in the world with thousands of employees located in
-        100+ offices around the world – and over $1 billion in revenue in 2023.
-        &nbsp; The TransPerfect TechOps team has been a vital part of the
-        company’s success since its formation 10 years ago – delivering
-        technology and services that have drastically simplified the lives of
-        our clients and colleagues – from workflow improvements for colleagues,
-        to core services that form the basis of the company’s GlobalLink
-        platform, to creating scalable client interfaces that allow novice users
-        to navigate complex ecosystems. DESCRIPTION
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Work closely with the Product
-        Manager to align on product strategy and roadmap
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support the product roadmap that
-        meets user needs and corporate goals
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Write detailed user stories and
-        acceptance criteria ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prioritize and
-        groom the product backlog ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support
-        the product lifecycle from planning to release
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Participate in daily/weekly
-        (agile/scrum) software development process meetings
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support delivery schedules and
-        coordinate across cross-functional teams comprised of product, design,
-        development and QA, to deliver functional solutions
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Communicate daily with the
-        cross-functional team to clarify any questions and remove roadblocks
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support and evaluate product
-        progress at each stage of the software development process
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Perform any other special tasks
-        that are deemed appropriate for this role as assigned by the
-        manager/supervisor
-      score: 92
-      skill_hits: 5
-      bucket_id: pm_product
-      fetched_at: 2026-09-29T21:34:20.102Z
-      pulled_at: 2026-09-29T21:34:20.102Z
-      stale_days: 29
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: TransPerfect
-      title: Associate Product Manager
-      location: Pune, Mahārāshtra, India, Pune, India
-      url: https://transperfect.com/o/associate-product-manager-1
-      updated_at: 2026-07-30 23:25:59 UTC
-      description: OVERVIEW
-        TransPerfect&nbsp;helps&nbsp;organizations&nbsp;navigate&nbsp;the&nbsp;global&nbsp;marketplace.&nbsp;It&nbsp;remains&nbsp;founder-led&nbsp;–&nbsp;and&nbsp;has&nbsp;striven&nbsp;to&nbsp;maintain&nbsp;the&nbsp;ethos&nbsp;and&nbsp;drive&nbsp;that&nbsp;led&nbsp;them&nbsp;to&nbsp;grow&nbsp;organically&nbsp;year-on-year&nbsp;for&nbsp;the&nbsp;past&nbsp;30&nbsp;years.&nbsp;Starting&nbsp;in&nbsp;an&nbsp;NYU&nbsp;dorm&nbsp;room&nbsp;in&nbsp;the&nbsp;early&nbsp;1990s,&nbsp;TransPerfect&nbsp;is&nbsp;today&nbsp;recognized&nbsp;as&nbsp;the&nbsp;largest&nbsp;translation&nbsp;and&nbsp;language&nbsp;services&nbsp;company&nbsp;in&nbsp;the&nbsp;world&nbsp;with&nbsp;thousands&nbsp;of&nbsp;employees&nbsp;located&nbsp;in&nbsp;100+&nbsp;offices&nbsp;around&nbsp;the&nbsp;world&nbsp;–&nbsp;and&nbsp;over&nbsp;$1&nbsp;billion&nbsp;in&nbsp;revenue&nbsp;in&nbsp;2023.
-        The&nbsp;TransPerfect&nbsp;TechOps&nbsp;team&nbsp;has&nbsp;been&nbsp;a&nbsp;vital&nbsp;part&nbsp;of&nbsp;the&nbsp;company’s&nbsp;success&nbsp;since&nbsp;its&nbsp;formation&nbsp;10&nbsp;years&nbsp;ago&nbsp;–&nbsp;delivering&nbsp;technology&nbsp;and&nbsp;services&nbsp;that&nbsp;have&nbsp;drastically&nbsp;simplified&nbsp;the&nbsp;lives&nbsp;of&nbsp;our&nbsp;clients&nbsp;and&nbsp;colleagues&nbsp;–&nbsp;from&nbsp;workflow&nbsp;improvements&nbsp;for&nbsp;colleagues,&nbsp;to&nbsp;core&nbsp;services&nbsp;that&nbsp;form&nbsp;the&nbsp;basis&nbsp;of&nbsp;the&nbsp;company’s&nbsp;GlobalLink&nbsp;platform,&nbsp;to&nbsp;creating&nbsp;scalable&nbsp;client&nbsp;interfaces&nbsp;that&nbsp;allow&nbsp;novice&nbsp;users&nbsp;to&nbsp;navigate&nbsp;complex&nbsp;ecosystems.
-        DESCRIPTION
-        Work&nbsp;closely&nbsp;with&nbsp;the&nbsp;Product&nbsp;Manager&nbsp;to&nbsp;align&nbsp;on&nbsp;product&nbsp;strategy&nbsp;and&nbsp;roadmap
-        Support&nbsp;the&nbsp;product&nbsp;roadmap&nbsp;that&nbsp;meets&nbsp;user&nbsp;needs&nbsp;and&nbsp;corporate&nbsp;goals
-        Write&nbsp;detailed&nbsp;user&nbsp;stories&nbsp;and&nbsp;acceptance&nbsp;criteria
-        Prioritize&nbsp;and&nbsp;groom&nbsp;the&nbsp;product&nbsp;backlog
-        Support&nbsp;the&nbsp;product&nbsp;lifecycle&nbsp;from&nbsp;planning&nbsp;to&nbsp;release
-        Participate&nbsp;in&nbsp;daily/weekly&nbsp;(agile/scrum)&nbsp;software&nbsp;development&nbsp;process&nbsp;meetings
-        Support&nbsp;delivery&nbsp;schedules&nbsp;and&nbsp;coordinate&nbsp;across&nbsp;cross-functional&nbsp;teams&nbsp;comprised&nbsp;of&nbsp;product,&nbsp;design,&nbsp;development&nbsp;and&nbsp;QA,&nbsp;to&nbsp;deliver&nbsp;functional&nbsp;solutions
-        Communicate&nbsp;daily&nbsp;with&nbsp;the&nbsp;cross-functional&nbsp;team&nbsp;to&nbsp;clarify&nbsp;any&nbsp;questions&nbsp;and&nbsp;remove&nbsp;roadblocks
-        Support&nbsp;and&nbsp;evaluate&nbsp;product&nbsp;progress&nbsp;at&nbsp;each&nbsp;stage&nbsp;of&nbsp;the&nbsp;software&nbsp;development&nbsp;process
-        Perform&nbsp;any&nbsp;other&nbsp;special&nbsp;tasks&nbsp;that&nbsp;are&nbsp;deemed&nbsp;appropriate&nbsp;for&nbsp;this&nbsp;role&nbsp;as&nbsp;assigned&nbsp;by&nbsp;the&nbsp;manager/supervisor
-        REQUIRED&nbsp;SKILLS
-        Minimum&nbsp;Bachelor’s&nbsp;degree&nbsp;or&nbsp;its&nbsp;equivalent
-        1-2&nbsp;years&nbsp;of&nbsp;related&nbsp;experience&nbsp;in&nbsp;working&nbsp;in&nbsp;an&nbsp;agile&nbsp;development&nbsp;environment
-        A&nbsp;solid&nbsp;working&nbsp;knowledge&nbsp;of&nbsp;the&nbsp;product&nbsp;management&nbsp;lifecycle&nbsp;and&nbsp;an&nbsp;understanding&nbsp;of&nbsp;the&nbsp;tenets&nbsp;of&nbsp;software&nbsp;development&nbsp;using&nbsp;Agile&nbsp;methodologies
-        Experience&nbsp;managing&nbsp;products&nbsp;or&nbsp;projects&nbsp;using&nbsp;project&nbsp;management&nbsp;tools&nbsp;such&nbsp;as&nbsp;Jira,&nbsp;Azure&nbsp;DevOps&nbsp;Server,&nbsp;Confluence,&nbsp;Trello,&nbsp;etc.&nbsp;
-        Expert&nbsp;communication&nbsp;skills:&nbsp;ability&nbsp;to&nbsp;manage&nbsp;stakeholders’&nbsp;expectations,&nbsp;be&nbsp;prepared&nbsp;to&nbsp;justify&nbsp;delays&nbsp;or&nbsp;scope&nbsp;changes,&nbsp;and&nbsp;communicate&nbsp;technical&nbsp;information&nbsp;to&nbsp;business&nbsp;stakeholders&nbsp;in&nbsp;an&nbsp;easy&nbsp;to&nbsp;understand&nbsp;way
-      score: 90
-      skill_hits: 5
-      bucket_id: pm_product
-      fetched_at: 2026-09-29T21:34:20.102Z
-      pulled_at: 2026-09-29T21:34:20.102Z
-      stale_days: 29
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: TransPerfect
-      title: Technical Product Manager
-      location: Pune, Mahārāshtra, India, Pune, India
-      url: https://transperfect.com/o/technical-product-manager
-      updated_at: 2026-07-30 15:08:53 UTC
-      description: "OVERVIEW TransPerfect helps the world's leading brands thrive in
-        the global marketplace by offering a full range of solutions to ensure
-        the success of digital and mobile initiatives. Working in 170+
-        languages, our services include website and software localization, QA
-        and testing, international SEO/SEM, customer service and call center
-        solutions, multicultural marketing, multimedia services, and more.
-        RESPOSIBILITES: TransPerfect is seeking a Technical Product Manager to
-        manage and own the product lifecycle for integration frameworks for CMS
-        &amp; e-commerce systems. This position will work with internal
-        development and QA teams and vendor partners to build integrations into
-        GlobalLink - our flagship cloud-based translation management platform.
-        We are looking for forward-thinking professionals who are more
-        interested in how things could become and who can thrive in an evolving
-        and fast-paced environment. Manage the entire product life cycle which
-        includes: Manage professional services engagements and prepare SOWs for
-        all existing customers Explore product functionality and recommend best
-        strategy to integrate Evaluate APIs and GraphQL endpoints and devise an
-        integration approach Individually carry out product deliveries from
-        inception to product roll out Design/create detailed technical
-        specifications for functional requirements Closely monitor development
-        and QA progress for ontime deliverables Do active review of test
-        strategy Planning continuous upgrades for new features Collaborate with
-        multiple teams in multiple time zones including product managers,
-        engineers, solutions engineers, QA and customers for product strategy
-        &amp; roadmap. Participate in UI/UX design. Review Documentation updates
-        Analyze application logs and debug technical issues to identify root
-        causes in collaboration with engineering teams Perform competitor
-        analysis and benchmarks and ensure that your product is always ahead of
-        the curve"
-      score: 80
-      skill_hits: 2
-      bucket_id: pm_product
-      fetched_at: 2026-09-29T21:34:20.102Z
-      pulled_at: 2026-09-29T21:34:20.102Z
-      stale_days: 29
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: Consultport
-      title: Product Manager (m/f/d)
-      location: Berlin, Berlin, Germany, Berlin, Germany
-      url: https://consultport.recruitee.com/o/product-manager-mfd
-      updated_at: 2026-09-15 08:12:42 UTC
-      description: Consultport is the leading digital platform that connects some of
-        the world's most iconic brands with world-class consultants. We're
-        scaling hard, and we need a PM obsessed with product-led growth (PLG).
-        This role is not about babysitting a roadmap but turning the product
-        itself into our best sales channel — removing friction, driving
-        activation, and making users fall in love before they ever talk to
-        sales.
-      score: 74
-      skill_hits: 1
-      bucket_id: pm_product
-      fetched_at: 2026-09-29T21:34:20.102Z
-      pulled_at: 2026-09-29T21:34:20.102Z
       stale_days: 29
       is_stale: true
   scrum_agile:
@@ -4085,23 +4493,8 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-10-28T21:52:48.367Z
       pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
-    - source: smartrecruiters
-      source_note: ""
-      company: NielsenIQ
-      title: Senior Agile Coach
-      location: Chennai, TN, India
-      url: https://api.smartrecruiters.com/v1/companies/nielseniq/postings/744000151787449
-      updated_at: 2026-09-25T08:19:03.536Z
-      description: ""
-      score: 74
-      skill_hits: 1
-      bucket_id: scrum_agile
-      fetched_at: 2026-09-29T21:34:20.102Z
-      pulled_at: 2026-09-29T21:34:20.102Z
-      stale_days: 29
-      is_stale: true
   program_management:
     - source: arbeitnow
       source_note: ""
@@ -4271,11 +4664,172 @@ buckets:
       bucket_id: program_management
       fetched_at: 2026-10-28T21:52:48.367Z
       pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
 archive:
-  pm_product: []
-  scrum_agile: []
+  pm_product:
+    - source: recruitee
+      source_note: ""
+      company: TransPerfect
+      title: Associate Product Manager
+      location: Pune, Mahārāshtra, India, Pune, India
+      url: https://transperfect.com/o/associate-product-manager
+      updated_at: 2026-08-05 06:02:31 UTC
+      description: OVERVIEW TransPerfect helps organizations navigate the global
+        marketplace. It remains founder-led – and has striven to maintain the
+        ethos and drive that led them to grow organically year-on-year for the
+        past 30 years. Starting in an NYU dorm room in the early 1990s,
+        TransPerfect is today recognized as the largest translation and language
+        services company in the world with thousands of employees located in
+        100+ offices around the world – and over $1 billion in revenue in 2023.
+        &nbsp; The TransPerfect TechOps team has been a vital part of the
+        company’s success since its formation 10 years ago – delivering
+        technology and services that have drastically simplified the lives of
+        our clients and colleagues – from workflow improvements for colleagues,
+        to core services that form the basis of the company’s GlobalLink
+        platform, to creating scalable client interfaces that allow novice users
+        to navigate complex ecosystems. DESCRIPTION
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Work closely with the Product
+        Manager to align on product strategy and roadmap
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support the product roadmap that
+        meets user needs and corporate goals
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Write detailed user stories and
+        acceptance criteria ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prioritize and
+        groom the product backlog ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support
+        the product lifecycle from planning to release
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Participate in daily/weekly
+        (agile/scrum) software development process meetings
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support delivery schedules and
+        coordinate across cross-functional teams comprised of product, design,
+        development and QA, to deliver functional solutions
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Communicate daily with the
+        cross-functional team to clarify any questions and remove roadblocks
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support and evaluate product
+        progress at each stage of the software development process
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Perform any other special tasks
+        that are deemed appropriate for this role as assigned by the
+        manager/supervisor
+      score: 92
+      skill_hits: 5
+      bucket_id: pm_product
+      fetched_at: 2026-09-29T21:34:20.102Z
+      pulled_at: 2026-09-29T21:34:20.102Z
+      stale_days: 30
+      is_stale: true
+    - source: recruitee
+      source_note: ""
+      company: TransPerfect
+      title: Associate Product Manager
+      location: Pune, Mahārāshtra, India, Pune, India
+      url: https://transperfect.com/o/associate-product-manager-1
+      updated_at: 2026-07-30 23:25:59 UTC
+      description: OVERVIEW
+        TransPerfect&nbsp;helps&nbsp;organizations&nbsp;navigate&nbsp;the&nbsp;global&nbsp;marketplace.&nbsp;It&nbsp;remains&nbsp;founder-led&nbsp;–&nbsp;and&nbsp;has&nbsp;striven&nbsp;to&nbsp;maintain&nbsp;the&nbsp;ethos&nbsp;and&nbsp;drive&nbsp;that&nbsp;led&nbsp;them&nbsp;to&nbsp;grow&nbsp;organically&nbsp;year-on-year&nbsp;for&nbsp;the&nbsp;past&nbsp;30&nbsp;years.&nbsp;Starting&nbsp;in&nbsp;an&nbsp;NYU&nbsp;dorm&nbsp;room&nbsp;in&nbsp;the&nbsp;early&nbsp;1990s,&nbsp;TransPerfect&nbsp;is&nbsp;today&nbsp;recognized&nbsp;as&nbsp;the&nbsp;largest&nbsp;translation&nbsp;and&nbsp;language&nbsp;services&nbsp;company&nbsp;in&nbsp;the&nbsp;world&nbsp;with&nbsp;thousands&nbsp;of&nbsp;employees&nbsp;located&nbsp;in&nbsp;100+&nbsp;offices&nbsp;around&nbsp;the&nbsp;world&nbsp;–&nbsp;and&nbsp;over&nbsp;$1&nbsp;billion&nbsp;in&nbsp;revenue&nbsp;in&nbsp;2023.
+        The&nbsp;TransPerfect&nbsp;TechOps&nbsp;team&nbsp;has&nbsp;been&nbsp;a&nbsp;vital&nbsp;part&nbsp;of&nbsp;the&nbsp;company’s&nbsp;success&nbsp;since&nbsp;its&nbsp;formation&nbsp;10&nbsp;years&nbsp;ago&nbsp;–&nbsp;delivering&nbsp;technology&nbsp;and&nbsp;services&nbsp;that&nbsp;have&nbsp;drastically&nbsp;simplified&nbsp;the&nbsp;lives&nbsp;of&nbsp;our&nbsp;clients&nbsp;and&nbsp;colleagues&nbsp;–&nbsp;from&nbsp;workflow&nbsp;improvements&nbsp;for&nbsp;colleagues,&nbsp;to&nbsp;core&nbsp;services&nbsp;that&nbsp;form&nbsp;the&nbsp;basis&nbsp;of&nbsp;the&nbsp;company’s&nbsp;GlobalLink&nbsp;platform,&nbsp;to&nbsp;creating&nbsp;scalable&nbsp;client&nbsp;interfaces&nbsp;that&nbsp;allow&nbsp;novice&nbsp;users&nbsp;to&nbsp;navigate&nbsp;complex&nbsp;ecosystems.
+        DESCRIPTION
+        Work&nbsp;closely&nbsp;with&nbsp;the&nbsp;Product&nbsp;Manager&nbsp;to&nbsp;align&nbsp;on&nbsp;product&nbsp;strategy&nbsp;and&nbsp;roadmap
+        Support&nbsp;the&nbsp;product&nbsp;roadmap&nbsp;that&nbsp;meets&nbsp;user&nbsp;needs&nbsp;and&nbsp;corporate&nbsp;goals
+        Write&nbsp;detailed&nbsp;user&nbsp;stories&nbsp;and&nbsp;acceptance&nbsp;criteria
+        Prioritize&nbsp;and&nbsp;groom&nbsp;the&nbsp;product&nbsp;backlog
+        Support&nbsp;the&nbsp;product&nbsp;lifecycle&nbsp;from&nbsp;planning&nbsp;to&nbsp;release
+        Participate&nbsp;in&nbsp;daily/weekly&nbsp;(agile/scrum)&nbsp;software&nbsp;development&nbsp;process&nbsp;meetings
+        Support&nbsp;delivery&nbsp;schedules&nbsp;and&nbsp;coordinate&nbsp;across&nbsp;cross-functional&nbsp;teams&nbsp;comprised&nbsp;of&nbsp;product,&nbsp;design,&nbsp;development&nbsp;and&nbsp;QA,&nbsp;to&nbsp;deliver&nbsp;functional&nbsp;solutions
+        Communicate&nbsp;daily&nbsp;with&nbsp;the&nbsp;cross-functional&nbsp;team&nbsp;to&nbsp;clarify&nbsp;any&nbsp;questions&nbsp;and&nbsp;remove&nbsp;roadblocks
+        Support&nbsp;and&nbsp;evaluate&nbsp;product&nbsp;progress&nbsp;at&nbsp;each&nbsp;stage&nbsp;of&nbsp;the&nbsp;software&nbsp;development&nbsp;process
+        Perform&nbsp;any&nbsp;other&nbsp;special&nbsp;tasks&nbsp;that&nbsp;are&nbsp;deemed&nbsp;appropriate&nbsp;for&nbsp;this&nbsp;role&nbsp;as&nbsp;assigned&nbsp;by&nbsp;the&nbsp;manager/supervisor
+        REQUIRED&nbsp;SKILLS
+        Minimum&nbsp;Bachelor’s&nbsp;degree&nbsp;or&nbsp;its&nbsp;equivalent
+        1-2&nbsp;years&nbsp;of&nbsp;related&nbsp;experience&nbsp;in&nbsp;working&nbsp;in&nbsp;an&nbsp;agile&nbsp;development&nbsp;environment
+        A&nbsp;solid&nbsp;working&nbsp;knowledge&nbsp;of&nbsp;the&nbsp;product&nbsp;management&nbsp;lifecycle&nbsp;and&nbsp;an&nbsp;understanding&nbsp;of&nbsp;the&nbsp;tenets&nbsp;of&nbsp;software&nbsp;development&nbsp;using&nbsp;Agile&nbsp;methodologies
+        Experience&nbsp;managing&nbsp;products&nbsp;or&nbsp;projects&nbsp;using&nbsp;project&nbsp;management&nbsp;tools&nbsp;such&nbsp;as&nbsp;Jira,&nbsp;Azure&nbsp;DevOps&nbsp;Server,&nbsp;Confluence,&nbsp;Trello,&nbsp;etc.&nbsp;
+        Expert&nbsp;communication&nbsp;skills:&nbsp;ability&nbsp;to&nbsp;manage&nbsp;stakeholders’&nbsp;expectations,&nbsp;be&nbsp;prepared&nbsp;to&nbsp;justify&nbsp;delays&nbsp;or&nbsp;scope&nbsp;changes,&nbsp;and&nbsp;communicate&nbsp;technical&nbsp;information&nbsp;to&nbsp;business&nbsp;stakeholders&nbsp;in&nbsp;an&nbsp;easy&nbsp;to&nbsp;understand&nbsp;way
+      score: 90
+      skill_hits: 5
+      bucket_id: pm_product
+      fetched_at: 2026-09-29T21:34:20.102Z
+      pulled_at: 2026-09-29T21:34:20.102Z
+      stale_days: 30
+      is_stale: true
+    - source: recruitee
+      source_note: ""
+      company: TransPerfect
+      title: Technical Product Manager
+      location: Pune, Mahārāshtra, India, Pune, India
+      url: https://transperfect.com/o/technical-product-manager
+      updated_at: 2026-07-30 15:08:53 UTC
+      description: "OVERVIEW TransPerfect helps the world's leading brands thrive in
+        the global marketplace by offering a full range of solutions to ensure
+        the success of digital and mobile initiatives. Working in 170+
+        languages, our services include website and software localization, QA
+        and testing, international SEO/SEM, customer service and call center
+        solutions, multicultural marketing, multimedia services, and more.
+        RESPOSIBILITES: TransPerfect is seeking a Technical Product Manager to
+        manage and own the product lifecycle for integration frameworks for CMS
+        &amp; e-commerce systems. This position will work with internal
+        development and QA teams and vendor partners to build integrations into
+        GlobalLink - our flagship cloud-based translation management platform.
+        We are looking for forward-thinking professionals who are more
+        interested in how things could become and who can thrive in an evolving
+        and fast-paced environment. Manage the entire product life cycle which
+        includes: Manage professional services engagements and prepare SOWs for
+        all existing customers Explore product functionality and recommend best
+        strategy to integrate Evaluate APIs and GraphQL endpoints and devise an
+        integration approach Individually carry out product deliveries from
+        inception to product roll out Design/create detailed technical
+        specifications for functional requirements Closely monitor development
+        and QA progress for ontime deliverables Do active review of test
+        strategy Planning continuous upgrades for new features Collaborate with
+        multiple teams in multiple time zones including product managers,
+        engineers, solutions engineers, QA and customers for product strategy
+        &amp; roadmap. Participate in UI/UX design. Review Documentation updates
+        Analyze application logs and debug technical issues to identify root
+        causes in collaboration with engineering teams Perform competitor
+        analysis and benchmarks and ensure that your product is always ahead of
+        the curve"
+      score: 80
+      skill_hits: 2
+      bucket_id: pm_product
+      fetched_at: 2026-09-29T21:34:20.102Z
+      pulled_at: 2026-09-29T21:34:20.102Z
+      stale_days: 30
+      is_stale: true
+    - source: recruitee
+      source_note: ""
+      company: Consultport
+      title: Product Manager (m/f/d)
+      location: Berlin, Berlin, Germany, Berlin, Germany
+      url: https://consultport.recruitee.com/o/product-manager-mfd
+      updated_at: 2026-09-15 08:12:42 UTC
+      description: Consultport is the leading digital platform that connects some of
+        the world's most iconic brands with world-class consultants. We're
+        scaling hard, and we need a PM obsessed with product-led growth (PLG).
+        This role is not about babysitting a roadmap but turning the product
+        itself into our best sales channel — removing friction, driving
+        activation, and making users fall in love before they ever talk to
+        sales.
+      score: 74
+      skill_hits: 1
+      bucket_id: pm_product
+      fetched_at: 2026-09-29T21:34:20.102Z
+      pulled_at: 2026-09-29T21:34:20.102Z
+      stale_days: 30
+      is_stale: true
+  scrum_agile:
+    - source: smartrecruiters
+      source_note: ""
+      company: NielsenIQ
+      title: Senior Agile Coach
+      location: Chennai, TN, India
+      url: https://api.smartrecruiters.com/v1/companies/nielseniq/postings/744000151787449
+      updated_at: 2026-09-25T08:19:03.536Z
+      description: ""
+      score: 74
+      skill_hits: 1
+      bucket_id: scrum_agile
+      fetched_at: 2026-09-29T21:34:20.102Z
+      pulled_at: 2026-09-29T21:34:20.102Z
+      stale_days: 30
+      is_stale: true
   program_management: []
 meta:
   stale_after_days: 21
@@ -4288,7 +4842,7 @@ meta:
     smartrecruiters_companies: 40
     teamtailor_companies: 0
     recruitee_companies: 78
-    ashby_organizations: 455
+    ashby_organizations: 456
     stepstone_feeds: 0
     arbeitnow: 1
     remotive: 1
@@ -4301,13 +4855,13 @@ meta:
     official_career_pages: 20
     search_queries: 20
   stale_counts:
-    pm_product: 19
-    scrum_agile: 1
-    program_management: 0
-  inactive_counts:
-    pm_product: 0
+    pm_product: 15
     scrum_agile: 0
     program_management: 0
+  inactive_counts:
+    pm_product: 4
+    scrum_agile: 1
+    program_management: 0
   timings_ms:
-    fetch: 176692
-    total: 203633
+    fetch: 224938
+    total: 263754
