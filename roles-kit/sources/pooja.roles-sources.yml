@@ -1,4 +1,4 @@
-generated_at: 2026-10-29T22:01:06.957Z
+generated_at: 2026-10-30T21:43:02.097Z
 explicit:
   company_names:
     - SAP
@@ -1068,6 +1068,13 @@ discovered:
     - trustflight
     - benchling
     - kernel
+    - dataguard
+    - abound
+    - edra
+    - wayflyer
+    - akur8
+    - dust
+    - pixalione
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -2177,6 +2184,7 @@ discovered:
     - pysae
     - trafineo
     - trustflight
+    - pixalione
   ashby_organizations:
     - telus-digital
     - a-team
@@ -2638,6 +2646,12 @@ discovered:
     - juro
     - benchling
     - kernel
+    - dataguard
+    - abound
+    - edra
+    - wayflyer
+    - akur8
+    - dust
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers

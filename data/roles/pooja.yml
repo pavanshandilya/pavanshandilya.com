@@ -1,9 +1,361 @@
 schema_version: roles.v1
 profile_id: pooja
 profile_name: Pooja - product/scrum now, EM later
-generated_at: 2026-10-29T22:01:06.957Z
+generated_at: 2026-10-30T21:43:02.097Z
 buckets:
   pm_product:
+    - source: arbeitnow
+      source_note: ""
+      company: remotewoman
+      title: Product Manager
+      location: Remote • Germany, Canada, Spain or the UK
+      url: https://www.arbeitnow.fr/jobs/companies/remotewoman/remote-product-manager-168702
+      updated_at: 1793310921
+      description: "&lt;h1&gt;&lt;span style=&quot;font-size: 14pt; font-family:
+        helvetica, arial, sans-serif;&quot;&gt;&lt;strong&gt;About
+        Upsun&lt;/strong&gt;&lt;/span&gt;&lt;/h1&gt; &lt;p&gt;&lt;span
+        style=&quot;font-size: 12pt;&quot;&gt;Upsun is the software factory for
+        human-AI workflows. We give teams one unified platform to create,
+        review, deploy, and run software, with AI agents and humans working in
+        sync. Developers, DevOps engineers, and platform teams use Upsun to
+        build and ship with confidence, without wrestling with
+        infrastructure.&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span
+        style=&quot;font-size: 12pt;&quot;&gt;Upsun brings this together through
+        two products: one that shapes the work, and one that runs
+        it.&lt;/span&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;span
+        style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Upsun Dispatch™: the
+        AI-first product accelerator.&lt;/strong&gt; Dispatch governs and
+        simplifies collaboration between AI agents and cross-functional human
+        teams, so work gets shaped, reviewed, and moved to production faster.
+        Ship better code, not just more code.&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;span style=&quot;font-size:
+        12pt;&quot;&gt;&lt;strong&gt;Upsun Cloud: the Cloud Application Platform
+        for AI acceleration.&lt;/strong&gt; Cloud is where that software runs.
+        It helps organizations launch agentic software into production
+        confidently and reliably, with:&lt;/span&gt; &lt;ul&gt; &lt;li
+        style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size:
+        12pt;&quot;&gt;Predictable performance, even at
+        scale&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-size:
+        12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Secure,
+        compliant environments by default&lt;/span&gt;&lt;/li&gt; &lt;li
+        style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size:
+        12pt;&quot;&gt;Real-time observability and profiling built
+        in&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-size:
+        12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Cloning,
+        configuration, and provisioning in seconds&lt;/span&gt;&lt;/li&gt;
+        &lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span
+        style=&quot;font-size: 12pt;&quot;&gt;Sandbox environments where AI
+        agents can build and test safely&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;
+        &lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;span style=&quot;font-size:
+        12pt;&quot;&gt;The name says it all. &quot;Up&quot; means uptime,
+        reliability, and acceleration. &quot;Sun&quot; reflects our
+        follow-the-sun-support, a 24x7, globally distributed support team
+        keeping the lights on while you rest. Our core belief is that software
+        should power brighter solutions and greater
+        innovation.&amp;nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span
+        style=&quot;font-size: 12pt;&quot;&gt;What&#39;s our commonality, our
+        cultural fabric? A curious spirit and a thirst for knowledge; an
+        eagerness for innovative ideas and cultures. We believe we can build
+        anything together in an environment that frees you to do your best
+        work.&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span style=&quot;font-size:
+        12pt;&quot;&gt;Our values:&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;🌿 We make a
+        positive impact.&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span
+        style=&quot;font-size: 12pt;&quot;&gt;✨ We aim for the
+        stars.&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span style=&quot;font-size:
+        12pt;&quot;&gt;💚 We care for each
+        other.&amp;nbsp;&lt;/span&gt;&lt;/p&gt; &lt;h1&gt;&lt;span
+        style=&quot;font-size: 14pt; font-family: helvetica, arial,
+        sans-serif;&quot;&gt;&lt;strong&gt;Impact of a Product
+        Manager&lt;/strong&gt;&lt;/span&gt;&lt;/h1&gt; &lt;p&gt;&lt;span
+        style=&quot;font-size: 12pt;&quot;&gt;As a Product Manager at Upsun, you
+        own a significant area of Upsun Cloud, our cloud application platform,
+        and the outcomes it delivers for the developers who build on it. The
+        team you join owns the platform&#39;s foundations: the API, the runtime,
+        environments, and the reliability every application running on Upsun
+        depends on. And because Upsun is the cloud application platform humans
+        and robots love, much of what you build will be used by AI agents as
+        much as by people.&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span
+        style=&quot;font-size: 12pt;&quot;&gt;This is a hands-on, technically
+        rich role that bridges product strategy and deep infrastructure
+        understanding. You own the strategy and the roadmap for your area,
+        working closely with engineering to define platform behavior, build
+        scalable abstractions, and shape workflows that empower modern
+        development teams. Throughout, you act as the key voice for the user,
+        making sure everything we ship contributes meaningfully to an
+        exceptional developer experience.&lt;/span&gt;&lt;/p&gt;
+        &lt;h1&gt;&lt;span style=&quot;font-size: 14pt; font-family: helvetica,
+        arial, sans-serif;&quot;&gt;&lt;strong&gt;What to
+        expect&lt;/strong&gt;&lt;/span&gt;&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;
+        &lt;p&gt;&lt;span style=&quot;font-size:
+        12pt;&quot;&gt;&lt;strong&gt;Strategy and roadmap:&lt;/strong&gt; Own
+        the strategy, roadmap, and priorities for your area of Upsun Cloud,
+        balancing established foundations with uncharted
+        territory.&lt;/span&gt;&lt;/p&gt; &lt;/li&gt; &lt;li
+        style=&quot;font-size: 12pt;&quot;&gt; &lt;p&gt;&lt;span
+        style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Problem
+        definition:&lt;/strong&gt; Synthesize inputs from customers, support,
+        sales, and engineering into clear problem statements, constructively
+        testing underlying assumptions.&lt;/span&gt;&lt;/p&gt; &lt;/li&gt;
+        &lt;li style=&quot;font-size: 12pt;&quot;&gt; &lt;p&gt;&lt;span
+        style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Solution
+        definition:&lt;/strong&gt; Explore options with your team, weigh
+        trade-offs, and land on the right scope.&lt;/span&gt;&lt;/p&gt;
+        &lt;/li&gt; &lt;li style=&quot;font-size: 12pt;&quot;&gt;
+        &lt;p&gt;&lt;span style=&quot;font-size:
+        12pt;&quot;&gt;&lt;strong&gt;Ship small, iterate fast:&lt;/strong&gt;
+        Release in increments and shorten the loop between shipping and
+        learning.&lt;/span&gt;&lt;/p&gt; &lt;/li&gt; &lt;li
+        style=&quot;font-size: 12pt;&quot;&gt; &lt;p&gt;&lt;span
+        style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Technical
+        execution:&lt;/strong&gt; Collaborate with engineering (especially
+        infrastructure and systems teams) to deliver platform capabilities that
+        are reliable, scalable, and developer-friendly.&lt;/span&gt;&lt;/p&gt;
+        &lt;/li&gt; &lt;li style=&quot;font-size: 12pt;&quot;&gt;
+        &lt;p&gt;&lt;span style=&quot;font-size:
+        12pt;&quot;&gt;&lt;strong&gt;Design for humans and
+        agents:&lt;/strong&gt; Build with two audiences in mind—ensuring
+        features, APIs, documentation, and error messages serve both people and
+        AI agents.&lt;/span&gt;&lt;/p&gt; &lt;/li&gt; &lt;li
+        style=&quot;font-size: 12pt;&quot;&gt; &lt;p&gt;&lt;span
+        style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Customer and data
+        authority:&lt;/strong&gt; Connect with customers regularly, serve as an
+        internal advocate for their needs, and define metrics that demonstrate
+        value for users and the business.&lt;/span&gt;&lt;/p&gt; &lt;/li&gt;
+        &lt;li style=&quot;font-size: 12pt;&quot;&gt; &lt;p&gt;&lt;span
+        style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Influence across
+        teams:&lt;/strong&gt; Build alignment across engineering, design,
+        Product Marketing, support, and leadership.&lt;/span&gt;&lt;/p&gt;
+        &lt;/li&gt; &lt;li style=&quot;font-size: 12pt;&quot;&gt;
+        &lt;p&gt;&lt;span style=&quot;font-size:
+        12pt;&quot;&gt;&lt;strong&gt;Go-to-market:&lt;/strong&gt; Partner with
+        Product Marketing early so go-to-market strategy helps shape the
+        product, not just the launch.&lt;/span&gt;&lt;/p&gt; &lt;/li&gt;
+        &lt;/ul&gt; &lt;h1&gt;&lt;span style=&quot;font-size: 14pt; font-family:
+        helvetica, arial, sans-serif;&quot;&gt;&lt;strong&gt;What you
+        bring&lt;/strong&gt;&lt;/span&gt;&lt;/h1&gt; &lt;ul&gt; &lt;li
+        style=&quot;font-size: 12pt;&quot;&gt; &lt;p&gt;&lt;span
+        style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Product management
+        experience:&lt;/strong&gt; Proven experience in product management
+        owning a distinct product area, ideally focused on developer platforms,
+        PaaS, or cloud infrastructure.&lt;/span&gt;&lt;/p&gt; &lt;/li&gt; &lt;li
+        style=&quot;font-size: 12pt;&quot;&gt; &lt;p&gt;&lt;span
+        style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Technical
+        depth:&lt;/strong&gt; Understanding of building, deploying, and running
+        applications in the cloud, with the ability to collaborate closely with
+        infrastructure engineers on multi-tenant architectures or distributed
+        systems.&lt;/span&gt;&lt;/p&gt; &lt;/li&gt; &lt;li
+        style=&quot;font-size: 12pt;&quot;&gt; &lt;p&gt;&lt;span
+        style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Software development
+        background:&lt;/strong&gt; Familiarity with building software using
+        languages such as Python, Ruby, JavaScript, PHP, Go, or
+        Rust.&lt;/span&gt;&lt;/p&gt; &lt;/li&gt; &lt;li style=&quot;font-size:
+        12pt;&quot;&gt; &lt;p&gt;&lt;span style=&quot;font-size:
+        12pt;&quot;&gt;&lt;strong&gt;CI/CD, containers &amp;amp;
+        APIs:&lt;/strong&gt; Hands-on experience or close collaboration with
+        CI/CD workflows, Docker/OCI container technologies, and a clear vision
+        for intuitive API design.&lt;/span&gt;&lt;/p&gt; &lt;/li&gt; &lt;li&gt;
+        &lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;AI
+        fluency:&lt;/strong&gt; Daily use of modern AI tools to research, draft,
+        and prototype workflows, paired with a realistic understanding of where
+        current tools and models fall short.&lt;/span&gt;&lt;/p&gt; &lt;/li&gt;
+        &lt;li style=&quot;font-size: 12pt;&quot;&gt; &lt;p&gt;&lt;span
+        style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Agentic
+        development:&lt;/strong&gt; A strong perspective on autonomous agent
+        architecture and how agentic workflows are transforming modern software
+        engineering.&lt;/span&gt;&lt;/p&gt; &lt;/li&gt; &lt;li
+        style=&quot;font-size: 12pt;&quot;&gt; &lt;p&gt;&lt;span
+        style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Navigating
+        ambiguity:&lt;/strong&gt; Comfort with turning unstructured problem
+        spaces into clear strategies and taking thoughtful action even with
+        incomplete information.&lt;/span&gt;&lt;/p&gt; &lt;/li&gt; &lt;li
+        style=&quot;font-size: 12pt;&quot;&gt; &lt;p&gt;&lt;span
+        style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Collaborative
+        communication:&lt;/strong&gt; Clear written and verbal communication
+        skills, with a track record of listening, building consensus, and
+        uniting teams around a shared vision.&lt;/span&gt;&lt;/p&gt; &lt;/li&gt;
+        &lt;li style=&quot;font-size: 12pt;&quot;&gt; &lt;p&gt;&lt;span
+        style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Data-informed
+        decision making:&lt;/strong&gt; Ability to seek out and evaluate data to
+        guide decisions and track success.&lt;/span&gt;&lt;/p&gt; &lt;/li&gt;
+        &lt;/ul&gt; &lt;h1&gt;&lt;span style=&quot;font-size: 14pt; font-family:
+        helvetica, arial, sans-serif;&quot;&gt;&lt;strong&gt;Bonus points
+        for&lt;/strong&gt;&lt;/span&gt;&lt;/h1&gt; &lt;ul&gt; &lt;li
+        style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size:
+        12pt;&quot;&gt;Enthusiasm for using and testing the platform
+        capabilities you help build.&lt;/span&gt;&lt;/li&gt; &lt;li
+        style=&quot;font-size: 12pt;&quot;&gt; &lt;p&gt;&lt;span
+        style=&quot;font-size: 12pt;&quot;&gt;Experience using Kubernetes, or
+        building self-service platforms on Kubernetes&lt;/span&gt;&lt;/p&gt;
+        &lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;&lt;span style=&quot;font-size: 14pt;
+        font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;strong&gt;Where
+        we hire&lt;/strong&gt;&lt;/span&gt;&lt;/h1&gt; &lt;p&gt;&lt;span
+        style=&quot;font-family: helvetica, arial, sans-serif; font-size:
+        12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;At Upsun,
+        remote work isn’t just a trend. It’s our foundation. Upsunners are a
+        global workforce, and we thrive in a multicultural team. We’re committed
+        to open source and an open, welcoming environment. Our team spans more
+        than 30 countries and a wide range of experience levels, and we’re
+        currently hiring for this role in&lt;/span&gt; &lt;strong&gt;Germany,
+        Canada, Spain, France, and the UK&lt;/strong&gt;. &lt;span
+        style=&quot;font-size: 12pt;&quot;&gt;We’re unable to provide visa
+        sponsorship at this time, but we welcome applications from all qualified
+        candidates who are legally authorized to work in these
+        countries.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt; &lt;h1&gt;&lt;span
+        style=&quot;font-size: 14pt; font-family: helvetica, arial,
+        sans-serif;&quot;&gt;&lt;strong&gt;How we
+        hire&lt;/strong&gt;&lt;/span&gt;&lt;/h1&gt; &lt;p&gt;&lt;span
+        style=&quot;font-size: 12pt;&quot;&gt;Our interview process is a chance
+        for us to understand how you think, what you’ve built, and what you want
+        to take on next, and for you to get to know us. Together, we’ll explore
+        where your strengths and interests meet the challenges our teams are
+        solving.&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size:
+        12pt;&quot;&gt;We know a great hire won’t meet every requirement above.
+        If you can see yourself making the team better, we want to hear your
+        story. Few of us would be here if someone hadn’t taken a chance on
+        us.&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span style=&quot;font-family:
+        helvetica, arial, sans-serif; font-size: 12pt;&quot;&gt;You can expect
+        &lt;strong&gt;5 video interviews&lt;/strong&gt; on Google Meet to follow
+        the order below.&amp;nbsp;&lt;/span&gt;&lt;/p&gt; &lt;ol&gt; &lt;li
+        style=&quot;font-family: helvetica, arial, sans-serif; font-size:
+        12pt;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial,
+        sans-serif; font-size: 12pt;&quot;&gt;45 Minutes with Talent
+        Acquisition&amp;nbsp;&lt;/span&gt;&lt;/li&gt; &lt;li
+        style=&quot;font-family: helvetica, arial, sans-serif; font-size:
+        12pt;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial,
+        sans-serif; font-size: 12pt;&quot;&gt;60 Minutes with Hiring Manager
+        (Director, Product)&lt;/span&gt;&lt;/li&gt; &lt;li
+        style=&quot;font-family: helvetica, arial, sans-serif; font-size:
+        12pt;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial,
+        sans-serif; font-size: 12pt;&quot;&gt;60 Minutes with Team
+        (IC&#39;s)&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-family:
+        helvetica, arial, sans-serif; font-size: 12pt;&quot;&gt;&lt;span
+        style=&quot;font-family: helvetica, arial, sans-serif; font-size:
+        12pt;&quot;&gt;60 Minutes with Product Leaders&lt;/span&gt;&lt;/li&gt;
+        &lt;li style=&quot;font-family: helvetica, arial, sans-serif; font-size:
+        12pt;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial,
+        sans-serif; font-size: 12pt;&quot;&gt;45 Minutes with Executive
+        (CTO)&lt;/span&gt;&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;&lt;em
+        style=&quot;font-size: 12pt;&quot;&gt;All roles require background
+        checks.&lt;/em&gt;&lt;/p&gt; &lt;h1&gt;&lt;span style=&quot;font-family:
+        helvetica, arial, sans-serif; font-size:
+        14pt;&quot;&gt;&lt;strong&gt;What we
+        offer&lt;/strong&gt;&lt;/span&gt;&lt;/h1&gt; &lt;p
+        style=&quot;padding-left: 40px;&quot;&gt;&lt;span style=&quot;font-size:
+        12pt;&quot;&gt;💡 &lt;strong&gt;A product you can believe
+        in&lt;/strong&gt; - Join us in transforming how businesses build and
+        manage web applications, driven making a positive impact as a proud
+        &lt;strong&gt;B Corp&lt;/strong&gt;.&lt;/span&gt;&lt;/p&gt; &lt;p
+        style=&quot;padding-left: 40px;&quot;&gt;&lt;span style=&quot;font-size:
+        12pt;&quot;&gt;&lt;strong&gt;🏆 An Award-Winning
+        Workplace&lt;/strong&gt; - We’ve been recognized by Forbes’ Top 30
+        Companies for Remote Jobs and France’s Best Workplaces for
+        Women.&lt;/span&gt;&lt;/p&gt; &lt;p style=&quot;padding-left:
+        40px;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;🗣️
+        &lt;strong&gt;A culture that values your voice &lt;/strong&gt;- Join a
+        flexible, open, and inclusive work environment where your voice is
+        encouraged, and your ideas shape our growth and
+        evolution.&lt;/span&gt;&lt;/p&gt; &lt;p style=&quot;padding-left:
+        40px;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;🌎
+        &lt;strong&gt;A global team &lt;/strong&gt;- Collaborate with colleagues
+        from diverse backgrounds across the world, embracing different
+        perspectives&lt;/span&gt;&lt;/p&gt; &lt;p style=&quot;padding-left:
+        40px;&quot;&gt;&lt;span style=&quot;font-size:
+        12pt;&quot;&gt;&lt;strong&gt;🎉 &lt;/strong&gt;&lt;strong&gt;Benefits
+        and perks&lt;/strong&gt; - Make the most of what matters to
+        you&lt;/span&gt;&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;🏝 Flexible
+        PTO&lt;/p&gt; &lt;p&gt;🩺 Comprehensive healthcare coverage (UK, Canada,
+        France, Spain, USA)&lt;/p&gt; &lt;p&gt;📈 Company stock
+        options&lt;/p&gt; &lt;p&gt;🧠 Professional development budget&lt;/p&gt;
+        &lt;p&gt;💻 Office equipment budget&lt;/p&gt; &lt;p&gt;💆‍♀️ Wellness
+        budget&lt;/p&gt; &lt;p&gt;🧳 Annual team gatherings&lt;/p&gt;
+        &lt;p&gt;🛜 Internet reimbursement&lt;/p&gt; &lt;p&gt;👶 Inclusive
+        parental leave&lt;/p&gt; &lt;p&gt;✈️ Remote work travel
+        program&lt;/p&gt; &lt;/blockquote&gt; &lt;h1 style=&quot;text-align:
+        justify; line-height: 1;&quot;&gt;&lt;span style=&quot;font-size: 14pt;
+        font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;strong&gt;You
+        belong here&lt;/strong&gt;&lt;/span&gt;&lt;/h1&gt; &lt;p&gt;&lt;span
+        style=&quot;font-family: helvetica, arial, sans-serif; font-size:
+        12pt;&quot;&gt;At Upsun, we celebrate diversity in all its forms and are
+        committed to fostering an inclusive, equitable, and supportive workplace
+        where everyone can thrive. We embrace and value different perspectives,
+        backgrounds, and experiences, because they make us stronger as a team.
+        Whoever you are, wherever you&#39;re from, and whatever path you&#39;ve
+        taken, you are welcome here. We encourage you to bring your whole self
+        to work, connect with others, and share your passion.
+        &lt;/span&gt;&lt;span style=&quot;font-family: helvetica, arial,
+        sans-serif; font-size: 12pt;&quot;&gt;If you need accommodations at any
+        stage of our hiring process, please let us know. We&#39;re here to
+        ensure an accessible and comfortable experience for
+        you.&lt;br&gt;&lt;/span&gt;&lt;/p&gt; Find Jobs in France on Arbeitnow"
+      job_types: []
+      remote: false
+      score: 80
+      skill_hits: 2
+      bucket_id: pm_product
+      fetched_at: 2026-10-30T21:43:02.097Z
+      pulled_at: 2026-10-30T21:43:02.097Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: rebuy
+      title: Product Manager – Operations Systems (m/f/x)
+      location: Rudow, Berlin, Germany, Rudow, Germany
+      url: https://rebuy.recruitee.com/o/product-manager-operations-systems-mfx
+      updated_at: 2026-10-27 20:27:22 UTC
+      description: "Ready to become part of the most important mission on this planet?
+        We are rebuy, pioneers in the sustainable reuse of electronics and
+        media, and we are looking for you! Our mission: to make circular living
+        accessible to all, one transaction at a time. By giving products a
+        second chance, we reduce resource consumption and avoid unnecessary
+        e-waste. Our global team of 500 drives things forward collaboratively,
+        takes personal responsibility, values constructive critical thinking,
+        and is dedicated to serving our customers and planet. The Role We are
+        looking for a Product Manager to join our Product team and own the
+        internal, backend-heavy products behind our operations. Every item rebuy
+        sells has been through our hands. Before a pre-owned book, DVD, or game
+        reaches a customer, it has been bought in, received, identified, tested,
+        graded, stored, picked, packed, and shipped. The systems that run this
+        flow are the focus of this team, and the users are the hundreds of
+        colleagues in our operations teams. You will own the tools and services
+        behind inbound processing, grading and quality control, fulfillment, and
+        returns. Your users are warehouse operators, graders, pickers, and
+        operations leads. Your customers are, in the end, every rebuy buyer and
+        seller who relies on the condition and delivery promise we make. For
+        this role we need someone who is genuinely detail-oriented, who reads
+        the data before forming an opinion, who understands systems and data
+        flows end-to-end, and who can translate operational reality into precise
+        requirements and measurable outcomes. As a Product Manager you work hand
+        in hand with operations leadership, team leads, engineering, and data to
+        deliver measurable efficiency and quality improvements. You will spend
+        time on the floor with the people who use your products, translate their
+        goals and constraints into a roadmap you own, build the business case
+        with unit economics together with operations and finance, and negotiate
+        scope and timing with engineering. Improvements are co-created with the
+        people who run the operation, not handed to them. Key Responsibilities:
+        Drive domain product roadmap: Translate ops strategy (throughput, unit
+        cost, quality, lead time) into a 6–12 month roadmap with the Strategy
+        Manager and Ops Product Lead. Make and document trade-off decisions with
+        ops leaders Understand operational reality: Spend time at the warehouse
+        mapping processes and data flows end-to-end to uncover system gaps and
+        unmet needs early Drive data-backed decisions: Analyze KPIs, pull data,
+        avoid measurement traps, and connect feature changes to unit economics
+        improvements Write precise requirements: Specify business rules, edge
+        cases, data models, state transitions, integrations, and failure modes
+        for engineering Ship iteratively without disruption: Sequence releases
+        safely using pilots, feature flags, parallel runs, change management,
+        and pre-defined metrics Collaborate across teams: Engage in technical
+        discussions and manage scope, time, and urgency trade-offs with tech and
+        ops leads Build stakeholder buy-in: Align ops, CS, tech, finance, and
+        leadership on shared metrics via clear written communication"
+      score: 78
+      skill_hits: 2
+      bucket_id: pm_product
+      fetched_at: 2026-10-30T21:43:02.097Z
+      pulled_at: 2026-10-30T21:43:02.097Z
+      stale_days: 0
+      is_stale: false
     - source: recruitee
       source_note: ""
       company: TransPerfect
@@ -809,7 +1161,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -843,7 +1195,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -886,7 +1238,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -976,7 +1328,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1066,7 +1418,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1087,7 +1439,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1174,7 +1526,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1222,7 +1574,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-23T20:37:43.569Z
       pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1256,7 +1608,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-23T20:37:43.569Z
       pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1299,7 +1651,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-23T20:37:43.569Z
       pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1320,7 +1672,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-23T20:37:43.569Z
       pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1433,7 +1785,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-23T20:37:43.569Z
       pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1481,7 +1833,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-21T20:51:32.768Z
       pulled_at: 2026-10-21T20:51:32.768Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1515,7 +1867,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-21T20:51:32.768Z
       pulled_at: 2026-10-21T20:51:32.768Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1677,7 +2029,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-21T20:51:32.768Z
       pulled_at: 2026-10-21T20:51:32.768Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1720,7 +2072,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-21T20:51:32.768Z
       pulled_at: 2026-10-21T20:51:32.768Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1741,7 +2093,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-21T20:51:32.768Z
       pulled_at: 2026-10-21T20:51:32.768Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1789,7 +2141,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1823,7 +2175,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1866,7 +2218,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1935,7 +2287,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2006,7 +2358,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2077,7 +2429,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2148,7 +2500,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2217,7 +2569,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2288,7 +2640,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2357,7 +2709,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2426,7 +2778,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: jobicy
       source_note: ""
@@ -2508,7 +2860,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2529,7 +2881,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2577,7 +2929,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2611,7 +2963,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2654,7 +3006,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: jobicy
       source_note: ""
@@ -2825,7 +3177,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2846,7 +3198,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2954,7 +3306,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3061,7 +3413,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-11T21:07:22.664Z
       pulled_at: 2026-10-11T21:07:22.664Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3149,7 +3501,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-11T21:07:22.664Z
       pulled_at: 2026-10-11T21:07:22.664Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3692,637 +4044,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-05T23:20:51.019Z
       pulled_at: 2026-10-05T23:20:51.019Z
-      stale_days: 23
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: TransPerfect
-      title: Associate Product Manager
-      location: Pune, Mahārāshtra, India, Pune, India
-      url: https://transperfect.com/o/associate-product-manager
-      updated_at: 2026-08-05 06:02:31 UTC
-      description: OVERVIEW TransPerfect helps organizations navigate the global
-        marketplace. It remains founder-led – and has striven to maintain the
-        ethos and drive that led them to grow organically year-on-year for the
-        past 30 years. Starting in an NYU dorm room in the early 1990s,
-        TransPerfect is today recognized as the largest translation and language
-        services company in the world with thousands of employees located in
-        100+ offices around the world – and over $1 billion in revenue in 2023.
-        &nbsp; The TransPerfect TechOps team has been a vital part of the
-        company’s success since its formation 10 years ago – delivering
-        technology and services that have drastically simplified the lives of
-        our clients and colleagues – from workflow improvements for colleagues,
-        to core services that form the basis of the company’s GlobalLink
-        platform, to creating scalable client interfaces that allow novice users
-        to navigate complex ecosystems. DESCRIPTION
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Work closely with the Product
-        Manager to align on product strategy and roadmap
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support the product roadmap that
-        meets user needs and corporate goals
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Write detailed user stories and
-        acceptance criteria ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prioritize and
-        groom the product backlog ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support
-        the product lifecycle from planning to release
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Participate in daily/weekly
-        (agile/scrum) software development process meetings
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support delivery schedules and
-        coordinate across cross-functional teams comprised of product, design,
-        development and QA, to deliver functional solutions
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Communicate daily with the
-        cross-functional team to clarify any questions and remove roadblocks
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support and evaluate product
-        progress at each stage of the software development process
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Perform any other special tasks
-        that are deemed appropriate for this role as assigned by the
-        manager/supervisor
-      score: 92
-      skill_hits: 5
-      bucket_id: pm_product
-      fetched_at: 2026-09-30T21:35:30.734Z
-      pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 29
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: TransPerfect
-      title: Associate Product Manager
-      location: Pune, Mahārāshtra, India, Pune, India
-      url: https://transperfect.com/o/associate-product-manager-1
-      updated_at: 2026-07-30 23:25:59 UTC
-      description: OVERVIEW
-        TransPerfect&nbsp;helps&nbsp;organizations&nbsp;navigate&nbsp;the&nbsp;global&nbsp;marketplace.&nbsp;It&nbsp;remains&nbsp;founder-led&nbsp;–&nbsp;and&nbsp;has&nbsp;striven&nbsp;to&nbsp;maintain&nbsp;the&nbsp;ethos&nbsp;and&nbsp;drive&nbsp;that&nbsp;led&nbsp;them&nbsp;to&nbsp;grow&nbsp;organically&nbsp;year-on-year&nbsp;for&nbsp;the&nbsp;past&nbsp;30&nbsp;years.&nbsp;Starting&nbsp;in&nbsp;an&nbsp;NYU&nbsp;dorm&nbsp;room&nbsp;in&nbsp;the&nbsp;early&nbsp;1990s,&nbsp;TransPerfect&nbsp;is&nbsp;today&nbsp;recognized&nbsp;as&nbsp;the&nbsp;largest&nbsp;translation&nbsp;and&nbsp;language&nbsp;services&nbsp;company&nbsp;in&nbsp;the&nbsp;world&nbsp;with&nbsp;thousands&nbsp;of&nbsp;employees&nbsp;located&nbsp;in&nbsp;100+&nbsp;offices&nbsp;around&nbsp;the&nbsp;world&nbsp;–&nbsp;and&nbsp;over&nbsp;$1&nbsp;billion&nbsp;in&nbsp;revenue&nbsp;in&nbsp;2023.
-        The&nbsp;TransPerfect&nbsp;TechOps&nbsp;team&nbsp;has&nbsp;been&nbsp;a&nbsp;vital&nbsp;part&nbsp;of&nbsp;the&nbsp;company’s&nbsp;success&nbsp;since&nbsp;its&nbsp;formation&nbsp;10&nbsp;years&nbsp;ago&nbsp;–&nbsp;delivering&nbsp;technology&nbsp;and&nbsp;services&nbsp;that&nbsp;have&nbsp;drastically&nbsp;simplified&nbsp;the&nbsp;lives&nbsp;of&nbsp;our&nbsp;clients&nbsp;and&nbsp;colleagues&nbsp;–&nbsp;from&nbsp;workflow&nbsp;improvements&nbsp;for&nbsp;colleagues,&nbsp;to&nbsp;core&nbsp;services&nbsp;that&nbsp;form&nbsp;the&nbsp;basis&nbsp;of&nbsp;the&nbsp;company’s&nbsp;GlobalLink&nbsp;platform,&nbsp;to&nbsp;creating&nbsp;scalable&nbsp;client&nbsp;interfaces&nbsp;that&nbsp;allow&nbsp;novice&nbsp;users&nbsp;to&nbsp;navigate&nbsp;complex&nbsp;ecosystems.
-        DESCRIPTION
-        Work&nbsp;closely&nbsp;with&nbsp;the&nbsp;Product&nbsp;Manager&nbsp;to&nbsp;align&nbsp;on&nbsp;product&nbsp;strategy&nbsp;and&nbsp;roadmap
-        Support&nbsp;the&nbsp;product&nbsp;roadmap&nbsp;that&nbsp;meets&nbsp;user&nbsp;needs&nbsp;and&nbsp;corporate&nbsp;goals
-        Write&nbsp;detailed&nbsp;user&nbsp;stories&nbsp;and&nbsp;acceptance&nbsp;criteria
-        Prioritize&nbsp;and&nbsp;groom&nbsp;the&nbsp;product&nbsp;backlog
-        Support&nbsp;the&nbsp;product&nbsp;lifecycle&nbsp;from&nbsp;planning&nbsp;to&nbsp;release
-        Participate&nbsp;in&nbsp;daily/weekly&nbsp;(agile/scrum)&nbsp;software&nbsp;development&nbsp;process&nbsp;meetings
-        Support&nbsp;delivery&nbsp;schedules&nbsp;and&nbsp;coordinate&nbsp;across&nbsp;cross-functional&nbsp;teams&nbsp;comprised&nbsp;of&nbsp;product,&nbsp;design,&nbsp;development&nbsp;and&nbsp;QA,&nbsp;to&nbsp;deliver&nbsp;functional&nbsp;solutions
-        Communicate&nbsp;daily&nbsp;with&nbsp;the&nbsp;cross-functional&nbsp;team&nbsp;to&nbsp;clarify&nbsp;any&nbsp;questions&nbsp;and&nbsp;remove&nbsp;roadblocks
-        Support&nbsp;and&nbsp;evaluate&nbsp;product&nbsp;progress&nbsp;at&nbsp;each&nbsp;stage&nbsp;of&nbsp;the&nbsp;software&nbsp;development&nbsp;process
-        Perform&nbsp;any&nbsp;other&nbsp;special&nbsp;tasks&nbsp;that&nbsp;are&nbsp;deemed&nbsp;appropriate&nbsp;for&nbsp;this&nbsp;role&nbsp;as&nbsp;assigned&nbsp;by&nbsp;the&nbsp;manager/supervisor
-        REQUIRED&nbsp;SKILLS
-        Minimum&nbsp;Bachelor’s&nbsp;degree&nbsp;or&nbsp;its&nbsp;equivalent
-        1-2&nbsp;years&nbsp;of&nbsp;related&nbsp;experience&nbsp;in&nbsp;working&nbsp;in&nbsp;an&nbsp;agile&nbsp;development&nbsp;environment
-        A&nbsp;solid&nbsp;working&nbsp;knowledge&nbsp;of&nbsp;the&nbsp;product&nbsp;management&nbsp;lifecycle&nbsp;and&nbsp;an&nbsp;understanding&nbsp;of&nbsp;the&nbsp;tenets&nbsp;of&nbsp;software&nbsp;development&nbsp;using&nbsp;Agile&nbsp;methodologies
-        Experience&nbsp;managing&nbsp;products&nbsp;or&nbsp;projects&nbsp;using&nbsp;project&nbsp;management&nbsp;tools&nbsp;such&nbsp;as&nbsp;Jira,&nbsp;Azure&nbsp;DevOps&nbsp;Server,&nbsp;Confluence,&nbsp;Trello,&nbsp;etc.&nbsp;
-        Expert&nbsp;communication&nbsp;skills:&nbsp;ability&nbsp;to&nbsp;manage&nbsp;stakeholders’&nbsp;expectations,&nbsp;be&nbsp;prepared&nbsp;to&nbsp;justify&nbsp;delays&nbsp;or&nbsp;scope&nbsp;changes,&nbsp;and&nbsp;communicate&nbsp;technical&nbsp;information&nbsp;to&nbsp;business&nbsp;stakeholders&nbsp;in&nbsp;an&nbsp;easy&nbsp;to&nbsp;understand&nbsp;way
-      score: 90
-      skill_hits: 5
-      bucket_id: pm_product
-      fetched_at: 2026-09-30T21:35:30.734Z
-      pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 29
-      is_stale: true
-    - source: arbeitnow
-      source_note: ""
-      company: Contabo
-      title: Senior Cloud Product Manager (all genders)
-      location: Remote (Germany)
-      url: https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-cloud-product-manager-all-genders-91170
-      updated_at: 1790788155
-      description: "Your creative field We are looking for a full-time, permanent
-        Senior Cloud Product Manager (all genders) to start as soon as possible.
-        We live remote-first (within Germany), but you have the freedom to
-        choose whether you want to work hybrid or completely on-site due to your
-        proximity to one of our locations (Berlin, Cologne, Hamburg, Munich). As
-        a Senior Cloud Product Manager at Contabo, you're stepping into a role
-        that doesn't come around often: you help build a new product from the
-        ground up – a greenfield venture inside an established company,
-        expanding our portfolio into a new market segment. You are the voice of
-        the market and our customers: you establish feedback channels with
-        customer and support teams, translate market and customer needs into a
-        compelling product vision, and take end-to-end ownership of the product
-        roadmap – from high-level planning through prioritisation to delivery,
-        in close alignment with our PMO. You work in a small, focused team of
-        experts where speed matters: build fast, test fast, learn fast – with AI
-        tools firmly embedded in our daily work, enabling the pace a venture
-        like this demands. You refine ideas until the development teams can
-        implement them with confidence, sequence roadmap items for maximum
-        impact, and shape the best possible user experience together with your
-        UX tandem partner. You don't shy away from technical discussions – you
-        seek them out: you understand the product architecture across the full
-        stack and keep asking \"why\" until even hidden blockers are on the
-        table – and resolved quickly. Because the product is new but the company
-        isn't, you hook into existing processes – in finance and infrastructure,
-        for example – and build new ones where gaps remain. You present progress
-        and updates to stakeholders across development, sales, support,
-        marketing, and leadership, acting as their central point of contact. In
-        the medium term, you establish a product-driven roadmap spanning at
-        least two years, along with KPIs that make the platform's success
-        measurable. The role is built for a high degree of autonomy: you report
-        directly to the Head of Product and work independently, driven by
-        results – with no micromanagement, in either direction. What convinces
-        us Your personality, paired with: Extensive senior-level experience in
-        product management, ideally in a cloud or IT infrastructure environment
-        Proven end-to-end ownership of a product roadmap – from strategy through
-        to delivery, not just in a supporting role A solid technical
-        understanding of cloud-native architecture (containers, Kubernetes,
-        microservices, cloud infrastructure) – you can hold your own in
-        discussions with developers Experience with data-driven prioritisation
-        and A/B testing, as well as agile frameworks (Scrum or similar) Proven
-        experience acting as the central point of contact between engineering,
-        sales, support, and leadership Confident, natural use of AI tools in
-        your daily work – from product ideation to everyday tasks A high degree
-        of independence and composure in a greenfield environment full of
-        ambiguity – you don't need a task list, you create it The ability to
-        quickly build deep understanding of new domains, products, and
-        technologies Experience with pricing and packaging (a plus) Professional
-        fluency in English (our working language); German language skills,
-        product management certifications (e.g. CSPO, Pragmatic Institute), and
-        a degree in Business, Computer Science, or Engineering are a plus
-        Awesome Prospects At Contabo, we are constantly evolving. Our growth
-        creates space for new ideas, ownership, and real impact for people who
-        want to make a difference. What defines us is trust, direct
-        communication, and an open feedback culture. We believe the best
-        solutions are built together and that everyone has the opportunity to
-        contribute, grow, and leave their own footprint. Additionally, we offer:
-        Work the way that fits your life – Remote or hybrid with flexible hours
-        for a healthy work-life balance and the same technical equipment at home
-        as in the office Experience real freedom – Workation across the EU and
-        in our summer office in Mallorca Stay active and healthy – Access to
-        EGYM Wellpass and thousands of fitness and wellness facilities Enjoy
-        exclusive perks – Attractive discounts on many products and services
-        through our corporate benefits program Recharge your energy – 30 days of
-        vacation plus additional days off on Christmas Eve and New Year’s Eve
-        Give back – An extra day off to get involved in social activities
-        through our Volunteer Day Make an impact – Take ownership and bring your
-        ideas to life with real creative freedom Keep growing – Individual
-        professional and personal development opportunities in an innovative
-        tech environment Feel comfortable where you work – Modern, conveniently
-        located offices across our European locations Be part of a diverse team
-        – Work in an international environment shaped by diversity Create
-        lasting memories – Company events and team activities you won’t forget
-        How to reach us If you have any questions, you can reach out to Max by
-        email at . Find Jobs in Germany on Arbeitnow"
-      job_types:
-        - Experienced
-        - Permanent
-        - Full time
-      remote: false
-      score: 86
-      skill_hits: 4
-      bucket_id: pm_product
-      fetched_at: 2026-09-30T21:35:30.734Z
-      pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 29
-      is_stale: true
-    - source: arbeitnow
-      source_note: ""
-      company: wolt
-      title: Product Manager, Courier Delivery Experience
-      location: Berlin
-      url: https://www.arbeitnow.com/jobs/companies/wolt/product-manager-courier-delivery-experience-berlin-151062
-      updated_at: 1790780140
-      description: "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;span
-        data-sheets-root=&quot;1&quot;&gt;About Wolt&lt;/span&gt;&lt;/h2&gt;
-        &lt;p&gt;&lt;span data-sheets-root=&quot;1&quot;&gt;At Wolt, we create
-        technology that brings joy, simplicity and earnings to the neighborhoods
-        of the world. In 2014 we started with delivery of restaurant food. Now
-        we’re building the delivery of (almost) everything and you’ll find us in
-        over 500 cities in 30 countries around the world. In 2022 we joined
-        forces with DoorDash and together we keep on dreaming big and expanding
-        across the globe.&lt;br&gt;&lt;br&gt;Working at Wolt isn’t always easy,
-        but it’s definitely exciting. Here you’ll learn more, build more, and
-        ship more than in most other companies. You’ll be challenged a lot, but
-        also have a lot of fun on the way. So, if you’re a self-starter with
-        drive and entrepreneurial spirit, this could be the ride of your
-        life.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;We seek a Product
-        Manager to join our Courier and Delivery Experience (CDX) team. This
-        role will focus on ensuring world-class courier and consumer delivery
-        experiences while continually evolving the delivery process with a
-        future-oriented mindset. The Courier and Delivery Experience team owns
-        the experiences that elevate every Wolt delivery, from the moment a
-        courier opens the app to every order they accept, all the way to
-        dropping an order off at the customer’s doorstep. The team sits at the
-        intersection of a multi-sided marketplace product, real-world
-        operations, and safety, and the work directly moves how reliable Wolt
-        feels to consumers and how satisfied our couriers are when
-        delivering.&lt;/p&gt; &lt;p&gt;You will play a crucial role in shaping
-        the courier experience, ensuring that our couriers feel valued and
-        supported while enhancing the efficiency of deliveries. By blending
-        operational expertise with a deep understanding of courier needs, you
-        will improve the user journey from onboarding couriers to completing
-        deliveries. From designing new features that boost courier satisfaction
-        to refining delivery processes, your work will contribute to key metrics
-        across courier engagement, performance, and satisfaction. You will also
-        be influential in shaping the evolution of the live delivery experience
-        for our courier partners, the merchant courier interaction at pickup and
-        the consumer courier interaction at the doorstep via the Courier app
-        surfaces.&amp;nbsp;&lt;/p&gt; &lt;p&gt;The ideal candidate will have an
-        exceptional track record in product management, with proven success in
-        working with cross-functional teams across engineering, design, product,
-        and operations. You will define the vision and roadmap for courier and
-        delivery experiences across multiple projects. Working in partnership
-        with business stakeholders, you will also collaborate on cross-team
-        initiatives, contributing to the broader business strategy while
-        ensuring a deep understanding of the courier experience.&lt;/p&gt;
-        &lt;p&gt;Join us in shaping the future of delivery, where every delivery
-        is an opportunity for delight and loyalty.&lt;/p&gt;
-        &lt;h2&gt;&lt;strong&gt;Our humble
-        expectations&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;You could come to this
-        role from various backgrounds, but ideally, you bring:&lt;/p&gt;
-        &lt;ul&gt; &lt;li&gt;Several years of experience in product management,
-        specializing in consumer-facing products&lt;/li&gt; &lt;li&gt;Expertise
-        in developing user-centric products, with the ability to address complex
-        user experience-related challenges.&lt;/li&gt; &lt;li&gt;Demonstrated
-        expertise in supporting cross-functional teams and fostering operational
-        excellence in fast-paced, high-demand industries.&lt;/li&gt;
-        &lt;li&gt;Proven track record in building products influencing
-        cross-functional teams, including engineering, data, design, and
-        operations.&lt;/li&gt; &lt;li&gt;High ownership and collaborative
-        capabilities, making thoughtful decisions, and focusing on product
-        details to ensure execution aligns with the vision.&lt;/li&gt;
-        &lt;li&gt;Strong ability to define, execute, and measure meaningful
-        OKRs, ensuring alignment with company-wide goals and fostering bottom-up
-        alignment from your team.&lt;/li&gt; &lt;li&gt;Ability to focus on the
-        bigger picture, creating solutions that benefit couriers, operations,
-        and customer experiences across the organization.&lt;/li&gt;
-        &lt;li&gt;Excellent stakeholder management skills, able to work
-        effectively with diverse internal teams and external partners, while
-        confidently engaging with leadership in a high-visibility
-        role&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;The position will be filled as soon
-        as we find the right person, so make sure to apply as soon as you
-        realize you really, really want to join us!&lt;/p&gt; &lt;p&gt;The
-        compensation will be a negotiable combination of monthly pay and
-        DoorDash RSUs. The latter makes it exceptionally easy to be excited
-        about our company growing and doing well, as you’ll own a piece of the
-        pie.&lt;/p&gt; &lt;p&gt;&lt;iframe
-        src=&quot;https://www.youtube.com/embed/Ncz4s_oBczc?si=FzuwoSOLcv5WZVRN\
-        &quot; width=&quot;560&quot;
-        height=&quot;314&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;div
-        class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;span
-        data-sheets-root=&quot;1&quot;&gt;Our Commitment to Diversity and
-        Inclusion&lt;/span&gt;&lt;/h2&gt; &lt;p&gt;&lt;span
-        data-sheets-root=&quot;1&quot;&gt;We’re committed to growing and
-        empowering a more inclusive community within our company, industry, and
-        cities. That’s why we hire and cultivate diverse teams of people from
-        all backgrounds, experiences, and perspectives. We believe that true
-        innovation happens when everyone has room at the table and the tools,
-        resources, and opportunity to excel.&lt;/span&gt;&lt;/p&gt;
-        &lt;p&gt;&lt;em&gt;Beware of recruitment scams: DoorDash, Deliveroo, and
-        Wolt will never ask you to pay money or share sensitive financial
-        information during hiring — learn more about our legitimate recruiting
-        process at &lt;span class=&quot;_80om1qgj _1e0c1nu9&quot;
-        data-testid=&quot;smart-link-draggable-inline&quot;&gt;&lt;span
-        class=&quot;loader-wrapper&quot;&gt;&lt;span
-        class=&quot;hover-card-trigger-wrapper&quot;
-        data-testid=&quot;hover-card-trigger-wrapper&quot;&gt;&lt;a
-        class=&quot;_1yt4x7n9 _2rko1ssi _v56415x0 _1e0c1nu9 _16d9qvcn _syaz13af
-        _1rkwglyw _4cvx1w55 _19itia51 _bfhkhp5a _1a3b18uv _4fprglyw _5goinqa1
-        _9oik18uv _1bnxglyw _jf4cnqa1 _1nrm18uv _c2waglyw _1iohnqa1 _uizt1kdv
-        _nt751r31 _49pcglyw _1hvw1o36 _1372tlke _7ehiw5lj _1j5pglyw
-        _1di615s3&quot;
-        href=&quot;https://careersatdoordash.com/recruitment-scam-awareness&quo\
-        t; data-testid=&quot;inline-card-resolved-view&quot;&gt;&lt;span
-        class=&quot;_19itglyw _vchhusvi _r06hglyw _o5721jtm _1nmz9jpi _16d9qvcn
-        _ca0qv77o _u5f31b66 _n3tdv77o _19bv1b66&quot;
-        data-testid=&quot;inline-card-icon-and-title&quot;&gt;&lt;span
-        class=&quot;_19itglyw _vchhusvi _r06hglyw&quot;&gt;Recruitment Scam
-        Awareness -
-        DoorDash&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&\
-        lt;/span&gt; .&lt;/em&gt;&lt;/p&gt;&lt;/div&gt; Find Jobs in Germany on
-        Arbeitnow"
-      job_types: []
-      remote: false
-      score: 84
-      skill_hits: 3
-      bucket_id: pm_product
-      fetched_at: 2026-09-30T21:35:30.734Z
-      pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 29
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: TransPerfect
-      title: Technical Product Manager
-      location: Pune, Mahārāshtra, India, Pune, India
-      url: https://transperfect.com/o/technical-product-manager
-      updated_at: 2026-07-30 15:08:53 UTC
-      description: "OVERVIEW TransPerfect helps the world's leading brands thrive in
-        the global marketplace by offering a full range of solutions to ensure
-        the success of digital and mobile initiatives. Working in 170+
-        languages, our services include website and software localization, QA
-        and testing, international SEO/SEM, customer service and call center
-        solutions, multicultural marketing, multimedia services, and more.
-        RESPOSIBILITES: TransPerfect is seeking a Technical Product Manager to
-        manage and own the product lifecycle for integration frameworks for CMS
-        &amp; e-commerce systems. This position will work with internal
-        development and QA teams and vendor partners to build integrations into
-        GlobalLink - our flagship cloud-based translation management platform.
-        We are looking for forward-thinking professionals who are more
-        interested in how things could become and who can thrive in an evolving
-        and fast-paced environment. Manage the entire product life cycle which
-        includes: Manage professional services engagements and prepare SOWs for
-        all existing customers Explore product functionality and recommend best
-        strategy to integrate Evaluate APIs and GraphQL endpoints and devise an
-        integration approach Individually carry out product deliveries from
-        inception to product roll out Design/create detailed technical
-        specifications for functional requirements Closely monitor development
-        and QA progress for ontime deliverables Do active review of test
-        strategy Planning continuous upgrades for new features Collaborate with
-        multiple teams in multiple time zones including product managers,
-        engineers, solutions engineers, QA and customers for product strategy
-        &amp; roadmap. Participate in UI/UX design. Review Documentation updates
-        Analyze application logs and debug technical issues to identify root
-        causes in collaboration with engineering teams Perform competitor
-        analysis and benchmarks and ensure that your product is always ahead of
-        the curve"
-      score: 80
-      skill_hits: 2
-      bucket_id: pm_product
-      fetched_at: 2026-09-30T21:35:30.734Z
-      pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 29
-      is_stale: true
-    - source: arbeitnow
-      source_note: ""
-      company: Getquin
-      title: Senior Product Manager, Wealth & AI (f/m/d)
-      location: Berlin
-      url: https://www.arbeitnow.com/jobs/companies/getquin/senior-product-manager-wealth-ai-berlin-387564
-      updated_at: 1790798988
-      description: "What we do At getquin, we're on a mission to empower everyone to
-        build wealth. Founded in 2020, we started with a simple idea: help
-        people see their entire financial life in one place, so they can make
-        more informed decisions. Today, getquin has grown into one of the
-        largest wealth platforms globally, already helping over half a million
-        users manage and grow their wealth. Our platform combines analytics,
-        tools and community to make wealth-building accessible for everyone, not
-        just the experts. After launching in Germany, we've started expanding
-        across Europe, with a focus on growing our user base, building valuable
-        new features and helping even more people take control of their
-        financial future. If you're excited to help shape the future of personal
-        wealth management, join us. We're just getting started. What you'll be
-        doing You've built products for investors. You know what a TER actually
-        does to a long-run return, why a user with four brokers has no visbility
-        what they really own, and how differently people behave when the number
-        on screen is their pension rather than their pocket money. You've
-        probably also hit the ceiling of what a chart can tell someone. Better
-        tables, more filters, another allocation donut. The data was always
-        there; the answer never quite arrived. We have something nobody else
-        has: a complete, cross-institution picture of a person's wealth.
-        Investments, cash, liabilities and insurance contracts, in one place,
-        for over half a million users. Your work is turning that into features
-        and insights people understand and act on, and the interesting tools for
-        doing that now include AI. We're looking for an experienced Senior
-        Product Manager to own that area. You'll work directly with the founders
-        and the product team, alongside engineering and our financial advisory
-        teams. This is a senior individual contributor role with no direct
-        reports, and you'll mentor less experienced product managers on the
-        team. Own the wealth product area end to end Set the product strategy
-        and roadmap across the picture we give people of their wealth and how we
-        help them optimize it Decide what we build on aggregated portfolio data
-        that nobody with a single-broker view could build at all Own our efforts
-        to stay on the forefront of digital wealth management services and play
-        your part in disrupting a still very offline industry Work the
-        unglamorous, high-leverage problems too: data quality, coverage gaps,
-        missing cost basis, duplicate holdings across connections, ETFs held
-        through more than one broker. A portfolio insight is only as trustworthy
-        as the numbers under it Turn the data into something users act on Define
-        the insights we surface about someone's portfolio, cash position and
-        risk, and why each one earns a place on their screen Own our
-        conversational AI assistant and our AI-driven insights: what they say,
-        what they refuse to say, and how a user knows which is which Set the
-        quality bar for anything we tell a user about their money: accuracy
-        targets, human review, guardrails, rollback. Decide when something is
-        good enough to ship and hold that line when the pressure is to ship
-        anyway Own the numbers Define the metrics for your area: activation,
-        engagement, the insight-to-action funnel, and contribution to
-        subscription conversion and retention Run the experiments, including
-        proper A/B testing, read them, and report what didn't work alongside
-        what did Live in your own product analytics and write your own queries
-        and reporting, rather than wait for someone to give that to you What we
-        are looking for You might be a fit if: You've built wealth management,
-        investing or portfolio products. You know the domain properly:
-        instruments, ETFs, costs, allocation, risk, tax drag, and how retail
-        investors actually behave rather than how they should. This is the
-        requirement we're least flexible on You've owned a product area end to
-        end against a number you defined yourself, with real experimentation
-        behind it You've shipped at least one AI or LLM-based feature to
-        production for real users, and you owned its output quality. You've
-        shipped inside a legal or compliance constraint, and you can reason
-        about where an insight becomes advice. Your product discovery produces
-        evidence, not opinion. You can show us a real research artefact and a
-        decision that changed because of it You're fluent in English; German is
-        a plus You can work from our Berlin office, and you already have the
-        right to work in Germany That usually adds up to around five or more
-        years in product, but we care about the evidence, not the year count. If
-        you came to product from engineering, data science, research, design,
-        financial services, or from a Product Owner role, that counts. Strong
-        plus if you have: PSD2, open banking or account aggregation experience
-        Insurance or brokerage product exposure, which matters as we move into
-        advisory Recommendation systems or personalisation at scale Subscription
-        and paywall experimentation Experience mentoring or coaching other
-        product managers Your own portfolio, and opinions about it If you meet
-        most of this and not all of it, apply. We'd rather read your application
-        than guess. Work authorisation This role requires an existing right to
-        work in Germany. We're not able to sponsor visas or support relocation
-        for this position, so we can only consider candidates who already hold
-        German or EU work authorisation, or who can obtain it independently.
-        We'd rather tell you now than after four conversations. What the first
-        six months look like Month 1: you know the data model, the aggregation
-        layer and its technology behind it. What our analytics do and don't
-        cover, and understand how AI is already being used and where it. You've
-        written down the three things you think are most wrong with the product
-        today Months 2 to 3: a written, agreed area strategy with a prioritised
-        roadmap, a primary metric with a baseline, and, clear metrics that you
-        will be monitoring and optimizing along the way Months 3 to 4: the first
-        thing you scoped is live to a user segment, with a read on the primary
-        metric, and with quality measurement behind it if it involves generated
-        output Months 5 to 6: two or three shipped iterations with measured
-        results, including the ones that didn't work, a quality bar the team
-        applies without you in the room, and at least one junior product manager
-        who's visibly better at their job because of you You won't be measured
-        on shipping volume. You'll be measured on whether your area got
-        measurably more useful and more trustworthy. Why join getquin? Why join
-        getquin? We're a fast-growing B2C fintech, and here, your work has real
-        impact. From day one, you'll take ownership of your domain, ship
-        features end-to-end, and help shape the direction of a product used
-        across Europe. We value initiative, ownership and creativity, not layers
-        of process. Three things that are specifically true of this role: Wealth
-        management is ripe for disruption. Following digitalisation waves of
-        banking and brokerage services, we are leading those efforts across the
-        next big topic for private individuals: better understand and optimize
-        your wealth The data asset is genuinely rare. Aggregated
-        cross-institution wealth for half a million people, with over +€25bn in
-        connected assets. Trade Republic sees its own platform. N26 sees the
-        current account. Nobody else in Europe sees the whole picture, which
-        means there are product questions you can only answer here You'll own
-        the area, not a slice of it. At our size the decisions are yours Ready
-        to build something meaningful? Then join us at the forefront of making
-        wealth building accessible to everyone. How we hire Five conversations,
-        typically three to four weeks from first call to decision. We tell you
-        where you stand after every step, and we respond within seven days at
-        every stage. Recruiter screen, 30 min, video. Role, scope, the salary
-        band, hybrid expectation, notice period, work authorisation. No trick
-        questions Hiring manager, 60 min, video. Your product area ownership,
-        the outcome you drove, and your depth in the wealth domain. This is the
-        first real fit conversation, in both directions Product case, take home.
-        We give you a real getquin problem on aggregated wealth data and work
-        through it together. We know you already have a job, hence we do not
-        impose an in-person case during working hours Cross-functional panel, 2
-        x 30 min, in our Berlin office. Cover in more depth your case study and
-        deep dive further in your understanding of product metrics and approach
-        to product development. Usually in person in our office. Close
-        conversation, 30 min. Team fit, how you like to work, and whatever is
-        still open, including your questions for a founder Along the last part
-        we will be making reference checks, but only with former employers. Once
-        we have this, we will make you a formal offer. The whole loop runs in
-        English. Tell us if you need any adjustment to the process, whether
-        timing, format or accessibility, and we'll make it. You don't need to
-        explain why. Find more English Speaking Jobs in Germany on Arbeitnow"
-      job_types:
-        - Experienced
-        - Permanent
-        - Full time
-      remote: false
-      score: 80
-      skill_hits: 2
-      bucket_id: pm_product
-      fetched_at: 2026-09-30T21:35:30.734Z
-      pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 29
-      is_stale: true
-    - source: arbeitnow
-      source_note: ""
-      company: wolt
-      title: Product Manager, Delivery Promise
-      location: Berlin
-      url: https://www.arbeitnow.com/jobs/companies/wolt/product-manager-delivery-promise-berlin-262783
-      updated_at: 1790780140
-      description: "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;span
-        data-sheets-root=&quot;1&quot;&gt;About Wolt&lt;/span&gt;&lt;/h2&gt;
-        &lt;p&gt;&lt;span data-sheets-root=&quot;1&quot;&gt;At Wolt, we create
-        technology that brings joy, simplicity and earnings to the neighborhoods
-        of the world. In 2014 we started with delivery of restaurant food. Now
-        we’re building the delivery of (almost) everything and you’ll find us in
-        over 500 cities in 30 countries around the world. In 2022 we joined
-        forces with DoorDash and together we keep on dreaming big and expanding
-        across the globe.&lt;br&gt;&lt;br&gt;Working at Wolt isn’t always easy,
-        but it’s definitely exciting. Here you’ll learn more, build more, and
-        ship more than in most other companies. You’ll be challenged a lot, but
-        also have a lot of fun on the way. So, if you’re a self-starter with
-        drive and entrepreneurial spirit, this could be the ride of your
-        life.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;We are looking for a
-        Product Manager to join our Product Management organization, working
-        with the Delivery Promise team. This is one of those parts of Wolt&#39;s
-        business that people don&#39;t always realize the complexity of.
-        Logistics is absolutely integral to Wolt, and doing it well can mean the
-        difference between delivering blissful customer experiences efficiently
-        and profitably vs. operational nightmares and a cacophony of late
-        deliveries.&amp;nbsp;&lt;/p&gt; &lt;p&gt;The Delivery Promise team is in
-        the Courier &amp;amp; Logistics Product group at Wolt. We&#39;re driving
-        the future with estimates that fuel our growth, flywheel, shaping
-        shopping decisions and streamlining deliveries. Our goal: boost
-        Wolt&#39;s growth and profitability by delivering reliable, precise time
-        estimates to customers and partners worldwide. In a nutshell, the team
-        is responsible for crafting accurate and reliable time estimates that
-        form a key part of the pre-checkout purchase experience for our
-        consumers, right from discovery to checkout. We employ advanced machine
-        learning models and innovative tools to craft delivery estimates
-        experienced by consumers across all business lines for
-        Wolt.&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt; &lt;p&gt;As the Product
-        Manager for the Delivery Promise team, your role will be integral in
-        ensuring that we provide the best delivery estimates for our consumers
-        while balancing the operational impact of fulfilling deliveries against
-        the promised estimates. You will be contributing significantly to
-        Wolt&#39;s goal of delightful customer experiences.&amp;nbsp;&lt;/p&gt;
-        &lt;p&gt;Join us in shaping the future of delivery, where every delivery
-        is an opportunity for delight and loyalty.&lt;/p&gt;
-        &lt;h2&gt;&lt;strong&gt;Our humble
-        expectations&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;You could come to this
-        role from various backgrounds, but ideally, you bring:&lt;/p&gt;
-        &lt;ul&gt; &lt;li&gt;Plenty of previous experience as a Product
-        Manager&amp;nbsp;&lt;/li&gt; &lt;li&gt;It’s a plus for you if you have a
-        background in Machine Learning or Data Science, since you would be
-        focused on optimizing our estimates across markets and consumer
-        cohorts.&amp;nbsp;&amp;nbsp;&lt;/li&gt; &lt;li&gt;Proven track record in
-        building products influencing cross-functional teams, including
-        engineering, data, design, and operations.&lt;/li&gt; &lt;li&gt;High
-        ownership and collaborative capabilities, making thoughtful decisions,
-        and focusing on product details to ensure execution aligns with the
-        vision.&lt;/li&gt; &lt;li&gt;Strong ability to define, execute, and
-        measure meaningful OKRs, ensuring alignment with company-wide goals and
-        fostering bottom-up alignment from your team.&lt;/li&gt;
-        &lt;li&gt;Ability to focus on the bigger picture, creating solutions
-        that benefit couriers, operations, and customer experiences across the
-        organization.&lt;/li&gt; &lt;li&gt;Excellent stakeholder management
-        skills, able to work effectively with diverse internal teams and
-        external partners, while confidently engaging with leadership in a
-        high-visibility role.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;The position will
-        be filled as soon as we find the right person, so make sure to apply as
-        soon as you realize you really, really want to join us!&lt;/p&gt;
-        &lt;p&gt;The compensation will be a negotiable combination of monthly
-        pay and DoorDash RSUs. The latter makes it exceptionally easy to be
-        excited about our company growing and doing well, as you’ll own a piece
-        of the pie.&lt;/p&gt; &lt;p&gt;&lt;iframe
-        src=&quot;https://www.youtube.com/embed/Ncz4s_oBczc?si=FzuwoSOLcv5WZVRN\
-        &quot; width=&quot;560&quot;
-        height=&quot;314&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;div
-        class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;span
-        data-sheets-root=&quot;1&quot;&gt;Our Commitment to Diversity and
-        Inclusion&lt;/span&gt;&lt;/h2&gt; &lt;p&gt;&lt;span
-        data-sheets-root=&quot;1&quot;&gt;We’re committed to growing and
-        empowering a more inclusive community within our company, industry, and
-        cities. That’s why we hire and cultivate diverse teams of people from
-        all backgrounds, experiences, and perspectives. We believe that true
-        innovation happens when everyone has room at the table and the tools,
-        resources, and opportunity to excel.&lt;/span&gt;&lt;/p&gt;
-        &lt;p&gt;&lt;em&gt;Beware of recruitment scams: DoorDash, Deliveroo, and
-        Wolt will never ask you to pay money or share sensitive financial
-        information during hiring — learn more about our legitimate recruiting
-        process at &lt;span class=&quot;_80om1qgj _1e0c1nu9&quot;
-        data-testid=&quot;smart-link-draggable-inline&quot;&gt;&lt;span
-        class=&quot;loader-wrapper&quot;&gt;&lt;span
-        class=&quot;hover-card-trigger-wrapper&quot;
-        data-testid=&quot;hover-card-trigger-wrapper&quot;&gt;&lt;a
-        class=&quot;_1yt4x7n9 _2rko1ssi _v56415x0 _1e0c1nu9 _16d9qvcn _syaz13af
-        _1rkwglyw _4cvx1w55 _19itia51 _bfhkhp5a _1a3b18uv _4fprglyw _5goinqa1
-        _9oik18uv _1bnxglyw _jf4cnqa1 _1nrm18uv _c2waglyw _1iohnqa1 _uizt1kdv
-        _nt751r31 _49pcglyw _1hvw1o36 _1372tlke _7ehiw5lj _1j5pglyw
-        _1di615s3&quot;
-        href=&quot;https://careersatdoordash.com/recruitment-scam-awareness&quo\
-        t; data-testid=&quot;inline-card-resolved-view&quot;&gt;&lt;span
-        class=&quot;_19itglyw _vchhusvi _r06hglyw _o5721jtm _1nmz9jpi _16d9qvcn
-        _ca0qv77o _u5f31b66 _n3tdv77o _19bv1b66&quot;
-        data-testid=&quot;inline-card-icon-and-title&quot;&gt;&lt;span
-        class=&quot;_19itglyw _vchhusvi _r06hglyw&quot;&gt;Recruitment Scam
-        Awareness -
-        DoorDash&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&\
-        lt;/span&gt; .&lt;/em&gt;&lt;/p&gt;&lt;/div&gt; Find Jobs in Germany on
-        Arbeitnow"
-      job_types: []
-      remote: false
-      score: 80
-      skill_hits: 2
-      bucket_id: pm_product
-      fetched_at: 2026-09-30T21:35:30.734Z
-      pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 29
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: Consultport
-      title: Product Manager (m/f/d)
-      location: Berlin, Berlin, Germany, Berlin, Germany
-      url: https://consultport.recruitee.com/o/product-manager-mfd
-      updated_at: 2026-09-15 08:12:42 UTC
-      description: Consultport is the leading digital platform that connects some of
-        the world's most iconic brands with world-class consultants. We're
-        scaling hard, and we need a PM obsessed with product-led growth (PLG).
-        This role is not about babysitting a roadmap but turning the product
-        itself into our best sales channel — removing friction, driving
-        activation, and making users fall in love before they ever talk to
-        sales.
-      score: 74
-      skill_hits: 1
-      bucket_id: pm_product
-      fetched_at: 2026-09-30T21:35:30.734Z
-      pulled_at: 2026-09-30T21:35:30.734Z
-      stale_days: 29
+      stale_days: 24
       is_stale: true
   scrum_agile:
     - source: arbeitnow
@@ -4712,8 +4434,8 @@ archive:
       score: 92
       skill_hits: 5
       bucket_id: pm_product
-      fetched_at: 2026-09-29T21:34:20.102Z
-      pulled_at: 2026-09-29T21:34:20.102Z
+      fetched_at: 2026-09-30T21:35:30.734Z
+      pulled_at: 2026-09-30T21:35:30.734Z
       stale_days: 30
       is_stale: true
     - source: recruitee
@@ -4746,8 +4468,226 @@ archive:
       score: 90
       skill_hits: 5
       bucket_id: pm_product
-      fetched_at: 2026-09-29T21:34:20.102Z
-      pulled_at: 2026-09-29T21:34:20.102Z
+      fetched_at: 2026-09-30T21:35:30.734Z
+      pulled_at: 2026-09-30T21:35:30.734Z
+      stale_days: 30
+      is_stale: true
+    - source: arbeitnow
+      source_note: ""
+      company: Contabo
+      title: Senior Cloud Product Manager (all genders)
+      location: Remote (Germany)
+      url: https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-cloud-product-manager-all-genders-91170
+      updated_at: 1790788155
+      description: "Your creative field We are looking for a full-time, permanent
+        Senior Cloud Product Manager (all genders) to start as soon as possible.
+        We live remote-first (within Germany), but you have the freedom to
+        choose whether you want to work hybrid or completely on-site due to your
+        proximity to one of our locations (Berlin, Cologne, Hamburg, Munich). As
+        a Senior Cloud Product Manager at Contabo, you're stepping into a role
+        that doesn't come around often: you help build a new product from the
+        ground up – a greenfield venture inside an established company,
+        expanding our portfolio into a new market segment. You are the voice of
+        the market and our customers: you establish feedback channels with
+        customer and support teams, translate market and customer needs into a
+        compelling product vision, and take end-to-end ownership of the product
+        roadmap – from high-level planning through prioritisation to delivery,
+        in close alignment with our PMO. You work in a small, focused team of
+        experts where speed matters: build fast, test fast, learn fast – with AI
+        tools firmly embedded in our daily work, enabling the pace a venture
+        like this demands. You refine ideas until the development teams can
+        implement them with confidence, sequence roadmap items for maximum
+        impact, and shape the best possible user experience together with your
+        UX tandem partner. You don't shy away from technical discussions – you
+        seek them out: you understand the product architecture across the full
+        stack and keep asking \"why\" until even hidden blockers are on the
+        table – and resolved quickly. Because the product is new but the company
+        isn't, you hook into existing processes – in finance and infrastructure,
+        for example – and build new ones where gaps remain. You present progress
+        and updates to stakeholders across development, sales, support,
+        marketing, and leadership, acting as their central point of contact. In
+        the medium term, you establish a product-driven roadmap spanning at
+        least two years, along with KPIs that make the platform's success
+        measurable. The role is built for a high degree of autonomy: you report
+        directly to the Head of Product and work independently, driven by
+        results – with no micromanagement, in either direction. What convinces
+        us Your personality, paired with: Extensive senior-level experience in
+        product management, ideally in a cloud or IT infrastructure environment
+        Proven end-to-end ownership of a product roadmap – from strategy through
+        to delivery, not just in a supporting role A solid technical
+        understanding of cloud-native architecture (containers, Kubernetes,
+        microservices, cloud infrastructure) – you can hold your own in
+        discussions with developers Experience with data-driven prioritisation
+        and A/B testing, as well as agile frameworks (Scrum or similar) Proven
+        experience acting as the central point of contact between engineering,
+        sales, support, and leadership Confident, natural use of AI tools in
+        your daily work – from product ideation to everyday tasks A high degree
+        of independence and composure in a greenfield environment full of
+        ambiguity – you don't need a task list, you create it The ability to
+        quickly build deep understanding of new domains, products, and
+        technologies Experience with pricing and packaging (a plus) Professional
+        fluency in English (our working language); German language skills,
+        product management certifications (e.g. CSPO, Pragmatic Institute), and
+        a degree in Business, Computer Science, or Engineering are a plus
+        Awesome Prospects At Contabo, we are constantly evolving. Our growth
+        creates space for new ideas, ownership, and real impact for people who
+        want to make a difference. What defines us is trust, direct
+        communication, and an open feedback culture. We believe the best
+        solutions are built together and that everyone has the opportunity to
+        contribute, grow, and leave their own footprint. Additionally, we offer:
+        Work the way that fits your life – Remote or hybrid with flexible hours
+        for a healthy work-life balance and the same technical equipment at home
+        as in the office Experience real freedom – Workation across the EU and
+        in our summer office in Mallorca Stay active and healthy – Access to
+        EGYM Wellpass and thousands of fitness and wellness facilities Enjoy
+        exclusive perks – Attractive discounts on many products and services
+        through our corporate benefits program Recharge your energy – 30 days of
+        vacation plus additional days off on Christmas Eve and New Year’s Eve
+        Give back – An extra day off to get involved in social activities
+        through our Volunteer Day Make an impact – Take ownership and bring your
+        ideas to life with real creative freedom Keep growing – Individual
+        professional and personal development opportunities in an innovative
+        tech environment Feel comfortable where you work – Modern, conveniently
+        located offices across our European locations Be part of a diverse team
+        – Work in an international environment shaped by diversity Create
+        lasting memories – Company events and team activities you won’t forget
+        How to reach us If you have any questions, you can reach out to Max by
+        email at . Find Jobs in Germany on Arbeitnow"
+      job_types:
+        - Experienced
+        - Permanent
+        - Full time
+      remote: false
+      score: 86
+      skill_hits: 4
+      bucket_id: pm_product
+      fetched_at: 2026-09-30T21:35:30.734Z
+      pulled_at: 2026-09-30T21:35:30.734Z
+      stale_days: 30
+      is_stale: true
+    - source: arbeitnow
+      source_note: ""
+      company: wolt
+      title: Product Manager, Courier Delivery Experience
+      location: Berlin
+      url: https://www.arbeitnow.com/jobs/companies/wolt/product-manager-courier-delivery-experience-berlin-151062
+      updated_at: 1790780140
+      description: "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;span
+        data-sheets-root=&quot;1&quot;&gt;About Wolt&lt;/span&gt;&lt;/h2&gt;
+        &lt;p&gt;&lt;span data-sheets-root=&quot;1&quot;&gt;At Wolt, we create
+        technology that brings joy, simplicity and earnings to the neighborhoods
+        of the world. In 2014 we started with delivery of restaurant food. Now
+        we’re building the delivery of (almost) everything and you’ll find us in
+        over 500 cities in 30 countries around the world. In 2022 we joined
+        forces with DoorDash and together we keep on dreaming big and expanding
+        across the globe.&lt;br&gt;&lt;br&gt;Working at Wolt isn’t always easy,
+        but it’s definitely exciting. Here you’ll learn more, build more, and
+        ship more than in most other companies. You’ll be challenged a lot, but
+        also have a lot of fun on the way. So, if you’re a self-starter with
+        drive and entrepreneurial spirit, this could be the ride of your
+        life.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;We seek a Product
+        Manager to join our Courier and Delivery Experience (CDX) team. This
+        role will focus on ensuring world-class courier and consumer delivery
+        experiences while continually evolving the delivery process with a
+        future-oriented mindset. The Courier and Delivery Experience team owns
+        the experiences that elevate every Wolt delivery, from the moment a
+        courier opens the app to every order they accept, all the way to
+        dropping an order off at the customer’s doorstep. The team sits at the
+        intersection of a multi-sided marketplace product, real-world
+        operations, and safety, and the work directly moves how reliable Wolt
+        feels to consumers and how satisfied our couriers are when
+        delivering.&lt;/p&gt; &lt;p&gt;You will play a crucial role in shaping
+        the courier experience, ensuring that our couriers feel valued and
+        supported while enhancing the efficiency of deliveries. By blending
+        operational expertise with a deep understanding of courier needs, you
+        will improve the user journey from onboarding couriers to completing
+        deliveries. From designing new features that boost courier satisfaction
+        to refining delivery processes, your work will contribute to key metrics
+        across courier engagement, performance, and satisfaction. You will also
+        be influential in shaping the evolution of the live delivery experience
+        for our courier partners, the merchant courier interaction at pickup and
+        the consumer courier interaction at the doorstep via the Courier app
+        surfaces.&amp;nbsp;&lt;/p&gt; &lt;p&gt;The ideal candidate will have an
+        exceptional track record in product management, with proven success in
+        working with cross-functional teams across engineering, design, product,
+        and operations. You will define the vision and roadmap for courier and
+        delivery experiences across multiple projects. Working in partnership
+        with business stakeholders, you will also collaborate on cross-team
+        initiatives, contributing to the broader business strategy while
+        ensuring a deep understanding of the courier experience.&lt;/p&gt;
+        &lt;p&gt;Join us in shaping the future of delivery, where every delivery
+        is an opportunity for delight and loyalty.&lt;/p&gt;
+        &lt;h2&gt;&lt;strong&gt;Our humble
+        expectations&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;You could come to this
+        role from various backgrounds, but ideally, you bring:&lt;/p&gt;
+        &lt;ul&gt; &lt;li&gt;Several years of experience in product management,
+        specializing in consumer-facing products&lt;/li&gt; &lt;li&gt;Expertise
+        in developing user-centric products, with the ability to address complex
+        user experience-related challenges.&lt;/li&gt; &lt;li&gt;Demonstrated
+        expertise in supporting cross-functional teams and fostering operational
+        excellence in fast-paced, high-demand industries.&lt;/li&gt;
+        &lt;li&gt;Proven track record in building products influencing
+        cross-functional teams, including engineering, data, design, and
+        operations.&lt;/li&gt; &lt;li&gt;High ownership and collaborative
+        capabilities, making thoughtful decisions, and focusing on product
+        details to ensure execution aligns with the vision.&lt;/li&gt;
+        &lt;li&gt;Strong ability to define, execute, and measure meaningful
+        OKRs, ensuring alignment with company-wide goals and fostering bottom-up
+        alignment from your team.&lt;/li&gt; &lt;li&gt;Ability to focus on the
+        bigger picture, creating solutions that benefit couriers, operations,
+        and customer experiences across the organization.&lt;/li&gt;
+        &lt;li&gt;Excellent stakeholder management skills, able to work
+        effectively with diverse internal teams and external partners, while
+        confidently engaging with leadership in a high-visibility
+        role&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;The position will be filled as soon
+        as we find the right person, so make sure to apply as soon as you
+        realize you really, really want to join us!&lt;/p&gt; &lt;p&gt;The
+        compensation will be a negotiable combination of monthly pay and
+        DoorDash RSUs. The latter makes it exceptionally easy to be excited
+        about our company growing and doing well, as you’ll own a piece of the
+        pie.&lt;/p&gt; &lt;p&gt;&lt;iframe
+        src=&quot;https://www.youtube.com/embed/Ncz4s_oBczc?si=FzuwoSOLcv5WZVRN\
+        &quot; width=&quot;560&quot;
+        height=&quot;314&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;div
+        class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;span
+        data-sheets-root=&quot;1&quot;&gt;Our Commitment to Diversity and
+        Inclusion&lt;/span&gt;&lt;/h2&gt; &lt;p&gt;&lt;span
+        data-sheets-root=&quot;1&quot;&gt;We’re committed to growing and
+        empowering a more inclusive community within our company, industry, and
+        cities. That’s why we hire and cultivate diverse teams of people from
+        all backgrounds, experiences, and perspectives. We believe that true
+        innovation happens when everyone has room at the table and the tools,
+        resources, and opportunity to excel.&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;em&gt;Beware of recruitment scams: DoorDash, Deliveroo, and
+        Wolt will never ask you to pay money or share sensitive financial
+        information during hiring — learn more about our legitimate recruiting
+        process at &lt;span class=&quot;_80om1qgj _1e0c1nu9&quot;
+        data-testid=&quot;smart-link-draggable-inline&quot;&gt;&lt;span
+        class=&quot;loader-wrapper&quot;&gt;&lt;span
+        class=&quot;hover-card-trigger-wrapper&quot;
+        data-testid=&quot;hover-card-trigger-wrapper&quot;&gt;&lt;a
+        class=&quot;_1yt4x7n9 _2rko1ssi _v56415x0 _1e0c1nu9 _16d9qvcn _syaz13af
+        _1rkwglyw _4cvx1w55 _19itia51 _bfhkhp5a _1a3b18uv _4fprglyw _5goinqa1
+        _9oik18uv _1bnxglyw _jf4cnqa1 _1nrm18uv _c2waglyw _1iohnqa1 _uizt1kdv
+        _nt751r31 _49pcglyw _1hvw1o36 _1372tlke _7ehiw5lj _1j5pglyw
+        _1di615s3&quot;
+        href=&quot;https://careersatdoordash.com/recruitment-scam-awareness&quo\
+        t; data-testid=&quot;inline-card-resolved-view&quot;&gt;&lt;span
+        class=&quot;_19itglyw _vchhusvi _r06hglyw _o5721jtm _1nmz9jpi _16d9qvcn
+        _ca0qv77o _u5f31b66 _n3tdv77o _19bv1b66&quot;
+        data-testid=&quot;inline-card-icon-and-title&quot;&gt;&lt;span
+        class=&quot;_19itglyw _vchhusvi _r06hglyw&quot;&gt;Recruitment Scam
+        Awareness -
+        DoorDash&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&\
+        lt;/span&gt; .&lt;/em&gt;&lt;/p&gt;&lt;/div&gt; Find Jobs in Germany on
+        Arbeitnow"
+      job_types: []
+      remote: false
+      score: 84
+      skill_hits: 3
+      bucket_id: pm_product
+      fetched_at: 2026-09-30T21:35:30.734Z
+      pulled_at: 2026-09-30T21:35:30.734Z
       stale_days: 30
       is_stale: true
     - source: recruitee
@@ -4789,8 +4729,274 @@ archive:
       score: 80
       skill_hits: 2
       bucket_id: pm_product
-      fetched_at: 2026-09-29T21:34:20.102Z
-      pulled_at: 2026-09-29T21:34:20.102Z
+      fetched_at: 2026-09-30T21:35:30.734Z
+      pulled_at: 2026-09-30T21:35:30.734Z
+      stale_days: 30
+      is_stale: true
+    - source: arbeitnow
+      source_note: ""
+      company: Getquin
+      title: Senior Product Manager, Wealth & AI (f/m/d)
+      location: Berlin
+      url: https://www.arbeitnow.com/jobs/companies/getquin/senior-product-manager-wealth-ai-berlin-387564
+      updated_at: 1790798988
+      description: "What we do At getquin, we're on a mission to empower everyone to
+        build wealth. Founded in 2020, we started with a simple idea: help
+        people see their entire financial life in one place, so they can make
+        more informed decisions. Today, getquin has grown into one of the
+        largest wealth platforms globally, already helping over half a million
+        users manage and grow their wealth. Our platform combines analytics,
+        tools and community to make wealth-building accessible for everyone, not
+        just the experts. After launching in Germany, we've started expanding
+        across Europe, with a focus on growing our user base, building valuable
+        new features and helping even more people take control of their
+        financial future. If you're excited to help shape the future of personal
+        wealth management, join us. We're just getting started. What you'll be
+        doing You've built products for investors. You know what a TER actually
+        does to a long-run return, why a user with four brokers has no visbility
+        what they really own, and how differently people behave when the number
+        on screen is their pension rather than their pocket money. You've
+        probably also hit the ceiling of what a chart can tell someone. Better
+        tables, more filters, another allocation donut. The data was always
+        there; the answer never quite arrived. We have something nobody else
+        has: a complete, cross-institution picture of a person's wealth.
+        Investments, cash, liabilities and insurance contracts, in one place,
+        for over half a million users. Your work is turning that into features
+        and insights people understand and act on, and the interesting tools for
+        doing that now include AI. We're looking for an experienced Senior
+        Product Manager to own that area. You'll work directly with the founders
+        and the product team, alongside engineering and our financial advisory
+        teams. This is a senior individual contributor role with no direct
+        reports, and you'll mentor less experienced product managers on the
+        team. Own the wealth product area end to end Set the product strategy
+        and roadmap across the picture we give people of their wealth and how we
+        help them optimize it Decide what we build on aggregated portfolio data
+        that nobody with a single-broker view could build at all Own our efforts
+        to stay on the forefront of digital wealth management services and play
+        your part in disrupting a still very offline industry Work the
+        unglamorous, high-leverage problems too: data quality, coverage gaps,
+        missing cost basis, duplicate holdings across connections, ETFs held
+        through more than one broker. A portfolio insight is only as trustworthy
+        as the numbers under it Turn the data into something users act on Define
+        the insights we surface about someone's portfolio, cash position and
+        risk, and why each one earns a place on their screen Own our
+        conversational AI assistant and our AI-driven insights: what they say,
+        what they refuse to say, and how a user knows which is which Set the
+        quality bar for anything we tell a user about their money: accuracy
+        targets, human review, guardrails, rollback. Decide when something is
+        good enough to ship and hold that line when the pressure is to ship
+        anyway Own the numbers Define the metrics for your area: activation,
+        engagement, the insight-to-action funnel, and contribution to
+        subscription conversion and retention Run the experiments, including
+        proper A/B testing, read them, and report what didn't work alongside
+        what did Live in your own product analytics and write your own queries
+        and reporting, rather than wait for someone to give that to you What we
+        are looking for You might be a fit if: You've built wealth management,
+        investing or portfolio products. You know the domain properly:
+        instruments, ETFs, costs, allocation, risk, tax drag, and how retail
+        investors actually behave rather than how they should. This is the
+        requirement we're least flexible on You've owned a product area end to
+        end against a number you defined yourself, with real experimentation
+        behind it You've shipped at least one AI or LLM-based feature to
+        production for real users, and you owned its output quality. You've
+        shipped inside a legal or compliance constraint, and you can reason
+        about where an insight becomes advice. Your product discovery produces
+        evidence, not opinion. You can show us a real research artefact and a
+        decision that changed because of it You're fluent in English; German is
+        a plus You can work from our Berlin office, and you already have the
+        right to work in Germany That usually adds up to around five or more
+        years in product, but we care about the evidence, not the year count. If
+        you came to product from engineering, data science, research, design,
+        financial services, or from a Product Owner role, that counts. Strong
+        plus if you have: PSD2, open banking or account aggregation experience
+        Insurance or brokerage product exposure, which matters as we move into
+        advisory Recommendation systems or personalisation at scale Subscription
+        and paywall experimentation Experience mentoring or coaching other
+        product managers Your own portfolio, and opinions about it If you meet
+        most of this and not all of it, apply. We'd rather read your application
+        than guess. Work authorisation This role requires an existing right to
+        work in Germany. We're not able to sponsor visas or support relocation
+        for this position, so we can only consider candidates who already hold
+        German or EU work authorisation, or who can obtain it independently.
+        We'd rather tell you now than after four conversations. What the first
+        six months look like Month 1: you know the data model, the aggregation
+        layer and its technology behind it. What our analytics do and don't
+        cover, and understand how AI is already being used and where it. You've
+        written down the three things you think are most wrong with the product
+        today Months 2 to 3: a written, agreed area strategy with a prioritised
+        roadmap, a primary metric with a baseline, and, clear metrics that you
+        will be monitoring and optimizing along the way Months 3 to 4: the first
+        thing you scoped is live to a user segment, with a read on the primary
+        metric, and with quality measurement behind it if it involves generated
+        output Months 5 to 6: two or three shipped iterations with measured
+        results, including the ones that didn't work, a quality bar the team
+        applies without you in the room, and at least one junior product manager
+        who's visibly better at their job because of you You won't be measured
+        on shipping volume. You'll be measured on whether your area got
+        measurably more useful and more trustworthy. Why join getquin? Why join
+        getquin? We're a fast-growing B2C fintech, and here, your work has real
+        impact. From day one, you'll take ownership of your domain, ship
+        features end-to-end, and help shape the direction of a product used
+        across Europe. We value initiative, ownership and creativity, not layers
+        of process. Three things that are specifically true of this role: Wealth
+        management is ripe for disruption. Following digitalisation waves of
+        banking and brokerage services, we are leading those efforts across the
+        next big topic for private individuals: better understand and optimize
+        your wealth The data asset is genuinely rare. Aggregated
+        cross-institution wealth for half a million people, with over +€25bn in
+        connected assets. Trade Republic sees its own platform. N26 sees the
+        current account. Nobody else in Europe sees the whole picture, which
+        means there are product questions you can only answer here You'll own
+        the area, not a slice of it. At our size the decisions are yours Ready
+        to build something meaningful? Then join us at the forefront of making
+        wealth building accessible to everyone. How we hire Five conversations,
+        typically three to four weeks from first call to decision. We tell you
+        where you stand after every step, and we respond within seven days at
+        every stage. Recruiter screen, 30 min, video. Role, scope, the salary
+        band, hybrid expectation, notice period, work authorisation. No trick
+        questions Hiring manager, 60 min, video. Your product area ownership,
+        the outcome you drove, and your depth in the wealth domain. This is the
+        first real fit conversation, in both directions Product case, take home.
+        We give you a real getquin problem on aggregated wealth data and work
+        through it together. We know you already have a job, hence we do not
+        impose an in-person case during working hours Cross-functional panel, 2
+        x 30 min, in our Berlin office. Cover in more depth your case study and
+        deep dive further in your understanding of product metrics and approach
+        to product development. Usually in person in our office. Close
+        conversation, 30 min. Team fit, how you like to work, and whatever is
+        still open, including your questions for a founder Along the last part
+        we will be making reference checks, but only with former employers. Once
+        we have this, we will make you a formal offer. The whole loop runs in
+        English. Tell us if you need any adjustment to the process, whether
+        timing, format or accessibility, and we'll make it. You don't need to
+        explain why. Find more English Speaking Jobs in Germany on Arbeitnow"
+      job_types:
+        - Experienced
+        - Permanent
+        - Full time
+      remote: false
+      score: 80
+      skill_hits: 2
+      bucket_id: pm_product
+      fetched_at: 2026-09-30T21:35:30.734Z
+      pulled_at: 2026-09-30T21:35:30.734Z
+      stale_days: 30
+      is_stale: true
+    - source: arbeitnow
+      source_note: ""
+      company: wolt
+      title: Product Manager, Delivery Promise
+      location: Berlin
+      url: https://www.arbeitnow.com/jobs/companies/wolt/product-manager-delivery-promise-berlin-262783
+      updated_at: 1790780140
+      description: "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;span
+        data-sheets-root=&quot;1&quot;&gt;About Wolt&lt;/span&gt;&lt;/h2&gt;
+        &lt;p&gt;&lt;span data-sheets-root=&quot;1&quot;&gt;At Wolt, we create
+        technology that brings joy, simplicity and earnings to the neighborhoods
+        of the world. In 2014 we started with delivery of restaurant food. Now
+        we’re building the delivery of (almost) everything and you’ll find us in
+        over 500 cities in 30 countries around the world. In 2022 we joined
+        forces with DoorDash and together we keep on dreaming big and expanding
+        across the globe.&lt;br&gt;&lt;br&gt;Working at Wolt isn’t always easy,
+        but it’s definitely exciting. Here you’ll learn more, build more, and
+        ship more than in most other companies. You’ll be challenged a lot, but
+        also have a lot of fun on the way. So, if you’re a self-starter with
+        drive and entrepreneurial spirit, this could be the ride of your
+        life.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;We are looking for a
+        Product Manager to join our Product Management organization, working
+        with the Delivery Promise team. This is one of those parts of Wolt&#39;s
+        business that people don&#39;t always realize the complexity of.
+        Logistics is absolutely integral to Wolt, and doing it well can mean the
+        difference between delivering blissful customer experiences efficiently
+        and profitably vs. operational nightmares and a cacophony of late
+        deliveries.&amp;nbsp;&lt;/p&gt; &lt;p&gt;The Delivery Promise team is in
+        the Courier &amp;amp; Logistics Product group at Wolt. We&#39;re driving
+        the future with estimates that fuel our growth, flywheel, shaping
+        shopping decisions and streamlining deliveries. Our goal: boost
+        Wolt&#39;s growth and profitability by delivering reliable, precise time
+        estimates to customers and partners worldwide. In a nutshell, the team
+        is responsible for crafting accurate and reliable time estimates that
+        form a key part of the pre-checkout purchase experience for our
+        consumers, right from discovery to checkout. We employ advanced machine
+        learning models and innovative tools to craft delivery estimates
+        experienced by consumers across all business lines for
+        Wolt.&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt; &lt;p&gt;As the Product
+        Manager for the Delivery Promise team, your role will be integral in
+        ensuring that we provide the best delivery estimates for our consumers
+        while balancing the operational impact of fulfilling deliveries against
+        the promised estimates. You will be contributing significantly to
+        Wolt&#39;s goal of delightful customer experiences.&amp;nbsp;&lt;/p&gt;
+        &lt;p&gt;Join us in shaping the future of delivery, where every delivery
+        is an opportunity for delight and loyalty.&lt;/p&gt;
+        &lt;h2&gt;&lt;strong&gt;Our humble
+        expectations&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;You could come to this
+        role from various backgrounds, but ideally, you bring:&lt;/p&gt;
+        &lt;ul&gt; &lt;li&gt;Plenty of previous experience as a Product
+        Manager&amp;nbsp;&lt;/li&gt; &lt;li&gt;It’s a plus for you if you have a
+        background in Machine Learning or Data Science, since you would be
+        focused on optimizing our estimates across markets and consumer
+        cohorts.&amp;nbsp;&amp;nbsp;&lt;/li&gt; &lt;li&gt;Proven track record in
+        building products influencing cross-functional teams, including
+        engineering, data, design, and operations.&lt;/li&gt; &lt;li&gt;High
+        ownership and collaborative capabilities, making thoughtful decisions,
+        and focusing on product details to ensure execution aligns with the
+        vision.&lt;/li&gt; &lt;li&gt;Strong ability to define, execute, and
+        measure meaningful OKRs, ensuring alignment with company-wide goals and
+        fostering bottom-up alignment from your team.&lt;/li&gt;
+        &lt;li&gt;Ability to focus on the bigger picture, creating solutions
+        that benefit couriers, operations, and customer experiences across the
+        organization.&lt;/li&gt; &lt;li&gt;Excellent stakeholder management
+        skills, able to work effectively with diverse internal teams and
+        external partners, while confidently engaging with leadership in a
+        high-visibility role.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;The position will
+        be filled as soon as we find the right person, so make sure to apply as
+        soon as you realize you really, really want to join us!&lt;/p&gt;
+        &lt;p&gt;The compensation will be a negotiable combination of monthly
+        pay and DoorDash RSUs. The latter makes it exceptionally easy to be
+        excited about our company growing and doing well, as you’ll own a piece
+        of the pie.&lt;/p&gt; &lt;p&gt;&lt;iframe
+        src=&quot;https://www.youtube.com/embed/Ncz4s_oBczc?si=FzuwoSOLcv5WZVRN\
+        &quot; width=&quot;560&quot;
+        height=&quot;314&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;div
+        class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;span
+        data-sheets-root=&quot;1&quot;&gt;Our Commitment to Diversity and
+        Inclusion&lt;/span&gt;&lt;/h2&gt; &lt;p&gt;&lt;span
+        data-sheets-root=&quot;1&quot;&gt;We’re committed to growing and
+        empowering a more inclusive community within our company, industry, and
+        cities. That’s why we hire and cultivate diverse teams of people from
+        all backgrounds, experiences, and perspectives. We believe that true
+        innovation happens when everyone has room at the table and the tools,
+        resources, and opportunity to excel.&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;em&gt;Beware of recruitment scams: DoorDash, Deliveroo, and
+        Wolt will never ask you to pay money or share sensitive financial
+        information during hiring — learn more about our legitimate recruiting
+        process at &lt;span class=&quot;_80om1qgj _1e0c1nu9&quot;
+        data-testid=&quot;smart-link-draggable-inline&quot;&gt;&lt;span
+        class=&quot;loader-wrapper&quot;&gt;&lt;span
+        class=&quot;hover-card-trigger-wrapper&quot;
+        data-testid=&quot;hover-card-trigger-wrapper&quot;&gt;&lt;a
+        class=&quot;_1yt4x7n9 _2rko1ssi _v56415x0 _1e0c1nu9 _16d9qvcn _syaz13af
+        _1rkwglyw _4cvx1w55 _19itia51 _bfhkhp5a _1a3b18uv _4fprglyw _5goinqa1
+        _9oik18uv _1bnxglyw _jf4cnqa1 _1nrm18uv _c2waglyw _1iohnqa1 _uizt1kdv
+        _nt751r31 _49pcglyw _1hvw1o36 _1372tlke _7ehiw5lj _1j5pglyw
+        _1di615s3&quot;
+        href=&quot;https://careersatdoordash.com/recruitment-scam-awareness&quo\
+        t; data-testid=&quot;inline-card-resolved-view&quot;&gt;&lt;span
+        class=&quot;_19itglyw _vchhusvi _r06hglyw _o5721jtm _1nmz9jpi _16d9qvcn
+        _ca0qv77o _u5f31b66 _n3tdv77o _19bv1b66&quot;
+        data-testid=&quot;inline-card-icon-and-title&quot;&gt;&lt;span
+        class=&quot;_19itglyw _vchhusvi _r06hglyw&quot;&gt;Recruitment Scam
+        Awareness -
+        DoorDash&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&\
+        lt;/span&gt; .&lt;/em&gt;&lt;/p&gt;&lt;/div&gt; Find Jobs in Germany on
+        Arbeitnow"
+      job_types: []
+      remote: false
+      score: 80
+      skill_hits: 2
+      bucket_id: pm_product
+      fetched_at: 2026-09-30T21:35:30.734Z
+      pulled_at: 2026-09-30T21:35:30.734Z
       stale_days: 30
       is_stale: true
     - source: recruitee
@@ -4810,26 +5016,11 @@ archive:
       score: 74
       skill_hits: 1
       bucket_id: pm_product
-      fetched_at: 2026-09-29T21:34:20.102Z
-      pulled_at: 2026-09-29T21:34:20.102Z
+      fetched_at: 2026-09-30T21:35:30.734Z
+      pulled_at: 2026-09-30T21:35:30.734Z
       stale_days: 30
       is_stale: true
-  scrum_agile:
-    - source: smartrecruiters
-      source_note: ""
-      company: NielsenIQ
-      title: Senior Agile Coach
-      location: Chennai, TN, India
-      url: https://api.smartrecruiters.com/v1/companies/nielseniq/postings/744000151787449
-      updated_at: 2026-09-25T08:19:03.536Z
-      description: ""
-      score: 74
-      skill_hits: 1
-      bucket_id: scrum_agile
-      fetched_at: 2026-09-29T21:34:20.102Z
-      pulled_at: 2026-09-29T21:34:20.102Z
-      stale_days: 30
-      is_stale: true
+  scrum_agile: []
   program_management: []
 meta:
   stale_after_days: 21
@@ -4841,8 +5032,8 @@ meta:
     personio_xml_feeds: 986
     smartrecruiters_companies: 40
     teamtailor_companies: 0
-    recruitee_companies: 78
-    ashby_organizations: 456
+    recruitee_companies: 79
+    ashby_organizations: 460
     stepstone_feeds: 0
     arbeitnow: 1
     remotive: 1
@@ -4855,13 +5046,13 @@ meta:
     official_career_pages: 20
     search_queries: 20
   stale_counts:
-    pm_product: 15
+    pm_product: 7
     scrum_agile: 0
     program_management: 0
   inactive_counts:
-    pm_product: 4
-    scrum_agile: 1
+    pm_product: 8
+    scrum_agile: 0
     program_management: 0
   timings_ms:
-    fetch: 224938
-    total: 263754
+    fetch: 156282
+    total: 177968
