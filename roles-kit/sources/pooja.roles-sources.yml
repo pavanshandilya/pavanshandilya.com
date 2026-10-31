@@ -1,4 +1,4 @@
-generated_at: 2026-10-30T21:43:02.097Z
+generated_at: 2026-10-31T20:36:52.691Z
 explicit:
   company_names:
     - SAP
@@ -1075,6 +1075,10 @@ discovered:
     - akur8
     - dust
     - pixalione
+    - bowatt
+    - pennylane
+    - microagi
+    - plasma
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -2652,6 +2656,10 @@ discovered:
     - wayflyer
     - akur8
     - dust
+    - bowatt
+    - pennylane
+    - microagi
+    - plasma
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
