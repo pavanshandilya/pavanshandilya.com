@@ -1,9 +1,701 @@
 schema_version: roles.v1
 profile_id: pooja
 profile_name: Pooja - product/scrum now, EM later
-generated_at: 2026-10-31T20:36:52.691Z
+generated_at: 2026-11-01T21:23:26.114Z
 buckets:
   pm_product:
+    - source: arbeitnow
+      source_note: ""
+      company: Shopfully
+      title: Senior Product Manager
+      location: ""
+      url: https://www.arbeitnow.com/jobs/companies/shopfully/senior-product-manager-481060
+      updated_at: 1793537716
+      description: "&lt;div
+        class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;We are the
+        platform turning browsing into shopping&lt;/strong&gt;. We connect 200
+        million shoppers with deals they love while boosting local sales for
+        hundreds of top retailers and brands.&lt;/p&gt; &lt;p&gt;We help
+        consumers save time and money while making smart shopping decisions, and
+        we support retailers and brands in engaging customers from online
+        research to in-store purchases.&lt;/p&gt; &lt;p&gt;In 2024, Shopfully
+        joined forces with the North American company &lt;a
+        href=&quot;https://corp.flipp.com/&quot;&gt;Flipp&lt;/a&gt;, creating a
+        global leader in the sector. Together, we reach 400 million households
+        and serve over 1,000 top retailers and brands across 27 markets,
+        including Europe, Canada, the USA, Latin America, and
+        Australia.&lt;/p&gt; &lt;p&gt;Ready
+        to&amp;nbsp;&lt;strong&gt;spark&lt;/strong&gt; your growth with
+        us?&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;WHO WE LOOK
+        FOR&lt;/strong&gt;&lt;strong&gt; 🦄&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;Flipp + Shopfully’s Product team focuses on driving adoption
+        and revenue of our products by identifying the biggest market
+        opportunities, building the case for investing in them, and shipping
+        solutions with engineering, all while representing the voice of our
+        merchant customers.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the
+        role&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Senior Product Manager is a
+        senior, commercially minded product leader who already understands
+        digital advertising. This role requires a strong strategic thinker with
+        good business sense and solid hands-on product skills who leads
+        opportunity identification, builds decision-ready business cases, and
+        works with engineering to ship.&lt;/p&gt; &lt;p&gt;You will work closely
+        with Sales, Engineering, Data, and Marketing teams across markets to
+        align on key business objectives. By combining market insight, customer
+        feedback, and industry trends, you will make sure our products resonate
+        with merchants and drive growth. We’re looking for someone who can ramp
+        up quickly and contribute independently.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;WHAT YOU WILL DO &lt;/strong&gt;🏄&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Market Understanding and Opportunity
+        Identification&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Work with
+        Product Marketing, Sales Engineering and customer-facing teams to
+        understand customer needs and prioritize the opportunities that matter
+        most.&lt;/li&gt; &lt;li&gt;Find the highest-leverage areas to invest in,
+        and weigh customer demand against our resources, capabilities and
+        strategic direction.&lt;/li&gt; &lt;li&gt;Turn complex questions into
+        clear priorities. For example: how do we create more value for retail
+        partners as their strategies move toward e-commerce? How do we find and
+        build opportunities at scale as products launch in new
+        markets?&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Business Cases
+        and Strategy&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Build
+        business cases that size opportunities, weigh revenue trade-offs, and
+        structure a clear recommendation so leadership can make a
+        decision.&lt;/li&gt; &lt;li&gt;Own your recommendations, and be ready to
+        explain them and adapt them as you learn.&lt;/li&gt; &lt;li&gt;Lead the
+        strategy for how our products differentiate from competitors in the
+        market.&lt;/li&gt; &lt;li&gt;Partner with Sales and Finance on pricing
+        and monetization so our offering stays cohesive.&lt;/li&gt; &lt;/ul&gt;
+        &lt;p&gt;&lt;strong&gt;Product Discovery and
+        Delivery&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Lead discovery
+        with merchants, advertisers, and internal teams to define problems worth
+        solving.&lt;/li&gt; &lt;li&gt;Prioritise ruthlessly, balancing revenue
+        impact, effort, and strategic fit.&lt;/li&gt; &lt;li&gt;Work hands-on
+        with engineering to define requirements and ship, from alpha and testing
+        through broad launch.&lt;/li&gt; &lt;li&gt;Partner with Sales and
+        Marketing on launch timing and readiness, and run retrospectives on past
+        launches to improve future ones.&lt;/li&gt; &lt;/ul&gt;
+        &lt;p&gt;&lt;strong&gt;Alignment and Stakeholder
+        Management&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Generate
+        cross-functional alignment (Engineering, Data, Sales, Marketing,
+        Content) with a shared focus on goals and timing.&lt;/li&gt;
+        &lt;li&gt;Work across markets and levels of seniority, including senior
+        leadership, with confidence.&lt;/li&gt; &lt;li&gt;Track progress and
+        impact of product initiatives and communicate results
+        clearly.&lt;/li&gt; &lt;li&gt;Build relationships with industry
+        analysts, partners, and customers, and represent Flipp + Shopfully at
+        conferences and industry events where relevant.&lt;/li&gt; &lt;/ul&gt;
+        &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;WHAT YOU WILL
+        NEED&lt;/strong&gt;&lt;strong&gt; &lt;/strong&gt;🪄&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Must-haves&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt;
+        &lt;li&gt;&lt;strong&gt;Digital advertising foundations:&lt;/strong&gt;
+        supply vs. demand, how exchanges, SSPs, and DSPs work, programmatic
+        bidding, pricing models (CPM, CPC, CPV), and fill rate and yield.
+        Ideally gained in ad tech, a retail media network, a publisher, or a
+        marketplace.&lt;/li&gt; &lt;li&gt;Proven experience building business
+        cases: sizing opportunities, weighing revenue trade-offs, and
+        structuring recommendations for decisions.&lt;/li&gt; &lt;li&gt;High
+        autonomy: you figure things out, own the outcome and don’t need close
+        management.&lt;/li&gt; &lt;li&gt;Genuine excitement about using AI tools
+        and rethinking how work gets done.&lt;/li&gt; &lt;li&gt;Hands-on product
+        skills: discovery, prioritisation, and working with engineering to ship,
+        not only strategy.&lt;/li&gt; &lt;li&gt;Stakeholder management, with the
+        confidence to work across markets and levels of seniority.&lt;/li&gt;
+        &lt;li&gt;A scrappy, curious and confident approach. You’re hungry to
+        make an impact.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;👉 At our company, we
+        value diversity and actively encourage it — we believe a variety of
+        perspectives and backgrounds makes us stronger. We focus on potential
+        rather than on having a “perfect” CV. If this role excites you and you
+        believe you could grow into it — even if you don’t tick every single box
+        in the requirements — we’d love to hear from
+        you!&lt;br&gt;&lt;br&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;NICE TO
+        HAVE&amp;nbsp; &lt;/strong&gt;&lt;strong&gt;🎆&lt;/strong&gt;&lt;/p&gt;
+        &lt;ul&gt; &lt;li&gt;Retail, CPG, or retail media background&lt;/li&gt;
+        &lt;li&gt;Multi-market experience&lt;/li&gt; &lt;li&gt;Can speak Italian
+        or German&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;LOCATION 🌐&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
+        &lt;p&gt;While we have offices in Milan, Berlin, Barcelona, you can
+        benefit from our flexible hybrid model (full remote available),
+        empowering you to work where you&#39;re most effective.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;HOURS&amp;nbsp;&lt;/strong&gt;⏰&lt;br&gt;Your
+        manager and several partner teams are in North America, so you’ll need
+        to be flexible about working some later hours, beyond a standard 9-5
+        CET.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;WHAT
+        YOU WILL FIND AT SHOPFULLY&lt;/strong&gt;&lt;strong&gt;
+        🤗&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;🌎 An opportunity to thrive in a
+        rapidly scaling multinational company&lt;/p&gt; &lt;p&gt;🕶️ A vibrant,
+        informal, and inclusive work environment&lt;/p&gt; &lt;p&gt;🧠 We
+        champion autonomy, flexibility, and a hybrid work model, empowering you
+        to own your work&lt;/p&gt; &lt;p&gt;📚 Access to learning opportunities
+        and regular feedback sessions&lt;/p&gt; &lt;p&gt;🍓 Enjoy our central,
+        modern offices featuring fresh snacks, coffee (including vegan
+        options!), and ergonomic setups&lt;/p&gt; &lt;p&gt;🎉 Engage in
+        meaningful team events: offsites, happy hours, company parties and
+        celebrations that unite us beyond daily tasks&lt;/p&gt; &lt;p&gt;💻We
+        provide all the necessary equipment for you to work effectively and set
+        up your workspace, wherever you are&lt;/p&gt; &lt;p&gt;🧰 Benefit from
+        additional country-specific advantages based on local contracts and
+        practices&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;WHO WE ARE &lt;/strong&gt;💜&amp;nbsp;&lt;/p&gt;
+        &lt;p&gt;We’re a team of 450 people (and counting!), from 30 different
+        nationalities. We’re on a mission to innovate, and we believe the key to
+        that is seeing the world through a variety of perspectives. That’s why
+        building a more diverse team, as well as bringing in even more talent,
+        is so important for us.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;TO FEEL AT HOME 🛋️ IN SHOPFULLY YOU NEED
+        🎯&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Progress
+        Over Perfection&lt;/strong&gt;: We move forward. Always. In a
+        fast-moving world, speed with purpose beats certainty without action.
+        Momentum matters—not for its own sake, but because it drives
+        results.&lt;/li&gt; &lt;/ul&gt; &lt;ul&gt;
+        &lt;li&gt;&lt;strong&gt;Clarity Through Transparency&lt;/strong&gt;: We
+        bring each other along. We work in teams, not silos. Transparency gives
+        context, and context enables action. That means we share decisions
+        early, publish work in progress, and document outcomes so others can
+        learn, move faster, and build better.&lt;/li&gt; &lt;/ul&gt; &lt;ul&gt;
+        &lt;li&gt;&lt;strong&gt;Learn Loudly&lt;/strong&gt;: We grow by doing
+        and by daring. Big bets unlock big breakthroughs. But real innovation
+        demands risk, and risk always carries the possibility of failure. That’s
+        not a flaw. It’s the price of ambition.&lt;/li&gt; &lt;/ul&gt;
+        &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Challenge with
+        Empathy&lt;/strong&gt;: We speak up, even when it’s hard—because candor
+        shows care, and leads to better outcomes. Listening deeply is how we
+        grow. Disagreeing openly is how we build trust.&lt;/li&gt; &lt;/ul&gt;
+        &lt;p&gt;&lt;strong&gt;Always Build Better: We are builders—of products,
+        systems, and ideas. But more than that, we are builders of better.
+        Better has no finish line. It’s a
+        mindset.&lt;/strong&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;br&gt;&lt;em&gt;If you choose to apply for this specific
+        job position and submit your application, which may include personal
+        data such as your identifying details, contact information, curriculum
+        vitae, cover letter, professional qualifications, and/or employment
+        history, please be informed that your data may be shared with our
+        Affiliates*, including Offerista Group GmbH and Flipp Operations Inc.
+        The aforementioned entities will act as joint controllers for the
+        limited purpose of intra-group sharing related to the evaluation of
+        candidates’ applications. This means that your data may be processed by
+        the Affiliate to assess your application and, if deemed suitable, to
+        contact you regarding potential employment opportunities. However,
+        please note that from the moment an Affiliate initiates direct contact
+        with you and engages in any further processing of your personal data
+        beyond the initial intra-group sharing for evaluation purposes, such
+        Affiliate shall act as an independent data controller. In such cases,
+        the processing of your personal data will be subject to the specific
+        privacy policies that can be found&amp;nbsp;&lt;/em&gt;&lt;a
+        href=&quot;https://shopfully.com/applicant-and-candidate-privacy-policy\
+        /&quot;&gt;&lt;em&gt;here.&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;em&gt;* Affiliates shall mean any entity that directly or
+        indirectly controls, is controlled by or is under common control with
+        ShopFully SpA and its Affiliates’ subsidiaries, meaning any entity which
+        is directly or indirectly controlled by the
+        Affiliates.&lt;/em&gt;&lt;/p&gt;&lt;div
+        class=&quot;content-pay-transparency&quot;&gt;&lt;div
+        class=&quot;pay-input&quot;&gt;&lt;div
+        class=&quot;description&quot;&gt;&lt;p&gt;&lt;span
+        style=&quot;font-size: 18px;&quot;&gt;&lt;strong&gt;How We Support
+        You&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;Our Total Rewards
+        philosophy is to ensure that you are rewarded for impact, take part in
+        accelerated career growth, thrive with highly flexible benefits, and are
+        empowered to do your best work in a remote-first environment. In
+        alignment with our overall Total Rewards Philosophy, we believe
+        compensation should be fair, clear, consistent, and aligned to
+        growth.&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;div
+        class=&quot;title&quot;&gt;Italy Base Hiring Range:&lt;/div&gt;&lt;div
+        class=&quot;pay-range&quot;&gt;&lt;span&gt;€50.000&lt;/span&gt;&lt;span
+        class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;€70.000
+        EUR&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt; Find more English
+        Speaking Jobs in Germany on Arbeitnow"
+      job_types: []
+      remote: false
+      score: 80
+      skill_hits: 2
+      bucket_id: pm_product
+      fetched_at: 2026-11-01T21:23:26.114Z
+      pulled_at: 2026-11-01T21:23:26.114Z
+      stale_days: 0
+      is_stale: false
+    - source: arbeitnow
+      source_note: ""
+      company: Shopfully
+      title: Senior Product Manager
+      location: ""
+      url: https://www.arbeitnow.fr/jobs/companies/shopfully/senior-product-manager-340504
+      updated_at: 1793548527
+      description: "&lt;div
+        class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;We are the
+        platform turning browsing into shopping&lt;/strong&gt;. We connect 200
+        million shoppers with deals they love while boosting local sales for
+        hundreds of top retailers and brands.&lt;/p&gt; &lt;p&gt;We help
+        consumers save time and money while making smart shopping decisions, and
+        we support retailers and brands in engaging customers from online
+        research to in-store purchases.&lt;/p&gt; &lt;p&gt;In 2024, Shopfully
+        joined forces with the North American company &lt;a
+        href=&quot;https://corp.flipp.com/&quot;&gt;Flipp&lt;/a&gt;, creating a
+        global leader in the sector. Together, we reach 400 million households
+        and serve over 1,000 top retailers and brands across 27 markets,
+        including Europe, Canada, the USA, Latin America, and
+        Australia.&lt;/p&gt; &lt;p&gt;Ready
+        to&amp;nbsp;&lt;strong&gt;spark&lt;/strong&gt; your growth with
+        us?&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;WHO WE LOOK
+        FOR&lt;/strong&gt;&lt;strong&gt; 🦄&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;Flipp + Shopfully’s Product team focuses on driving adoption
+        and revenue of our products by identifying the biggest market
+        opportunities, building the case for investing in them, and shipping
+        solutions with engineering, all while representing the voice of our
+        merchant customers.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the
+        role&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Senior Product Manager is a
+        senior, commercially minded product leader who already understands
+        digital advertising. This role requires a strong strategic thinker with
+        good business sense and solid hands-on product skills who leads
+        opportunity identification, builds decision-ready business cases, and
+        works with engineering to ship.&lt;/p&gt; &lt;p&gt;You will work closely
+        with Sales, Engineering, Data, and Marketing teams across markets to
+        align on key business objectives. By combining market insight, customer
+        feedback, and industry trends, you will make sure our products resonate
+        with merchants and drive growth. We’re looking for someone who can ramp
+        up quickly and contribute independently.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;WHAT YOU WILL DO &lt;/strong&gt;🏄&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Market Understanding and Opportunity
+        Identification&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Work with
+        Product Marketing, Sales Engineering and customer-facing teams to
+        understand customer needs and prioritize the opportunities that matter
+        most.&lt;/li&gt; &lt;li&gt;Find the highest-leverage areas to invest in,
+        and weigh customer demand against our resources, capabilities and
+        strategic direction.&lt;/li&gt; &lt;li&gt;Turn complex questions into
+        clear priorities. For example: how do we create more value for retail
+        partners as their strategies move toward e-commerce? How do we find and
+        build opportunities at scale as products launch in new
+        markets?&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Business Cases
+        and Strategy&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Build
+        business cases that size opportunities, weigh revenue trade-offs, and
+        structure a clear recommendation so leadership can make a
+        decision.&lt;/li&gt; &lt;li&gt;Own your recommendations, and be ready to
+        explain them and adapt them as you learn.&lt;/li&gt; &lt;li&gt;Lead the
+        strategy for how our products differentiate from competitors in the
+        market.&lt;/li&gt; &lt;li&gt;Partner with Sales and Finance on pricing
+        and monetization so our offering stays cohesive.&lt;/li&gt; &lt;/ul&gt;
+        &lt;p&gt;&lt;strong&gt;Product Discovery and
+        Delivery&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Lead discovery
+        with merchants, advertisers, and internal teams to define problems worth
+        solving.&lt;/li&gt; &lt;li&gt;Prioritise ruthlessly, balancing revenue
+        impact, effort, and strategic fit.&lt;/li&gt; &lt;li&gt;Work hands-on
+        with engineering to define requirements and ship, from alpha and testing
+        through broad launch.&lt;/li&gt; &lt;li&gt;Partner with Sales and
+        Marketing on launch timing and readiness, and run retrospectives on past
+        launches to improve future ones.&lt;/li&gt; &lt;/ul&gt;
+        &lt;p&gt;&lt;strong&gt;Alignment and Stakeholder
+        Management&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Generate
+        cross-functional alignment (Engineering, Data, Sales, Marketing,
+        Content) with a shared focus on goals and timing.&lt;/li&gt;
+        &lt;li&gt;Work across markets and levels of seniority, including senior
+        leadership, with confidence.&lt;/li&gt; &lt;li&gt;Track progress and
+        impact of product initiatives and communicate results
+        clearly.&lt;/li&gt; &lt;li&gt;Build relationships with industry
+        analysts, partners, and customers, and represent Flipp + Shopfully at
+        conferences and industry events where relevant.&lt;/li&gt; &lt;/ul&gt;
+        &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;WHAT YOU WILL
+        NEED&lt;/strong&gt;&lt;strong&gt; &lt;/strong&gt;🪄&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Must-haves&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt;
+        &lt;li&gt;&lt;strong&gt;Digital advertising foundations:&lt;/strong&gt;
+        supply vs. demand, how exchanges, SSPs, and DSPs work, programmatic
+        bidding, pricing models (CPM, CPC, CPV), and fill rate and yield.
+        Ideally gained in ad tech, a retail media network, a publisher, or a
+        marketplace.&lt;/li&gt; &lt;li&gt;Proven experience building business
+        cases: sizing opportunities, weighing revenue trade-offs, and
+        structuring recommendations for decisions.&lt;/li&gt; &lt;li&gt;High
+        autonomy: you figure things out, own the outcome and don’t need close
+        management.&lt;/li&gt; &lt;li&gt;Genuine excitement about using AI tools
+        and rethinking how work gets done.&lt;/li&gt; &lt;li&gt;Hands-on product
+        skills: discovery, prioritisation, and working with engineering to ship,
+        not only strategy.&lt;/li&gt; &lt;li&gt;Stakeholder management, with the
+        confidence to work across markets and levels of seniority.&lt;/li&gt;
+        &lt;li&gt;A scrappy, curious and confident approach. You’re hungry to
+        make an impact.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;👉 At our company, we
+        value diversity and actively encourage it — we believe a variety of
+        perspectives and backgrounds makes us stronger. We focus on potential
+        rather than on having a “perfect” CV. If this role excites you and you
+        believe you could grow into it — even if you don’t tick every single box
+        in the requirements — we’d love to hear from
+        you!&lt;br&gt;&lt;br&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;NICE TO
+        HAVE&amp;nbsp; &lt;/strong&gt;&lt;strong&gt;🎆&lt;/strong&gt;&lt;/p&gt;
+        &lt;ul&gt; &lt;li&gt;Retail, CPG, or retail media background&lt;/li&gt;
+        &lt;li&gt;Multi-market experience&lt;/li&gt; &lt;li&gt;Can speak Italian
+        or German&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;LOCATION 🌐&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
+        &lt;p&gt;While we have offices in Milan, Berlin, Barcelona, you can
+        benefit from our flexible hybrid model (full remote available),
+        empowering you to work where you&#39;re most effective.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;HOURS&amp;nbsp;&lt;/strong&gt;⏰&lt;br&gt;Your
+        manager and several partner teams are in North America, so you’ll need
+        to be flexible about working some later hours, beyond a standard 9-5
+        CET.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;WHAT
+        YOU WILL FIND AT SHOPFULLY&lt;/strong&gt;&lt;strong&gt;
+        🤗&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;🌎 An opportunity to thrive in a
+        rapidly scaling multinational company&lt;/p&gt; &lt;p&gt;🕶️ A vibrant,
+        informal, and inclusive work environment&lt;/p&gt; &lt;p&gt;🧠 We
+        champion autonomy, flexibility, and a hybrid work model, empowering you
+        to own your work&lt;/p&gt; &lt;p&gt;📚 Access to learning opportunities
+        and regular feedback sessions&lt;/p&gt; &lt;p&gt;🍓 Enjoy our central,
+        modern offices featuring fresh snacks, coffee (including vegan
+        options!), and ergonomic setups&lt;/p&gt; &lt;p&gt;🎉 Engage in
+        meaningful team events: offsites, happy hours, company parties and
+        celebrations that unite us beyond daily tasks&lt;/p&gt; &lt;p&gt;💻We
+        provide all the necessary equipment for you to work effectively and set
+        up your workspace, wherever you are&lt;/p&gt; &lt;p&gt;🧰 Benefit from
+        additional country-specific advantages based on local contracts and
+        practices&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;WHO WE ARE &lt;/strong&gt;💜&amp;nbsp;&lt;/p&gt;
+        &lt;p&gt;We’re a team of 450 people (and counting!), from 30 different
+        nationalities. We’re on a mission to innovate, and we believe the key to
+        that is seeing the world through a variety of perspectives. That’s why
+        building a more diverse team, as well as bringing in even more talent,
+        is so important for us.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;TO FEEL AT HOME 🛋️ IN SHOPFULLY YOU NEED
+        🎯&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Progress
+        Over Perfection&lt;/strong&gt;: We move forward. Always. In a
+        fast-moving world, speed with purpose beats certainty without action.
+        Momentum matters—not for its own sake, but because it drives
+        results.&lt;/li&gt; &lt;/ul&gt; &lt;ul&gt;
+        &lt;li&gt;&lt;strong&gt;Clarity Through Transparency&lt;/strong&gt;: We
+        bring each other along. We work in teams, not silos. Transparency gives
+        context, and context enables action. That means we share decisions
+        early, publish work in progress, and document outcomes so others can
+        learn, move faster, and build better.&lt;/li&gt; &lt;/ul&gt; &lt;ul&gt;
+        &lt;li&gt;&lt;strong&gt;Learn Loudly&lt;/strong&gt;: We grow by doing
+        and by daring. Big bets unlock big breakthroughs. But real innovation
+        demands risk, and risk always carries the possibility of failure. That’s
+        not a flaw. It’s the price of ambition.&lt;/li&gt; &lt;/ul&gt;
+        &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Challenge with
+        Empathy&lt;/strong&gt;: We speak up, even when it’s hard—because candor
+        shows care, and leads to better outcomes. Listening deeply is how we
+        grow. Disagreeing openly is how we build trust.&lt;/li&gt; &lt;/ul&gt;
+        &lt;p&gt;&lt;strong&gt;Always Build Better: We are builders—of products,
+        systems, and ideas. But more than that, we are builders of better.
+        Better has no finish line. It’s a
+        mindset.&lt;/strong&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;br&gt;&lt;em&gt;If you choose to apply for this specific
+        job position and submit your application, which may include personal
+        data such as your identifying details, contact information, curriculum
+        vitae, cover letter, professional qualifications, and/or employment
+        history, please be informed that your data may be shared with our
+        Affiliates*, including Offerista Group GmbH and Flipp Operations Inc.
+        The aforementioned entities will act as joint controllers for the
+        limited purpose of intra-group sharing related to the evaluation of
+        candidates’ applications. This means that your data may be processed by
+        the Affiliate to assess your application and, if deemed suitable, to
+        contact you regarding potential employment opportunities. However,
+        please note that from the moment an Affiliate initiates direct contact
+        with you and engages in any further processing of your personal data
+        beyond the initial intra-group sharing for evaluation purposes, such
+        Affiliate shall act as an independent data controller. In such cases,
+        the processing of your personal data will be subject to the specific
+        privacy policies that can be found&amp;nbsp;&lt;/em&gt;&lt;a
+        href=&quot;https://shopfully.com/applicant-and-candidate-privacy-policy\
+        /&quot;&gt;&lt;em&gt;here.&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;em&gt;* Affiliates shall mean any entity that directly or
+        indirectly controls, is controlled by or is under common control with
+        ShopFully SpA and its Affiliates’ subsidiaries, meaning any entity which
+        is directly or indirectly controlled by the
+        Affiliates.&lt;/em&gt;&lt;/p&gt;&lt;div
+        class=&quot;content-pay-transparency&quot;&gt;&lt;div
+        class=&quot;pay-input&quot;&gt;&lt;div
+        class=&quot;description&quot;&gt;&lt;p&gt;&lt;span
+        style=&quot;font-size: 18px;&quot;&gt;&lt;strong&gt;How We Support
+        You&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;Our Total Rewards
+        philosophy is to ensure that you are rewarded for impact, take part in
+        accelerated career growth, thrive with highly flexible benefits, and are
+        empowered to do your best work in a remote-first environment. In
+        alignment with our overall Total Rewards Philosophy, we believe
+        compensation should be fair, clear, consistent, and aligned to
+        growth.&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;div
+        class=&quot;title&quot;&gt;Italy Base Hiring Range:&lt;/div&gt;&lt;div
+        class=&quot;pay-range&quot;&gt;&lt;span&gt;€50.000&lt;/span&gt;&lt;span
+        class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;€70.000
+        EUR&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt; Find Jobs in France
+        on Arbeitnow"
+      job_types: []
+      remote: false
+      score: 80
+      skill_hits: 2
+      bucket_id: pm_product
+      fetched_at: 2026-11-01T21:23:26.114Z
+      pulled_at: 2026-11-01T21:23:26.114Z
+      stale_days: 0
+      is_stale: false
+    - source: arbeitnow
+      source_note: ""
+      company: CesiumAstro
+      title: Product Manager
+      location: Munich, Germany
+      url: https://www.arbeitnow.com/jobs/companies/cesiumastro/product-manager-munich-germany-84400
+      updated_at: 1793513211
+      description: "At&nbsp; CesiumAstro , we are developers and pioneers of
+        out-of-the-box communication systems for satellites, UAVs, launch
+        vehicles, and other space and airborne platforms. We take pride in our
+        dynamic and cross-functional work environment, which allows us to learn,
+        develop, and engage across our organization. If you are looking for
+        hands-on, interactive, and autonomous work, CesiumAstro is the place for
+        you. We are actively seeking passionate, collaborative, energetic, and
+        forward-thinking individuals to join our team. We are currently looking
+        to add a Product Manager to join our new Munich, Germany office,
+        specifically within the Product Engineering Group. This role will focus
+        on building, enhancing, and managing our technical products, working
+        with our team to define and deliver solutions that support our mission
+        of seamless, out-of-the-box space communication systems.&nbsp; &nbsp; As
+        a Product Manager at CesiumAstro, you will be at the forefront of
+        managing the entire product lifecycle, from initial concept through to
+        customer integration and support for the European market. You will
+        collaborate with cross-functional teams including engineering, sales,
+        and marketing to develop product strategies that align with our customer
+        needs and business objectives. This role requires a blend of technical
+        knowledge and business acumen, enabling you to drive product decisions
+        and ensure customer success in highly technical environments.&nbsp; KEY
+        RESPONSIBILITIES Work closely with senior leadership and engineering
+        teams to define product strategies, ensuring alignment with
+        CesiumAstro’s business objectives and customer needs.&nbsp;&nbsp;
+        Contribute to the development of product roadmaps, prioritizing features
+        and enhancements based on market trends, customer feedback, and
+        technological advancements.&nbsp; Act as a liaison between product
+        engineering, business development/sales, marketing, and customer support
+        teams to deliver products that meet or exceed customer
+        expectations.&nbsp;&nbsp; Facilitate clear communication and
+        collaboration across teams to drive product development cycles.&nbsp;
+        Engage directly with customers to understand their technical needs,
+        challenges, and goals. Leverage this insight to inform product decisions
+        and ensure that solutions meet customer expectations.&nbsp; Oversee the
+        launch of new products and features, working with the marketing team to
+        drive product adoption and customer satisfaction.&nbsp;&nbsp; Provide
+        technical leadership and customer-facing support as needed to ensure
+        smooth product integrations.&nbsp; Lead the identification and
+        implementation of continuous improvements for products and processes,
+        ensuring that CesiumAstro’s products remain industry-leading and meet
+        the evolving demands of our customers.&nbsp; Create and maintain
+        high-quality documentation, including user manuals, application notes,
+        and white papers.&nbsp;&nbsp; Ensure that customer-facing teams are
+        well-equipped with the knowledge to support product offerings.&nbsp; JOB
+        REQUIREMENTS AND MINIMUM QUALIFICATIONS Bachelor’s degree (or higher) in
+        a relevant technical field such as Electrical Engineering, Computer
+        Engineering, Physics, Computer Science, or related discipline.&nbsp; At
+        least 7 years of experience in the design of communication electronics,
+        technical product development, product management, or application
+        support.&nbsp; In-depth understanding of RF electronics, communication
+        systems, and associated technologies such as digital systems, embedded
+        software, FPGAs, and power electronics.&nbsp; Proven experience working
+        with technical customers, developing strong relationships, and
+        translating their needs into actionable product requirements.&nbsp;
+        Working knowledge of programming languages such as C/C++ or
+        Python.&nbsp; Exceptional troubleshooting skills and ability to
+        understand, diagnose, and solve complex product issues across hardware
+        and software domains.&nbsp; Excellent verbal and written communication
+        skills, with the ability to clearly articulate technical concepts to
+        both technical and non-technical audiences.&nbsp; Experience with
+        high-reliability electronics and systems, particularly in the aerospace
+        industry.&nbsp; Familiarity with small satellite systems and their
+        unique requirements&nbsp; PREFERRED EXPERIENCE Background in technical
+        sales, marketing, or customer solution development is a plus. Experience
+        in crafting technical solutions for customer proposals, demonstrating an
+        understanding of customer requirements and aligning product capabilities
+        accordingly. CesiumAstro considers several factors when extending an
+        offer, including but not limited to, the role and associated
+        responsibilities, a candidate’s work experience, education/training, and
+        key skills. Please note: CesiumAstro does not accept unsolicited resumes
+        from contract agencies or search firms. Any unsolicited resumes
+        submitted to our website or to CesiumAstro team members not through our
+        approved vendor list or Talent Acquisition will be considered property
+        of CesiumAstro, and we will not be obligated to pay any referral fees.
+        Find more English Speaking Jobs in Germany on Arbeitnow"
+      job_types:
+        - Full-time
+      remote: false
+      score: 74
+      skill_hits: 1
+      bucket_id: pm_product
+      fetched_at: 2026-11-01T21:23:26.114Z
+      pulled_at: 2026-11-01T21:23:26.114Z
+      stale_days: 0
+      is_stale: false
+    - source: arbeitnow
+      source_note: ""
+      company: Superchat
+      title: Associate Product Manager (m/f/d)
+      location: Berlin, Berlin
+      url: https://www.arbeitnow.com/jobs/companies/superchat/associate-product-manager-berlin-berlin-32005
+      updated_at: 1793505324
+      description: "&lt;p&gt;&lt;strong&gt;At Superchat, we&#39;re rebuilding how
+        businesses talk to their customers. AI is becoming the engine of that
+        communication. Integrations are what give that engine teeth: the data,
+        the tools, the systems that turn a clever agent into one that actually
+        closes loops.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Founded in 2020,
+        Superchat has become the platform of choice for &lt;strong&gt;10,000+
+        businesses worldwide&lt;/strong&gt;, from globally recognized brands
+        like Allianz, Auto1, Enpal, Danone, and GASAG to the small businesses,
+        dental practices, and one-person startups that need to look bigger than
+        they are. Today, &lt;strong&gt;millions of messages flow through
+        Superchat every single day&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;We started
+        as a unified inbox: one place for every channel a customer might pick,
+        WhatsApp, email, SMS, Instagram. Then ChatGPT happened, and the second
+        chapter began: AI agents that respond across chat, email, and voice at
+        the quality of the best human teams.&lt;/p&gt; &lt;p&gt;We&#39;re
+        &lt;strong&gt;100 people&lt;/strong&gt;,
+        &lt;strong&gt;profitable&lt;/strong&gt;, and have raised
+        &lt;strong&gt;€18M in funding&lt;/strong&gt; (last round 4.5 years ago,
+        we&#39;ve been growing on our own money since). Headquartered in
+        Berlin.&lt;/p&gt; &lt;p&gt;We&#39;re looking for a Product Manager to
+        join our Integrations team.&lt;/p&gt; &lt;p&gt;In this role, you&#39;ll
+        own the surface that decides whether our AI agents are clever demos or
+        systems that actually do work. CRM sync, appointment bookings, call
+        transfers, custom workflows: every action our agents take in the real
+        world runs through your team. Plus our public API, webhooks, and the
+        developer experience that lets partners build on top of us. If
+        you&#39;re excited to design APIs, ship agent tooling, and own a surface
+        that gets more strategic every quarter, this might be a great
+        fit.&lt;/p&gt; &lt;p&gt;We&#39;re reshaping our product function around
+        three pillars, AI, Integrations, and Core, with a PM in each, operating
+        directly with our founder and CPO Mika. This role is for
+        Integrations.&lt;/p&gt; &lt;h4&gt;Learn how product is built from the
+        inside, working side by side with our CPO.&lt;/h4&gt;
+        &lt;p&gt;&lt;em&gt;As our Associate Product Manager, you&#39;ll work
+        directly with our CPO as a force multiplier for the product team.
+        You&#39;ll take on high-impact work across customer research, product
+        data, product marketing and adoption - topics that span the whole
+        product org rather than a single product
+        area.&amp;nbsp;&lt;/em&gt;&lt;/p&gt; &lt;h4&gt;&lt;span
+        style=&quot;text-decoration: underline;&quot;&gt;Who We
+        Want&amp;nbsp;&lt;/span&gt;&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;Hungry
+        learner&lt;br&gt;&lt;/strong&gt;You&#39;re eager to learn fast, actively
+        seek feedback and turn it into visible progress within weeks, not
+        months.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Structured
+        self-starter&lt;br&gt;&lt;/strong&gt;You&#39;re highly organized, bring
+        order to messy situations and get things done without step-by-step
+        guidance.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Analytical
+        thinker&lt;br&gt;&lt;/strong&gt;You&#39;re comfortable with data and can
+        pull numbers from spreadsheets or analytics tools and turn them into
+        clear insights.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Customer-curious&lt;br&gt;&lt;/strong&gt;You
+        enjoy talking to users, ask good follow-up questions and turn interviews
+        into actionable takeaways.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Clear
+        communicator&lt;br&gt;&lt;/strong&gt;You write crisply, build clean
+        slides and feel comfortable presenting to customers, e.g. in
+        webinars.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Scrappy
+        generalist&lt;br&gt;&lt;/strong&gt;You&#39;re happy to switch between
+        product marketing, data, research and ops, and no task is &quot;beneath
+        you&quot;.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;AI-native&lt;br&gt;&lt;/strong&gt;You use AI
+        tools daily to work faster and better - from research and data analysis
+        to drafting content and slides - and you&#39;re always experimenting
+        with new ones.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Has
+        taste&lt;br&gt;&lt;/strong&gt;You have a strong sense for what good
+        looks like in product, design and writing, and you notice when something
+        feels off, even if it&#39;s &quot;technically fine&quot;.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Language&lt;br&gt;&lt;/strong&gt;You&#39;re
+        fluent in English, written and spoken.&lt;/p&gt; &lt;h4&gt;&lt;span
+        style=&quot;text-decoration: underline;&quot;&gt;Who We Don&#39;t
+        Want&amp;nbsp;&lt;/span&gt;&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;You only
+        want &quot;pure PM&quot; work like roadmaps and specs and aren&#39;t
+        interested in marketing or customer-facing tasks&lt;/li&gt;
+        &lt;li&gt;You need a lot of structure and clear processes to be
+        productive&lt;/li&gt; &lt;li&gt;You struggle to communicate clearly in
+        English, in writing or in front of an audience&lt;/li&gt; &lt;li&gt;You
+        get defensive when receiving feedback&lt;/li&gt; &lt;li&gt;You see this
+        mainly as a title step rather than a chance to learn and get
+        hands-on&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;span
+        style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Your Day
+        to Day&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/strong&gt;Strategic Projects
+        (~25%)&lt;/span&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Work directly with
+        our CPO on the topics that matter most right now&lt;/li&gt;
+        &lt;li&gt;Prepare leadership meetings, drive decisions forward and make
+        sure priorities turn into results&lt;/li&gt; &lt;/ul&gt;
+        &lt;p&gt;&lt;span style=&quot;text-decoration:
+        underline;&quot;&gt;Product Marketing &amp;amp; Launches
+        (~35%)&lt;/span&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Plan and run
+        initiatives that bring our product to customers: webinars, product
+        updates, customer events, newsletters and educational content&lt;/li&gt;
+        &lt;li&gt;Prepare and launch new features end-to-end together with
+        Product, Engineering and Marketing&lt;/li&gt; &lt;li&gt;Build sharp
+        slides and reports for customers and leadership&amp;nbsp;&lt;/li&gt;
+        &lt;/ul&gt; &lt;p
+        data-lfile-container=&quot;df4b3f91-b87e-448a-89b1-dc2439ff8611&quot;
+        data-pm-slice=&quot;1 3 []&quot;&gt;&lt;span
+        style=&quot;text-decoration: underline;&quot;&gt;Customer Research
+        (~20%)&lt;/span&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Run customer
+        interviews and turn what you hear into clear insights for the product
+        team&lt;/li&gt; &lt;li&gt;Feed those insights into roadmap decisions
+        together with our PMs&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;span
+        style=&quot;text-decoration: underline;&quot;&gt;Product Analytics
+        &amp;amp; Adoption (~20%)&lt;/span&gt;&lt;/p&gt; &lt;ul&gt;
+        &lt;li&gt;Own dashboards on activation and adoption and turn the numbers
+        into actions&lt;/li&gt; &lt;li&gt;Drive initiatives that improve
+        activation and adoption of key features&lt;/li&gt; &lt;/ul&gt;
+        &lt;p&gt;&lt;span style=&quot;text-decoration:
+        underline;&quot;&gt;&lt;strong&gt;Stakeholders&lt;/strong&gt;&lt;/span&\
+        gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Product Managers:&lt;/strong&gt;
+        Feed customer insights and data into roadmap decisions and support with
+        research, specs and launch prep&lt;br&gt;&lt;strong&gt;Engineering
+        &amp;amp; Design:&lt;/strong&gt; Clarify requirements, gather product
+        feedback and coordinate release timing for
+        launches&lt;br&gt;&lt;strong&gt;Customer Success:&lt;/strong&gt;
+        Identify customers for interviews and work together on onboarding,
+        activation and adoption
+        initiatives&lt;br&gt;&lt;strong&gt;Sales:&lt;/strong&gt; Build
+        enablement material and slides, and align on positioning and messaging
+        for new features&lt;br&gt;&lt;strong&gt;Marketing:&lt;/strong&gt; Co-own
+        product launches, webinars, release content and
+        campaigns&lt;br&gt;&lt;strong&gt;Customers:&lt;/strong&gt; Run
+        interviews and webinars, collect feedback and turn it into insights for
+        the team&lt;/p&gt; &lt;h4&gt;&lt;span style=&quot;text-decoration:
+        underline;&quot;&gt;Why People Choose Us&lt;/span&gt;&lt;/h4&gt;
+        &lt;ul&gt; &lt;li&gt;We believe in the power of in-person collaboration:
+        We&#39;re an in-office culture at heart - we genuinely love being
+        together in the Berlin office. That&#39;s where the best ideas happen,
+        decisions move faster, and we learn from and grow with each other every
+        day. We do offer some flexibility for remote work, but our default and
+        our energy is being in the room together.&lt;/li&gt; &lt;li&gt;We&#39;re
+        an international team with diverse cultural backgrounds and languages.
+        Openness, mutual respect, and the exchange of different perspectives
+        shape the way we work together.&lt;/li&gt; &lt;li&gt;We value ambition
+        and drive. We&#39;re looking for people who take ownership, show
+        initiative, and are excited to grow quickly.&lt;/li&gt; &lt;li&gt;We
+        work with a high degree of ownership and a strong learning mindset.
+        Asking questions, staying curious, and continuously improving are part
+        of our everyday culture.&lt;/li&gt; &lt;li&gt;We care deeply about
+        humility and teamwork. No egos, open feedback, and a willingness to
+        learn from one another matter more to us than titles.&lt;/li&gt;
+        &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Benefits &amp;amp;
+        Culture&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Choose between an
+        Urban Sports Club or John Reed membership, or a public transport
+        pass/Dance subscription.&lt;/li&gt; &lt;li&gt;Regular company-wide and
+        team events.&lt;/li&gt; &lt;li&gt;An annual €500 learning and
+        development budget that you can use for conferences, courses, books,
+        career coaching, and more.&lt;/li&gt; &lt;li&gt;An inclusive and
+        exciting startup culture that supports rapid professional and personal
+        growth.&lt;/li&gt; &lt;li&gt;A beautiful office in the heart of Berlin
+        (Prenzlauer Allee 242) with free snacks, drinks, and top-notch
+        equipment.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;We want to
+        build a community, not just a company.&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;Creating an environment where people genuinely enjoy spending
+        time together is important to us - whether that&#39;s through HYROX
+        training, golf, beer pong tournaments, running clubs, Warhammer, weekend
+        activities, or any other community you&#39;d like to build
+        here.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;We believe that diversity makes
+        companies stronger. We welcome applications from everyone, regardless of
+        gender, background, nationality, or religion. Feel free to apply -
+        we&#39;d love to hear from you!&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;By submitting your application, you agree to our
+        Privacy Policy.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;We look
+        forward to receiving your application!
+        🙂&lt;/strong&gt;&lt;/p&gt;&lt;div
+        class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;img
+        src=&quot;https://i.imgur.com/Uicf3C7.jpg&quot; alt=&quot;&quot;
+        width=&quot;800&quot; style=&quot;max-width:
+        100%;&quot;&gt;&lt;/p&gt;&lt;/div&gt; Find more English Speaking Jobs in
+        Germany on Arbeitnow"
+      job_types: []
+      remote: false
+      score: 74
+      skill_hits: 1
+      bucket_id: pm_product
+      fetched_at: 2026-11-01T21:23:26.114Z
+      pulled_at: 2026-11-01T21:23:26.114Z
+      stale_days: 0
+      is_stale: false
     - source: recruitee
       source_note: ""
       company: rebuy
@@ -61,7 +753,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-31T20:36:52.691Z
       pulled_at: 2026-10-31T20:36:52.691Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -166,7 +858,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-31T20:36:52.691Z
       pulled_at: 2026-10-31T20:36:52.691Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -187,7 +879,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-31T20:36:52.691Z
       pulled_at: 2026-10-31T20:36:52.691Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -480,7 +1172,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-30T21:43:02.097Z
       pulled_at: 2026-10-30T21:43:02.097Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -539,7 +1231,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-30T21:43:02.097Z
       pulled_at: 2026-10-30T21:43:02.097Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -587,7 +1279,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-29T22:01:06.957Z
       pulled_at: 2026-10-29T22:01:06.957Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -621,7 +1313,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-29T22:01:06.957Z
       pulled_at: 2026-10-29T22:01:06.957Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -754,7 +1446,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-29T22:01:06.957Z
       pulled_at: 2026-10-29T22:01:06.957Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -797,7 +1489,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-29T22:01:06.957Z
       pulled_at: 2026-10-29T22:01:06.957Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1072,7 +1764,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-29T22:01:06.957Z
       pulled_at: 2026-10-29T22:01:06.957Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1093,7 +1785,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-29T22:01:06.957Z
       pulled_at: 2026-10-29T22:01:06.957Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1141,7 +1833,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-28T21:52:48.367Z
       pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1175,7 +1867,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-28T21:52:48.367Z
       pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1218,7 +1910,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-28T21:52:48.367Z
       pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1277,7 +1969,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-28T21:52:48.367Z
       pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1298,7 +1990,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-28T21:52:48.367Z
       pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1346,7 +2038,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1380,7 +2072,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1423,7 +2115,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1513,7 +2205,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1603,7 +2295,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1624,7 +2316,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1711,7 +2403,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1759,7 +2451,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-23T20:37:43.569Z
       pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 7
+      stale_days: 9
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1793,7 +2485,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-23T20:37:43.569Z
       pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 7
+      stale_days: 9
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1836,7 +2528,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-23T20:37:43.569Z
       pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 7
+      stale_days: 9
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1857,7 +2549,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-23T20:37:43.569Z
       pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 7
+      stale_days: 9
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1970,7 +2662,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-23T20:37:43.569Z
       pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 7
+      stale_days: 9
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2018,7 +2710,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-21T20:51:32.768Z
       pulled_at: 2026-10-21T20:51:32.768Z
-      stale_days: 9
+      stale_days: 11
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2052,7 +2744,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-21T20:51:32.768Z
       pulled_at: 2026-10-21T20:51:32.768Z
-      stale_days: 9
+      stale_days: 11
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2214,7 +2906,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-21T20:51:32.768Z
       pulled_at: 2026-10-21T20:51:32.768Z
-      stale_days: 9
+      stale_days: 11
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2257,7 +2949,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-21T20:51:32.768Z
       pulled_at: 2026-10-21T20:51:32.768Z
-      stale_days: 9
+      stale_days: 11
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2278,7 +2970,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-21T20:51:32.768Z
       pulled_at: 2026-10-21T20:51:32.768Z
-      stale_days: 9
+      stale_days: 11
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2326,7 +3018,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2360,7 +3052,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2403,7 +3095,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2472,7 +3164,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2543,7 +3235,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2614,7 +3306,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2685,7 +3377,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2754,7 +3446,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2825,7 +3517,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2894,7 +3586,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2963,7 +3655,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: jobicy
       source_note: ""
@@ -3045,7 +3737,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3066,7 +3758,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3114,7 +3806,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3148,7 +3840,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3191,7 +3883,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: jobicy
       source_note: ""
@@ -3362,7 +4054,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3383,7 +4075,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3491,7 +4183,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3598,8 +4290,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-11T21:07:22.664Z
       pulled_at: 2026-10-11T21:07:22.664Z
-      stale_days: 19
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: arbeitnow
       source_note: ""
       company: Project Q
@@ -3686,8 +4378,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-11T21:07:22.664Z
       pulled_at: 2026-10-11T21:07:22.664Z
-      stale_days: 19
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: TransPerfect
@@ -3734,7 +4426,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3768,7 +4460,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -3989,7 +4681,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4032,7 +4724,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4053,7 +4745,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -4117,7 +4809,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -4229,7 +4921,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-05T23:20:51.019Z
       pulled_at: 2026-10-05T23:20:51.019Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
   scrum_agile:
     - source: arbeitnow
@@ -4343,7 +5035,7 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-10-31T20:36:52.691Z
       pulled_at: 2026-10-31T20:36:52.691Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -4513,7 +5205,7 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-10-28T21:52:48.367Z
       pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
   program_management:
     - source: arbeitnow
@@ -4626,7 +5318,7 @@ buckets:
       bucket_id: program_management
       fetched_at: 2026-10-31T20:36:52.691Z
       pulled_at: 2026-10-31T20:36:52.691Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -4796,7 +5488,7 @@ buckets:
       bucket_id: program_management
       fetched_at: 2026-10-28T21:52:48.367Z
       pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
 archive:
   pm_product: []
@@ -4813,7 +5505,7 @@ meta:
     smartrecruiters_companies: 40
     teamtailor_companies: 0
     recruitee_companies: 80
-    ashby_organizations: 466
+    ashby_organizations: 470
     stepstone_feeds: 0
     arbeitnow: 1
     remotive: 1
@@ -4826,7 +5518,7 @@ meta:
     official_career_pages: 20
     search_queries: 20
   stale_counts:
-    pm_product: 7
+    pm_product: 9
     scrum_agile: 0
     program_management: 0
   inactive_counts:
@@ -4834,5 +5526,5 @@ meta:
     scrum_agile: 0
     program_management: 0
   timings_ms:
-    fetch: 154595
-    total: 174974
+    fetch: 179933
+    total: 205478
