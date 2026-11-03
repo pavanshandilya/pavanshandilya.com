@@ -1,4 +1,4 @@
-generated_at: 2026-11-03T00:00:32.513Z
+generated_at: 2026-11-03T22:27:07.759Z
 explicit:
   company_names:
     - SAP
@@ -1083,6 +1083,13 @@ discovered:
     - pmpg
     - matera
     - ibexa
+    - payrails
+    - resonance
+    - virtual-identity
+    - neuphonic
+    - griffin
+    - dotfile
+    - bunq
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -2202,6 +2209,7 @@ discovered:
     - pmpg
     - matera
     - ibexa
+    - bunq
   ashby_organizations:
     - telus-digital
     - a-team
@@ -2664,6 +2672,12 @@ discovered:
     - pennylane
     - microagi
     - plasma
+    - payrails
+    - resonance
+    - virtual-identity
+    - neuphonic
+    - griffin
+    - dotfile
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
