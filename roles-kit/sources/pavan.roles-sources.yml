@@ -1,4 +1,4 @@
-generated_at: 2026-11-03T22:27:07.759Z
+generated_at: 2026-11-04T22:45:49.639Z
 explicit:
   company_names:
     - SAP
@@ -1090,6 +1090,12 @@ discovered:
     - griffin
     - dotfile
     - bunq
+    - sensmore
+    - taxforce
+    - salience-labs
+    - joko
+    - arago
+    - vocca
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -2121,6 +2127,7 @@ discovered:
     - internations
     - schonfeld
     - mitratech
+    - arago
   teamtailor_companies: []
   recruitee_companies:
     - sendcloud
@@ -2678,6 +2685,12 @@ discovered:
     - neuphonic
     - griffin
     - dotfile
+    - sensmore
+    - taxforce
+    - salience-labs
+    - joko
+    - arago
+    - vocca
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
