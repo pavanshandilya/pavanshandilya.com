@@ -1,7 +1,7 @@
 schema_version: roles.v1
 profile_id: pooja
 profile_name: Pooja - product/scrum now, EM later
-generated_at: 2026-11-04T22:49:21.707Z
+generated_at: 2026-11-05T22:51:17.208Z
 buckets:
   pm_product:
     - source: recruitee
@@ -50,7 +50,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-04T22:49:21.707Z
       pulled_at: 2026-11-04T22:49:21.707Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -84,7 +84,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-04T22:49:21.707Z
       pulled_at: 2026-11-04T22:49:21.707Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -127,7 +127,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-04T22:49:21.707Z
       pulled_at: 2026-11-04T22:49:21.707Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -315,7 +315,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-04T22:49:21.707Z
       pulled_at: 2026-11-04T22:49:21.707Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -336,7 +336,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-04T22:49:21.707Z
       pulled_at: 2026-11-04T22:49:21.707Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -384,7 +384,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-03T22:30:09.130Z
       pulled_at: 2026-11-03T22:30:09.130Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -418,7 +418,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-03T22:30:09.130Z
       pulled_at: 2026-11-03T22:30:09.130Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -461,7 +461,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-03T22:30:09.130Z
       pulled_at: 2026-11-03T22:30:09.130Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -609,7 +609,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-03T22:30:09.130Z
       pulled_at: 2026-11-03T22:30:09.130Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -630,7 +630,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-03T22:30:09.130Z
       pulled_at: 2026-11-03T22:30:09.130Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -838,7 +838,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-01T21:23:26.114Z
       pulled_at: 2026-11-01T21:23:26.114Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1046,7 +1046,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-01T21:23:26.114Z
       pulled_at: 2026-11-01T21:23:26.114Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1138,7 +1138,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-01T21:23:26.114Z
       pulled_at: 2026-11-01T21:23:26.114Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1322,7 +1322,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-01T21:23:26.114Z
       pulled_at: 2026-11-01T21:23:26.114Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1381,7 +1381,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-31T20:36:52.691Z
       pulled_at: 2026-10-31T20:36:52.691Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1486,7 +1486,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-31T20:36:52.691Z
       pulled_at: 2026-10-31T20:36:52.691Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1507,7 +1507,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-31T20:36:52.691Z
       pulled_at: 2026-10-31T20:36:52.691Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1800,7 +1800,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-30T21:43:02.097Z
       pulled_at: 2026-10-30T21:43:02.097Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1859,7 +1859,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-30T21:43:02.097Z
       pulled_at: 2026-10-30T21:43:02.097Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1907,7 +1907,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-29T22:01:06.957Z
       pulled_at: 2026-10-29T22:01:06.957Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1941,7 +1941,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-29T22:01:06.957Z
       pulled_at: 2026-10-29T22:01:06.957Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2074,7 +2074,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-29T22:01:06.957Z
       pulled_at: 2026-10-29T22:01:06.957Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2117,7 +2117,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-29T22:01:06.957Z
       pulled_at: 2026-10-29T22:01:06.957Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2392,7 +2392,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-29T22:01:06.957Z
       pulled_at: 2026-10-29T22:01:06.957Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2413,7 +2413,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-29T22:01:06.957Z
       pulled_at: 2026-10-29T22:01:06.957Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2461,7 +2461,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-28T21:52:48.367Z
       pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 7
+      stale_days: 8
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2495,7 +2495,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-28T21:52:48.367Z
       pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 7
+      stale_days: 8
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2538,7 +2538,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-28T21:52:48.367Z
       pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 7
+      stale_days: 8
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2597,7 +2597,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-28T21:52:48.367Z
       pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 7
+      stale_days: 8
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2618,7 +2618,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-28T21:52:48.367Z
       pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 7
+      stale_days: 8
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2666,7 +2666,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2700,7 +2700,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2743,7 +2743,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2833,7 +2833,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2923,7 +2923,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2944,7 +2944,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3031,7 +3031,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3079,7 +3079,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-23T20:37:43.569Z
       pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3113,7 +3113,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-23T20:37:43.569Z
       pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3156,7 +3156,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-23T20:37:43.569Z
       pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3177,7 +3177,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-23T20:37:43.569Z
       pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3290,7 +3290,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-23T20:37:43.569Z
       pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3338,7 +3338,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-21T20:51:32.768Z
       pulled_at: 2026-10-21T20:51:32.768Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3372,7 +3372,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-21T20:51:32.768Z
       pulled_at: 2026-10-21T20:51:32.768Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3534,7 +3534,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-21T20:51:32.768Z
       pulled_at: 2026-10-21T20:51:32.768Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3577,7 +3577,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-21T20:51:32.768Z
       pulled_at: 2026-10-21T20:51:32.768Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3598,7 +3598,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-21T20:51:32.768Z
       pulled_at: 2026-10-21T20:51:32.768Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3646,7 +3646,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 17
+      stale_days: 18
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3680,7 +3680,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 17
+      stale_days: 18
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3723,7 +3723,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 17
+      stale_days: 18
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3792,7 +3792,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 17
+      stale_days: 18
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3863,7 +3863,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 17
+      stale_days: 18
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3934,7 +3934,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 17
+      stale_days: 18
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -4005,7 +4005,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 17
+      stale_days: 18
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -4074,7 +4074,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 17
+      stale_days: 18
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -4145,7 +4145,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 17
+      stale_days: 18
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -4214,7 +4214,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 17
+      stale_days: 18
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -4283,7 +4283,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 17
+      stale_days: 18
       is_stale: false
     - source: jobicy
       source_note: ""
@@ -4365,7 +4365,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 17
+      stale_days: 18
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4386,7 +4386,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 17
+      stale_days: 18
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4434,8 +4434,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: TransPerfect
@@ -4468,8 +4468,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: TransPerfect
@@ -4511,8 +4511,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: jobicy
       source_note: ""
       company: EverAI
@@ -4682,8 +4682,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: Consultport
@@ -4703,8 +4703,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: arbeitnow
       source_note: ""
       company: Zenjob
@@ -4811,8 +4811,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: arbeitnow
       source_note: ""
       company: Real Digital
@@ -4918,7 +4918,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-11T21:07:22.664Z
       pulled_at: 2026-10-11T21:07:22.664Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -5006,8 +5006,577 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-11T21:07:22.664Z
       pulled_at: 2026-10-11T21:07:22.664Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
+  scrum_agile:
+    - source: arbeitnow
+      source_note: ""
+      company: Orbem
+      title: Staff Technical Program Manager (f/m/d)
+      location: Munich
+      url: https://www.arbeitnow.com/jobs/companies/orbem/staff-technical-program-manager-munich-75349
+      updated_at: 1793439615
+      description: "We see the potential inside everything and everyone. Starting with
+        you. Orbem uses AI to industrialize MRI, delivering non-invasive insight
+        into everything from fruits to eggs to the human body. We are
+        transforming what is becoming the world's largest biological dataset
+        into actionable intelligence to reduce waste, increase quality, and
+        accelerate the shift toward a more sustainable and healthier future.
+        Headquartered and founded in Munich, Germany, with an office now in
+        Houston, Texas, our world-class team is scaling inside-out technology to
+        transform how humanity sees and understands biological matter. Help us
+        see what's possible. Join us. Your Role Orbem is at a critical
+        inflection point. As we scale our range of unique products, we need
+        delivery that is predictable, transparent and built to scale. As a Staff
+        Technical Program Manager within our TPM team, you will drive the
+        delivery of complex, high-stakes programs that bring our products from
+        development to market. You will work across Hardware, Software and
+        Science/AI, aligning teams around shared goals and turning technical
+        complexity into clear plans and decisions. This is a high-impact role
+        that blends technical depth, delivery architecture and informal
+        leadership. You will work in a complex, fast-scaling environment, and
+        you will also help strengthen how the wider TPM team works. Your
+        Day-to-Day Own the Execution Plan: Architect and design end-to-end
+        delivery plans for your team(s), from initial discovery or design phase
+        until commercial launch. Lead quarterly OKR planning and ensure it is
+        fully aligned to company OKRs. Lead Cross-Functional Coordination:
+        Co-lead product delivery with the Product Manager and Tech Leads. You
+        own the how and when. Manage dependencies across teams and relevant
+        domains (technical, operations, business development), and keep
+        stakeholders, including external partners, aligned. Drive Risk &amp;
+        Decision-Making Proactively identify, track, and mitigate technical and
+        non-technical risks — timeline, resources, budget, and scope. Escalate
+        and resolve cross-team conflicts; create the decision-making frameworks
+        other teams rely on. Shape Ways of Working Champion tooling and process
+        best practices within the team and contribute workflows optimization
+        within the TPM team. (e.g. refine the Product Development Lifecycle,
+        Risk Management processes). Coach and mentor other TPMs. Your Experience
+        and Skills Program Leadership: Proven track record managing complex,
+        cross-functional technical programs — ideally spanning hardware,
+        software, and/or AI — with high delivery accountability. Technical
+        Depth: Solid understanding of how complex deep-tech products are
+        engineered across Hardware, Software and Science/AI. You can evaluate
+        trade-offs across all three domains well enough to challenge and guide
+        engineering decisions. A technical background in systems engineering,
+        MRI or AI/ML is a plus. Practical understanding of how products are
+        operated at customer sites, from early MVPs to mature deployments.
+        Execution &amp; Planning: Expert in building and managing master program
+        plans, sprint structures, milestone tracking, and risk registers across
+        multiple concurrent workstreams. Stakeholder Management: Able to
+        translate technical complexity into executive-level clarity and to
+        influence and align without formal authority across matrixed
+        organizations. Change Management: Proven ability to drive adoption of
+        new tools, frameworks, and processes (e.g. PDLC/PLM rollouts, agile
+        tooling) across cross-functional teams — balancing structured change
+        with the pace of a fast-moving scale-up. Tooling &amp; Process: Advanced
+        setup of planning and tracking tools such as Jira and Confluence,
+        covering portfolio dashboards, cross-team dependency and risk tracking,
+        and executive-ready reporting. Hands-on with agentic AI tools that boost
+        team efficiency. Leadership &amp; Culture: You are a servant leader who
+        thrives in fast-growing scale-up environments, models candid
+        communication, and creates psychological safety in high-stakes settings
+        What Makes You Stand Out Experience with deep-tech products involving AI
+        or MRI — or direct exposure to the Food &amp; Fresh Produce industry,
+        particularly melons or soft fruits — is a significant plus. Familiarity
+        with industrializing sensor-based inspection systems for high-throughput
+        agricultural or food processing environments is highly valued. Fit to
+        Our Values We Own Every Challenge: we enjoy complexity and thrive under
+        uncertainty. We Strive for Better: we seize any opportunity for growth
+        and challenge the status quo. We are constantly learning and improving.
+        We Imagine New Frontiers: we think beyond “doable” and “reasonable”. We
+        design a sustainable and healthy future together. What We Offer
+        International Environment: Join a team with 40+ nationalities across 5
+        continents, all driven by a shared purpose: shedding light on the
+        world’s toughest challenges. Comprehensive Benefits: Stock Options:
+        Share in Orbem’s success. Relocation Support: Seamless support for your
+        move to Germany. Learning &amp; Development: €1,750 annual budget for
+        personal growth. Fitness Membership: Access to Urban Sports Club or
+        Wellpass. Childcare Reimbursement: Support for Kita/Kindergarten fees.
+        Deutschland Ticket: Monthly subsidy towards public transportation costs.
+        Work-Life Integration: Flexible Hours &amp; Home Office: Work when and
+        where it suits you. WFH Perks: Get €185 to upgrade your home office + an
+        external monitor on us! 30 Days Paid Leave: Plenty of time to recharge.
+        Personal Leave: Flexibility for life’s important moments. Work From
+        Anywhere: Experience new cultures and environments for up to 60 days per
+        year. Make a Difference: Join an ambitious, fast-growing team working on
+        breakthrough technology. In our scale-up environment, you'll have the
+        freedom to lead your projects and make an impact. We provide a platform
+        for you to explore, innovate, and define your vision for the future. At
+        Orbem, we're committed to helping you discover your strengths, and while
+        we aim to teach you, we also want to learn from you. Your Team: You'll
+        become part of our diverse and international team. Learn more about the
+        team members, their work, and challenges here: https://orbem.ai/company/
+        At Orbem, we're committed to building a smart, diverse team, and we
+        recognize that self-doubt can prevent talented individuals from
+        applying. If you feel you don't meet every requirement, we'd love to
+        hear from you anyway! Compensation: €90K – €100K • €40K – €80K Equity L4
+        • Compensation Range €90K – €100K • €40K – €80K Equity Find Jobs in
+        Germany on Arbeitnow"
+      job_types: &a1
+        - Full Time
+      remote: false
+      score: 88
+      skill_hits: 4
+      bucket_id: scrum_agile
+      fetched_at: 2026-10-31T20:36:52.691Z
+      pulled_at: 2026-10-31T20:36:52.691Z
+      stale_days: 5
+      is_stale: false
+    - source: arbeitnow
+      source_note: ""
+      company: Axon
+      title: Senior Technical Program Manager I
+      location: ""
+      url: https://www.arbeitnow.com/jobs/companies/axon/senior-technical-program-manager-i-178890
+      updated_at: 1793213722
+      description: "&lt;div
+        class=&quot;content-intro&quot;&gt;&lt;h4&gt;&lt;strong&gt;Join Axon and
+        be a Force for Good.&lt;/strong&gt;&lt;/h4&gt; &lt;p&gt;At Axon, we’re
+        on a mission to Protect Life. We’re explorers, pursuing society’s most
+        critical safety and justice issues with our ecosystem of devices and
+        cloud software. Like our products, we work better together. We connect
+        with candor and care, seeking out diverse perspectives from our
+        customers, communities and each other.&lt;br&gt;&lt;br&gt;Life at Axon
+        is fast-paced, challenging and meaningful. Here, you’ll take ownership
+        and drive real change. Constantly grow as you work hard for a mission
+        that matters at a company where you
+        matter.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Location: Amsterdam,
+        Netherlands OR Germany -
+        Remote&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;Travel: &lt;/strong&gt;up
+        to 40% within DACH, Benelux, Nordics (an other European countries as
+        needed)&lt;br&gt;&lt;strong&gt;Reports to:&lt;/strong&gt; Director,
+        Professional Services, EMEA&lt;br&gt;&amp;nbsp;&lt;/p&gt;
+        &lt;h2&gt;&lt;strong&gt;Your Impact&lt;/strong&gt;&lt;/h2&gt;
+        &lt;p&gt;As a Senior Technical Project Manager, you’ll lead
+        high-visibility projects, directly contributing to the development and
+        implementation of solutions that truly make a difference. In this role,
+        you’ll tackle complex challenges, working with some of the most advanced
+        technologies in the industry, including cloud and on-prem platforms, and
+        mission-critical systems. You’ll have the opportunity to collaborate
+        with brilliant minds across professional services, sales, engineering,
+        product, and customer teams to deliver solutions that save lives and
+        enhance public trust.&lt;br&gt;&lt;br&gt;At Axon, we’re driven by a
+        powerful mission: to protect life, capture truth, and accelerate
+        justice. We’re growing rapidly, and this is your chance to make a
+        lasting impact at a company where innovation meets purpose.&lt;/p&gt;
+        &lt;h2&gt;&lt;br&gt;&lt;strong&gt;What You’ll
+        Do&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;&lt;br&gt;&lt;strong&gt;Program
+        &amp;amp; Project Management&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt;
+        &lt;li&gt;Manage all aspects of complex enterprise-grade product
+        deployments&lt;/li&gt; &lt;li&gt;Oversee project milestones, resource
+        planning, scope, timeline, and risk management.&lt;/li&gt;
+        &lt;li&gt;Manage cross-functional stakeholders to ensure alignment,
+        transparency, and on-time delivery.&lt;/li&gt; &lt;li&gt;Ensures project
+        milestones and deadlines are met and associated documentation supports
+        customer acceptance for purposes of revenue recognition&lt;/li&gt;
+        &lt;li&gt;Support pre-sales scoping and post-sales implementation
+        handoff.&lt;/li&gt; &lt;li&gt;Operates with a sense of urgency,
+        accuracy, and detail-orientation, while maintaining consistent lines of
+        communication with all teams involved in each project&lt;/li&gt;
+        &lt;li&gt;Maintain customer confidence, especially in high-pressure
+        situations&lt;/li&gt; &lt;li&gt;Remain organized and focused on removing
+        obstacles through creativity and adaptation to rapidly changing
+        circumstances&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Partner
+        Management&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Own the
+        relationship with 3rd party integrator and the client throughout the
+        length of the contract&lt;/li&gt; &lt;/ul&gt;
+        &lt;p&gt;&lt;strong&gt;Stakeholder
+        Collaboration&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Work closely
+        with Professional Services, Product Managers, and Engineers to align
+        program execution with business goals.&lt;/li&gt; &lt;li&gt;Act as a
+        liaison between customers and internal teams to manage change requests,
+        solution feasibility, and roadmap alignment.&lt;/li&gt; &lt;/ul&gt;
+        &lt;p&gt;&lt;strong&gt;Process Improvement&lt;/strong&gt;&lt;/p&gt;
+        &lt;ul&gt; &lt;li&gt;Identify process inefficiencies and propose
+        improvements to increase deployment speed, quality, and customer
+        satisfaction.&lt;/li&gt; &lt;li&gt;Contribute to internal SOPs,
+        implementation playbooks, and best practices.&lt;/li&gt; &lt;/ul&gt;
+        &lt;h2&gt;&lt;strong&gt;What You Bring&lt;/strong&gt;&lt;/h2&gt;
+        &lt;ul&gt; &lt;li&gt;Fluency in both German and English&lt;/li&gt;
+        &lt;li&gt;European citizenship is required in order to work with
+        sensitive Government data, willing to undergo a security
+        check&lt;/li&gt; &lt;li&gt;5+ years of experience leading and delivering
+        highly complex programs, with demonstrated success in technical program
+        management.&lt;/li&gt; &lt;li&gt;Proven track record of managing
+        enterprise-level software deployments, infrastructure projects, or
+        large-scale enterprise application programs.&lt;/li&gt; &lt;li&gt;Deep
+        expertise in delivering complex projects involving cross-functional
+        teams, including sales, engineering, and product.&lt;/li&gt;
+        &lt;li&gt;Mastery of program/project management tools and methodologies
+        to track, report, and deliver on objectives. (PMP, PRINCE2,
+        SCRUM)&lt;/li&gt; &lt;li&gt;Experience gathering requirements,
+        optimizing workflows, and facilitating change management within
+        teams.&lt;/li&gt; &lt;li&gt;Familiarity with software configurations and
+        coding experience (particularly JSON) preferred.&lt;/li&gt;
+        &lt;li&gt;Advanced communication and presentation skills, with the
+        ability to distill technical concepts for diverse audiences.&lt;/li&gt;
+        &lt;li&gt;Proficiency in guiding client and internal teams through
+        ambiguity, driving alignment, and executing on shared goals.&lt;/li&gt;
+        &lt;/ul&gt;&lt;div
+        class=&quot;content-conclusion&quot;&gt;&lt;p&gt;Don’t meet every single
+        requirement? That&#39;s ok. At Axon, we Aim Far. We think big with a
+        long-term view because we want to reinvent the world to be a safer,
+        better place. We are also committed to building diverse teams that
+        reflect the communities we serve.&lt;/p&gt; &lt;p&gt;Studies have shown
+        that women and people of color are less likely to apply to jobs unless
+        they check every box in the job description. If you’re excited about
+        this role and our mission to Protect Life but your experience doesn’t
+        align perfectly with every qualification listed here, we encourage you
+        to apply anyways. You may be just the right candidate for this or other
+        roles.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Important
+        Notes&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;The above job
+        description is not intended as, nor should it be construed as,
+        exhaustive of all duties, responsibilities, skills, efforts, or working
+        conditions associated with this job. The job description may change or
+        be supplemented at any time in accordance with business needs and
+        conditions.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Some roles may also
+        require legal eligibility to work in a firearms
+        environment.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;We collect personal
+        information from applicants to evaluate candidates for employment. You
+        may request access, deletion, or exercise other CCPA rights
+        at&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;&lt;a
+        class=&quot;c-link c-link--underline&quot; -----
+        target=&quot;_blank&quot; ----- ----- via our&amp;nbsp;&lt;a
+        class=&quot;c-link c-link--underline&quot;
+        href=&quot;https://privacyportal.onetrust.com/webform/0efc1702-9321-411\
+        9-bc9d-a06c3a1d3e4e/ca57cc26-a159-4193-9f6e-58ffe3fd2509&quot;
+        target=&quot;_blank&quot;
+        data-stringify-link=&quot;https://privacyportal.onetrust.com/webform/0e\
+        fc1702-9321-4119-bc9d-a06c3a1d3e4e/ca57cc26-a159-4193-9f6e-58ffe3fd2509\
+        &quot; data-sk=&quot;tooltip_parent&quot;&gt;Axon Privacy Web
+        Form&lt;/a&gt;. For more information, please see the Your California
+        Privacy Rights section of our&amp;nbsp;&lt;a class=&quot;c-link
+        c-link--underline&quot;
+        href=&quot;https://www.axon.com/candidateprivacypolicy&quot;
+        target=&quot;_blank&quot;
+        data-stringify-link=&quot;https://www.axon.com/candidateprivacypolicy&q\
+        uot; data-sk=&quot;tooltip_parent&quot;&gt;Applicant and Candidate
+        Privacy Notice.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Axon’s
+        mission is to Protect Life and is committed to the well-being and safety
+        of its employees as well as Axon’s impact on the environment. All Axon
+        employees must be aware of and committed to the appropriate
+        environmental, health, and safety regulations, policies, and procedures.
+        Axon employees are empowered to report safety concerns as they arise and
+        activities potentially impacting the environment.&lt;/em&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;em&gt;We are an equal opportunity employer that promotes
+        justice, advances equity, values diversity and fosters inclusion. We’re
+        committed to hiring the best talent — regardless of race, creed, color,
+        ancestry, religion, sex (including pregnancy), national origin, sexual
+        orientation, age, citizenship status, marital status, disability, gender
+        identity, genetic information, veteran status, or any other
+        characteristic protected by applicable laws, regulations and ordinances
+        — and empowering all of our employees so they can do their best work. If
+        you have a disability or special need that requires assistance or
+        accommodation during the application or the recruiting process, please
+        email &lt;a ---------- &lt;/a&gt;&amp;nbsp;Please note that this email
+        address is for accommodation purposes only. Axon will not respond to
+        inquiries for other purposes.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;Phishing
+        alert:&amp;nbsp; Axon will never ask you to pay for any part of the
+        hiring process, including training, equipment, or background checks. We
+        do not make job offers via text message, WhatsApp, or instant messaging
+        platforms without a formal interview process.&amp;nbsp; All legitimate
+        job openings are listed on our official careers page at &lt;a
+        href=&quot;https://www.axon.com/careers&quot;&gt;https://www.axon.com/c\
+        areers&lt;/a&gt;. &amp;nbsp;If you receive a suspicious offer or
+        outreach from an email address that is not ----- or if you are asked for
+        sensitive personal information (bank details, Social Security Number)
+        prematurely, please ignore the message and report it to &lt;a ----------
+        &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt; Find more English Speaking
+        Jobs in Germany on Arbeitnow"
+      job_types: &a2 []
+      remote: false
+      score: 88
+      skill_hits: 4
+      bucket_id: scrum_agile
+      fetched_at: 2026-10-28T21:52:48.367Z
+      pulled_at: 2026-10-28T21:52:48.367Z
+      stale_days: 8
+      is_stale: false
+  program_management:
+    - source: arbeitnow
+      source_note: ""
+      company: Orbem
+      title: Staff Technical Program Manager (f/m/d)
+      location: Munich
+      url: https://www.arbeitnow.com/jobs/companies/orbem/staff-technical-program-manager-munich-75349
+      updated_at: 1793439615
+      description: "We see the potential inside everything and everyone. Starting with
+        you. Orbem uses AI to industrialize MRI, delivering non-invasive insight
+        into everything from fruits to eggs to the human body. We are
+        transforming what is becoming the world's largest biological dataset
+        into actionable intelligence to reduce waste, increase quality, and
+        accelerate the shift toward a more sustainable and healthier future.
+        Headquartered and founded in Munich, Germany, with an office now in
+        Houston, Texas, our world-class team is scaling inside-out technology to
+        transform how humanity sees and understands biological matter. Help us
+        see what's possible. Join us. Your Role Orbem is at a critical
+        inflection point. As we scale our range of unique products, we need
+        delivery that is predictable, transparent and built to scale. As a Staff
+        Technical Program Manager within our TPM team, you will drive the
+        delivery of complex, high-stakes programs that bring our products from
+        development to market. You will work across Hardware, Software and
+        Science/AI, aligning teams around shared goals and turning technical
+        complexity into clear plans and decisions. This is a high-impact role
+        that blends technical depth, delivery architecture and informal
+        leadership. You will work in a complex, fast-scaling environment, and
+        you will also help strengthen how the wider TPM team works. Your
+        Day-to-Day Own the Execution Plan: Architect and design end-to-end
+        delivery plans for your team(s), from initial discovery or design phase
+        until commercial launch. Lead quarterly OKR planning and ensure it is
+        fully aligned to company OKRs. Lead Cross-Functional Coordination:
+        Co-lead product delivery with the Product Manager and Tech Leads. You
+        own the how and when. Manage dependencies across teams and relevant
+        domains (technical, operations, business development), and keep
+        stakeholders, including external partners, aligned. Drive Risk &amp;
+        Decision-Making Proactively identify, track, and mitigate technical and
+        non-technical risks — timeline, resources, budget, and scope. Escalate
+        and resolve cross-team conflicts; create the decision-making frameworks
+        other teams rely on. Shape Ways of Working Champion tooling and process
+        best practices within the team and contribute workflows optimization
+        within the TPM team. (e.g. refine the Product Development Lifecycle,
+        Risk Management processes). Coach and mentor other TPMs. Your Experience
+        and Skills Program Leadership: Proven track record managing complex,
+        cross-functional technical programs — ideally spanning hardware,
+        software, and/or AI — with high delivery accountability. Technical
+        Depth: Solid understanding of how complex deep-tech products are
+        engineered across Hardware, Software and Science/AI. You can evaluate
+        trade-offs across all three domains well enough to challenge and guide
+        engineering decisions. A technical background in systems engineering,
+        MRI or AI/ML is a plus. Practical understanding of how products are
+        operated at customer sites, from early MVPs to mature deployments.
+        Execution &amp; Planning: Expert in building and managing master program
+        plans, sprint structures, milestone tracking, and risk registers across
+        multiple concurrent workstreams. Stakeholder Management: Able to
+        translate technical complexity into executive-level clarity and to
+        influence and align without formal authority across matrixed
+        organizations. Change Management: Proven ability to drive adoption of
+        new tools, frameworks, and processes (e.g. PDLC/PLM rollouts, agile
+        tooling) across cross-functional teams — balancing structured change
+        with the pace of a fast-moving scale-up. Tooling &amp; Process: Advanced
+        setup of planning and tracking tools such as Jira and Confluence,
+        covering portfolio dashboards, cross-team dependency and risk tracking,
+        and executive-ready reporting. Hands-on with agentic AI tools that boost
+        team efficiency. Leadership &amp; Culture: You are a servant leader who
+        thrives in fast-growing scale-up environments, models candid
+        communication, and creates psychological safety in high-stakes settings
+        What Makes You Stand Out Experience with deep-tech products involving AI
+        or MRI — or direct exposure to the Food &amp; Fresh Produce industry,
+        particularly melons or soft fruits — is a significant plus. Familiarity
+        with industrializing sensor-based inspection systems for high-throughput
+        agricultural or food processing environments is highly valued. Fit to
+        Our Values We Own Every Challenge: we enjoy complexity and thrive under
+        uncertainty. We Strive for Better: we seize any opportunity for growth
+        and challenge the status quo. We are constantly learning and improving.
+        We Imagine New Frontiers: we think beyond “doable” and “reasonable”. We
+        design a sustainable and healthy future together. What We Offer
+        International Environment: Join a team with 40+ nationalities across 5
+        continents, all driven by a shared purpose: shedding light on the
+        world’s toughest challenges. Comprehensive Benefits: Stock Options:
+        Share in Orbem’s success. Relocation Support: Seamless support for your
+        move to Germany. Learning &amp; Development: €1,750 annual budget for
+        personal growth. Fitness Membership: Access to Urban Sports Club or
+        Wellpass. Childcare Reimbursement: Support for Kita/Kindergarten fees.
+        Deutschland Ticket: Monthly subsidy towards public transportation costs.
+        Work-Life Integration: Flexible Hours &amp; Home Office: Work when and
+        where it suits you. WFH Perks: Get €185 to upgrade your home office + an
+        external monitor on us! 30 Days Paid Leave: Plenty of time to recharge.
+        Personal Leave: Flexibility for life’s important moments. Work From
+        Anywhere: Experience new cultures and environments for up to 60 days per
+        year. Make a Difference: Join an ambitious, fast-growing team working on
+        breakthrough technology. In our scale-up environment, you'll have the
+        freedom to lead your projects and make an impact. We provide a platform
+        for you to explore, innovate, and define your vision for the future. At
+        Orbem, we're committed to helping you discover your strengths, and while
+        we aim to teach you, we also want to learn from you. Your Team: You'll
+        become part of our diverse and international team. Learn more about the
+        team members, their work, and challenges here: https://orbem.ai/company/
+        At Orbem, we're committed to building a smart, diverse team, and we
+        recognize that self-doubt can prevent talented individuals from
+        applying. If you feel you don't meet every requirement, we'd love to
+        hear from you anyway! Compensation: €90K – €100K • €40K – €80K Equity L4
+        • Compensation Range €90K – €100K • €40K – €80K Equity Find Jobs in
+        Germany on Arbeitnow"
+      job_types: *a1
+      remote: false
+      score: 88
+      skill_hits: 4
+      bucket_id: program_management
+      fetched_at: 2026-10-31T20:36:52.691Z
+      pulled_at: 2026-10-31T20:36:52.691Z
+      stale_days: 5
+      is_stale: false
+    - source: arbeitnow
+      source_note: ""
+      company: Axon
+      title: Senior Technical Program Manager I
+      location: ""
+      url: https://www.arbeitnow.com/jobs/companies/axon/senior-technical-program-manager-i-178890
+      updated_at: 1793213722
+      description: "&lt;div
+        class=&quot;content-intro&quot;&gt;&lt;h4&gt;&lt;strong&gt;Join Axon and
+        be a Force for Good.&lt;/strong&gt;&lt;/h4&gt; &lt;p&gt;At Axon, we’re
+        on a mission to Protect Life. We’re explorers, pursuing society’s most
+        critical safety and justice issues with our ecosystem of devices and
+        cloud software. Like our products, we work better together. We connect
+        with candor and care, seeking out diverse perspectives from our
+        customers, communities and each other.&lt;br&gt;&lt;br&gt;Life at Axon
+        is fast-paced, challenging and meaningful. Here, you’ll take ownership
+        and drive real change. Constantly grow as you work hard for a mission
+        that matters at a company where you
+        matter.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Location: Amsterdam,
+        Netherlands OR Germany -
+        Remote&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;Travel: &lt;/strong&gt;up
+        to 40% within DACH, Benelux, Nordics (an other European countries as
+        needed)&lt;br&gt;&lt;strong&gt;Reports to:&lt;/strong&gt; Director,
+        Professional Services, EMEA&lt;br&gt;&amp;nbsp;&lt;/p&gt;
+        &lt;h2&gt;&lt;strong&gt;Your Impact&lt;/strong&gt;&lt;/h2&gt;
+        &lt;p&gt;As a Senior Technical Project Manager, you’ll lead
+        high-visibility projects, directly contributing to the development and
+        implementation of solutions that truly make a difference. In this role,
+        you’ll tackle complex challenges, working with some of the most advanced
+        technologies in the industry, including cloud and on-prem platforms, and
+        mission-critical systems. You’ll have the opportunity to collaborate
+        with brilliant minds across professional services, sales, engineering,
+        product, and customer teams to deliver solutions that save lives and
+        enhance public trust.&lt;br&gt;&lt;br&gt;At Axon, we’re driven by a
+        powerful mission: to protect life, capture truth, and accelerate
+        justice. We’re growing rapidly, and this is your chance to make a
+        lasting impact at a company where innovation meets purpose.&lt;/p&gt;
+        &lt;h2&gt;&lt;br&gt;&lt;strong&gt;What You’ll
+        Do&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;&lt;br&gt;&lt;strong&gt;Program
+        &amp;amp; Project Management&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt;
+        &lt;li&gt;Manage all aspects of complex enterprise-grade product
+        deployments&lt;/li&gt; &lt;li&gt;Oversee project milestones, resource
+        planning, scope, timeline, and risk management.&lt;/li&gt;
+        &lt;li&gt;Manage cross-functional stakeholders to ensure alignment,
+        transparency, and on-time delivery.&lt;/li&gt; &lt;li&gt;Ensures project
+        milestones and deadlines are met and associated documentation supports
+        customer acceptance for purposes of revenue recognition&lt;/li&gt;
+        &lt;li&gt;Support pre-sales scoping and post-sales implementation
+        handoff.&lt;/li&gt; &lt;li&gt;Operates with a sense of urgency,
+        accuracy, and detail-orientation, while maintaining consistent lines of
+        communication with all teams involved in each project&lt;/li&gt;
+        &lt;li&gt;Maintain customer confidence, especially in high-pressure
+        situations&lt;/li&gt; &lt;li&gt;Remain organized and focused on removing
+        obstacles through creativity and adaptation to rapidly changing
+        circumstances&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Partner
+        Management&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Own the
+        relationship with 3rd party integrator and the client throughout the
+        length of the contract&lt;/li&gt; &lt;/ul&gt;
+        &lt;p&gt;&lt;strong&gt;Stakeholder
+        Collaboration&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Work closely
+        with Professional Services, Product Managers, and Engineers to align
+        program execution with business goals.&lt;/li&gt; &lt;li&gt;Act as a
+        liaison between customers and internal teams to manage change requests,
+        solution feasibility, and roadmap alignment.&lt;/li&gt; &lt;/ul&gt;
+        &lt;p&gt;&lt;strong&gt;Process Improvement&lt;/strong&gt;&lt;/p&gt;
+        &lt;ul&gt; &lt;li&gt;Identify process inefficiencies and propose
+        improvements to increase deployment speed, quality, and customer
+        satisfaction.&lt;/li&gt; &lt;li&gt;Contribute to internal SOPs,
+        implementation playbooks, and best practices.&lt;/li&gt; &lt;/ul&gt;
+        &lt;h2&gt;&lt;strong&gt;What You Bring&lt;/strong&gt;&lt;/h2&gt;
+        &lt;ul&gt; &lt;li&gt;Fluency in both German and English&lt;/li&gt;
+        &lt;li&gt;European citizenship is required in order to work with
+        sensitive Government data, willing to undergo a security
+        check&lt;/li&gt; &lt;li&gt;5+ years of experience leading and delivering
+        highly complex programs, with demonstrated success in technical program
+        management.&lt;/li&gt; &lt;li&gt;Proven track record of managing
+        enterprise-level software deployments, infrastructure projects, or
+        large-scale enterprise application programs.&lt;/li&gt; &lt;li&gt;Deep
+        expertise in delivering complex projects involving cross-functional
+        teams, including sales, engineering, and product.&lt;/li&gt;
+        &lt;li&gt;Mastery of program/project management tools and methodologies
+        to track, report, and deliver on objectives. (PMP, PRINCE2,
+        SCRUM)&lt;/li&gt; &lt;li&gt;Experience gathering requirements,
+        optimizing workflows, and facilitating change management within
+        teams.&lt;/li&gt; &lt;li&gt;Familiarity with software configurations and
+        coding experience (particularly JSON) preferred.&lt;/li&gt;
+        &lt;li&gt;Advanced communication and presentation skills, with the
+        ability to distill technical concepts for diverse audiences.&lt;/li&gt;
+        &lt;li&gt;Proficiency in guiding client and internal teams through
+        ambiguity, driving alignment, and executing on shared goals.&lt;/li&gt;
+        &lt;/ul&gt;&lt;div
+        class=&quot;content-conclusion&quot;&gt;&lt;p&gt;Don’t meet every single
+        requirement? That&#39;s ok. At Axon, we Aim Far. We think big with a
+        long-term view because we want to reinvent the world to be a safer,
+        better place. We are also committed to building diverse teams that
+        reflect the communities we serve.&lt;/p&gt; &lt;p&gt;Studies have shown
+        that women and people of color are less likely to apply to jobs unless
+        they check every box in the job description. If you’re excited about
+        this role and our mission to Protect Life but your experience doesn’t
+        align perfectly with every qualification listed here, we encourage you
+        to apply anyways. You may be just the right candidate for this or other
+        roles.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Important
+        Notes&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;The above job
+        description is not intended as, nor should it be construed as,
+        exhaustive of all duties, responsibilities, skills, efforts, or working
+        conditions associated with this job. The job description may change or
+        be supplemented at any time in accordance with business needs and
+        conditions.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Some roles may also
+        require legal eligibility to work in a firearms
+        environment.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;We collect personal
+        information from applicants to evaluate candidates for employment. You
+        may request access, deletion, or exercise other CCPA rights
+        at&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;&lt;a
+        class=&quot;c-link c-link--underline&quot; -----
+        target=&quot;_blank&quot; ----- ----- via our&amp;nbsp;&lt;a
+        class=&quot;c-link c-link--underline&quot;
+        href=&quot;https://privacyportal.onetrust.com/webform/0efc1702-9321-411\
+        9-bc9d-a06c3a1d3e4e/ca57cc26-a159-4193-9f6e-58ffe3fd2509&quot;
+        target=&quot;_blank&quot;
+        data-stringify-link=&quot;https://privacyportal.onetrust.com/webform/0e\
+        fc1702-9321-4119-bc9d-a06c3a1d3e4e/ca57cc26-a159-4193-9f6e-58ffe3fd2509\
+        &quot; data-sk=&quot;tooltip_parent&quot;&gt;Axon Privacy Web
+        Form&lt;/a&gt;. For more information, please see the Your California
+        Privacy Rights section of our&amp;nbsp;&lt;a class=&quot;c-link
+        c-link--underline&quot;
+        href=&quot;https://www.axon.com/candidateprivacypolicy&quot;
+        target=&quot;_blank&quot;
+        data-stringify-link=&quot;https://www.axon.com/candidateprivacypolicy&q\
+        uot; data-sk=&quot;tooltip_parent&quot;&gt;Applicant and Candidate
+        Privacy Notice.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Axon’s
+        mission is to Protect Life and is committed to the well-being and safety
+        of its employees as well as Axon’s impact on the environment. All Axon
+        employees must be aware of and committed to the appropriate
+        environmental, health, and safety regulations, policies, and procedures.
+        Axon employees are empowered to report safety concerns as they arise and
+        activities potentially impacting the environment.&lt;/em&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;em&gt;We are an equal opportunity employer that promotes
+        justice, advances equity, values diversity and fosters inclusion. We’re
+        committed to hiring the best talent — regardless of race, creed, color,
+        ancestry, religion, sex (including pregnancy), national origin, sexual
+        orientation, age, citizenship status, marital status, disability, gender
+        identity, genetic information, veteran status, or any other
+        characteristic protected by applicable laws, regulations and ordinances
+        — and empowering all of our employees so they can do their best work. If
+        you have a disability or special need that requires assistance or
+        accommodation during the application or the recruiting process, please
+        email &lt;a ---------- &lt;/a&gt;&amp;nbsp;Please note that this email
+        address is for accommodation purposes only. Axon will not respond to
+        inquiries for other purposes.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;Phishing
+        alert:&amp;nbsp; Axon will never ask you to pay for any part of the
+        hiring process, including training, equipment, or background checks. We
+        do not make job offers via text message, WhatsApp, or instant messaging
+        platforms without a formal interview process.&amp;nbsp; All legitimate
+        job openings are listed on our official careers page at &lt;a
+        href=&quot;https://www.axon.com/careers&quot;&gt;https://www.axon.com/c\
+        areers&lt;/a&gt;. &amp;nbsp;If you receive a suspicious offer or
+        outreach from an email address that is not ----- or if you are asked for
+        sensitive personal information (bank details, Social Security Number)
+        prematurely, please ignore the message and report it to &lt;a ----------
+        &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt; Find more English Speaking
+        Jobs in Germany on Arbeitnow"
+      job_types: *a2
+      remote: false
+      score: 88
+      skill_hits: 4
+      bucket_id: program_management
+      fetched_at: 2026-10-28T21:52:48.367Z
+      pulled_at: 2026-10-28T21:52:48.367Z
+      stale_days: 8
+      is_stale: false
+archive:
+  pm_product:
     - source: recruitee
       source_note: ""
       company: TransPerfect
@@ -5054,7 +5623,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 29
+      stale_days: 30
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -5088,7 +5657,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 29
+      stale_days: 30
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -5309,7 +5878,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 29
+      stale_days: 30
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -5352,7 +5921,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 29
+      stale_days: 30
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -5373,7 +5942,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 29
+      stale_days: 30
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -5437,7 +6006,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-06T21:58:13.650Z
       pulled_at: 2026-10-06T21:58:13.650Z
-      stale_days: 29
+      stale_days: 30
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -5549,577 +6118,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-05T23:20:51.019Z
       pulled_at: 2026-10-05T23:20:51.019Z
-      stale_days: 29
+      stale_days: 30
       is_stale: true
-  scrum_agile:
-    - source: arbeitnow
-      source_note: ""
-      company: Orbem
-      title: Staff Technical Program Manager (f/m/d)
-      location: Munich
-      url: https://www.arbeitnow.com/jobs/companies/orbem/staff-technical-program-manager-munich-75349
-      updated_at: 1793439615
-      description: "We see the potential inside everything and everyone. Starting with
-        you. Orbem uses AI to industrialize MRI, delivering non-invasive insight
-        into everything from fruits to eggs to the human body. We are
-        transforming what is becoming the world's largest biological dataset
-        into actionable intelligence to reduce waste, increase quality, and
-        accelerate the shift toward a more sustainable and healthier future.
-        Headquartered and founded in Munich, Germany, with an office now in
-        Houston, Texas, our world-class team is scaling inside-out technology to
-        transform how humanity sees and understands biological matter. Help us
-        see what's possible. Join us. Your Role Orbem is at a critical
-        inflection point. As we scale our range of unique products, we need
-        delivery that is predictable, transparent and built to scale. As a Staff
-        Technical Program Manager within our TPM team, you will drive the
-        delivery of complex, high-stakes programs that bring our products from
-        development to market. You will work across Hardware, Software and
-        Science/AI, aligning teams around shared goals and turning technical
-        complexity into clear plans and decisions. This is a high-impact role
-        that blends technical depth, delivery architecture and informal
-        leadership. You will work in a complex, fast-scaling environment, and
-        you will also help strengthen how the wider TPM team works. Your
-        Day-to-Day Own the Execution Plan: Architect and design end-to-end
-        delivery plans for your team(s), from initial discovery or design phase
-        until commercial launch. Lead quarterly OKR planning and ensure it is
-        fully aligned to company OKRs. Lead Cross-Functional Coordination:
-        Co-lead product delivery with the Product Manager and Tech Leads. You
-        own the how and when. Manage dependencies across teams and relevant
-        domains (technical, operations, business development), and keep
-        stakeholders, including external partners, aligned. Drive Risk &amp;
-        Decision-Making Proactively identify, track, and mitigate technical and
-        non-technical risks — timeline, resources, budget, and scope. Escalate
-        and resolve cross-team conflicts; create the decision-making frameworks
-        other teams rely on. Shape Ways of Working Champion tooling and process
-        best practices within the team and contribute workflows optimization
-        within the TPM team. (e.g. refine the Product Development Lifecycle,
-        Risk Management processes). Coach and mentor other TPMs. Your Experience
-        and Skills Program Leadership: Proven track record managing complex,
-        cross-functional technical programs — ideally spanning hardware,
-        software, and/or AI — with high delivery accountability. Technical
-        Depth: Solid understanding of how complex deep-tech products are
-        engineered across Hardware, Software and Science/AI. You can evaluate
-        trade-offs across all three domains well enough to challenge and guide
-        engineering decisions. A technical background in systems engineering,
-        MRI or AI/ML is a plus. Practical understanding of how products are
-        operated at customer sites, from early MVPs to mature deployments.
-        Execution &amp; Planning: Expert in building and managing master program
-        plans, sprint structures, milestone tracking, and risk registers across
-        multiple concurrent workstreams. Stakeholder Management: Able to
-        translate technical complexity into executive-level clarity and to
-        influence and align without formal authority across matrixed
-        organizations. Change Management: Proven ability to drive adoption of
-        new tools, frameworks, and processes (e.g. PDLC/PLM rollouts, agile
-        tooling) across cross-functional teams — balancing structured change
-        with the pace of a fast-moving scale-up. Tooling &amp; Process: Advanced
-        setup of planning and tracking tools such as Jira and Confluence,
-        covering portfolio dashboards, cross-team dependency and risk tracking,
-        and executive-ready reporting. Hands-on with agentic AI tools that boost
-        team efficiency. Leadership &amp; Culture: You are a servant leader who
-        thrives in fast-growing scale-up environments, models candid
-        communication, and creates psychological safety in high-stakes settings
-        What Makes You Stand Out Experience with deep-tech products involving AI
-        or MRI — or direct exposure to the Food &amp; Fresh Produce industry,
-        particularly melons or soft fruits — is a significant plus. Familiarity
-        with industrializing sensor-based inspection systems for high-throughput
-        agricultural or food processing environments is highly valued. Fit to
-        Our Values We Own Every Challenge: we enjoy complexity and thrive under
-        uncertainty. We Strive for Better: we seize any opportunity for growth
-        and challenge the status quo. We are constantly learning and improving.
-        We Imagine New Frontiers: we think beyond “doable” and “reasonable”. We
-        design a sustainable and healthy future together. What We Offer
-        International Environment: Join a team with 40+ nationalities across 5
-        continents, all driven by a shared purpose: shedding light on the
-        world’s toughest challenges. Comprehensive Benefits: Stock Options:
-        Share in Orbem’s success. Relocation Support: Seamless support for your
-        move to Germany. Learning &amp; Development: €1,750 annual budget for
-        personal growth. Fitness Membership: Access to Urban Sports Club or
-        Wellpass. Childcare Reimbursement: Support for Kita/Kindergarten fees.
-        Deutschland Ticket: Monthly subsidy towards public transportation costs.
-        Work-Life Integration: Flexible Hours &amp; Home Office: Work when and
-        where it suits you. WFH Perks: Get €185 to upgrade your home office + an
-        external monitor on us! 30 Days Paid Leave: Plenty of time to recharge.
-        Personal Leave: Flexibility for life’s important moments. Work From
-        Anywhere: Experience new cultures and environments for up to 60 days per
-        year. Make a Difference: Join an ambitious, fast-growing team working on
-        breakthrough technology. In our scale-up environment, you'll have the
-        freedom to lead your projects and make an impact. We provide a platform
-        for you to explore, innovate, and define your vision for the future. At
-        Orbem, we're committed to helping you discover your strengths, and while
-        we aim to teach you, we also want to learn from you. Your Team: You'll
-        become part of our diverse and international team. Learn more about the
-        team members, their work, and challenges here: https://orbem.ai/company/
-        At Orbem, we're committed to building a smart, diverse team, and we
-        recognize that self-doubt can prevent talented individuals from
-        applying. If you feel you don't meet every requirement, we'd love to
-        hear from you anyway! Compensation: €90K – €100K • €40K – €80K Equity L4
-        • Compensation Range €90K – €100K • €40K – €80K Equity Find Jobs in
-        Germany on Arbeitnow"
-      job_types: &a1
-        - Full Time
-      remote: false
-      score: 88
-      skill_hits: 4
-      bucket_id: scrum_agile
-      fetched_at: 2026-10-31T20:36:52.691Z
-      pulled_at: 2026-10-31T20:36:52.691Z
-      stale_days: 4
-      is_stale: false
-    - source: arbeitnow
-      source_note: ""
-      company: Axon
-      title: Senior Technical Program Manager I
-      location: ""
-      url: https://www.arbeitnow.com/jobs/companies/axon/senior-technical-program-manager-i-178890
-      updated_at: 1793213722
-      description: "&lt;div
-        class=&quot;content-intro&quot;&gt;&lt;h4&gt;&lt;strong&gt;Join Axon and
-        be a Force for Good.&lt;/strong&gt;&lt;/h4&gt; &lt;p&gt;At Axon, we’re
-        on a mission to Protect Life. We’re explorers, pursuing society’s most
-        critical safety and justice issues with our ecosystem of devices and
-        cloud software. Like our products, we work better together. We connect
-        with candor and care, seeking out diverse perspectives from our
-        customers, communities and each other.&lt;br&gt;&lt;br&gt;Life at Axon
-        is fast-paced, challenging and meaningful. Here, you’ll take ownership
-        and drive real change. Constantly grow as you work hard for a mission
-        that matters at a company where you
-        matter.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Location: Amsterdam,
-        Netherlands OR Germany -
-        Remote&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;Travel: &lt;/strong&gt;up
-        to 40% within DACH, Benelux, Nordics (an other European countries as
-        needed)&lt;br&gt;&lt;strong&gt;Reports to:&lt;/strong&gt; Director,
-        Professional Services, EMEA&lt;br&gt;&amp;nbsp;&lt;/p&gt;
-        &lt;h2&gt;&lt;strong&gt;Your Impact&lt;/strong&gt;&lt;/h2&gt;
-        &lt;p&gt;As a Senior Technical Project Manager, you’ll lead
-        high-visibility projects, directly contributing to the development and
-        implementation of solutions that truly make a difference. In this role,
-        you’ll tackle complex challenges, working with some of the most advanced
-        technologies in the industry, including cloud and on-prem platforms, and
-        mission-critical systems. You’ll have the opportunity to collaborate
-        with brilliant minds across professional services, sales, engineering,
-        product, and customer teams to deliver solutions that save lives and
-        enhance public trust.&lt;br&gt;&lt;br&gt;At Axon, we’re driven by a
-        powerful mission: to protect life, capture truth, and accelerate
-        justice. We’re growing rapidly, and this is your chance to make a
-        lasting impact at a company where innovation meets purpose.&lt;/p&gt;
-        &lt;h2&gt;&lt;br&gt;&lt;strong&gt;What You’ll
-        Do&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;&lt;br&gt;&lt;strong&gt;Program
-        &amp;amp; Project Management&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt;
-        &lt;li&gt;Manage all aspects of complex enterprise-grade product
-        deployments&lt;/li&gt; &lt;li&gt;Oversee project milestones, resource
-        planning, scope, timeline, and risk management.&lt;/li&gt;
-        &lt;li&gt;Manage cross-functional stakeholders to ensure alignment,
-        transparency, and on-time delivery.&lt;/li&gt; &lt;li&gt;Ensures project
-        milestones and deadlines are met and associated documentation supports
-        customer acceptance for purposes of revenue recognition&lt;/li&gt;
-        &lt;li&gt;Support pre-sales scoping and post-sales implementation
-        handoff.&lt;/li&gt; &lt;li&gt;Operates with a sense of urgency,
-        accuracy, and detail-orientation, while maintaining consistent lines of
-        communication with all teams involved in each project&lt;/li&gt;
-        &lt;li&gt;Maintain customer confidence, especially in high-pressure
-        situations&lt;/li&gt; &lt;li&gt;Remain organized and focused on removing
-        obstacles through creativity and adaptation to rapidly changing
-        circumstances&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Partner
-        Management&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Own the
-        relationship with 3rd party integrator and the client throughout the
-        length of the contract&lt;/li&gt; &lt;/ul&gt;
-        &lt;p&gt;&lt;strong&gt;Stakeholder
-        Collaboration&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Work closely
-        with Professional Services, Product Managers, and Engineers to align
-        program execution with business goals.&lt;/li&gt; &lt;li&gt;Act as a
-        liaison between customers and internal teams to manage change requests,
-        solution feasibility, and roadmap alignment.&lt;/li&gt; &lt;/ul&gt;
-        &lt;p&gt;&lt;strong&gt;Process Improvement&lt;/strong&gt;&lt;/p&gt;
-        &lt;ul&gt; &lt;li&gt;Identify process inefficiencies and propose
-        improvements to increase deployment speed, quality, and customer
-        satisfaction.&lt;/li&gt; &lt;li&gt;Contribute to internal SOPs,
-        implementation playbooks, and best practices.&lt;/li&gt; &lt;/ul&gt;
-        &lt;h2&gt;&lt;strong&gt;What You Bring&lt;/strong&gt;&lt;/h2&gt;
-        &lt;ul&gt; &lt;li&gt;Fluency in both German and English&lt;/li&gt;
-        &lt;li&gt;European citizenship is required in order to work with
-        sensitive Government data, willing to undergo a security
-        check&lt;/li&gt; &lt;li&gt;5+ years of experience leading and delivering
-        highly complex programs, with demonstrated success in technical program
-        management.&lt;/li&gt; &lt;li&gt;Proven track record of managing
-        enterprise-level software deployments, infrastructure projects, or
-        large-scale enterprise application programs.&lt;/li&gt; &lt;li&gt;Deep
-        expertise in delivering complex projects involving cross-functional
-        teams, including sales, engineering, and product.&lt;/li&gt;
-        &lt;li&gt;Mastery of program/project management tools and methodologies
-        to track, report, and deliver on objectives. (PMP, PRINCE2,
-        SCRUM)&lt;/li&gt; &lt;li&gt;Experience gathering requirements,
-        optimizing workflows, and facilitating change management within
-        teams.&lt;/li&gt; &lt;li&gt;Familiarity with software configurations and
-        coding experience (particularly JSON) preferred.&lt;/li&gt;
-        &lt;li&gt;Advanced communication and presentation skills, with the
-        ability to distill technical concepts for diverse audiences.&lt;/li&gt;
-        &lt;li&gt;Proficiency in guiding client and internal teams through
-        ambiguity, driving alignment, and executing on shared goals.&lt;/li&gt;
-        &lt;/ul&gt;&lt;div
-        class=&quot;content-conclusion&quot;&gt;&lt;p&gt;Don’t meet every single
-        requirement? That&#39;s ok. At Axon, we Aim Far. We think big with a
-        long-term view because we want to reinvent the world to be a safer,
-        better place. We are also committed to building diverse teams that
-        reflect the communities we serve.&lt;/p&gt; &lt;p&gt;Studies have shown
-        that women and people of color are less likely to apply to jobs unless
-        they check every box in the job description. If you’re excited about
-        this role and our mission to Protect Life but your experience doesn’t
-        align perfectly with every qualification listed here, we encourage you
-        to apply anyways. You may be just the right candidate for this or other
-        roles.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Important
-        Notes&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;The above job
-        description is not intended as, nor should it be construed as,
-        exhaustive of all duties, responsibilities, skills, efforts, or working
-        conditions associated with this job. The job description may change or
-        be supplemented at any time in accordance with business needs and
-        conditions.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Some roles may also
-        require legal eligibility to work in a firearms
-        environment.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;We collect personal
-        information from applicants to evaluate candidates for employment. You
-        may request access, deletion, or exercise other CCPA rights
-        at&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;&lt;a
-        class=&quot;c-link c-link--underline&quot; -----
-        target=&quot;_blank&quot; ----- ----- via our&amp;nbsp;&lt;a
-        class=&quot;c-link c-link--underline&quot;
-        href=&quot;https://privacyportal.onetrust.com/webform/0efc1702-9321-411\
-        9-bc9d-a06c3a1d3e4e/ca57cc26-a159-4193-9f6e-58ffe3fd2509&quot;
-        target=&quot;_blank&quot;
-        data-stringify-link=&quot;https://privacyportal.onetrust.com/webform/0e\
-        fc1702-9321-4119-bc9d-a06c3a1d3e4e/ca57cc26-a159-4193-9f6e-58ffe3fd2509\
-        &quot; data-sk=&quot;tooltip_parent&quot;&gt;Axon Privacy Web
-        Form&lt;/a&gt;. For more information, please see the Your California
-        Privacy Rights section of our&amp;nbsp;&lt;a class=&quot;c-link
-        c-link--underline&quot;
-        href=&quot;https://www.axon.com/candidateprivacypolicy&quot;
-        target=&quot;_blank&quot;
-        data-stringify-link=&quot;https://www.axon.com/candidateprivacypolicy&q\
-        uot; data-sk=&quot;tooltip_parent&quot;&gt;Applicant and Candidate
-        Privacy Notice.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Axon’s
-        mission is to Protect Life and is committed to the well-being and safety
-        of its employees as well as Axon’s impact on the environment. All Axon
-        employees must be aware of and committed to the appropriate
-        environmental, health, and safety regulations, policies, and procedures.
-        Axon employees are empowered to report safety concerns as they arise and
-        activities potentially impacting the environment.&lt;/em&gt;&lt;/p&gt;
-        &lt;p&gt;&lt;em&gt;We are an equal opportunity employer that promotes
-        justice, advances equity, values diversity and fosters inclusion. We’re
-        committed to hiring the best talent — regardless of race, creed, color,
-        ancestry, religion, sex (including pregnancy), national origin, sexual
-        orientation, age, citizenship status, marital status, disability, gender
-        identity, genetic information, veteran status, or any other
-        characteristic protected by applicable laws, regulations and ordinances
-        — and empowering all of our employees so they can do their best work. If
-        you have a disability or special need that requires assistance or
-        accommodation during the application or the recruiting process, please
-        email &lt;a ---------- &lt;/a&gt;&amp;nbsp;Please note that this email
-        address is for accommodation purposes only. Axon will not respond to
-        inquiries for other purposes.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;Phishing
-        alert:&amp;nbsp; Axon will never ask you to pay for any part of the
-        hiring process, including training, equipment, or background checks. We
-        do not make job offers via text message, WhatsApp, or instant messaging
-        platforms without a formal interview process.&amp;nbsp; All legitimate
-        job openings are listed on our official careers page at &lt;a
-        href=&quot;https://www.axon.com/careers&quot;&gt;https://www.axon.com/c\
-        areers&lt;/a&gt;. &amp;nbsp;If you receive a suspicious offer or
-        outreach from an email address that is not ----- or if you are asked for
-        sensitive personal information (bank details, Social Security Number)
-        prematurely, please ignore the message and report it to &lt;a ----------
-        &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt; Find more English Speaking
-        Jobs in Germany on Arbeitnow"
-      job_types: &a2 []
-      remote: false
-      score: 88
-      skill_hits: 4
-      bucket_id: scrum_agile
-      fetched_at: 2026-10-28T21:52:48.367Z
-      pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 7
-      is_stale: false
-  program_management:
-    - source: arbeitnow
-      source_note: ""
-      company: Orbem
-      title: Staff Technical Program Manager (f/m/d)
-      location: Munich
-      url: https://www.arbeitnow.com/jobs/companies/orbem/staff-technical-program-manager-munich-75349
-      updated_at: 1793439615
-      description: "We see the potential inside everything and everyone. Starting with
-        you. Orbem uses AI to industrialize MRI, delivering non-invasive insight
-        into everything from fruits to eggs to the human body. We are
-        transforming what is becoming the world's largest biological dataset
-        into actionable intelligence to reduce waste, increase quality, and
-        accelerate the shift toward a more sustainable and healthier future.
-        Headquartered and founded in Munich, Germany, with an office now in
-        Houston, Texas, our world-class team is scaling inside-out technology to
-        transform how humanity sees and understands biological matter. Help us
-        see what's possible. Join us. Your Role Orbem is at a critical
-        inflection point. As we scale our range of unique products, we need
-        delivery that is predictable, transparent and built to scale. As a Staff
-        Technical Program Manager within our TPM team, you will drive the
-        delivery of complex, high-stakes programs that bring our products from
-        development to market. You will work across Hardware, Software and
-        Science/AI, aligning teams around shared goals and turning technical
-        complexity into clear plans and decisions. This is a high-impact role
-        that blends technical depth, delivery architecture and informal
-        leadership. You will work in a complex, fast-scaling environment, and
-        you will also help strengthen how the wider TPM team works. Your
-        Day-to-Day Own the Execution Plan: Architect and design end-to-end
-        delivery plans for your team(s), from initial discovery or design phase
-        until commercial launch. Lead quarterly OKR planning and ensure it is
-        fully aligned to company OKRs. Lead Cross-Functional Coordination:
-        Co-lead product delivery with the Product Manager and Tech Leads. You
-        own the how and when. Manage dependencies across teams and relevant
-        domains (technical, operations, business development), and keep
-        stakeholders, including external partners, aligned. Drive Risk &amp;
-        Decision-Making Proactively identify, track, and mitigate technical and
-        non-technical risks — timeline, resources, budget, and scope. Escalate
-        and resolve cross-team conflicts; create the decision-making frameworks
-        other teams rely on. Shape Ways of Working Champion tooling and process
-        best practices within the team and contribute workflows optimization
-        within the TPM team. (e.g. refine the Product Development Lifecycle,
-        Risk Management processes). Coach and mentor other TPMs. Your Experience
-        and Skills Program Leadership: Proven track record managing complex,
-        cross-functional technical programs — ideally spanning hardware,
-        software, and/or AI — with high delivery accountability. Technical
-        Depth: Solid understanding of how complex deep-tech products are
-        engineered across Hardware, Software and Science/AI. You can evaluate
-        trade-offs across all three domains well enough to challenge and guide
-        engineering decisions. A technical background in systems engineering,
-        MRI or AI/ML is a plus. Practical understanding of how products are
-        operated at customer sites, from early MVPs to mature deployments.
-        Execution &amp; Planning: Expert in building and managing master program
-        plans, sprint structures, milestone tracking, and risk registers across
-        multiple concurrent workstreams. Stakeholder Management: Able to
-        translate technical complexity into executive-level clarity and to
-        influence and align without formal authority across matrixed
-        organizations. Change Management: Proven ability to drive adoption of
-        new tools, frameworks, and processes (e.g. PDLC/PLM rollouts, agile
-        tooling) across cross-functional teams — balancing structured change
-        with the pace of a fast-moving scale-up. Tooling &amp; Process: Advanced
-        setup of planning and tracking tools such as Jira and Confluence,
-        covering portfolio dashboards, cross-team dependency and risk tracking,
-        and executive-ready reporting. Hands-on with agentic AI tools that boost
-        team efficiency. Leadership &amp; Culture: You are a servant leader who
-        thrives in fast-growing scale-up environments, models candid
-        communication, and creates psychological safety in high-stakes settings
-        What Makes You Stand Out Experience with deep-tech products involving AI
-        or MRI — or direct exposure to the Food &amp; Fresh Produce industry,
-        particularly melons or soft fruits — is a significant plus. Familiarity
-        with industrializing sensor-based inspection systems for high-throughput
-        agricultural or food processing environments is highly valued. Fit to
-        Our Values We Own Every Challenge: we enjoy complexity and thrive under
-        uncertainty. We Strive for Better: we seize any opportunity for growth
-        and challenge the status quo. We are constantly learning and improving.
-        We Imagine New Frontiers: we think beyond “doable” and “reasonable”. We
-        design a sustainable and healthy future together. What We Offer
-        International Environment: Join a team with 40+ nationalities across 5
-        continents, all driven by a shared purpose: shedding light on the
-        world’s toughest challenges. Comprehensive Benefits: Stock Options:
-        Share in Orbem’s success. Relocation Support: Seamless support for your
-        move to Germany. Learning &amp; Development: €1,750 annual budget for
-        personal growth. Fitness Membership: Access to Urban Sports Club or
-        Wellpass. Childcare Reimbursement: Support for Kita/Kindergarten fees.
-        Deutschland Ticket: Monthly subsidy towards public transportation costs.
-        Work-Life Integration: Flexible Hours &amp; Home Office: Work when and
-        where it suits you. WFH Perks: Get €185 to upgrade your home office + an
-        external monitor on us! 30 Days Paid Leave: Plenty of time to recharge.
-        Personal Leave: Flexibility for life’s important moments. Work From
-        Anywhere: Experience new cultures and environments for up to 60 days per
-        year. Make a Difference: Join an ambitious, fast-growing team working on
-        breakthrough technology. In our scale-up environment, you'll have the
-        freedom to lead your projects and make an impact. We provide a platform
-        for you to explore, innovate, and define your vision for the future. At
-        Orbem, we're committed to helping you discover your strengths, and while
-        we aim to teach you, we also want to learn from you. Your Team: You'll
-        become part of our diverse and international team. Learn more about the
-        team members, their work, and challenges here: https://orbem.ai/company/
-        At Orbem, we're committed to building a smart, diverse team, and we
-        recognize that self-doubt can prevent talented individuals from
-        applying. If you feel you don't meet every requirement, we'd love to
-        hear from you anyway! Compensation: €90K – €100K • €40K – €80K Equity L4
-        • Compensation Range €90K – €100K • €40K – €80K Equity Find Jobs in
-        Germany on Arbeitnow"
-      job_types: *a1
-      remote: false
-      score: 88
-      skill_hits: 4
-      bucket_id: program_management
-      fetched_at: 2026-10-31T20:36:52.691Z
-      pulled_at: 2026-10-31T20:36:52.691Z
-      stale_days: 4
-      is_stale: false
-    - source: arbeitnow
-      source_note: ""
-      company: Axon
-      title: Senior Technical Program Manager I
-      location: ""
-      url: https://www.arbeitnow.com/jobs/companies/axon/senior-technical-program-manager-i-178890
-      updated_at: 1793213722
-      description: "&lt;div
-        class=&quot;content-intro&quot;&gt;&lt;h4&gt;&lt;strong&gt;Join Axon and
-        be a Force for Good.&lt;/strong&gt;&lt;/h4&gt; &lt;p&gt;At Axon, we’re
-        on a mission to Protect Life. We’re explorers, pursuing society’s most
-        critical safety and justice issues with our ecosystem of devices and
-        cloud software. Like our products, we work better together. We connect
-        with candor and care, seeking out diverse perspectives from our
-        customers, communities and each other.&lt;br&gt;&lt;br&gt;Life at Axon
-        is fast-paced, challenging and meaningful. Here, you’ll take ownership
-        and drive real change. Constantly grow as you work hard for a mission
-        that matters at a company where you
-        matter.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Location: Amsterdam,
-        Netherlands OR Germany -
-        Remote&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;Travel: &lt;/strong&gt;up
-        to 40% within DACH, Benelux, Nordics (an other European countries as
-        needed)&lt;br&gt;&lt;strong&gt;Reports to:&lt;/strong&gt; Director,
-        Professional Services, EMEA&lt;br&gt;&amp;nbsp;&lt;/p&gt;
-        &lt;h2&gt;&lt;strong&gt;Your Impact&lt;/strong&gt;&lt;/h2&gt;
-        &lt;p&gt;As a Senior Technical Project Manager, you’ll lead
-        high-visibility projects, directly contributing to the development and
-        implementation of solutions that truly make a difference. In this role,
-        you’ll tackle complex challenges, working with some of the most advanced
-        technologies in the industry, including cloud and on-prem platforms, and
-        mission-critical systems. You’ll have the opportunity to collaborate
-        with brilliant minds across professional services, sales, engineering,
-        product, and customer teams to deliver solutions that save lives and
-        enhance public trust.&lt;br&gt;&lt;br&gt;At Axon, we’re driven by a
-        powerful mission: to protect life, capture truth, and accelerate
-        justice. We’re growing rapidly, and this is your chance to make a
-        lasting impact at a company where innovation meets purpose.&lt;/p&gt;
-        &lt;h2&gt;&lt;br&gt;&lt;strong&gt;What You’ll
-        Do&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;&lt;br&gt;&lt;strong&gt;Program
-        &amp;amp; Project Management&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt;
-        &lt;li&gt;Manage all aspects of complex enterprise-grade product
-        deployments&lt;/li&gt; &lt;li&gt;Oversee project milestones, resource
-        planning, scope, timeline, and risk management.&lt;/li&gt;
-        &lt;li&gt;Manage cross-functional stakeholders to ensure alignment,
-        transparency, and on-time delivery.&lt;/li&gt; &lt;li&gt;Ensures project
-        milestones and deadlines are met and associated documentation supports
-        customer acceptance for purposes of revenue recognition&lt;/li&gt;
-        &lt;li&gt;Support pre-sales scoping and post-sales implementation
-        handoff.&lt;/li&gt; &lt;li&gt;Operates with a sense of urgency,
-        accuracy, and detail-orientation, while maintaining consistent lines of
-        communication with all teams involved in each project&lt;/li&gt;
-        &lt;li&gt;Maintain customer confidence, especially in high-pressure
-        situations&lt;/li&gt; &lt;li&gt;Remain organized and focused on removing
-        obstacles through creativity and adaptation to rapidly changing
-        circumstances&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Partner
-        Management&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Own the
-        relationship with 3rd party integrator and the client throughout the
-        length of the contract&lt;/li&gt; &lt;/ul&gt;
-        &lt;p&gt;&lt;strong&gt;Stakeholder
-        Collaboration&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Work closely
-        with Professional Services, Product Managers, and Engineers to align
-        program execution with business goals.&lt;/li&gt; &lt;li&gt;Act as a
-        liaison between customers and internal teams to manage change requests,
-        solution feasibility, and roadmap alignment.&lt;/li&gt; &lt;/ul&gt;
-        &lt;p&gt;&lt;strong&gt;Process Improvement&lt;/strong&gt;&lt;/p&gt;
-        &lt;ul&gt; &lt;li&gt;Identify process inefficiencies and propose
-        improvements to increase deployment speed, quality, and customer
-        satisfaction.&lt;/li&gt; &lt;li&gt;Contribute to internal SOPs,
-        implementation playbooks, and best practices.&lt;/li&gt; &lt;/ul&gt;
-        &lt;h2&gt;&lt;strong&gt;What You Bring&lt;/strong&gt;&lt;/h2&gt;
-        &lt;ul&gt; &lt;li&gt;Fluency in both German and English&lt;/li&gt;
-        &lt;li&gt;European citizenship is required in order to work with
-        sensitive Government data, willing to undergo a security
-        check&lt;/li&gt; &lt;li&gt;5+ years of experience leading and delivering
-        highly complex programs, with demonstrated success in technical program
-        management.&lt;/li&gt; &lt;li&gt;Proven track record of managing
-        enterprise-level software deployments, infrastructure projects, or
-        large-scale enterprise application programs.&lt;/li&gt; &lt;li&gt;Deep
-        expertise in delivering complex projects involving cross-functional
-        teams, including sales, engineering, and product.&lt;/li&gt;
-        &lt;li&gt;Mastery of program/project management tools and methodologies
-        to track, report, and deliver on objectives. (PMP, PRINCE2,
-        SCRUM)&lt;/li&gt; &lt;li&gt;Experience gathering requirements,
-        optimizing workflows, and facilitating change management within
-        teams.&lt;/li&gt; &lt;li&gt;Familiarity with software configurations and
-        coding experience (particularly JSON) preferred.&lt;/li&gt;
-        &lt;li&gt;Advanced communication and presentation skills, with the
-        ability to distill technical concepts for diverse audiences.&lt;/li&gt;
-        &lt;li&gt;Proficiency in guiding client and internal teams through
-        ambiguity, driving alignment, and executing on shared goals.&lt;/li&gt;
-        &lt;/ul&gt;&lt;div
-        class=&quot;content-conclusion&quot;&gt;&lt;p&gt;Don’t meet every single
-        requirement? That&#39;s ok. At Axon, we Aim Far. We think big with a
-        long-term view because we want to reinvent the world to be a safer,
-        better place. We are also committed to building diverse teams that
-        reflect the communities we serve.&lt;/p&gt; &lt;p&gt;Studies have shown
-        that women and people of color are less likely to apply to jobs unless
-        they check every box in the job description. If you’re excited about
-        this role and our mission to Protect Life but your experience doesn’t
-        align perfectly with every qualification listed here, we encourage you
-        to apply anyways. You may be just the right candidate for this or other
-        roles.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Important
-        Notes&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;The above job
-        description is not intended as, nor should it be construed as,
-        exhaustive of all duties, responsibilities, skills, efforts, or working
-        conditions associated with this job. The job description may change or
-        be supplemented at any time in accordance with business needs and
-        conditions.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Some roles may also
-        require legal eligibility to work in a firearms
-        environment.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;We collect personal
-        information from applicants to evaluate candidates for employment. You
-        may request access, deletion, or exercise other CCPA rights
-        at&amp;nbsp;&lt;strong data-stringify-type=&quot;bold&quot;&gt;&lt;a
-        class=&quot;c-link c-link--underline&quot; -----
-        target=&quot;_blank&quot; ----- ----- via our&amp;nbsp;&lt;a
-        class=&quot;c-link c-link--underline&quot;
-        href=&quot;https://privacyportal.onetrust.com/webform/0efc1702-9321-411\
-        9-bc9d-a06c3a1d3e4e/ca57cc26-a159-4193-9f6e-58ffe3fd2509&quot;
-        target=&quot;_blank&quot;
-        data-stringify-link=&quot;https://privacyportal.onetrust.com/webform/0e\
-        fc1702-9321-4119-bc9d-a06c3a1d3e4e/ca57cc26-a159-4193-9f6e-58ffe3fd2509\
-        &quot; data-sk=&quot;tooltip_parent&quot;&gt;Axon Privacy Web
-        Form&lt;/a&gt;. For more information, please see the Your California
-        Privacy Rights section of our&amp;nbsp;&lt;a class=&quot;c-link
-        c-link--underline&quot;
-        href=&quot;https://www.axon.com/candidateprivacypolicy&quot;
-        target=&quot;_blank&quot;
-        data-stringify-link=&quot;https://www.axon.com/candidateprivacypolicy&q\
-        uot; data-sk=&quot;tooltip_parent&quot;&gt;Applicant and Candidate
-        Privacy Notice.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Axon’s
-        mission is to Protect Life and is committed to the well-being and safety
-        of its employees as well as Axon’s impact on the environment. All Axon
-        employees must be aware of and committed to the appropriate
-        environmental, health, and safety regulations, policies, and procedures.
-        Axon employees are empowered to report safety concerns as they arise and
-        activities potentially impacting the environment.&lt;/em&gt;&lt;/p&gt;
-        &lt;p&gt;&lt;em&gt;We are an equal opportunity employer that promotes
-        justice, advances equity, values diversity and fosters inclusion. We’re
-        committed to hiring the best talent — regardless of race, creed, color,
-        ancestry, religion, sex (including pregnancy), national origin, sexual
-        orientation, age, citizenship status, marital status, disability, gender
-        identity, genetic information, veteran status, or any other
-        characteristic protected by applicable laws, regulations and ordinances
-        — and empowering all of our employees so they can do their best work. If
-        you have a disability or special need that requires assistance or
-        accommodation during the application or the recruiting process, please
-        email &lt;a ---------- &lt;/a&gt;&amp;nbsp;Please note that this email
-        address is for accommodation purposes only. Axon will not respond to
-        inquiries for other purposes.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;Phishing
-        alert:&amp;nbsp; Axon will never ask you to pay for any part of the
-        hiring process, including training, equipment, or background checks. We
-        do not make job offers via text message, WhatsApp, or instant messaging
-        platforms without a formal interview process.&amp;nbsp; All legitimate
-        job openings are listed on our official careers page at &lt;a
-        href=&quot;https://www.axon.com/careers&quot;&gt;https://www.axon.com/c\
-        areers&lt;/a&gt;. &amp;nbsp;If you receive a suspicious offer or
-        outreach from an email address that is not ----- or if you are asked for
-        sensitive personal information (bank details, Social Security Number)
-        prematurely, please ignore the message and report it to &lt;a ----------
-        &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt; Find more English Speaking
-        Jobs in Germany on Arbeitnow"
-      job_types: *a2
-      remote: false
-      score: 88
-      skill_hits: 4
-      bucket_id: program_management
-      fetched_at: 2026-10-28T21:52:48.367Z
-      pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 7
-      is_stale: false
-archive:
-  pm_product: []
   scrum_agile: []
   program_management: []
 meta:
@@ -6133,7 +6133,7 @@ meta:
     smartrecruiters_companies: 40
     teamtailor_companies: 0
     recruitee_companies: 81
-    ashby_organizations: 476
+    ashby_organizations: 480
     stepstone_feeds: 0
     arbeitnow: 1
     remotive: 1
@@ -6146,13 +6146,13 @@ meta:
     official_career_pages: 20
     search_queries: 20
   stale_counts:
-    pm_product: 9
+    pm_product: 8
     scrum_agile: 0
     program_management: 0
   inactive_counts:
-    pm_product: 0
+    pm_product: 7
     scrum_agile: 0
     program_management: 0
   timings_ms:
-    fetch: 182800
-    total: 209853
+    fetch: 240006
+    total: 240164
