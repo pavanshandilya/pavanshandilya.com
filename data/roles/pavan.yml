@@ -1,9 +1,445 @@
 schema_version: roles.v1
 profile_id: pavan
 profile_name: Pavan - marketing, digital marketing, video editing
-generated_at: 2026-11-06T22:15:40.978Z
+generated_at: 2026-11-07T21:02:17.615Z
 buckets:
   marketing_general:
+    - source: arbeitnow
+      source_note: ""
+      company: Zeal Network
+      title: Brand Manager (m/w/d)
+      location: Hamburg
+      url: https://www.arbeitnow.com/jobs/companies/zeal-network/brand-manager-hamburg-177328
+      updated_at: 1794066011
+      description: "ZEAL Network SE is a leading international provider of online
+        lottery products, operating for over 20 years with brands like LOTTO24
+        and Tipp24. As Germany’s largest digital lottery operator and a trusted
+        partner of Spain’s ONCE, we are passionate about shaping the future of
+        lottery experiences. LOTTO24 is Germany’s leading online provider of
+        state-licensed lottery products, offering customers convenient and
+        secure access to popular games like LOTTO 6aus49, Eurojackpot, and
+        GlücksSpirale. As a trusted partner of the state lotteries, LOTTO24
+        ensures that every ticket sold helps support charitable, social, and
+        community projects across Germany. By combining ease of play, trusted
+        security, and meaningful social contributions, LOTTO24 exemplifies
+        ZEAL’s vision of making lottery participation more accessible while
+        giving back to society. The role: As our Brand Manager, you bring our
+        brand and marketing strategy to life through impactful consumer
+        campaigns and creative initiatives. You translate strategic direction
+        and campaign concepts into high-quality execution across relevant
+        channels and customer touchpoints. Working closely with cross-functional
+        teams, agencies, and external partners, you combine creativity, strong
+        execution, and data-driven decision-making to strengthen our brand and
+        contribute to measurable business impact. Your tasks: • Translate
+        strategic direction and campaign concepts into effective Brand Marketing
+        activities • Collaborate closely with Media, CRM, Creative and Product
+        teams to ensure a consistent brand experience • Execute integrated
+        consumer campaigns across high-reach channels such as TV, online video
+        and OOH • Manage creative development and production with agencies,
+        partners and our internal Creative Studio • Use consumer and market
+        insights to inform campaign execution and creative decisions • Monitor
+        campaign KPIs and optimize activities based on data, results and
+        learnings • Align marketing initiatives with Product, Legal and
+        Compliance requirements • Manage campaign and production budgets within
+        defined frameworks • Analyze campaign performance and derive clear
+        learnings for future activities What you offer us: • Several years of
+        in-house Brand Marketing experience for a consumer-facing brand • Strong
+        understanding of brand strategy, positioning and integrated consumer
+        marketing • Strong analytical mindset with experience using data,
+        research and customer insights to drive Brand Marketing decisions •
+        Strong understanding of relevant Brand Marketing channels and their
+        different roles • Hands-on experience executing integrated B2C marketing
+        campaigns • Experience working with creative teams, agencies and content
+        productions • Strong project management and organizational skills •
+        Experience managing campaign or production budgets • Experience with
+        campaign analytics, reporting and marketing measurement • Professional
+        proficiency in German, both written and spoken • Experience in
+        Performance Marketing, CRM or evidence-based marketing is a plus •
+        Experience in e-commerce or digital consumer businesses is a plus What
+        we offer: A modern, dynamic culture grounded in the success of a
+        leading-edge e-commerce company. A talented team of ambitious,
+        like-minded colleagues where your knowledge and ideas truly make an
+        impact. Ongoing personal growth, supported by an annual development
+        budget of €1,500 to invest in your professional development. Trust and
+        autonomy, no micromanagement, just confidence in your ability to deliver
+        and excel. Flexible work options with a hybrid setup focused on results.
+        Unlimited vacation days in addition to your yearly 30-day vacation
+        allowance. Opportunity for workations abroad using our WorkFlex tool.
+        Monthly mobility allowance of €30 to use on the mobility option of your
+        choice (e.g., the Deutschlandticket), plus access to a company bike
+        leasing program. Company pension scheme, provided in partnership with
+        Degura, to support your future financial security. Subsidized EGYM
+        WELLPASS membership, with a contribution of only €25 per month, giving
+        you access to a wide range of gyms and sports options across Germany.
+        Quarterly company events, along with regular team activities and
+        informal gatherings, a favorite being our Healthy Tuesday lunches or
+        Treat Thursdays in the office! Find Jobs in Germany on Arbeitnow"
+      job_types:
+        - Full Time
+      remote: false
+      score: 86
+      skill_hits: 3
+      bucket_id: marketing_general
+      fetched_at: 2026-11-07T21:02:17.615Z
+      pulled_at: 2026-11-07T21:02:17.615Z
+      stale_days: 0
+      is_stale: false
+    - source: arbeitnow
+      source_note: ""
+      company: Zeal Network
+      title: Senior Brand Manager (m/w/d)
+      location: Hamburg
+      url: https://www.arbeitnow.com/jobs/companies/zeal-network/senior-brand-manager-hamburg-25453
+      updated_at: 1794066011
+      description: "ZEAL Network SE is a leading international provider of online
+        lottery products, operating for over 20 years with brands like LOTTO24
+        and Tipp24. As Germany’s largest digital lottery operator and a trusted
+        partner of Spain’s ONCE, we are passionate about shaping the future of
+        lottery experiences. LOTTO24 is Germany’s leading online provider of
+        state-licensed lottery products, offering customers convenient and
+        secure access to popular games like LOTTO 6aus49, Eurojackpot, and
+        GlücksSpirale. As a trusted partner of the state lotteries, LOTTO24
+        ensures that every ticket sold helps support charitable, social, and
+        community projects across Germany. By combining ease of play, trusted
+        security, and meaningful social contributions, LOTTO24 exemplifies
+        ZEAL’s vision of making lottery participation more accessible while
+        giving back to society. The role: As our Senior Brand Manager, you take
+        end-to-end ownership of bringing our brand and marketing strategy to
+        life through impactful, large-scale consumer campaigns. You translate
+        strategic priorities and brand challenges into concrete campaign
+        strategies and own their end-to-end execution. Working closely with
+        cross-functional teams, agencies, and external partners, you combine
+        strategic thinking, creativity, and data-driven decision-making to
+        strengthen brand positioning, drive growth, and deliver measurable
+        business impact. Your tasks: • Translate brand and marketing priorities
+        into campaign strategies, creative concepts and actionable briefs •
+        Collaborate closely with Media, CRM, Creative and Product teams to
+        ensure a consistent brand experience • Own and execute large-scale,
+        integrated consumer campaigns across high-reach channels such as TV,
+        online video and OOH • Own creative development and production, managing
+        agencies, partners and our internal Creative Studio • Use consumer
+        research, customer insights and competitive analysis to identify Brand
+        challenges and opportunities • Define campaign objectives and KPIs and
+        optimize activities based on data, results and learnings • Align
+        marketing initiatives with Product, Legal and Compliance requirements •
+        Manage marketing budgets and ensure efficient resource allocation •
+        Report campaign performance and key learnings to senior leadership What
+        you offer us: • At least 5 years of in-house Brand Marketing experience
+        for a consumer-facing brand • Strong understanding of brand strategy,
+        positioning and integrated consumer marketing • Strong analytical
+        mindset with experience using data, research and customer insights to
+        drive Brand Marketing decisions • Strong understanding of high-reach
+        media channels and how they contribute to Brand and business objectives
+        • Proven hands-on experience owning and executing large-scale,
+        integrated B2C campaigns end-to-end • Strong hands-on experience in
+        creative development and complex campaign productions, including moving
+        image • Strong project management skills and confidence independently
+        driving complex projects • Experience independently managing significant
+        campaign and production budgets • Experience defining campaign KPIs and
+        measuring Brand and business impact through campaign research, brand
+        tracking and performance data • Professional proficiency in German, both
+        written and spoken • Experience in Performance Marketing, CRM or
+        evidence-based marketing is a plus • Experience in e-commerce and
+        start-up or scale-up environments is a plus What we offer: A modern,
+        dynamic culture grounded in the success of a leading-edge e-commerce
+        company. A talented team of ambitious, like-minded colleagues where your
+        knowledge and ideas truly make an impact. Ongoing personal growth,
+        supported by an annual development budget of €1,500 to invest in your
+        professional development. Trust and autonomy, no micromanagement, just
+        confidence in your ability to deliver and excel. Flexible work options
+        with a hybrid setup focused on results. Unlimited vacation days in
+        addition to your yearly 30-day vacation allowance. Opportunity for
+        workations abroad using our WorkFlex tool. Monthly mobility allowance of
+        €30 to use on the mobility option of your choice (e.g., the
+        Deutschlandticket), plus access to a company bike leasing program.
+        Company pension scheme, provided in partnership with Degura, to support
+        your future financial security. Subsidized EGYM WELLPASS membership,
+        with a contribution of only €25 per month, giving you access to a wide
+        range of gyms and sports options across Germany. Quarterly company
+        events, along with regular team activities and informal gatherings, a
+        favorite being our Healthy Tuesday lunches or Treat Thursdays in the
+        office! Find Jobs in Germany on Arbeitnow"
+      job_types:
+        - Full Time
+      remote: false
+      score: 86
+      skill_hits: 3
+      bucket_id: marketing_general
+      fetched_at: 2026-11-07T21:02:17.615Z
+      pulled_at: 2026-11-07T21:02:17.615Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: Consultport
+      title: Growth Marketing Manager
+      location: Berlin, Berlin, Germany, Berlin, Germany
+      url: https://consultport.recruitee.com/o/growth-marketing-manager
+      updated_at: 2026-10-28 08:36:34 UTC
+      description: "Help us build the future of consulting. What if the world's best
+        consulting talent was just a click away? At Consultport, we're making it
+        happen. We're building a global platform connecting leading companies
+        with top-tier consultants and AI experts. From business growth and
+        digital transformation to artificial intelligence, we help organizations
+        access the expertise they need to solve their most important challenges.
+        With 15,000+ experts across 50 countries and over 1,000 client
+        companies, we're transforming how consulting works. Now, wwe're looking
+        for ambitious, curious, and entrepreneurial minds to help us accelerate
+        our growth. The role As a Growth Marketing Manager (m/f/d) at
+        Consultport, you'll own and drive our digital marketing strategy across
+        all channels, from performance and paid media to content, SEO, and
+        brand. You'll work closely with our sales and business development teams
+        to generate high-quality demand and fuel our growth engine. This is a
+        hands-on, all-round marketing role that blends strategic thinking with
+        executional excellence, ideally suited to someone who has thrived in a
+        fast-paced agency or digital-first environment. We are currently ramping
+        up our Marketing team and this is where you come in! As Growth Marketing
+        Manager (m/f/d) at Consultport, you'll be responsible for: Digital
+        Strategy &amp; Execution Develop and own a 360° digital marketing
+        strategy across paid, owned, and earned channels Manage and optimise
+        marketing campaigns across Google Ads, LinkedIn, and Meta Drive SEO
+        strategy to ensure our content and web presence consistently ranks and
+        converts Demand Generation &amp; Lead Nurturing Own the full marketing
+        funnel from awareness through to qualified lead handoff to sales Build
+        campaigns for key customer segments to drive user acquisition and
+        engagement Manage and optimise our CRM and marketing automation
+        workflows (e.g. HubSpot) Analytics &amp; Performance Set up and maintain
+        robust tracking and reporting across all channels (Google Tag Manager,
+        Google Analytics) Use data-driven insights to improve campaign
+        performance, conversion rates, and ROI Run A/B tests and implement
+        optimisation strategies across the customer journey Brand &amp; Content
+        Oversee brand consistency across all digital touchpoints and
+        communications Develop content that speaks to our target audience of
+        senior business decision-makers Identify and act on market trends and
+        emerging digital marketing opportunities"
+      score: 84
+      skill_hits: 3
+      bucket_id: marketing_general
+      fetched_at: 2026-11-07T21:02:17.615Z
+      pulled_at: 2026-11-07T21:02:17.615Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: SALTYBRANDS
+      title: Senior Projektmanager/ Performance Marketing Manager  (m/w/d) mit
+        Kundenkontakt - Remote
+      location: Homeoffice, Hamburg, Deutschland
+      url: https://karriere.saltybrands.de/o/senior-projektmanager-performance-marketing-manager-mwd-mit-kundenkontakt-remote
+      updated_at: 2026-10-22 08:40:27 UTC
+      description: "Vollzeit | Remote (Deutschlandweit) Du sollst bei jedem Kunden
+        dieselben Ergebnisse liefern, egal wie unterschiedlich Budget und
+        Angebot sind? Copy kommt aus dem einen Team, Creatives aus dem anderen,
+        der Funnel von irgendwem und wenn die Zahlen nicht stimmen, liegt es an
+        Dir? Bei SALTYBRANDS verantwortest Du nicht nur die Anzeige, sondern die
+        ganze Kampagne: von der Zielgruppenanalyse über Copy, Funnel und
+        Creatives bis zum Launch. Du betreust Deine Kunden direkt, hältst die
+        Stellschrauben für Optimierungen selbst in der Hand und wirst über eine
+        Provision direkt am Erfolg beteiligt. Bei uns machst Du Performance
+        Marketing mit echtem Ergebnis: Unsere Kampagnen bringen
+        mittelständischen Unternehmen die Fachkräfte, die sie dringend brauchen.
+        Das Produkt, das Du vermarktest, ist ein Arbeitgeber und jede Bewerbung,
+        die über Deine Kampagne reinkommt, kann für unsere Kunden den
+        Unterschied machen. Wer sind wir: SALTYBRANDS gehört zu den führenden
+        Recruiting-Unternehmen Deutschlands und unterstützt über 500 kleine und
+        mittelständische Unternehmen bei der erfolgreichen Mitarbeitergewinnung
+        und fungiert dabei als Unternehmensberatung. Unsere Qualität ist
+        mehrfach ausgezeichnet: TÜV-zertifizierte Prozesse , der Deutsche
+        Agenturpreis und die Auszeichnung als TOP-Arbeitgeber bestätigen unseren
+        Anspruch, neue Maßstäbe in der Branche zu setzen. Bei uns zählt Ambition
+        statt Mittelmaß. Über 20 Spezialisten vereinen Marketing-Expertise,
+        strategische Kompetenz und echten Teamgeist. Wir bieten Dir ein Umfeld,
+        das Erfolg, Fokus und Weiterentwicklung fördert. Hier entstehen
+        Strategien, die den Fachkräftemangel nicht einfach verwalten – sondern
+        aktiv verändern. Deine Rolle: Kampagnensteuerung von A bis Z Du
+        arbeitest Meta-Kampagnen komplett aus, von der Zielgruppenanalyse über
+        Copy, Funnel und Creatives bis zum Launch. Deine zentrale Frage: Warum
+        würde jemand seinen sicheren Job jetzt aufgeben? Analyse &amp;
+        Optimierung Meta-Zahlen sind Dein tägliches Brot. Du wertest die
+        Performance aus, ersetzt schwache Anzeigen durch neue Angles und
+        entwickelst erfolgreiche Inhalte strategisch weiter. Kundenbetreuung Du
+        führst Vertiefungsgespräche, erarbeitest eigenverantwortlich
+        Marketing-Angles aus und leitest daraus konkrete Kampagnen ab.
+        Projektverantwortung Du bist Ansprechpartner im laufenden Projekt und
+        entlastest das Account Management im Tagesgeschäft. Deadlines,
+        Projektstatus und Qualität hast Du im Blick. Karriereseiten &amp;
+        Systeme Du betreust Karriereseiten und Landingpages, führst
+        Technik-Calls mit Kunden und richtest Bewerbermanagement-Systeme wie
+        Recruitee und Leadtable ein. Deine Perspektive Mittelfristig entwickelst
+        Du unsere Inhouse Social Ads weiter, übernimmst das Qualitätsmanagement
+        und wächst in die fachliche Führung hinein. Deine Vorteile bei
+        SALTYBRANDS ✅ Provision als Erfolgsbeteiligung Wir belohnen Deinen
+        Einsatz: Neben Deinem Fixgehalt wirst Du über eine attraktive Provision
+        direkt am Erfolg Deiner Kunden beteiligt ✅ Onboarding, Mentoring &amp;
+        Weiterbildung Digitale Lernakademie und intensive Einarbeitung zum
+        Start, danach interne Schulungen, KI-Workshops und Marketing-Trainings
+        als fester Bestandteil. ✅ 100 € NETTO jeden Monat &amp; 900 €
+        Gesundheitsbudget jährlich Der monatliche Zuschuss deckt z. B. Essen,
+        Wlan oder Handyrechnungen. Das Gesundheitsbudget nutzt Du für über 300
+        Leistungen wie kostenlose Massagen, Physiotherapie, Zahnarztrechnungen
+        oder Brillen. ✅ 100 % Remote mit klarem Rhythmus Kein Pendeln, kein
+        Büro. Dafür ein gemeinsamer Arbeitstag mit festen Zeiten, in dem
+        Abstimmungen schnell gehen und Teamarbeit nicht zu kurz kommt. ✅
+        Modernes Arbeitsumfeld Du arbeitest mit klaren, TÜV-zertifizierten
+        Prozessen und KI-gestützten Abläufen, die dir Routinearbeit abnehmen. So
+        bleibt mehr Zeit für das, was wirklich zählt. ✅ Ehrgeiziges Team Du
+        wirst Teil eines leistungsorientierten Teams, das gemeinsam wachsen und
+        gewinnen will, mit kurzen Wegen, schnellen Entscheidungen und echtem
+        Zusammenhalt. Dazu betreust Du namhafte Kunden wie Veolia, die
+        Autohandelsgruppe Gottfried Schultz oder ZinQ."
+      score: 76
+      skill_hits: 1
+      bucket_id: marketing_general
+      fetched_at: 2026-11-07T21:02:17.615Z
+      pulled_at: 2026-11-07T21:02:17.615Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: SALTYBRANDS
+      title: Projektmanager/ Performance Marketing Manager / Employer Branding
+        Specialist (m/w/d) - mit Kundenkontakt
+      location: Hamburg, Hamburg, Deutschland, Hamburg, Deutschland
+      url: https://karriere.saltybrands.de/o/projektmanager-performance-marketing-manager-employer-branding-specialist-mwd-mit-kundenkontakt
+      updated_at: 2026-10-21 09:08:53 UTC
+      description: "Vollzeit | Hamburg-Wandsbek Du sollst bei jedem Kunden dieselben
+        Ergebnisse liefern, egal wie unterschiedlich Budget und Angebot sind?
+        Copy kommt aus dem einen Team, Creatives aus dem anderen, der Funnel von
+        irgendwem und wenn die Zahlen nicht stimmen, liegt es an Dir? Bei
+        SALTYBRANDS verantwortest Du nicht nur die Anzeige, sondern die ganze
+        Kampagne: von der Zielgruppenanalyse über Copy, Funnel und Creatives bis
+        zum Launch. Du betreust Deine Kunden direkt, hältst die Stellschrauben
+        für Optimierungen selbst in der Hand und wirst über eine Provision
+        direkt am Erfolg beteiligt. Bei uns machst Du Performance Marketing mit
+        echtem Ergebnis: Unsere Kampagnen bringen mittelständischen Unternehmen
+        die Fachkräfte, die sie dringend brauchen. Das Produkt, das Du
+        vermarktest, ist ein Arbeitgeber und jede Bewerbung, die über Deine
+        Kampagne reinkommt, kann für unsere Kunden den Unterschied machen. Wer
+        sind wir: SALTYBRANDS gehört zu den führenden Recruiting-Unternehmen
+        Deutschlands und unterstützt über 500 kleine und mittelständische
+        Unternehmen bei der erfolgreichen Mitarbeitergewinnung und fungiert
+        dabei als Unternehmensberatung. Unsere Qualität ist mehrfach
+        ausgezeichnet: TÜV-zertifizierte Prozesse , der Deutsche Agenturpreis
+        und die Auszeichnung als TOP-Arbeitgeber bestätigen unseren Anspruch,
+        neue Maßstäbe in der Branche zu setzen. Bei uns zählt Ambition statt
+        Mittelmaß. Über 20 Spezialisten vereinen Marketing-Expertise,
+        strategische Kompetenz und echten Teamgeist. Unser modernes Büro in
+        Hamburg-Wandsbek bietet Dir ein Umfeld, das Erfolg, Fokus und
+        Weiterentwicklung fördert. Hier entstehen Strategien, die den
+        Fachkräftemangel nicht einfach verwalten – sondern aktiv verändern.
+        Deine Rolle: Kampagnensteuerung von A bis Z Du arbeitest Meta-Kampagnen
+        komplett aus, von der Zielgruppenanalyse über Copy, Funnel und Creatives
+        bis zum Launch. Deine zentrale Frage: Warum würde jemand seinen sicheren
+        Job jetzt aufgeben? Analyse &amp; Optimierung Meta-Zahlen sind Dein
+        tägliches Brot. Du wertest die Performance aus, ersetzt schwache
+        Anzeigen durch neue Angles und entwickelst erfolgreiche Inhalte
+        strategisch weiter. Kundenbetreuung Du führst Vertiefungsgespräche,
+        erarbeitest eigenverantwortlich Marketing-Angles aus und leitest daraus
+        konkrete Kampagnen ab. Projektverantwortung Du bist Ansprechpartner im
+        laufenden Projekt und entlastest das Account Management im
+        Tagesgeschäft. Deadlines, Projektstatus und Qualität hast Du im Blick.
+        Karriereseiten &amp; Systeme Du betreust Karriereseiten und
+        Landingpages, führst Technik-Calls mit Kunden und richtest
+        Bewerbermanagement-Systeme wie Recruitee und Leadtable ein. Deine
+        Perspektive Mittelfristig entwickelst Du unsere Inhouse Social Ads
+        weiter, übernimmst das Qualitätsmanagement und wächst in die fachliche
+        Führung hinein. Deine Vorteile bei SALTYBRANDS ✅ Provision als
+        Erfolgsbeteiligung Wir belohnen Deinen Einsatz: Neben Deinem Fixgehalt
+        wirst Du über eine attraktive Provision direkt am Erfolg Deiner Kunden
+        beteiligt ✅ Onboarding, Mentoring &amp; Weiterbildung Digitale
+        Lernakademie und intensive 1:1-Einarbeitung zum Start, danach interne
+        Schulungen, KI-Workshops und Marketing-Trainings als fester Bestandteil.
+        ✅ 100 € NETTO jeden Monat &amp; 900 € Gesundheitsbudget jährlich Der
+        monatliche Zuschuss deckt z. B. Fahrtkosten, Essen oder Handyrechnungen.
+        Das Gesundheitsbudget nutzt Du für über 300 Leistungen wie kostenlose
+        Massagen, Physiotherapie, Zahnarztrechnungen oder Brillen. ✅
+        Premium-Standort mit Dachterrasse &amp; Parkplatz Blick über Hamburg,
+        direkte Nachbarschaft zu Mercedes-Benz und dem AMG Brand Center,
+        hervorragende Verkehrsanbindung und Tiefgaragenparkplätze. Supermärkte,
+        Restaurants und die Mercedes-Benz-Mensa liegen direkt vor der Tür. ✅
+        Modernes Arbeitsumfeld Brandneues MacBook (auch privat nutzbar),
+        Firmenhandy, ergonomische Stehtische und klare, TÜV-zertifizierte
+        Prozesse. ✅ Firmenevents &amp; ehrgeiziges Team Regelmäßige Teamevents
+        und Afterworks in einem leistungsorientierten Team, das gemeinsam
+        wachsen und gewinnen will. Dazu arbeitest Du für namhafte Kunden wie
+        Veolia, die Autohandelsgruppe Gottfried Schultz oder ZinQ."
+      score: 76
+      skill_hits: 1
+      bucket_id: marketing_general
+      fetched_at: 2026-11-07T21:02:17.615Z
+      pulled_at: 2026-11-07T21:02:17.615Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: TransPerfect
+      title: Senior Performance Marketing Manager
+      location: Pune, Mahārāshtra, India, Pune, India
+      url: https://transperfect.com/o/senior-performance-marketing-manager
+      updated_at: 2026-08-06 10:17:14 UTC
+      description: "OVERVIEW: If running paid campaigns across a bunch of platforms is
+        your happy place, and you think as much about the journey as the click,
+        this could be a good fit. You're in Google Ads in the morning, LinkedIn
+        Campaign Manager over lunch, and Reddit or TikTok in the afternoon. In
+        between, you're thinking about how these campaigns work together to move
+        real people through our funnel. We're hiring a Paid Media Lead to plan,
+        deploy, and optimize campaigns across our paid channels. This role isn't
+        just about setting campaigns live and watching the numbers. It's about
+        thinking carefully about the marketing funnel, inventing new ways to
+        bring quality leads and accounts into it, and using paid media to move
+        them all the way through to sales-ready. You'll work closely with our
+        Senior Director of Creative Performance Marketing, turning creative
+        briefs and campaign strategies into live campaigns that actually
+        perform. You'll own the technical craft of paid media (structure,
+        targeting, bidding, testing, iteration) and the strategic craft of
+        designing campaigns that do their job at each funnel stage. This is an
+        individual contributor role with no direct reports. What you'll be doing
+        is deep, hands on platform work combined with real strategic thinking
+        about how paid fits into the broader journey. JOB RESPONSIBILITES: Plan
+        campaign architecture across platforms with clear funnel intent
+        (awareness, consideration, decision) and matching audience, creative,
+        and CTA logic for each stage Get creative about lead acquisition itself:
+        figure out how to reach new audiences, test new platforms and formats,
+        and keep growing both the quantity and quality of leads coming into the
+        funnel Design retargeting and lifecycle audiences that work with email
+        nurture, content offers, and sales outreach to move leads through the
+        funnel Partner with the rest of the marketing team on lead qualification
+        and hand-off criteria, so what reaches sales is actually ready to
+        convert Contribute creative direction to ad concepts and copy, working
+        with our creative resources on work that resonates Build and launch
+        campaigns in Google Ads, Microsoft Ads, LinkedIn, Meta (Facebook and
+        Instagram), Reddit, TikTok, and emerging platforms like ChatGPT Ads Set
+        up and manage audience targeting, including custom audiences,
+        lookalikes, contextual, intent, and account-based lists Own bid strategy
+        selection and budget pacing across campaigns Traffic creative assets,
+        keep naming conventions consistent, and manage UTMs Set up conversion
+        tracking (pixels, server-side, offline conversions) and make sure GA4 is
+        telling us the truth Run structured A/B tests on copy, creative,
+        audiences, and bidding Pull data, build reports, and share what's
+        working (and what isn't) with the team Continuously optimize campaigns,
+        moving budget toward what's performing and shutting off what isn't"
+      score: 76
+      skill_hits: 1
+      bucket_id: marketing_general
+      fetched_at: 2026-11-07T21:02:17.615Z
+      pulled_at: 2026-11-07T21:02:17.615Z
+      stale_days: 0
+      is_stale: false
+    - source: ashby
+      source_note: ""
+      company: cosuno
+      title: Organic Growth Manager (SEO & AI Search)
+      location: Berlin/Remote
+      url: https://jobs.ashbyhq.com/cosuno/30db9144-8853-4751-9346-92803c17c3e4/application
+      updated_at: 2026-10-28T13:43:05.122+00:00
+      description: ""
+      score: 76
+      skill_hits: 1
+      bucket_id: marketing_general
+      fetched_at: 2026-11-07T21:02:17.615Z
+      pulled_at: 2026-11-07T21:02:17.615Z
+      stale_days: 0
+      is_stale: false
     - source: recruitee
       source_note: ""
       company: Consultport
@@ -52,7 +488,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -127,7 +563,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -203,7 +639,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -258,7 +694,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: ashby
       source_note: ""
@@ -273,7 +709,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -323,7 +759,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -372,7 +808,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -550,7 +986,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -596,7 +1032,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -645,7 +1081,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -716,7 +1152,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -791,7 +1227,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -867,7 +1303,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -922,7 +1358,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: ashby
       source_note: ""
@@ -937,7 +1373,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1321,7 +1757,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1391,7 +1827,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1454,7 +1890,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1582,7 +2018,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1657,7 +2093,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1733,7 +2169,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1788,7 +2224,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: ashby
       source_note: ""
@@ -1803,7 +2239,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3400,7 +3836,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3463,7 +3899,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3538,7 +3974,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3614,7 +4050,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3669,7 +4105,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3716,7 +4152,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3779,7 +4215,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3901,7 +4337,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3976,7 +4412,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4052,7 +4488,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4107,7 +4543,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -4189,7 +4625,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4236,7 +4672,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4299,7 +4735,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4374,7 +4810,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4450,7 +4886,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4505,7 +4941,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4725,6 +5161,561 @@ buckets:
       stale_days: 26
       is_stale: true
   digital_marketing:
+    - source: recruitee
+      source_note: ""
+      company: Consultport
+      title: Growth Marketing Manager
+      location: Berlin, Berlin, Germany, Berlin, Germany
+      url: https://consultport.recruitee.com/o/growth-marketing-manager
+      updated_at: 2026-10-28 08:36:34 UTC
+      description: "Help us build the future of consulting. What if the world's best
+        consulting talent was just a click away? At Consultport, we're making it
+        happen. We're building a global platform connecting leading companies
+        with top-tier consultants and AI experts. From business growth and
+        digital transformation to artificial intelligence, we help organizations
+        access the expertise they need to solve their most important challenges.
+        With 15,000+ experts across 50 countries and over 1,000 client
+        companies, we're transforming how consulting works. Now, wwe're looking
+        for ambitious, curious, and entrepreneurial minds to help us accelerate
+        our growth. The role As a Growth Marketing Manager (m/f/d) at
+        Consultport, you'll own and drive our digital marketing strategy across
+        all channels, from performance and paid media to content, SEO, and
+        brand. You'll work closely with our sales and business development teams
+        to generate high-quality demand and fuel our growth engine. This is a
+        hands-on, all-round marketing role that blends strategic thinking with
+        executional excellence, ideally suited to someone who has thrived in a
+        fast-paced agency or digital-first environment. We are currently ramping
+        up our Marketing team and this is where you come in! As Growth Marketing
+        Manager (m/f/d) at Consultport, you'll be responsible for: Digital
+        Strategy &amp; Execution Develop and own a 360° digital marketing
+        strategy across paid, owned, and earned channels Manage and optimise
+        marketing campaigns across Google Ads, LinkedIn, and Meta Drive SEO
+        strategy to ensure our content and web presence consistently ranks and
+        converts Demand Generation &amp; Lead Nurturing Own the full marketing
+        funnel from awareness through to qualified lead handoff to sales Build
+        campaigns for key customer segments to drive user acquisition and
+        engagement Manage and optimise our CRM and marketing automation
+        workflows (e.g. HubSpot) Analytics &amp; Performance Set up and maintain
+        robust tracking and reporting across all channels (Google Tag Manager,
+        Google Analytics) Use data-driven insights to improve campaign
+        performance, conversion rates, and ROI Run A/B tests and implement
+        optimisation strategies across the customer journey Brand &amp; Content
+        Oversee brand consistency across all digital touchpoints and
+        communications Develop content that speaks to our target audience of
+        senior business decision-makers Identify and act on market trends and
+        emerging digital marketing opportunities"
+      score: 84
+      skill_hits: 3
+      bucket_id: digital_marketing
+      fetched_at: 2026-11-07T21:02:17.615Z
+      pulled_at: 2026-11-07T21:02:17.615Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: hairfree
+      title: Performance Marketing Manager (m/w/d) | Darmstadt
+      location: Darmstadt, Hessen, Deutschland, Darmstadt, Deutschland
+      url: https://recruiting.hairfree.de/o/performance-marketing-manager-mwd-darmstadt-3
+      updated_at: 2026-11-05 18:34:53 UTC
+      description: "Du denkst in Marken, hast ein sicheres Gespür für Design und
+        möchtest Marketing nicht nur planen, sondern sichtbar umsetzen? Dann
+        komm zu hairfree. Bei hairfree geht es um mehr als dauerhafte
+        Haarentfernung. Es geht um Selbstbewusstsein, Wohlgefühl und ein neues
+        Lebensgefühl für unsere Kundinnen und Kunden. Für unser Marketingteam
+        suchen wir eine engagierte Persönlichkeit, die unseren Markenauftritt
+        über alle relevanten Kanäle hinweg weiterentwickelt und unsere
+        operativen Marketingmaßnahmen eigenverantwortlich umsetzt. Du arbeitest
+        täglich mit Google Ads und Meta Ads, kennst deine KPIs und weißt nicht
+        nur, wie man Kampagnen startet, sondern auch, wie man sie besser macht?
+        Dann suchen wir genau dich. Für unsere Zentrale in Darmstadt suchen wir
+        einen Performance Marketing Manager (m/w/d) , der die Verantwortung für
+        unsere Paid-Media-Kampagnen übernimmt. Dabei geht es nicht darum,
+        Agenturen zu koordinieren oder Reportings weiterzugeben. Wir suchen
+        jemanden, der selbst in den Accounts arbeitet, Kampagnen aufsetzt,
+        Budgets steuert, Ergebnisse analysiert und Optimierungen eigenständig
+        umsetzt. Wichtig: Die Position ist eine 100 % Vor-Ort-Stelle in
+        Darmstadt. Remote Work ist für diese Position nicht vorgesehen. Was dich
+        bei uns erwartet Eine verantwortungsvolle Position mit viel
+        Gestaltungsspielraum Ein abwechslungsreiches Aufgabengebiet mit hoher
+        Eigenverantwortung Attraktives Grundgehalt Flexible Arbeitszeiten
+        Moderne Arbeitsumgebung und gute technische Ausstattung Hohe
+        Weiterbildungsmöglichkeiten durch Coachings, unsere Academy und interne
+        Trainings Individuelle Entwicklungsmöglichkeiten innerhalb des
+        Unternehmens Mitarbeiter-Events und eine offene Teamkultur
+        Mitarbeiter-Rabatte und weitere Vergünstigungen Flache Hierarchien und
+        kurze Entscheidungswege Enge Zusammenarbeit mit Performance Marketing,
+        Vertrieb, Recruiting und der Geschäftsleitung Gute Erreichbarkeit und
+        Parkmöglichkeiten Deine Aufgabe bei hairfree Dein Fokus liegt klar auf
+        Google Ads und Meta Ads . Du bist dafür verantwortlich, dass unsere
+        Kampagnen nicht einfach laufen, sondern messbar funktionieren und
+        kontinuierlich besser werden. Das bedeutet konkret: Du planst, erstellst
+        und steuerst eigenständig Kampagnen in Google Ads Du planst, erstellst
+        und steuerst eigenständig Kampagnen im Meta Ads Manager Du übernimmst
+        die operative Verantwortung für unsere Paid-Media-Accounts Du steuerst
+        und optimierst Budgets anhand der tatsächlichen Performance Du
+        analysierst laufend KPIs wie CPL, CPA, Conversion Rate, CTR, CPC, ROAS
+        und weitere relevante Kennzahlen Du erkennst frühzeitig, wenn Kampagnen
+        oder einzelne Anzeigengruppen nicht funktionieren, und leitest konkrete
+        Maßnahmen ab Du entwickelst Kampagnenstrukturen, Zielgruppen und
+        Gebotsstrategien weiter Du führst A/B-Tests durch und wertest diese
+        strukturiert aus Du testest unterschiedliche Creatives, Texte,
+        Zielgruppen und Landingpages Du analysierst den Funnel vom ersten Klick
+        bis zum Lead beziehungsweise zur Conversion Du überwachst und optimierst
+        unser Conversion Tracking Du arbeitest mit GA4 und weiteren relevanten
+        Analyse- und Tracking-Tools Du identifizierst Skalierungsmöglichkeiten
+        und setzt diese eigenständig um Du erstellst verständliche
+        Performance-Auswertungen und Handlungsempfehlungen Du arbeitest eng mit
+        Marketing, Geschäftsführung und weiteren internen Schnittstellen
+        zusammen"
+      score: 80
+      skill_hits: 2
+      bucket_id: digital_marketing
+      fetched_at: 2026-11-07T21:02:17.615Z
+      pulled_at: 2026-11-07T21:02:17.615Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: Mainwebsolutions
+      title: Bezahltes E-Commerce Praktikum (m/w/d) für dein Praxissemester (Hybrid /
+        Würzburg)
+      location: Würzburg, Bayern, Deutschland, Würzburg, Deutschland
+      url: https://jobs.mainwebsolutions.de/o/bezahltes-e-commerce-praktikum-mwd-fur-dein-praxissemester-hybrid-wurzburg
+      updated_at: 2026-07-12 07:30:40 UTC
+      description: "Du bist wissbegierig, hast bereits erste Erfahrungen im Bereich
+        SEO/SEA gesammelt und suchst einen Praktikumsplatz für dein
+        Praxissemester im Studiengang E-Commerce? Du willst lernen, wie man
+        Unternehmen bei Google sichtbar macht und interessierst dich dafür, wie
+        moderne KI- und LLM-Tools das Online-Marketing revolutionieren? Dann
+        zögere nicht und bewirb dich auf eine attraktive Stelle bei der
+        Mainwebsolutions. Was erwartet dich bei uns? Wir sind Mainwebsolutions –
+        eine Agentur, die professionelle Softwareentwicklung und
+        Online-Marketing unter einem Dach vereint. Unser Team besteht aus einer
+        gesunden Mischung aus Marketern und Entwicklern, die gemeinsam an der
+        Spitze der digitalen Trends arbeiten. Den Tag starten wir mit einer
+        ordentlichen Portion Humor und einem morgendlichen Team-Meeting, in dem
+        wir uns zu aktuellen Themen und Projekten austauschen. Neben spannenden
+        Kundenprojekten arbeiten wir regelmäßig an eigenen Produkten und setzen
+        dabei verstärkt auf den Einsatz von KI-Lösungen und maßgeschneiderten
+        Tools wie z.B. unseren Mainwebsolutions-AiHub. Auch außerhalb der
+        Projektarbeit kommt der Teamspirit bei uns nicht zu kurz: Ob Grillen auf
+        der Dachterrasse, Yoga, gemeinsames Kochen oder gesellige Events – bei
+        uns steht das Team im Vordergrund! #workatmws Dein Aufgabenbereich?
+        Deine Aufgaben bei uns drehen sich rund um das Thema digitale
+        Sichtbarkeit bei Google. Dabei unterstützt du unser SEO-/SEA-Team bei
+        der Analyse, Konzeption und Umsetzung von Maßnahmen zur Verbesserung der
+        Sichtbarkeit und Performance unserer Kunden. Du wirkst mit bei der
+        Erstellung von SEO-Analysen und hilfst bei der Entwicklung von SEO- und
+        SEA-Strategien. In enger Abstimmung mit dem Team arbeitest du an
+        Content-Optimierungen, Technical SEO und dem Aufbau von Backlinks.
+        Darüber hinaus unterstützt du bei der Planung und Optimierung von Google
+        Ads-Kampagnen. Ein besonderes Highlight: Bei uns lernst du auch den
+        Einsatz von KI-/LLM-Tools im Online-Marketing kennen und kannst aktiv an
+        deren Anwendung für Content-Optimierung, Automatisierung und
+        datenbasierte Analysen mitwirken. Du und dein Team betreut dabei
+        unterschiedliche mittelständische Unternehmen, Dienstleister sowie
+        E-Commerce-Systeme als Kunden — so erhältst du spannende und praxisnahe
+        Einblicke in die vielfältige Welt des digitalen Marketings."
+      score: 78
+      skill_hits: 2
+      bucket_id: digital_marketing
+      fetched_at: 2026-11-07T21:02:17.615Z
+      pulled_at: 2026-11-07T21:02:17.615Z
+      stale_days: 0
+      is_stale: false
+    - source: arbeitnow
+      source_note: ""
+      company: Joberg GmbH
+      title: Senior SEO & GEO Manager (m/w/d), Vollzeit und Teilzeit
+      location: Munich
+      url: https://www.arbeitnow.com/jobs/companies/joberg-gmbh/senior-seo-geo-manager-vollzeit-und-teilzeit-munich-363302
+      updated_at: 1794058261
+      description: "Über Joberg Senior SEO & GEO Manager (m/w/d) – mit Option auf Head
+        of SEO & GEO – OTE 130.000 € – Vollzeit – Remote, hybrid oder vor Ort in
+        München oder Wien Die meisten SEO-Stellen suchen jemanden, der Tickets
+        abarbeitet. Wir suchen jemanden, der uns sagt, welche Tickets es
+        überhaupt geben sollte. Über uns Wir bauen gerade eine zweite Business
+        Unit auf: GEO-SEO für ausgewählte Nischen, die die großen Agenturen
+        nicht beachten. Gemeint ist Sichtbarkeit dort, wo Menschen heute fragen,
+        also bei Google und in ChatGPT, Perplexity und Gemini. Die Nachfrage
+        haben wir in den ersten Verkaufsgesprächen bereits bestätigt. Dahinter
+        steht Joberg, eine „kleine“, aber feine Marketing-Agentur. Unser erstes
+        Standbein sind Paket-Mailings, mit denen unsere Kund:innen auf dem
+        Schreibtisch von Entscheider:innen landen. Mit der neuen Unit
+        expandieren wir in den SEO/GEO- und vielleicht in Zukunft in den
+        SEA/GEA-Markt. Was dafür noch fehlt, bist du. Bei uns gibt es flache
+        Hierarchien, kurze Wege und keine Büropolitik. Wir arbeiten
+        konzentriert, haben dabei Spaß und nehmen uns selbst nicht zu ernst. Wir
+        finden, dass ein Job, der Spaß macht, und ein richtig gutes Gehalt sich
+        nicht ausschließen. Ehrlich gesagt Es gibt noch keinen Prozess, kein
+        Team und kein Handbuch. Das ist kein Mangel, das ist der Job. Du bist
+        Person Nummer eins in diesem Bereich und trägst 100 % der Verantwortung
+        für die Umsetzung. Den Plan schreibst du. Und wenn du findest, dass wir
+        falsch liegen, sag es. Genau dafür suchen wir dich. Deine Perspektive Du
+        startest als Senior SEO & GEO Manager und setzt selbst um. Wenn der
+        Bereich wächst, hast du die Option, dich zum Head of SEO & GEO zu
+        entwickeln und ein eigenes Team aufzubauen. Wie und wann, gestalten wir
+        gemeinsam. Was du bei uns machst Du setzt SEO, GEO und
+        Bewertungsmanagement für unsere Kund:innen um, von der Analyse bis zum
+        Ergebnis. Du findest heraus, was ein Unternehmen in KI-Antworten nach
+        vorne bringt, und machst daraus eine wiederholbare Methode
+        (Framework/SOP). Du baust das Fulfillment und die automatisierten
+        Workflows mit KI so auf, dass sie mit jedem neuen Kunden besser werden
+        und nicht langsamer. Du sagst uns, welche Nischen sich deiner Meinung
+        nach lohnen und welche nicht. Was du kannst Google kennst du in- und
+        auswendig: Google Business Profile, Search Console, lokale Rankings und
+        AI Overviews. Du weißt, wie ChatGPT, Perplexity und Gemini Quellen
+        auswählen und Unternehmen empfehlen. Du erstellst Websites und
+        Landingpages automatisiert und optimierst sie für SEO und GEO, inklusive
+        strukturierter Daten. Du beherrschst Bewertungsmanagement: mehr echte
+        Bewertungen gewinnen und professionell darauf antworten. Du baust
+        Workflows mit KI und Automationstools, etwa über APIs, n8n oder Make. Du
+        misst Ergebnisse und erklärst sie so, dass Kund:innen sie verstehen.
+        Woran wir merken, dass du es bist Du lebst KI. Du nutzt sie jeden Tag,
+        beruflich wie privat, und probierst neue Modelle aus, bevor jemand
+        danach fragt. Du bist neugierig und ruhst dich nie auf dem Status quo
+        aus. Was gestern funktioniert hat, stellst du heute infrage. Wir müssen
+        dir nichts erklären. Du erklärst uns Dinge, die wir noch nicht wussten.
+        Du arbeitest ergebnisorientiert und brauchst niemanden, der dir Aufgaben
+        gibt. Du hast mindestens 3 Jahre SEO-Erfahrung, mit einem deutlichen
+        Anteil Local SEO. Je mehr, desto besser. Du beherrschst Deutsch fließend
+        in Wort und Schrift. Du bist einfach eine coole, sympathische Person :)
+        Was du von uns bekommst Eine echte Founding Role mit der Option, Head of
+        SEO & GEO zu werden Ein Gesamteinkommen (OTE) weit über dem Markt, denn
+        wir sind margenstark und teilen den Erfolg Workations: Arbeite auch mal
+        ein paar Wochen von dort, wo andere Urlaub machen. Arbeiten, wo du
+        willst: remote, hybrid oder vor Ort in München oder Wien Flache
+        Hierarchien: keine Freigabeschleifen, eine Entscheidung dauert bei uns
+        ein Telefonat. Budget für die KI-Tools, die du brauchst Start ab Januar
+        2027 oder wann es für dich passt Gehalt: Fixum 56.200 € brutto im Jahr.
+        On-Target-Earnings (OTE): 130.000 € im Jahr. Wie sich die OTE
+        zusammensetzen, erklären wir dir im ersten Gespräch. So bewirbst du dich
+        Nutze den Bewerben-Button auf dieser Seite mit dem Betreff „Bewerbung
+        Senior SEO & GEO Manager – Vollzeit“: Deinen Lebenslauf Ein kurzes
+        Motivationsschreiben, maximal eine Seite: Warum reizt dich genau diese
+        Rolle, und was würdest du in den ersten 90 Tagen anders machen als die
+        meisten? Und wie nutzt du KI heute schon im Alltag? Pluspunkte, wenn du
+        magst: Ein Vorstellungsvideo von 1 bis 3 Minuten (die Handykamera
+        reicht, schick einfach den Link). Jeder Extra-Aufwand fließt positiv in
+        die Bewertung ein, ist aber kein Muss. Du hörst innerhalb von 5
+        Werktagen von uns, auch wenn es ein Nein ist. Du kennst jemanden, der
+        perfekt passt? Schick uns den Kontakt. Führt deine Empfehlung zur
+        Einstellung, bedanken wir uns mit 3.000 €, sobald die Person die
+        Probezeit bestanden hat. Find more English Speaking Jobs in Germany on
+        Arbeitnow"
+      job_types:
+        - Unbefristeter arbeitsvertrag
+        - berufserfahren
+      remote: false
+      score: 78
+      skill_hits: 2
+      bucket_id: digital_marketing
+      fetched_at: 2026-11-07T21:02:17.615Z
+      pulled_at: 2026-11-07T21:02:17.615Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: Consultport
+      title: Growth Marketing Intern (m/f/d)
+      location: Berlin, Berlin, Germany, Berlin, Germany
+      url: https://consultport.recruitee.com/o/growth-marketing-intern-mfd
+      updated_at: 2026-10-27 14:31:26 UTC
+      description: "Help us build the future of consulting. What if the world's best
+        consulting talent was just a click away? At Consultport, we're making it
+        happen. We're building a global platform connecting leading companies
+        with top-tier consultants and AI experts. From strategy and digital
+        transformation to artificial intelligence, we help organizations access
+        the expertise they need to solve their most important challenges. With
+        15,000+ experts across 50 countries and over 1,000 client companies,
+        we're transforming how consulting works. Now, we're looking for
+        ambitious, curious, and entrepreneurial minds to help us accelerate our
+        growth. The opportunity Join our Growth Marketing team and learn how to
+        scale a global B2B platform. At Consultport, growth marketing combines
+        creativity, technology, data, and experimentation. You'll take ownership
+        of real projects, test new ideas, and help attract companies and
+        consulting talent to our platform. You'll develop hands-on skills across
+        four exciting areas: 1. Growth Marketing &amp; Automation Explore new
+        growth channels and experiment with creative acquisition strategies.
+        Leverage AI tools and marketing automation to build scalable campaigns.
+        2. Performance &amp; Paid Marketing Help launch and optimize campaigns
+        on Google, LinkedIn, and other channels. Improve landing pages,
+        conversion rates, and customer acquisition funnels. 3. Content, Brand
+        &amp; Community Create engaging content for social media, newsletters,
+        and thought leadership. Develop campaigns that strengthen Consultport's
+        brand and community. 4. Growth Analytics &amp; Experimentation Analyze
+        marketing performance and identify opportunities for growth. Run
+        experiments and turn data into actionable recommendations."
+      score: 76
+      skill_hits: 1
+      bucket_id: digital_marketing
+      fetched_at: 2026-11-07T21:02:17.615Z
+      pulled_at: 2026-11-07T21:02:17.615Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: TransPerfect
+      title: SEO Specialist
+      location: Remote job, Berlin, Germany
+      url: https://transperfect.com/o/seo-specialist-11
+      updated_at: 2026-10-27 14:53:30 UTC
+      description: "&nbsp;Ready to turn SEO into measurable business growth?
+        TransPerfect are looking for a strategic, data-driven SEO Specialist to
+        support their digital department to help global brands expand into the
+        German market."
+      score: 76
+      skill_hits: 1
+      bucket_id: digital_marketing
+      fetched_at: 2026-11-07T21:02:17.615Z
+      pulled_at: 2026-11-07T21:02:17.615Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: TransPerfect
+      title: Senior Performance Marketing Manager
+      location: Pune, Mahārāshtra, India, Pune, India
+      url: https://transperfect.com/o/senior-performance-marketing-manager
+      updated_at: 2026-08-06 10:17:14 UTC
+      description: "OVERVIEW: If running paid campaigns across a bunch of platforms is
+        your happy place, and you think as much about the journey as the click,
+        this could be a good fit. You're in Google Ads in the morning, LinkedIn
+        Campaign Manager over lunch, and Reddit or TikTok in the afternoon. In
+        between, you're thinking about how these campaigns work together to move
+        real people through our funnel. We're hiring a Paid Media Lead to plan,
+        deploy, and optimize campaigns across our paid channels. This role isn't
+        just about setting campaigns live and watching the numbers. It's about
+        thinking carefully about the marketing funnel, inventing new ways to
+        bring quality leads and accounts into it, and using paid media to move
+        them all the way through to sales-ready. You'll work closely with our
+        Senior Director of Creative Performance Marketing, turning creative
+        briefs and campaign strategies into live campaigns that actually
+        perform. You'll own the technical craft of paid media (structure,
+        targeting, bidding, testing, iteration) and the strategic craft of
+        designing campaigns that do their job at each funnel stage. This is an
+        individual contributor role with no direct reports. What you'll be doing
+        is deep, hands on platform work combined with real strategic thinking
+        about how paid fits into the broader journey. JOB RESPONSIBILITES: Plan
+        campaign architecture across platforms with clear funnel intent
+        (awareness, consideration, decision) and matching audience, creative,
+        and CTA logic for each stage Get creative about lead acquisition itself:
+        figure out how to reach new audiences, test new platforms and formats,
+        and keep growing both the quantity and quality of leads coming into the
+        funnel Design retargeting and lifecycle audiences that work with email
+        nurture, content offers, and sales outreach to move leads through the
+        funnel Partner with the rest of the marketing team on lead qualification
+        and hand-off criteria, so what reaches sales is actually ready to
+        convert Contribute creative direction to ad concepts and copy, working
+        with our creative resources on work that resonates Build and launch
+        campaigns in Google Ads, Microsoft Ads, LinkedIn, Meta (Facebook and
+        Instagram), Reddit, TikTok, and emerging platforms like ChatGPT Ads Set
+        up and manage audience targeting, including custom audiences,
+        lookalikes, contextual, intent, and account-based lists Own bid strategy
+        selection and budget pacing across campaigns Traffic creative assets,
+        keep naming conventions consistent, and manage UTMs Set up conversion
+        tracking (pixels, server-side, offline conversions) and make sure GA4 is
+        telling us the truth Run structured A/B tests on copy, creative,
+        audiences, and bidding Pull data, build reports, and share what's
+        working (and what isn't) with the team Continuously optimize campaigns,
+        moving budget toward what's performing and shutting off what isn't"
+      score: 76
+      skill_hits: 1
+      bucket_id: digital_marketing
+      fetched_at: 2026-11-07T21:02:17.615Z
+      pulled_at: 2026-11-07T21:02:17.615Z
+      stale_days: 0
+      is_stale: false
+    - source: ashby
+      source_note: ""
+      company: cosuno
+      title: Organic Growth Manager (SEO & AI Search)
+      location: Berlin/Remote
+      url: https://jobs.ashbyhq.com/cosuno/30db9144-8853-4751-9346-92803c17c3e4/application
+      updated_at: 2026-10-28T13:43:05.122+00:00
+      description: ""
+      score: 76
+      skill_hits: 1
+      bucket_id: digital_marketing
+      fetched_at: 2026-11-07T21:02:17.615Z
+      pulled_at: 2026-11-07T21:02:17.615Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: Mainwebsolutions
+      title: SEO/SEA Werkstudent (m/w/d) mit Fokus auf Sichtbarkeit in KI-Suchen
+        (Remote oder Würzburg)
+      location: Homeoffice, Würzburg, Deutschland
+      url: https://jobs.mainwebsolutions.de/o/seo-sea-werkstudent-mwd-mit-fokus-auf-sichtbarkeit-in-ki-suchen-remote-oder-wurzburg
+      updated_at: 2026-10-15 08:03:34 UTC
+      description: "Du studierst, hast erste Erfahrungen in SEO oder SEA gesammelt und
+        suchst eine Werkstudentenstelle, bei der du an echten Kundenprojekten
+        mitarbeitest? Du willst dein Wissen im Google-Universum vertiefen, mit
+        modernen KI- und LLM-Tools im Marketing arbeiten und verstehen, wie
+        Marken nicht mehr nur in Google, sondern auch in ChatGPT, Perplexity und
+        Google AI Overviews sichtbar werden? Dann bewirb dich bei
+        Mainwebsolutions. Bei uns lernst du klassisches SEO/SEA von Grund auf
+        und steigst direkt in den Bereich KI-Sichtbarkeit (GEO) ein, in dem wir
+        aktuell echte Pionierarbeit leisten. Was erwartet dich bei uns?
+        Willkommen bei Mainwebsolutions, der Agentur, die Softwareentwicklung
+        und Onlinemarketing unter einem Dach vereint. Unser Team aus Marketern
+        und Entwicklern startet jeden Tag mit einer Portion Humor und einem
+        morgendlichen Team-Meeting, in dem wir uns über aktuelle Themen und
+        Fortschritte abstimmen. Anschließend tauchen wir in die Projekte ein und
+        arbeiten gemeinsam daran, den Erfolg unserer Kunden weiter zu steigern.
+        Zudem entwickeln wir laufend eigene Produkte und KI-Tools, bei denen du
+        mit deinen Ideen mitwirken kannst. Doch bei uns geht es nicht nur um
+        Arbeit. Wir feiern unsere Erfolge regelmäßig mit coolen Teamevents, von
+        Grillpartys auf der Dachterrasse über Yoga und gemeinsames Kochen bis zu
+        geselligen Weinfesten. Du arbeitest remote? Kein Problem. Transfer- und
+        Übernachtungskosten für Office-Besuche und Teamevents übernehmen wir
+        selbstverständlich. Eines ist sicher: Bei uns steht das Team an erster
+        Stelle. Erlebe den Spirit von Mainwebsolutions! #workatmws Dein
+        Aufgabenbereich? Als Werkstudent im SEO/SEA-Team unterstützt du uns
+        dabei, die digitale Sichtbarkeit unserer Kunden zu steigern, sowohl bei
+        Google als auch in KI-Suchen wie ChatGPT, Perplexity und Google AI
+        Overviews. Du arbeitest eng mit dem Team zusammen und übernimmst
+        schrittweise eigene Aufgaben in Kundenprojekten. Du führst SEO- und
+        GEO-Analysen durch, erstellst Keyword-Recherchen und Content-Briefings,
+        kümmerst dich um Content-Optimierung, Technical SEO und Linkbuilding und
+        unterstützt bei der Planung und Optimierung von Google Ads-Kampagnen.
+        Dabei arbeitest du täglich mit unserem hauseigenen KI-Stack: dem AiHub
+        als zentraler KI-Plattform, eigenen SEA-Agenten für Kampagnen-Audits und
+        maßgeschneiderten Claude Skills für GEO-Audits, Topical Cluster,
+        Content-Briefings und mehr. Du erstellst Reportings, leitest daraus
+        konkrete Optimierungspotenziale ab und kannst aktiv an der
+        Weiterentwicklung unserer internen Marketing-Tools mitwirken. Wer Lust
+        hat, eigene Workflows oder neue Claude Skills zu bauen, ist hier genau
+        richtig. Ready for departure? 🚀"
+      score: 74
+      skill_hits: 1
+      bucket_id: digital_marketing
+      fetched_at: 2026-11-07T21:02:17.615Z
+      pulled_at: 2026-11-07T21:02:17.615Z
+      stale_days: 0
+      is_stale: false
+    - source: ashby
+      source_note: ""
+      company: doctolib
+      title: " Workingstudent B2C SEO & AI Search (x/f/m)"
+      location: Berlin
+      url: https://jobs.ashbyhq.com/doctolib/4d629bc3-a442-4d4e-aa87-9eb6f820fe3f/application
+      updated_at: 2026-10-02T07:25:30.400+00:00
+      description: ""
+      score: 74
+      skill_hits: 1
+      bucket_id: digital_marketing
+      fetched_at: 2026-11-07T21:02:17.615Z
+      pulled_at: 2026-11-07T21:02:17.615Z
+      stale_days: 0
+      is_stale: false
+    - source: ashby
+      source_note: ""
+      company: clera
+      title: Sales Development Representative (SDR), SEO Tools
+      location: Munich
+      url: https://jobs.ashbyhq.com/Clera/51aa8cb6-f68c-4966-9509-ea5cd3d7f72c/application
+      updated_at: 2026-11-03T17:14:45.579+00:00
+      description: ""
+      score: 74
+      skill_hits: 1
+      bucket_id: digital_marketing
+      fetched_at: 2026-11-07T21:02:17.615Z
+      pulled_at: 2026-11-07T21:02:17.615Z
+      stale_days: 0
+      is_stale: false
+    - source: ashby
+      source_note: ""
+      company: enpal
+      title: "SEO & GEO Lead (w/m/d) "
+      location: Berlin
+      url: https://jobs.ashbyhq.com/enpal/0eb6d07d-31da-4c3d-bf8f-91d661d65b28/application
+      updated_at: 2026-10-30T08:28:20.284+00:00
+      description: ""
+      score: 74
+      skill_hits: 1
+      bucket_id: digital_marketing
+      fetched_at: 2026-11-07T21:02:17.615Z
+      pulled_at: 2026-11-07T21:02:17.615Z
+      stale_days: 0
+      is_stale: false
+    - source: ashby
+      source_note: ""
+      company: the-exploration-company
+      title: AIT Test & Assembly Technician
+      location: Munich, Germany
+      url: https://jobs.ashbyhq.com/the-exploration-company/d3241235-9266-4766-b52c-fa64d8df5996/application
+      updated_at: 2026-09-25T20:14:51.754+00:00
+      description: ""
+      score: 74
+      skill_hits: 1
+      bucket_id: digital_marketing
+      fetched_at: 2026-11-07T21:02:17.615Z
+      pulled_at: 2026-11-07T21:02:17.615Z
+      stale_days: 0
+      is_stale: false
+    - source: ashby
+      source_note: ""
+      company: se3
+      title: Assembly Technician
+      location: Undisclosed test site 35km from Munich
+      url: https://jobs.ashbyhq.com/se3/b7fe50ea-f896-4fd1-9e3c-cc73d6fc5530/application
+      updated_at: 2026-10-18T08:50:03.918+00:00
+      description: ""
+      score: 74
+      skill_hits: 1
+      bucket_id: digital_marketing
+      fetched_at: 2026-11-07T21:02:17.615Z
+      pulled_at: 2026-11-07T21:02:17.615Z
+      stale_days: 0
+      is_stale: false
+    - source: ashby
+      source_note: ""
+      company: se3
+      title: Drone Assembly Working Student/ Freelancer
+      location: Undisclosed test site 35km from Munich
+      url: https://jobs.ashbyhq.com/se3/74cb8f22-ab2c-4300-afb9-3ecaaf3d9934/application
+      updated_at: 2026-01-19T17:19:56.140+00:00
+      description: ""
+      score: 74
+      skill_hits: 1
+      bucket_id: digital_marketing
+      fetched_at: 2026-11-07T21:02:17.615Z
+      pulled_at: 2026-11-07T21:02:17.615Z
+      stale_days: 0
+      is_stale: false
+    - source: ashby
+      source_note: ""
+      company: quantumdiamonds
+      title: Global Service Specialist - Semiconductor Equipment (f/m/d)
+      location: Munich HQ
+      url: https://jobs.ashbyhq.com/quantumdiamonds/38637699-a2f1-48d0-8536-ed3bd7d3987f/application
+      updated_at: 2026-10-28T10:11:39.127+00:00
+      description: ""
+      score: 74
+      skill_hits: 1
+      bucket_id: digital_marketing
+      fetched_at: 2026-11-07T21:02:17.615Z
+      pulled_at: 2026-11-07T21:02:17.615Z
+      stale_days: 0
+      is_stale: false
+    - source: ashby
+      source_note: ""
+      company: g2
+      title: Senior AEO/SEO Specialist
+      location: Bengaluru
+      url: https://jobs.ashbyhq.com/G2/3690e8d4-8b7d-4d15-8c74-6325affa544b/application
+      updated_at: 2026-01-16T06:10:27.466+00:00
+      description: ""
+      score: 74
+      skill_hits: 1
+      bucket_id: digital_marketing
+      fetched_at: 2026-11-07T21:02:17.615Z
+      pulled_at: 2026-11-07T21:02:17.615Z
+      stale_days: 0
+      is_stale: false
     - source: arbeitnow
       source_note: ""
       company: wppmedia
@@ -4938,7 +5929,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4988,7 +5979,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -5052,7 +6043,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -5101,7 +6092,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -5140,7 +6131,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -5158,7 +6149,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -5213,7 +6204,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: ashby
       source_note: ""
@@ -5228,7 +6219,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -5282,7 +6273,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: ashby
       source_note: ""
@@ -5297,7 +6288,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: ashby
       source_note: ""
@@ -5312,7 +6303,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: ashby
       source_note: ""
@@ -5327,7 +6318,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: ashby
       source_note: ""
@@ -5342,7 +6333,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: ashby
       source_note: ""
@@ -5357,7 +6348,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: ashby
       source_note: ""
@@ -5372,7 +6363,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: ashby
       source_note: ""
@@ -5387,7 +6378,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: ashby
       source_note: ""
@@ -5402,7 +6393,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -5452,7 +6443,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -5516,7 +6507,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -5565,7 +6556,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -5604,7 +6595,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -5622,7 +6613,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -5677,7 +6668,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: ashby
       source_note: ""
@@ -5692,7 +6683,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -5746,7 +6737,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: ashby
       source_note: ""
@@ -5761,7 +6752,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: ashby
       source_note: ""
@@ -5776,7 +6767,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: ashby
       source_note: ""
@@ -5791,7 +6782,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: ashby
       source_note: ""
@@ -5806,7 +6797,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: ashby
       source_note: ""
@@ -5821,7 +6812,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: ashby
       source_note: ""
@@ -5836,7 +6827,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: ashby
       source_note: ""
@@ -5851,7 +6842,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: ashby
       source_note: ""
@@ -5866,7 +6857,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: ashby
       source_note: ""
@@ -5881,7 +6872,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -6569,7 +7560,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -6633,7 +7624,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -6682,7 +7673,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -6721,7 +7712,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -6739,7 +7730,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -6794,7 +7785,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: ashby
       source_note: ""
@@ -6809,7 +7800,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -6863,7 +7854,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: ashby
       source_note: ""
@@ -6878,7 +7869,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: ashby
       source_note: ""
@@ -6893,7 +7884,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: ashby
       source_note: ""
@@ -6908,7 +7899,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: ashby
       source_note: ""
@@ -6923,7 +7914,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: ashby
       source_note: ""
@@ -6938,7 +7929,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: ashby
       source_note: ""
@@ -6953,7 +7944,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: ashby
       source_note: ""
@@ -6968,7 +7959,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: ashby
       source_note: ""
@@ -6983,7 +7974,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: ashby
       source_note: ""
@@ -6998,7 +7989,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -9213,7 +10204,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -9260,7 +10251,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -9309,7 +10300,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -9364,7 +10355,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -9418,7 +10409,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: ashby
       source_note: ""
@@ -9433,7 +10424,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: ashby
       source_note: ""
@@ -9448,7 +10439,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: ashby
       source_note: ""
@@ -9463,7 +10454,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: ashby
       source_note: ""
@@ -9478,7 +10469,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: ashby
       source_note: ""
@@ -9493,7 +10484,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: ashby
       source_note: ""
@@ -9508,7 +10499,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -9552,7 +10543,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -9599,7 +10590,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -9749,7 +10740,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -9798,7 +10789,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -9853,7 +10844,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -9907,7 +10898,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: ashby
       source_note: ""
@@ -9922,7 +10913,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: ashby
       source_note: ""
@@ -9937,7 +10928,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: ashby
       source_note: ""
@@ -9952,7 +10943,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: ashby
       source_note: ""
@@ -9967,7 +10958,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: ashby
       source_note: ""
@@ -9982,7 +10973,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: ashby
       source_note: ""
@@ -9997,7 +10988,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: ashby
       source_note: ""
@@ -10012,7 +11003,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -10056,7 +11047,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -10103,7 +11094,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -10152,7 +11143,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -10207,7 +11198,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -10261,7 +11252,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: ashby
       source_note: ""
@@ -10276,7 +11267,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: ashby
       source_note: ""
@@ -10291,7 +11282,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: ashby
       source_note: ""
@@ -10306,7 +11297,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: ashby
       source_note: ""
@@ -10321,7 +11312,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: ashby
       source_note: ""
@@ -10336,7 +11327,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: ashby
       source_note: ""
@@ -10351,7 +11342,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -10864,6 +11855,85 @@ buckets:
       title: Senior AI Content Creator (x/f/m)
       location: Berlin, Berlin, Germany
       url: https://careers.hellofresh.com/global/en/job/8113656?gh_jid=8113656
+      updated_at: 2026-11-05T12:48:33-05:00
+      description: "&lt;p&gt;&lt;strong&gt;AI Content Creator - Content
+        Creation&lt;/strong&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;The
+        role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As a Senior AI Content Creator
+        in the HelloFresh Studio, you are part of the AI Content Creation team
+        and play a leading role in developing and scaling AI-powered content
+        creation across mainly photography, but also supporting video, design,
+        and emerging creative formats.&lt;/p&gt; &lt;p&gt;You combine a strong
+        background in commercial visual production with hands-on expertise in
+        generative AI. You have a refined visual eye and strong creative
+        judgment, allowing you to create high-quality content yourself and
+        recognize what makes an image or video successful. Beyond creating
+        individual assets, a key part of your role is translating creative
+        direction and successful approaches into reliable, production-ready
+        workflows that expand the Studio&#39;s AI capabilities. Working closely
+        with art directors, photographers, retouchers, video, design, and tech,
+        you identify where AI can improve creative possibilities, production
+        efficiency, and scale. You help define best practices, evaluate emerging
+        technologies, and continuously develop how AI is used in visual
+        production across the Studio.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What
+        you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Create
+        high-quality AI-powered content across commercial photography and video,
+        including lifestyle, food, product, and campaign content, translating
+        creative direction into assets ready for real production and marketing
+        use.&lt;/li&gt; &lt;li&gt;Develop and refine AI content creation
+        workflows, prompts, techniques, and reusable approaches using tools such
+        as Krea, Higgsfield, Claude, ComfyUI, and emerging platforms.&lt;/li&gt;
+        &lt;li&gt;Work closely with Art Directors, Photographers, Video, Design,
+        and Post-Production to translate creative concepts and established
+        visual approaches into scalable AI-powered production
+        workflows.&lt;/li&gt; &lt;li&gt;Use your creative judgment and
+        production experience to continuously improve visual quality, realism,
+        consistency, and efficiency across AI-generated content.&lt;/li&gt;
+        &lt;li&gt;Partner with Workflow Specialists to identify automation
+        opportunities and help turn successful creative processes into scalable
+        or automated content-generation workflows.&lt;/li&gt; &lt;li&gt;Evaluate
+        emerging AI models, tools, and techniques, testing their practical value
+        and introducing those that meaningfully improve creative output or
+        production.&lt;/li&gt; &lt;li&gt;Define and share best practices,
+        standards, and documentation for AI content creation, and support
+        colleagues in developing their AI capabilities.&lt;/li&gt;
+        &lt;li&gt;Stay closely connected to developments in generative AI,
+        actively experimenting with new approaches and identifying opportunities
+        to expand what the Studio can create.&lt;/li&gt; &lt;/ul&gt;
+        &lt;h2&gt;&lt;strong&gt;What you’ll bring&lt;/strong&gt;&lt;/h2&gt;
+        &lt;ul&gt; &lt;li&gt;&lt;strong&gt;5+ years of professional experience
+        in commercial photography, retouching, art direction, or a closely
+        related visual production discipline&lt;/strong&gt;, with a strong
+        understanding of professional photography and/or video
+        production.&lt;/li&gt; &lt;li&gt;Advanced hands-on experience creating
+        high-quality visual content with generative AI tools and integrating AI
+        into real creative or production workflows.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;A refined visual eye and strong creative
+        judgment&lt;/strong&gt;, with an excellent understanding of photography,
+        composition, lighting, colour, visual storytelling, realism, and what
+        makes commercial imagery feel premium and intentional.&lt;/li&gt;
+        &lt;li&gt;Proven ability to interpret creative briefs and translate
+        creative direction into high-quality visual content and repeatable
+        production approaches.&lt;/li&gt; &lt;li&gt;Strong collaboration and
+        communication skills, with the ability to work effectively across
+        creative, production, and technical teams.&lt;/li&gt; &lt;li&gt;You are
+        proactive, curious, and solution-oriented, with a strong sense of
+        ownership, an experimental mindset, and genuine enthusiasm for emerging
+        AI technologies.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Please
+        include a portfolio of your recent and relevant
+        work.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;"
+      score: 94
+      skill_hits: 1
+      bucket_id: video_editing
+      fetched_at: 2026-11-07T21:02:17.615Z
+      pulled_at: 2026-11-07T21:02:17.615Z
+      stale_days: 0
+      is_stale: false
+    - source: greenhouse
+      source_note: ""
+      company: hellofresh
+      title: Senior AI Content Creator (x/f/m)
+      location: Berlin, Berlin, Germany
+      url: https://careers.hellofresh.com/global/en/job/8113656?gh_jid=8113656
       updated_at: 2026-11-02T04:10:56-05:00
       description: "&lt;p&gt;&lt;strong&gt;AI Content Creator - Content
         Creation&lt;/strong&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;The
@@ -10935,7 +12005,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -10992,7 +12062,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -11071,7 +12141,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -11400,7 +12470,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -11848,7 +12918,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -11927,7 +12997,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -12006,7 +13076,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -12123,5 +13193,5 @@ meta:
     digital_marketing: 0
     video_editing: 0
   timings_ms:
-    fetch: 240007
-    total: 240247
+    fetch: 182436
+    total: 213080
