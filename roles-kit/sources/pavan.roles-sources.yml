@@ -1,4 +1,4 @@
-generated_at: 2026-11-07T21:02:17.615Z
+generated_at: 2026-11-08T21:18:42.610Z
 explicit:
   company_names:
     - SAP
@@ -1103,6 +1103,10 @@ discovered:
     - hyperscale-power
     - ethon
     - neuralconcept
+    - dataleap
+    - fnatic
+    - isembard
+    - morpho
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -2705,6 +2709,10 @@ discovered:
     - hyperscale-power
     - ethon
     - neuralconcept
+    - dataleap
+    - fnatic
+    - isembard
+    - morpho
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
