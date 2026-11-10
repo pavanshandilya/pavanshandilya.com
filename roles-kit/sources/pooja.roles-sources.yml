@@ -1,4 +1,4 @@
-generated_at: 2026-11-10T00:52:34.609Z
+generated_at: 2026-11-10T22:31:46.334Z
 explicit:
   company_names:
     - SAP
@@ -1102,6 +1102,17 @@ discovered:
     - vibe
     - isembard
     - morpho
+    - viessmann
+    - tactiliarobotics
+    - fractile
+    - withpace
+    - hozah
+    - amo
+    - ami
+    - kog
+    - hcompany
+    - sonio
+    - alassio
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -2706,6 +2717,17 @@ discovered:
     - vibe
     - isembard
     - morpho
+    - viessmann
+    - tactiliarobotics
+    - fractile
+    - withpace
+    - hozah
+    - amo
+    - ami
+    - kog
+    - hcompany
+    - sonio
+    - alassio
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers

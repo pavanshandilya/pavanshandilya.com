@@ -1,9 +1,80 @@
 schema_version: roles.v1
 profile_id: pooja
 profile_name: Pooja - product/scrum now, EM later
-generated_at: 2026-11-10T00:52:34.609Z
+generated_at: 2026-11-10T22:31:46.334Z
 buckets:
   pm_product:
+    - source: arbeitnow
+      source_note: ""
+      company: Bjak
+      title: Product Manager - AI Neobank App
+      location: Germany
+      url: https://www.arbeitnow.com/jobs/companies/bjak/product-manager-ai-neobank-app-germany-323816
+      updated_at: 1794346822
+      description: "About BJAK The original mission of BJAK is we believe people
+        deserve smarter ways to plan, save and grow their money. This is the
+        origin of our name. Started in 2019, we built the first mobile-first,
+        insurance platform, enabling insurance to be accessible online by
+        millions in the region. Today, its the leading insurance platform in
+        Southeast Asia. Today, we are expanding ways to help people in the
+        region — this includes spending, saving, investing, exchanging,
+        travelling, and more. Our mission is help people get more from their
+        money every day. We have teams working around the world, with over 20
+        nationalities from our offices and remotely, who truly enjoys their
+        work. We are looking for the most talented and driven people we can
+        find. We are looking for people who work for their passion, not counting
+        hours. Who loves building great next-generation products, not status
+        quo. Who cares about redefining how everyone around us can get the best
+        financial applications, not for an exclusive few. If you're this person,
+        we'd love to talk to you. The Role We are looking for product managers
+        to own product areas within BJAK's AI Neobank app. This role is for
+        builders who can understand users, define product direction, work with
+        engineering and design, launch fast and keep improving after release.
+        What You'll Own Own product areas across insurance, payments, savings,
+        investing, travel or other financial services. Define user problems,
+        product scope, success metrics, roadmap and launch plans. Work with
+        engineering, design, data, operations, compliance and business teams.
+        Turn complex financial products into simple, usable customer journeys.
+        Use data, feedback, research and production issues to improve product
+        decisions. Launch features, monitor performance and drive iterations.
+        Make trade-offs between speed, user experience, business impact,
+        compliance and operational complexity. What We're Looking For Experience
+        as Product Manager, Product Owner, founder, growth/product operator or
+        similar role. Strong product sense and ability to simplify complex
+        workflows. Able to work with engineers and designers to ship real
+        products. Comfortable with metrics, user feedback, experiments and
+        post-launch learning. Strong writing, prioritization and stakeholder
+        management. High ownership and ability to drive work with limited
+        guidance. Experience in fintech, insurance, payments, consumer apps or
+        high-growth products is a strong advantage. The Kind of Builder We Want
+        Starts from user problems, not feature lists. Can make decisions with
+        incomplete information. Knows how to ship quickly and learn after
+        launch. Works well with engineering without hiding behind process.
+        Honest about what changed because of their work versus wider team
+        effort. This Role Is Not For People who only write decks and do not
+        drive execution. PMs who cannot work deeply with engineering. Candidates
+        who need perfect data before making decisions. People who launch
+        features and then stop caring. PMs who exaggerate business impact
+        without understanding attribution. Location This role is remote, but
+        candidates must be based in Germany . We are hiring specifically for
+        this market, so applicants should already be based in Germany . Language
+        English is our main working language across global teams. Strong English
+        communication is required. Interview Process Our process is designed to
+        move fast: 1. Online assessment or practical task 2. Role-specific
+        interview 3. CEO / final round For strong candidates, we aim to complete
+        the process and make an offer within 1 week from the start of the
+        interview process. Candidates who complete assessments quickly will be
+        prioritized. Find Jobs in Germany on Arbeitnow"
+      job_types:
+        - Full Time
+      remote: false
+      score: 80
+      skill_hits: 2
+      bucket_id: pm_product
+      fetched_at: 2026-11-10T22:31:46.334Z
+      pulled_at: 2026-11-10T22:31:46.334Z
+      stale_days: 0
+      is_stale: false
     - source: recruitee
       source_note: ""
       company: TransPerfect
@@ -50,7 +121,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-07T21:05:28.683Z
       pulled_at: 2026-11-07T21:05:28.683Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -84,7 +155,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-07T21:05:28.683Z
       pulled_at: 2026-11-07T21:05:28.683Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -127,7 +198,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-07T21:05:28.683Z
       pulled_at: 2026-11-07T21:05:28.683Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -148,7 +219,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-07T21:05:28.683Z
       pulled_at: 2026-11-07T21:05:28.683Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -530,7 +601,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-03T22:30:09.130Z
       pulled_at: 2026-11-03T22:30:09.130Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -564,7 +635,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-03T22:30:09.130Z
       pulled_at: 2026-11-03T22:30:09.130Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -607,7 +678,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-03T22:30:09.130Z
       pulled_at: 2026-11-03T22:30:09.130Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -755,7 +826,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-03T22:30:09.130Z
       pulled_at: 2026-11-03T22:30:09.130Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -776,7 +847,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-03T22:30:09.130Z
       pulled_at: 2026-11-03T22:30:09.130Z
-      stale_days: 6
+      stale_days: 7
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -984,7 +1055,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-01T21:23:26.114Z
       pulled_at: 2026-11-01T21:23:26.114Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1192,7 +1263,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-01T21:23:26.114Z
       pulled_at: 2026-11-01T21:23:26.114Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1284,7 +1355,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-01T21:23:26.114Z
       pulled_at: 2026-11-01T21:23:26.114Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1468,7 +1539,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-01T21:23:26.114Z
       pulled_at: 2026-11-01T21:23:26.114Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1527,7 +1598,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-31T20:36:52.691Z
       pulled_at: 2026-10-31T20:36:52.691Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1632,7 +1703,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-31T20:36:52.691Z
       pulled_at: 2026-10-31T20:36:52.691Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1653,7 +1724,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-31T20:36:52.691Z
       pulled_at: 2026-10-31T20:36:52.691Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1946,7 +2017,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-30T21:43:02.097Z
       pulled_at: 2026-10-30T21:43:02.097Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2005,7 +2076,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-30T21:43:02.097Z
       pulled_at: 2026-10-30T21:43:02.097Z
-      stale_days: 10
+      stale_days: 11
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2053,7 +2124,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-29T22:01:06.957Z
       pulled_at: 2026-10-29T22:01:06.957Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2087,7 +2158,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-29T22:01:06.957Z
       pulled_at: 2026-10-29T22:01:06.957Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2220,7 +2291,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-29T22:01:06.957Z
       pulled_at: 2026-10-29T22:01:06.957Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2263,7 +2334,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-29T22:01:06.957Z
       pulled_at: 2026-10-29T22:01:06.957Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2538,7 +2609,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-29T22:01:06.957Z
       pulled_at: 2026-10-29T22:01:06.957Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2559,7 +2630,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-29T22:01:06.957Z
       pulled_at: 2026-10-29T22:01:06.957Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2607,7 +2678,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-28T21:52:48.367Z
       pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2641,7 +2712,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-28T21:52:48.367Z
       pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2684,7 +2755,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-28T21:52:48.367Z
       pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2743,7 +2814,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-28T21:52:48.367Z
       pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2764,7 +2835,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-28T21:52:48.367Z
       pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2812,7 +2883,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2846,7 +2917,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2889,7 +2960,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2979,7 +3050,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3069,7 +3140,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3090,7 +3161,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3177,7 +3248,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3225,7 +3296,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-23T20:37:43.569Z
       pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 17
+      stale_days: 18
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3259,7 +3330,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-23T20:37:43.569Z
       pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 17
+      stale_days: 18
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3302,7 +3373,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-23T20:37:43.569Z
       pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 17
+      stale_days: 18
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3323,7 +3394,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-23T20:37:43.569Z
       pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 17
+      stale_days: 18
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3436,7 +3507,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-23T20:37:43.569Z
       pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 17
+      stale_days: 18
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3484,7 +3555,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-21T20:51:32.768Z
       pulled_at: 2026-10-21T20:51:32.768Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3518,7 +3589,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-21T20:51:32.768Z
       pulled_at: 2026-10-21T20:51:32.768Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3680,7 +3751,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-21T20:51:32.768Z
       pulled_at: 2026-10-21T20:51:32.768Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3723,7 +3794,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-21T20:51:32.768Z
       pulled_at: 2026-10-21T20:51:32.768Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3744,7 +3815,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-21T20:51:32.768Z
       pulled_at: 2026-10-21T20:51:32.768Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3792,7 +3863,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3826,7 +3897,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3869,7 +3940,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -3938,7 +4009,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -4009,7 +4080,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -4080,7 +4151,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -4151,7 +4222,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -4220,7 +4291,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -4291,7 +4362,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -4360,7 +4431,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -4429,7 +4500,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: jobicy
       source_note: ""
@@ -4511,7 +4582,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4532,7 +4603,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4580,7 +4651,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4614,7 +4685,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4657,7 +4728,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: jobicy
       source_note: ""
@@ -4828,7 +4899,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4849,7 +4920,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -4957,202 +5028,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 25
-      is_stale: true
-    - source: arbeitnow
-      source_note: ""
-      company: Real Digital
-      title: Senior Product Manager (all genders) | B2B
-      location: Remote oder Köln / Darmstadt / Düsseldorf / Berlin
-      url: https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-product-manager-all-genders-b2b-483533
-      updated_at: 1791738573
-      description: "Anstellungsdetails Permanent Contract, Full- or Part-Time, Remote
-        or Cologne / Düsseldorf / Darmstadt / Berlin Info Who we areWe are the
-        tech powerhouse behind Kaufland’s international online marketplaces and
-        a company within the Schwarz Group. Driven by a start-up mentality and
-        working on an equal footing within flat hierarchies, we develop the best
-        marketplace solutions for our customers, sellers and partners.
-        #FromEuropeForEurope Day by day, our Tech &amp; Product Team of about
-        400 experts pursues the goal of creating the best possible customer
-        shopping experience for our online marketplace. Through innovative
-        technical developments, they not only create an outstanding shopping
-        experience but also lay the foundation for an optimal selling experience
-        for our sellers. Learn more about our division, areas, and
-        cross-functional teams here ! Aufgaben Your tasks – this is what awaits
-        you in detail You own and evolve the product strategy, vision, and
-        roadmap for key B2B platform capabilities on the Kaufland Global
-        Marketplace (with several open roles focusing on either Selling
-        Experience or Marketing Technologies) You translate complex business
-        requirements and seller insights into scalable, reliable, and
-        high-impact digital product features You collaborate closely with
-        Engineering, Architecture, Marketing, and Sales to build future-proof
-        solutions and ensure seamless technical integrations You apply platform
-        thinking to balance business goals, technical constraints, speed,
-        scalability, and long-term ecosystem impact You utilize data, metrics,
-        and user feedback to identify problems, measure performance, and
-        continuously optimize seller adoption and growth You drive go-to-market
-        strategies, product launches, and stakeholder communication to align
-        cross-functional teams around shared priorities You conduct market and
-        competitive analysis to proactively discover opportunities for product
-        innovation and international marketplace expansion You explore and
-        experiment with emerging technologies, AI-driven tools, and novel
-        architectural/MarTech approaches to shape the future of our B2B platform
-        Profil Your profile – this is what we expect from you You bring proven
-        experience as a Product Manager owning products for sellers and
-        partners: Technical platforms and tooling, AI-powered automation and
-        service products, or marketing technology and growth products You have a
-        strong builder mindset with a track record of driving products from
-        early concept and architecture down to execution and delivery You build
-        with emerging technologies and AI, from experimentation to production,
-        driven by a curiosity for modern PM tools and innovative platform trends
-        to shape the future of our B2B platform You possess a solid technical
-        background with a clear understanding of APIs, data flows, system
-        integrations, and web architectures You are highly data-driven and
-        outcome-focused, knowing how to turn user data and performance metrics
-        into actionable product decisions You possess outstanding stakeholder
-        management and communication skills, with the ability to bridge
-        technical complexity and business strategy You always put the customer
-        first, bringing a passion for solving seller pain points and driving
-        business impact You thrive in a fast-paced, pragmatic environment, bring
-        fluent English skills (C1 level), and excel in an international, remote
-        setup Benefits What we offer Create your own work-life balance: You have
-        the flexibility to choose between working remotely (within Germany) or
-        from one of our locations in Cologne, Darmstadt, Düsseldorf, or in
-        Berlin! Urban Sports Club and RSG Group Fitness Studios : Get top deals
-        for fitness, swimming, yoga and more Mental Well-Being: We support you
-        on your well-being journey with special offerings such as Instahelp, the
-        digital platform for online psychological counseling Vacation &amp;
-        Sabbatical: Enjoy 30 days of vacation per year and the opportunity to
-        take a sabbatical once you have been part of the team for a certain
-        period! Option for Pluxee restaurant vouchers : Buy Pluxee vouchers
-        through us and benefit from tax-advantaged meal allowances! ‘
-        Deutschlandticket’: We subsidise your train season ticket for more
-        mobility Employee Discount: You will receive a monthly coupon for
-        Kaufland.de Free choice of hardware: Mac or Lenovo, it's up to you Boost
-        your growth: Benefit from our online language learning programs, diverse
-        in-house training, and our automated 360-degree feedback This is who we
-        are: Our dynamic culture combines flat hierarchies, a start-up
-        mentality, an international team of over 65 nationalities, and the
-        strength of the Schwarz Group to provide you an agile and secure working
-        environment. We are team players : From day one, you will connect not
-        only with your team but also with others through our digital onboarding
-        journey , the buddy program , and regular team and company events,
-        all-hands meetings, powerful mornings , and much more! Check out our
-        Principles &amp; our blog for even more insights into our company
-        culture! Bewerben Diversity at Kaufland e-commerceWe welcome
-        applications from everyone, regardless of skin colour, sexual
-        orientation, gender identity, age, disability, ethnic origin, religion
-        and ideology. We are signatories to the Charta der Vielfalt (German
-        Diversity Charter) – because we know that extraordinary things can only
-        be achieved with diversity. Read more here ! When applying, you can
-        optionally include your pronouns in your resume. Why are you the perfect
-        fit for this position? Don't bother with cover letters - we're
-        interested in facts and figures! Feel free to share your Github profile
-        with us in your application. As we have very international teams, we
-        would highly appreciate it to receive your CV or profile link in
-        English. We are looking forward to your application! Kaufland e-commerce
-        Services GmbH &amp; Co. KG Postal address: Habsburgerring 2 50674 Köln
-        Ansprechpartner Your contact person: Verena Schilmann Find Jobs in
-        Germany on Arbeitnow"
-      job_types:
-        - Experienced
-        - Permanent
-        - Full or part time
-      remote: false
-      score: 94
-      skill_hits: 5
-      bucket_id: pm_product
-      fetched_at: 2026-10-11T21:07:22.664Z
-      pulled_at: 2026-10-11T21:07:22.664Z
-      stale_days: 29
-      is_stale: true
-    - source: arbeitnow
-      source_note: ""
-      company: Project Q
-      title: Senior Product Manager - Hardware & Edge AI (d/f/m)
-      location: Berlin
-      url: https://www.arbeitnow.com/jobs/companies/project-q/senior-product-manager-hardware-edge-ai-berlin-435465
-      updated_at: 1791738577
-      description: "New Challenge About Us Project Q GmbH (\"Q\") is a defence
-        technology company with offices in Berlin and Munich, and a trusted
-        partner of the German Armed Forces. Our customers field sensors, drones
-        and C2 systems from many vendors that were never built to work together.
-        We build Hydris, an orchestration layer that integrates the systems they
-        already field, and the ones they'll add next, into one picture operators
-        can act on across defence, public safety, and critical infrastructure.
-        Hydris runs at the edge, keeps working when the link drops, and its core
-        is open source under Apache 2.0. As Senior Product Manager for Mission
-        Devices, you'll own the hardware that puts Hydris in the field. You'll
-        work end-to-end, from discovery with operators through hardware build
-        cycles to fielded units, and you'll decide what gets built rather than
-        work through someone else's backlog. The bar is concrete: devices that
-        run for months off-grid in contested RF environments. What you'll do
-        Discovery and requirements Spend time with end users in their operating
-        environment to understand their workflows in depth, not just their
-        stated requirements. Validate assumptions about value, usability,
-        feasibility and viability through prototypes, bench tests and field
-        trials before committing to hardware fabrication. Analyze contractual
-        specifications with Program Managers, separating firm constraints from
-        areas where there's room for the best technical solution. Roadmap and
-        delivery Maintain an outcome-focused roadmap aligned to hardware build
-        cycles (EVT/DVT/PVT), firmware releases and OTA update pipelines. Define
-        requirements and field metrics for each device, including detection
-        performance, energy efficiency, mission endurance and SWaP, and make the
-        trade-offs between them. Prioritize investment across the device family,
-        deciding where to extend existing devices and where a new one is needed.
-        Systems and interoperability Make sure devices integrate with Hydris as
-        and interoperate with third-party systems through industry standards and
-        protocols. Design provisioning, commissioning and deployment workflows
-        that are simple and reliable in the field. Investigate issues that span
-        hardware, firmware and communications, and work with engineering to
-        resolve them. Collaboration Act as the main source of product context
-        and the product's champion, making sure the team, leadership and
-        customers understand what we're building and why. Work in a product trio
-        with engineering (hardware and ML) and design. Partner with Program and
-        Capture Managers to keep the product vision aligned with contractual
-        commitments. Write clear PRDs and decision records, and mentor teammates
-        on discovery practice and hardware–software trade-offs. You should apply
-        if you have 5+ years of product management experience with
-        hardware–software products, for example in embedded systems, IoT,
-        robotics, defence systems or edge AI. Experience taking a connected
-        hardware product from EVT/DVT through production into operational use,
-        including in-field updates. Experience running product development end
-        to end, from discovery to engineering-ready work, and the ability to
-        adapt to however a team works. Ability making decisions with incomplete
-        information, and the judgment to know when a decision is risky enough to
-        slow down. Clear communication with hardware engineers, ML researchers
-        and operators alike. Motivation to contribute to European security and
-        sovereignty. Willingness to travel regularly to military exercises, test
-        ranges and customer sites in Germany and NATO partner countries,
-        sometimes in demanding field conditions. Eligibility for German security
-        clearance (SÜ2). Fluency in German and English (C1 or higher). You'd be
-        a particularly great fit with A degree in electrical, mechanical or
-        systems engineering, robotics or a related field, or equivalent hands-on
-        experience bringing hardware products from prototype to production.
-        Experience in military, public safety or other mission-critical
-        operational environments. Exposure to sensor fusion, mesh networking or
-        degraded RF environments, including familiarity with interoperability
-        standards such as Cursor on Target, SAPIENT, ONVIF or ASTERIX. We Offer
-        Direct feedback from the field: you'll see the products you build tested
-        in real operating environments by the people who use them. Prime
-        Berlin-Mitte location – right between Alexanderplatz and Hackescher
-        Markt. High degree of autonomy and ownership, and flat structure. Annual
-        €1500 Learning &amp; development budget (available after probation).
-        Bike Leasing and Urban Sports Club membership. 30 days of paid time off.
-        Note: We're unable to offer visa sponsorship for this role – candidates
-        must already be eligible to work in Germany. Find Jobs in Germany on
-        Arbeitnow"
-      job_types:
-        - Experienced
-        - Permanent
-        - Full time
-      remote: false
-      score: 78
-      skill_hits: 2
-      bucket_id: pm_product
-      fetched_at: 2026-10-11T21:07:22.664Z
-      pulled_at: 2026-10-11T21:07:22.664Z
-      stale_days: 29
+      stale_days: 26
       is_stale: true
   scrum_agile:
     - source: arbeitnow
@@ -5266,7 +5142,7 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-10-31T20:36:52.691Z
       pulled_at: 2026-10-31T20:36:52.691Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -5436,7 +5312,7 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-10-28T21:52:48.367Z
       pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
   program_management:
     - source: arbeitnow
@@ -5549,7 +5425,7 @@ buckets:
       bucket_id: program_management
       fetched_at: 2026-10-31T20:36:52.691Z
       pulled_at: 2026-10-31T20:36:52.691Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -5719,10 +5595,205 @@ buckets:
       bucket_id: program_management
       fetched_at: 2026-10-28T21:52:48.367Z
       pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
 archive:
-  pm_product: []
+  pm_product:
+    - source: arbeitnow
+      source_note: ""
+      company: Real Digital
+      title: Senior Product Manager (all genders) | B2B
+      location: Remote oder Köln / Darmstadt / Düsseldorf / Berlin
+      url: https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-product-manager-all-genders-b2b-483533
+      updated_at: 1791738573
+      description: "Anstellungsdetails Permanent Contract, Full- or Part-Time, Remote
+        or Cologne / Düsseldorf / Darmstadt / Berlin Info Who we areWe are the
+        tech powerhouse behind Kaufland’s international online marketplaces and
+        a company within the Schwarz Group. Driven by a start-up mentality and
+        working on an equal footing within flat hierarchies, we develop the best
+        marketplace solutions for our customers, sellers and partners.
+        #FromEuropeForEurope Day by day, our Tech &amp; Product Team of about
+        400 experts pursues the goal of creating the best possible customer
+        shopping experience for our online marketplace. Through innovative
+        technical developments, they not only create an outstanding shopping
+        experience but also lay the foundation for an optimal selling experience
+        for our sellers. Learn more about our division, areas, and
+        cross-functional teams here ! Aufgaben Your tasks – this is what awaits
+        you in detail You own and evolve the product strategy, vision, and
+        roadmap for key B2B platform capabilities on the Kaufland Global
+        Marketplace (with several open roles focusing on either Selling
+        Experience or Marketing Technologies) You translate complex business
+        requirements and seller insights into scalable, reliable, and
+        high-impact digital product features You collaborate closely with
+        Engineering, Architecture, Marketing, and Sales to build future-proof
+        solutions and ensure seamless technical integrations You apply platform
+        thinking to balance business goals, technical constraints, speed,
+        scalability, and long-term ecosystem impact You utilize data, metrics,
+        and user feedback to identify problems, measure performance, and
+        continuously optimize seller adoption and growth You drive go-to-market
+        strategies, product launches, and stakeholder communication to align
+        cross-functional teams around shared priorities You conduct market and
+        competitive analysis to proactively discover opportunities for product
+        innovation and international marketplace expansion You explore and
+        experiment with emerging technologies, AI-driven tools, and novel
+        architectural/MarTech approaches to shape the future of our B2B platform
+        Profil Your profile – this is what we expect from you You bring proven
+        experience as a Product Manager owning products for sellers and
+        partners: Technical platforms and tooling, AI-powered automation and
+        service products, or marketing technology and growth products You have a
+        strong builder mindset with a track record of driving products from
+        early concept and architecture down to execution and delivery You build
+        with emerging technologies and AI, from experimentation to production,
+        driven by a curiosity for modern PM tools and innovative platform trends
+        to shape the future of our B2B platform You possess a solid technical
+        background with a clear understanding of APIs, data flows, system
+        integrations, and web architectures You are highly data-driven and
+        outcome-focused, knowing how to turn user data and performance metrics
+        into actionable product decisions You possess outstanding stakeholder
+        management and communication skills, with the ability to bridge
+        technical complexity and business strategy You always put the customer
+        first, bringing a passion for solving seller pain points and driving
+        business impact You thrive in a fast-paced, pragmatic environment, bring
+        fluent English skills (C1 level), and excel in an international, remote
+        setup Benefits What we offer Create your own work-life balance: You have
+        the flexibility to choose between working remotely (within Germany) or
+        from one of our locations in Cologne, Darmstadt, Düsseldorf, or in
+        Berlin! Urban Sports Club and RSG Group Fitness Studios : Get top deals
+        for fitness, swimming, yoga and more Mental Well-Being: We support you
+        on your well-being journey with special offerings such as Instahelp, the
+        digital platform for online psychological counseling Vacation &amp;
+        Sabbatical: Enjoy 30 days of vacation per year and the opportunity to
+        take a sabbatical once you have been part of the team for a certain
+        period! Option for Pluxee restaurant vouchers : Buy Pluxee vouchers
+        through us and benefit from tax-advantaged meal allowances! ‘
+        Deutschlandticket’: We subsidise your train season ticket for more
+        mobility Employee Discount: You will receive a monthly coupon for
+        Kaufland.de Free choice of hardware: Mac or Lenovo, it's up to you Boost
+        your growth: Benefit from our online language learning programs, diverse
+        in-house training, and our automated 360-degree feedback This is who we
+        are: Our dynamic culture combines flat hierarchies, a start-up
+        mentality, an international team of over 65 nationalities, and the
+        strength of the Schwarz Group to provide you an agile and secure working
+        environment. We are team players : From day one, you will connect not
+        only with your team but also with others through our digital onboarding
+        journey , the buddy program , and regular team and company events,
+        all-hands meetings, powerful mornings , and much more! Check out our
+        Principles &amp; our blog for even more insights into our company
+        culture! Bewerben Diversity at Kaufland e-commerceWe welcome
+        applications from everyone, regardless of skin colour, sexual
+        orientation, gender identity, age, disability, ethnic origin, religion
+        and ideology. We are signatories to the Charta der Vielfalt (German
+        Diversity Charter) – because we know that extraordinary things can only
+        be achieved with diversity. Read more here ! When applying, you can
+        optionally include your pronouns in your resume. Why are you the perfect
+        fit for this position? Don't bother with cover letters - we're
+        interested in facts and figures! Feel free to share your Github profile
+        with us in your application. As we have very international teams, we
+        would highly appreciate it to receive your CV or profile link in
+        English. We are looking forward to your application! Kaufland e-commerce
+        Services GmbH &amp; Co. KG Postal address: Habsburgerring 2 50674 Köln
+        Ansprechpartner Your contact person: Verena Schilmann Find Jobs in
+        Germany on Arbeitnow"
+      job_types:
+        - Experienced
+        - Permanent
+        - Full or part time
+      remote: false
+      score: 94
+      skill_hits: 5
+      bucket_id: pm_product
+      fetched_at: 2026-10-11T21:07:22.664Z
+      pulled_at: 2026-10-11T21:07:22.664Z
+      stale_days: 30
+      is_stale: true
+    - source: arbeitnow
+      source_note: ""
+      company: Project Q
+      title: Senior Product Manager - Hardware & Edge AI (d/f/m)
+      location: Berlin
+      url: https://www.arbeitnow.com/jobs/companies/project-q/senior-product-manager-hardware-edge-ai-berlin-435465
+      updated_at: 1791738577
+      description: "New Challenge About Us Project Q GmbH (\"Q\") is a defence
+        technology company with offices in Berlin and Munich, and a trusted
+        partner of the German Armed Forces. Our customers field sensors, drones
+        and C2 systems from many vendors that were never built to work together.
+        We build Hydris, an orchestration layer that integrates the systems they
+        already field, and the ones they'll add next, into one picture operators
+        can act on across defence, public safety, and critical infrastructure.
+        Hydris runs at the edge, keeps working when the link drops, and its core
+        is open source under Apache 2.0. As Senior Product Manager for Mission
+        Devices, you'll own the hardware that puts Hydris in the field. You'll
+        work end-to-end, from discovery with operators through hardware build
+        cycles to fielded units, and you'll decide what gets built rather than
+        work through someone else's backlog. The bar is concrete: devices that
+        run for months off-grid in contested RF environments. What you'll do
+        Discovery and requirements Spend time with end users in their operating
+        environment to understand their workflows in depth, not just their
+        stated requirements. Validate assumptions about value, usability,
+        feasibility and viability through prototypes, bench tests and field
+        trials before committing to hardware fabrication. Analyze contractual
+        specifications with Program Managers, separating firm constraints from
+        areas where there's room for the best technical solution. Roadmap and
+        delivery Maintain an outcome-focused roadmap aligned to hardware build
+        cycles (EVT/DVT/PVT), firmware releases and OTA update pipelines. Define
+        requirements and field metrics for each device, including detection
+        performance, energy efficiency, mission endurance and SWaP, and make the
+        trade-offs between them. Prioritize investment across the device family,
+        deciding where to extend existing devices and where a new one is needed.
+        Systems and interoperability Make sure devices integrate with Hydris as
+        and interoperate with third-party systems through industry standards and
+        protocols. Design provisioning, commissioning and deployment workflows
+        that are simple and reliable in the field. Investigate issues that span
+        hardware, firmware and communications, and work with engineering to
+        resolve them. Collaboration Act as the main source of product context
+        and the product's champion, making sure the team, leadership and
+        customers understand what we're building and why. Work in a product trio
+        with engineering (hardware and ML) and design. Partner with Program and
+        Capture Managers to keep the product vision aligned with contractual
+        commitments. Write clear PRDs and decision records, and mentor teammates
+        on discovery practice and hardware–software trade-offs. You should apply
+        if you have 5+ years of product management experience with
+        hardware–software products, for example in embedded systems, IoT,
+        robotics, defence systems or edge AI. Experience taking a connected
+        hardware product from EVT/DVT through production into operational use,
+        including in-field updates. Experience running product development end
+        to end, from discovery to engineering-ready work, and the ability to
+        adapt to however a team works. Ability making decisions with incomplete
+        information, and the judgment to know when a decision is risky enough to
+        slow down. Clear communication with hardware engineers, ML researchers
+        and operators alike. Motivation to contribute to European security and
+        sovereignty. Willingness to travel regularly to military exercises, test
+        ranges and customer sites in Germany and NATO partner countries,
+        sometimes in demanding field conditions. Eligibility for German security
+        clearance (SÜ2). Fluency in German and English (C1 or higher). You'd be
+        a particularly great fit with A degree in electrical, mechanical or
+        systems engineering, robotics or a related field, or equivalent hands-on
+        experience bringing hardware products from prototype to production.
+        Experience in military, public safety or other mission-critical
+        operational environments. Exposure to sensor fusion, mesh networking or
+        degraded RF environments, including familiarity with interoperability
+        standards such as Cursor on Target, SAPIENT, ONVIF or ASTERIX. We Offer
+        Direct feedback from the field: you'll see the products you build tested
+        in real operating environments by the people who use them. Prime
+        Berlin-Mitte location – right between Alexanderplatz and Hackescher
+        Markt. High degree of autonomy and ownership, and flat structure. Annual
+        €1500 Learning &amp; development budget (available after probation).
+        Bike Leasing and Urban Sports Club membership. 30 days of paid time off.
+        Note: We're unable to offer visa sponsorship for this role – candidates
+        must already be eligible to work in Germany. Find Jobs in Germany on
+        Arbeitnow"
+      job_types:
+        - Experienced
+        - Permanent
+        - Full time
+      remote: false
+      score: 78
+      skill_hits: 2
+      bucket_id: pm_product
+      fetched_at: 2026-10-11T21:07:22.664Z
+      pulled_at: 2026-10-11T21:07:22.664Z
+      stale_days: 30
+      is_stale: true
   scrum_agile: []
   program_management: []
 meta:
@@ -5749,13 +5820,13 @@ meta:
     official_career_pages: 20
     search_queries: 20
   stale_counts:
-    pm_product: 21
+    pm_product: 19
     scrum_agile: 0
     program_management: 0
   inactive_counts:
-    pm_product: 0
+    pm_product: 2
     scrum_agile: 0
     program_management: 0
   timings_ms:
-    fetch: 240006
-    total: 240152
+    fetch: 152482
+    total: 173156
