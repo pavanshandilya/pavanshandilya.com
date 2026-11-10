@@ -1,7 +1,7 @@
 schema_version: roles.v1
 profile_id: pavan
 profile_name: Pavan - marketing, digital marketing, video editing
-generated_at: 2026-11-08T21:18:42.610Z
+generated_at: 2026-11-10T00:48:33.056Z
 buckets:
   marketing_general:
     - source: recruitee
@@ -52,7 +52,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-08T21:18:42.610Z
       pulled_at: 2026-11-08T21:18:42.610Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -105,7 +105,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-08T21:18:42.610Z
       pulled_at: 2026-11-08T21:18:42.610Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -180,7 +180,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-08T21:18:42.610Z
       pulled_at: 2026-11-08T21:18:42.610Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -256,7 +256,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-08T21:18:42.610Z
       pulled_at: 2026-11-08T21:18:42.610Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -311,7 +311,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-08T21:18:42.610Z
       pulled_at: 2026-11-08T21:18:42.610Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: ashby
       source_note: ""
@@ -326,7 +326,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-08T21:18:42.610Z
       pulled_at: 2026-11-08T21:18:42.610Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -406,7 +406,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-07T21:02:17.615Z
       pulled_at: 2026-11-07T21:02:17.615Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -491,7 +491,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-07T21:02:17.615Z
       pulled_at: 2026-11-07T21:02:17.615Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -541,7 +541,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-07T21:02:17.615Z
       pulled_at: 2026-11-07T21:02:17.615Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -616,7 +616,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-07T21:02:17.615Z
       pulled_at: 2026-11-07T21:02:17.615Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -692,7 +692,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-07T21:02:17.615Z
       pulled_at: 2026-11-07T21:02:17.615Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -747,7 +747,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-07T21:02:17.615Z
       pulled_at: 2026-11-07T21:02:17.615Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: ashby
       source_note: ""
@@ -762,7 +762,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-07T21:02:17.615Z
       pulled_at: 2026-11-07T21:02:17.615Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -812,7 +812,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 3
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -887,7 +887,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 3
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -963,7 +963,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 3
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1018,7 +1018,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 3
+      stale_days: 5
       is_stale: false
     - source: ashby
       source_note: ""
@@ -1033,7 +1033,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 3
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1083,7 +1083,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 4
+      stale_days: 6
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1132,7 +1132,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 4
+      stale_days: 6
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1310,7 +1310,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 4
+      stale_days: 6
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1356,7 +1356,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 4
+      stale_days: 6
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1405,7 +1405,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 4
+      stale_days: 6
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1476,7 +1476,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 4
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1551,7 +1551,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 4
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1627,7 +1627,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 4
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1682,7 +1682,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 4
+      stale_days: 6
       is_stale: false
     - source: ashby
       source_note: ""
@@ -1697,7 +1697,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 4
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1747,7 +1747,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-01T21:19:59.194Z
       pulled_at: 2026-11-01T21:19:59.194Z
-      stale_days: 6
+      stale_days: 8
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1810,7 +1810,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-01T21:19:59.194Z
       pulled_at: 2026-11-01T21:19:59.194Z
-      stale_days: 6
+      stale_days: 8
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1885,7 +1885,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-01T21:19:59.194Z
       pulled_at: 2026-11-01T21:19:59.194Z
-      stale_days: 6
+      stale_days: 8
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1961,7 +1961,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-01T21:19:59.194Z
       pulled_at: 2026-11-01T21:19:59.194Z
-      stale_days: 6
+      stale_days: 8
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2016,7 +2016,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-01T21:19:59.194Z
       pulled_at: 2026-11-01T21:19:59.194Z
-      stale_days: 6
+      stale_days: 8
       is_stale: false
     - source: ashby
       source_note: ""
@@ -2031,7 +2031,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-11-01T21:19:59.194Z
       pulled_at: 2026-11-01T21:19:59.194Z
-      stale_days: 6
+      stale_days: 8
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2081,7 +2081,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2151,7 +2151,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2214,7 +2214,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2342,7 +2342,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2417,7 +2417,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2493,7 +2493,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2548,7 +2548,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: ashby
       source_note: ""
@@ -2563,7 +2563,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2613,7 +2613,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-30T21:40:03.606Z
       pulled_at: 2026-10-30T21:40:03.606Z
-      stale_days: 8
+      stale_days: 10
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2676,7 +2676,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-30T21:40:03.606Z
       pulled_at: 2026-10-30T21:40:03.606Z
-      stale_days: 8
+      stale_days: 10
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2754,7 +2754,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-30T21:40:03.606Z
       pulled_at: 2026-10-30T21:40:03.606Z
-      stale_days: 8
+      stale_days: 10
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2859,7 +2859,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-30T21:40:03.606Z
       pulled_at: 2026-10-30T21:40:03.606Z
-      stale_days: 8
+      stale_days: 10
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2934,7 +2934,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-30T21:40:03.606Z
       pulled_at: 2026-10-30T21:40:03.606Z
-      stale_days: 8
+      stale_days: 10
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3010,7 +3010,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-30T21:40:03.606Z
       pulled_at: 2026-10-30T21:40:03.606Z
-      stale_days: 8
+      stale_days: 10
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3065,7 +3065,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-30T21:40:03.606Z
       pulled_at: 2026-10-30T21:40:03.606Z
-      stale_days: 8
+      stale_days: 10
       is_stale: false
     - source: ashby
       source_note: ""
@@ -3080,7 +3080,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-30T21:40:03.606Z
       pulled_at: 2026-10-30T21:40:03.606Z
-      stale_days: 8
+      stale_days: 10
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3130,7 +3130,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 10
+      stale_days: 12
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3179,7 +3179,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 10
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3242,7 +3242,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 10
+      stale_days: 12
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3311,7 +3311,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 10
+      stale_days: 12
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3357,7 +3357,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 10
+      stale_days: 12
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3435,7 +3435,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 10
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3510,7 +3510,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 10
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3586,7 +3586,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 10
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3641,7 +3641,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 10
+      stale_days: 12
       is_stale: false
     - source: ashby
       source_note: ""
@@ -3656,7 +3656,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 10
+      stale_days: 12
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3705,7 +3705,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 10
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3752,7 +3752,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 12
+      stale_days: 14
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3815,7 +3815,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 12
+      stale_days: 14
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3890,7 +3890,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 12
+      stale_days: 14
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3966,7 +3966,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 12
+      stale_days: 14
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4021,7 +4021,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 12
+      stale_days: 14
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -4113,7 +4113,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 12
+      stale_days: 14
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4160,7 +4160,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4223,7 +4223,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4298,7 +4298,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4374,7 +4374,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4429,7 +4429,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4476,7 +4476,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4539,7 +4539,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -4661,7 +4661,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4736,7 +4736,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4812,7 +4812,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4867,7 +4867,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -4949,7 +4949,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -4996,7 +4996,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -5059,7 +5059,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -5134,7 +5134,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -5210,7 +5210,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -5265,7 +5265,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -5312,7 +5312,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-11T21:03:47.567Z
       pulled_at: 2026-10-11T21:03:47.567Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -5427,7 +5427,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-11T21:03:47.567Z
       pulled_at: 2026-10-11T21:03:47.567Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -5482,7 +5482,7 @@ buckets:
       bucket_id: marketing_general
       fetched_at: 2026-10-11T21:03:47.567Z
       pulled_at: 2026-10-11T21:03:47.567Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
   digital_marketing:
     - source: jobicy
@@ -5546,7 +5546,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-08T21:18:42.610Z
       pulled_at: 2026-11-08T21:18:42.610Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -5596,7 +5596,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-08T21:18:42.610Z
       pulled_at: 2026-11-08T21:18:42.610Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -5660,7 +5660,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-08T21:18:42.610Z
       pulled_at: 2026-11-08T21:18:42.610Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -5711,7 +5711,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-08T21:18:42.610Z
       pulled_at: 2026-11-08T21:18:42.610Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -5760,7 +5760,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-08T21:18:42.610Z
       pulled_at: 2026-11-08T21:18:42.610Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -5799,7 +5799,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-08T21:18:42.610Z
       pulled_at: 2026-11-08T21:18:42.610Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -5817,7 +5817,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-08T21:18:42.610Z
       pulled_at: 2026-11-08T21:18:42.610Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -5872,7 +5872,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-08T21:18:42.610Z
       pulled_at: 2026-11-08T21:18:42.610Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: ashby
       source_note: ""
@@ -5887,7 +5887,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-08T21:18:42.610Z
       pulled_at: 2026-11-08T21:18:42.610Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -5941,7 +5941,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-08T21:18:42.610Z
       pulled_at: 2026-11-08T21:18:42.610Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: ashby
       source_note: ""
@@ -5956,7 +5956,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-08T21:18:42.610Z
       pulled_at: 2026-11-08T21:18:42.610Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: ashby
       source_note: ""
@@ -5971,7 +5971,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-08T21:18:42.610Z
       pulled_at: 2026-11-08T21:18:42.610Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: ashby
       source_note: ""
@@ -5986,7 +5986,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-08T21:18:42.610Z
       pulled_at: 2026-11-08T21:18:42.610Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: ashby
       source_note: ""
@@ -6001,7 +6001,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-08T21:18:42.610Z
       pulled_at: 2026-11-08T21:18:42.610Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: ashby
       source_note: ""
@@ -6016,7 +6016,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-08T21:18:42.610Z
       pulled_at: 2026-11-08T21:18:42.610Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: ashby
       source_note: ""
@@ -6031,7 +6031,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-08T21:18:42.610Z
       pulled_at: 2026-11-08T21:18:42.610Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: ashby
       source_note: ""
@@ -6046,7 +6046,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-08T21:18:42.610Z
       pulled_at: 2026-11-08T21:18:42.610Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: ashby
       source_note: ""
@@ -6061,7 +6061,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-08T21:18:42.610Z
       pulled_at: 2026-11-08T21:18:42.610Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -6111,7 +6111,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-07T21:02:17.615Z
       pulled_at: 2026-11-07T21:02:17.615Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -6175,7 +6175,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-07T21:02:17.615Z
       pulled_at: 2026-11-07T21:02:17.615Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -6224,7 +6224,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-07T21:02:17.615Z
       pulled_at: 2026-11-07T21:02:17.615Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -6315,7 +6315,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-07T21:02:17.615Z
       pulled_at: 2026-11-07T21:02:17.615Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -6354,7 +6354,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-07T21:02:17.615Z
       pulled_at: 2026-11-07T21:02:17.615Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -6372,7 +6372,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-07T21:02:17.615Z
       pulled_at: 2026-11-07T21:02:17.615Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -6427,7 +6427,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-07T21:02:17.615Z
       pulled_at: 2026-11-07T21:02:17.615Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: ashby
       source_note: ""
@@ -6442,7 +6442,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-07T21:02:17.615Z
       pulled_at: 2026-11-07T21:02:17.615Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -6496,7 +6496,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-07T21:02:17.615Z
       pulled_at: 2026-11-07T21:02:17.615Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: ashby
       source_note: ""
@@ -6511,7 +6511,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-07T21:02:17.615Z
       pulled_at: 2026-11-07T21:02:17.615Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: ashby
       source_note: ""
@@ -6526,7 +6526,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-07T21:02:17.615Z
       pulled_at: 2026-11-07T21:02:17.615Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: ashby
       source_note: ""
@@ -6541,7 +6541,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-07T21:02:17.615Z
       pulled_at: 2026-11-07T21:02:17.615Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: ashby
       source_note: ""
@@ -6556,7 +6556,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-07T21:02:17.615Z
       pulled_at: 2026-11-07T21:02:17.615Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: ashby
       source_note: ""
@@ -6571,7 +6571,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-07T21:02:17.615Z
       pulled_at: 2026-11-07T21:02:17.615Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: ashby
       source_note: ""
@@ -6586,7 +6586,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-07T21:02:17.615Z
       pulled_at: 2026-11-07T21:02:17.615Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: ashby
       source_note: ""
@@ -6601,7 +6601,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-07T21:02:17.615Z
       pulled_at: 2026-11-07T21:02:17.615Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: ashby
       source_note: ""
@@ -6616,7 +6616,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-07T21:02:17.615Z
       pulled_at: 2026-11-07T21:02:17.615Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -6831,7 +6831,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 3
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -6881,7 +6881,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 3
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -6945,7 +6945,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 3
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -6994,7 +6994,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 3
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -7033,7 +7033,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 3
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -7051,7 +7051,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 3
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -7106,7 +7106,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 3
+      stale_days: 5
       is_stale: false
     - source: ashby
       source_note: ""
@@ -7121,7 +7121,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 3
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -7175,7 +7175,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 3
+      stale_days: 5
       is_stale: false
     - source: ashby
       source_note: ""
@@ -7190,7 +7190,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 3
+      stale_days: 5
       is_stale: false
     - source: ashby
       source_note: ""
@@ -7205,7 +7205,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 3
+      stale_days: 5
       is_stale: false
     - source: ashby
       source_note: ""
@@ -7220,7 +7220,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 3
+      stale_days: 5
       is_stale: false
     - source: ashby
       source_note: ""
@@ -7235,7 +7235,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 3
+      stale_days: 5
       is_stale: false
     - source: ashby
       source_note: ""
@@ -7250,7 +7250,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 3
+      stale_days: 5
       is_stale: false
     - source: ashby
       source_note: ""
@@ -7265,7 +7265,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 3
+      stale_days: 5
       is_stale: false
     - source: ashby
       source_note: ""
@@ -7280,7 +7280,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 3
+      stale_days: 5
       is_stale: false
     - source: ashby
       source_note: ""
@@ -7295,7 +7295,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 3
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -7345,7 +7345,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 4
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -7409,7 +7409,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 4
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -7458,7 +7458,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 4
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -7497,7 +7497,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 4
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -7515,7 +7515,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 4
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -7570,7 +7570,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 4
+      stale_days: 6
       is_stale: false
     - source: ashby
       source_note: ""
@@ -7585,7 +7585,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 4
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -7639,7 +7639,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 4
+      stale_days: 6
       is_stale: false
     - source: ashby
       source_note: ""
@@ -7654,7 +7654,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 4
+      stale_days: 6
       is_stale: false
     - source: ashby
       source_note: ""
@@ -7669,7 +7669,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 4
+      stale_days: 6
       is_stale: false
     - source: ashby
       source_note: ""
@@ -7684,7 +7684,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 4
+      stale_days: 6
       is_stale: false
     - source: ashby
       source_note: ""
@@ -7699,7 +7699,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 4
+      stale_days: 6
       is_stale: false
     - source: ashby
       source_note: ""
@@ -7714,7 +7714,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 4
+      stale_days: 6
       is_stale: false
     - source: ashby
       source_note: ""
@@ -7729,7 +7729,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 4
+      stale_days: 6
       is_stale: false
     - source: ashby
       source_note: ""
@@ -7744,7 +7744,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 4
+      stale_days: 6
       is_stale: false
     - source: ashby
       source_note: ""
@@ -7759,7 +7759,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 4
+      stale_days: 6
       is_stale: false
     - source: ashby
       source_note: ""
@@ -7774,7 +7774,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 4
+      stale_days: 6
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -7933,7 +7933,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-01T21:19:59.194Z
       pulled_at: 2026-11-01T21:19:59.194Z
-      stale_days: 6
+      stale_days: 8
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -7983,7 +7983,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-01T21:19:59.194Z
       pulled_at: 2026-11-01T21:19:59.194Z
-      stale_days: 6
+      stale_days: 8
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -8047,7 +8047,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-01T21:19:59.194Z
       pulled_at: 2026-11-01T21:19:59.194Z
-      stale_days: 6
+      stale_days: 8
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -8096,7 +8096,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-01T21:19:59.194Z
       pulled_at: 2026-11-01T21:19:59.194Z
-      stale_days: 6
+      stale_days: 8
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -8135,7 +8135,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-01T21:19:59.194Z
       pulled_at: 2026-11-01T21:19:59.194Z
-      stale_days: 6
+      stale_days: 8
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -8153,7 +8153,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-01T21:19:59.194Z
       pulled_at: 2026-11-01T21:19:59.194Z
-      stale_days: 6
+      stale_days: 8
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -8208,7 +8208,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-01T21:19:59.194Z
       pulled_at: 2026-11-01T21:19:59.194Z
-      stale_days: 6
+      stale_days: 8
       is_stale: false
     - source: ashby
       source_note: ""
@@ -8223,7 +8223,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-01T21:19:59.194Z
       pulled_at: 2026-11-01T21:19:59.194Z
-      stale_days: 6
+      stale_days: 8
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -8277,7 +8277,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-01T21:19:59.194Z
       pulled_at: 2026-11-01T21:19:59.194Z
-      stale_days: 6
+      stale_days: 8
       is_stale: false
     - source: ashby
       source_note: ""
@@ -8292,7 +8292,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-01T21:19:59.194Z
       pulled_at: 2026-11-01T21:19:59.194Z
-      stale_days: 6
+      stale_days: 8
       is_stale: false
     - source: ashby
       source_note: ""
@@ -8307,7 +8307,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-01T21:19:59.194Z
       pulled_at: 2026-11-01T21:19:59.194Z
-      stale_days: 6
+      stale_days: 8
       is_stale: false
     - source: ashby
       source_note: ""
@@ -8322,7 +8322,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-01T21:19:59.194Z
       pulled_at: 2026-11-01T21:19:59.194Z
-      stale_days: 6
+      stale_days: 8
       is_stale: false
     - source: ashby
       source_note: ""
@@ -8337,7 +8337,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-01T21:19:59.194Z
       pulled_at: 2026-11-01T21:19:59.194Z
-      stale_days: 6
+      stale_days: 8
       is_stale: false
     - source: ashby
       source_note: ""
@@ -8352,7 +8352,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-01T21:19:59.194Z
       pulled_at: 2026-11-01T21:19:59.194Z
-      stale_days: 6
+      stale_days: 8
       is_stale: false
     - source: ashby
       source_note: ""
@@ -8367,7 +8367,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-01T21:19:59.194Z
       pulled_at: 2026-11-01T21:19:59.194Z
-      stale_days: 6
+      stale_days: 8
       is_stale: false
     - source: ashby
       source_note: ""
@@ -8382,7 +8382,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-01T21:19:59.194Z
       pulled_at: 2026-11-01T21:19:59.194Z
-      stale_days: 6
+      stale_days: 8
       is_stale: false
     - source: ashby
       source_note: ""
@@ -8397,7 +8397,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-01T21:19:59.194Z
       pulled_at: 2026-11-01T21:19:59.194Z
-      stale_days: 6
+      stale_days: 8
       is_stale: false
     - source: ashby
       source_note: ""
@@ -8412,7 +8412,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-11-01T21:19:59.194Z
       pulled_at: 2026-11-01T21:19:59.194Z
-      stale_days: 6
+      stale_days: 8
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -8462,7 +8462,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -8526,7 +8526,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -8575,7 +8575,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -8614,7 +8614,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -8632,7 +8632,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -8687,7 +8687,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: ashby
       source_note: ""
@@ -8702,7 +8702,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -8756,7 +8756,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: ashby
       source_note: ""
@@ -8771,7 +8771,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: ashby
       source_note: ""
@@ -8786,7 +8786,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: ashby
       source_note: ""
@@ -8801,7 +8801,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: ashby
       source_note: ""
@@ -8816,7 +8816,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: ashby
       source_note: ""
@@ -8831,7 +8831,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: ashby
       source_note: ""
@@ -8846,7 +8846,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: ashby
       source_note: ""
@@ -8861,7 +8861,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: ashby
       source_note: ""
@@ -8876,7 +8876,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: ashby
       source_note: ""
@@ -8891,7 +8891,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -8941,7 +8941,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-30T21:40:03.606Z
       pulled_at: 2026-10-30T21:40:03.606Z
-      stale_days: 8
+      stale_days: 10
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -9005,7 +9005,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-30T21:40:03.606Z
       pulled_at: 2026-10-30T21:40:03.606Z
-      stale_days: 8
+      stale_days: 10
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -9054,7 +9054,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-30T21:40:03.606Z
       pulled_at: 2026-10-30T21:40:03.606Z
-      stale_days: 8
+      stale_days: 10
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -9130,7 +9130,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-30T21:40:03.606Z
       pulled_at: 2026-10-30T21:40:03.606Z
-      stale_days: 8
+      stale_days: 10
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -9169,7 +9169,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-30T21:40:03.606Z
       pulled_at: 2026-10-30T21:40:03.606Z
-      stale_days: 8
+      stale_days: 10
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -9187,7 +9187,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-30T21:40:03.606Z
       pulled_at: 2026-10-30T21:40:03.606Z
-      stale_days: 8
+      stale_days: 10
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -9242,7 +9242,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-30T21:40:03.606Z
       pulled_at: 2026-10-30T21:40:03.606Z
-      stale_days: 8
+      stale_days: 10
       is_stale: false
     - source: ashby
       source_note: ""
@@ -9257,7 +9257,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-30T21:40:03.606Z
       pulled_at: 2026-10-30T21:40:03.606Z
-      stale_days: 8
+      stale_days: 10
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -9311,7 +9311,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-30T21:40:03.606Z
       pulled_at: 2026-10-30T21:40:03.606Z
-      stale_days: 8
+      stale_days: 10
       is_stale: false
     - source: ashby
       source_note: ""
@@ -9326,7 +9326,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-30T21:40:03.606Z
       pulled_at: 2026-10-30T21:40:03.606Z
-      stale_days: 8
+      stale_days: 10
       is_stale: false
     - source: ashby
       source_note: ""
@@ -9341,7 +9341,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-30T21:40:03.606Z
       pulled_at: 2026-10-30T21:40:03.606Z
-      stale_days: 8
+      stale_days: 10
       is_stale: false
     - source: ashby
       source_note: ""
@@ -9356,7 +9356,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-30T21:40:03.606Z
       pulled_at: 2026-10-30T21:40:03.606Z
-      stale_days: 8
+      stale_days: 10
       is_stale: false
     - source: ashby
       source_note: ""
@@ -9371,7 +9371,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-30T21:40:03.606Z
       pulled_at: 2026-10-30T21:40:03.606Z
-      stale_days: 8
+      stale_days: 10
       is_stale: false
     - source: ashby
       source_note: ""
@@ -9386,7 +9386,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-30T21:40:03.606Z
       pulled_at: 2026-10-30T21:40:03.606Z
-      stale_days: 8
+      stale_days: 10
       is_stale: false
     - source: ashby
       source_note: ""
@@ -9401,7 +9401,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-30T21:40:03.606Z
       pulled_at: 2026-10-30T21:40:03.606Z
-      stale_days: 8
+      stale_days: 10
       is_stale: false
     - source: ashby
       source_note: ""
@@ -9416,7 +9416,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-30T21:40:03.606Z
       pulled_at: 2026-10-30T21:40:03.606Z
-      stale_days: 8
+      stale_days: 10
       is_stale: false
     - source: ashby
       source_note: ""
@@ -9431,7 +9431,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-30T21:40:03.606Z
       pulled_at: 2026-10-30T21:40:03.606Z
-      stale_days: 8
+      stale_days: 10
       is_stale: false
     - source: ashby
       source_note: ""
@@ -9446,7 +9446,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-30T21:40:03.606Z
       pulled_at: 2026-10-30T21:40:03.606Z
-      stale_days: 8
+      stale_days: 10
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -9582,7 +9582,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 10
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -9632,7 +9632,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 10
+      stale_days: 12
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -9699,7 +9699,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 10
+      stale_days: 12
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -9802,7 +9802,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 10
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -9851,7 +9851,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 10
+      stale_days: 12
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -9927,7 +9927,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 10
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -9966,7 +9966,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 10
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -9984,7 +9984,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 10
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -10039,7 +10039,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 10
+      stale_days: 12
       is_stale: false
     - source: ashby
       source_note: ""
@@ -10054,7 +10054,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 10
+      stale_days: 12
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -10184,7 +10184,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 10
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -10238,7 +10238,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 10
+      stale_days: 12
       is_stale: false
     - source: ashby
       source_note: ""
@@ -10253,7 +10253,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 10
+      stale_days: 12
       is_stale: false
     - source: ashby
       source_note: ""
@@ -10268,7 +10268,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 10
+      stale_days: 12
       is_stale: false
     - source: ashby
       source_note: ""
@@ -10283,7 +10283,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 10
+      stale_days: 12
       is_stale: false
     - source: ashby
       source_note: ""
@@ -10298,7 +10298,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 10
+      stale_days: 12
       is_stale: false
     - source: ashby
       source_note: ""
@@ -10313,7 +10313,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 10
+      stale_days: 12
       is_stale: false
     - source: ashby
       source_note: ""
@@ -10328,7 +10328,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 10
+      stale_days: 12
       is_stale: false
     - source: ashby
       source_note: ""
@@ -10343,7 +10343,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 10
+      stale_days: 12
       is_stale: false
     - source: ashby
       source_note: ""
@@ -10358,7 +10358,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 10
+      stale_days: 12
       is_stale: false
     - source: ashby
       source_note: ""
@@ -10373,7 +10373,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 10
+      stale_days: 12
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -10509,7 +10509,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 12
+      stale_days: 14
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -10553,7 +10553,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 12
+      stale_days: 14
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -10600,7 +10600,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 12
+      stale_days: 14
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -10681,7 +10681,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 12
+      stale_days: 14
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -10730,7 +10730,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 12
+      stale_days: 14
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -10785,7 +10785,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 12
+      stale_days: 14
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -10873,7 +10873,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 12
+      stale_days: 14
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -10927,7 +10927,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 12
+      stale_days: 14
       is_stale: false
     - source: ashby
       source_note: ""
@@ -10942,7 +10942,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 12
+      stale_days: 14
       is_stale: false
     - source: ashby
       source_note: ""
@@ -10957,7 +10957,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 12
+      stale_days: 14
       is_stale: false
     - source: ashby
       source_note: ""
@@ -10972,7 +10972,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 12
+      stale_days: 14
       is_stale: false
     - source: ashby
       source_note: ""
@@ -10987,7 +10987,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 12
+      stale_days: 14
       is_stale: false
     - source: ashby
       source_note: ""
@@ -11002,7 +11002,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 12
+      stale_days: 14
       is_stale: false
     - source: ashby
       source_note: ""
@@ -11017,7 +11017,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 12
+      stale_days: 14
       is_stale: false
     - source: ashby
       source_note: ""
@@ -11032,7 +11032,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 12
+      stale_days: 14
       is_stale: false
     - source: ashby
       source_note: ""
@@ -11047,7 +11047,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 12
+      stale_days: 14
       is_stale: false
     - source: ashby
       source_note: ""
@@ -11062,7 +11062,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 12
+      stale_days: 14
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -11106,7 +11106,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -11153,7 +11153,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -11202,7 +11202,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -11257,7 +11257,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -11311,7 +11311,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: ashby
       source_note: ""
@@ -11326,7 +11326,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: ashby
       source_note: ""
@@ -11341,7 +11341,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: ashby
       source_note: ""
@@ -11356,7 +11356,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: ashby
       source_note: ""
@@ -11371,7 +11371,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: ashby
       source_note: ""
@@ -11386,7 +11386,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: ashby
       source_note: ""
@@ -11401,7 +11401,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -11445,7 +11445,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -11492,7 +11492,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -11642,7 +11642,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -11691,7 +11691,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -11746,7 +11746,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -11800,7 +11800,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: ashby
       source_note: ""
@@ -11815,7 +11815,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: ashby
       source_note: ""
@@ -11830,7 +11830,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: ashby
       source_note: ""
@@ -11845,7 +11845,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: ashby
       source_note: ""
@@ -11860,7 +11860,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: ashby
       source_note: ""
@@ -11875,7 +11875,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: ashby
       source_note: ""
@@ -11890,7 +11890,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: ashby
       source_note: ""
@@ -11905,7 +11905,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -11949,7 +11949,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -11996,7 +11996,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -12045,7 +12045,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -12100,7 +12100,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -12154,7 +12154,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: ashby
       source_note: ""
@@ -12169,7 +12169,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: ashby
       source_note: ""
@@ -12184,7 +12184,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: ashby
       source_note: ""
@@ -12199,7 +12199,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: ashby
       source_note: ""
@@ -12214,7 +12214,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: ashby
       source_note: ""
@@ -12229,7 +12229,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: ashby
       source_note: ""
@@ -12244,7 +12244,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -12288,7 +12288,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-11T21:03:47.567Z
       pulled_at: 2026-10-11T21:03:47.567Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -12335,7 +12335,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-11T21:03:47.567Z
       pulled_at: 2026-10-11T21:03:47.567Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -12447,7 +12447,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-11T21:03:47.567Z
       pulled_at: 2026-10-11T21:03:47.567Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -12569,7 +12569,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-11T21:03:47.567Z
       pulled_at: 2026-10-11T21:03:47.567Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -12618,7 +12618,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-11T21:03:47.567Z
       pulled_at: 2026-10-11T21:03:47.567Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -12673,7 +12673,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-11T21:03:47.567Z
       pulled_at: 2026-10-11T21:03:47.567Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: ashby
       source_note: ""
@@ -12688,7 +12688,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-11T21:03:47.567Z
       pulled_at: 2026-10-11T21:03:47.567Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: ashby
       source_note: ""
@@ -12703,7 +12703,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-11T21:03:47.567Z
       pulled_at: 2026-10-11T21:03:47.567Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: ashby
       source_note: ""
@@ -12718,7 +12718,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-11T21:03:47.567Z
       pulled_at: 2026-10-11T21:03:47.567Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: ashby
       source_note: ""
@@ -12733,7 +12733,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-11T21:03:47.567Z
       pulled_at: 2026-10-11T21:03:47.567Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: ashby
       source_note: ""
@@ -12748,7 +12748,7 @@ buckets:
       bucket_id: digital_marketing
       fetched_at: 2026-10-11T21:03:47.567Z
       pulled_at: 2026-10-11T21:03:47.567Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
   video_editing:
     - source: greenhouse
@@ -12828,7 +12828,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-11-08T21:18:42.610Z
       pulled_at: 2026-11-08T21:18:42.610Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -12907,7 +12907,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-11-07T21:02:17.615Z
       pulled_at: 2026-11-07T21:02:17.615Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -12986,7 +12986,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 3
+      stale_days: 5
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -13043,7 +13043,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-11-04T22:45:49.639Z
       pulled_at: 2026-11-04T22:45:49.639Z
-      stale_days: 3
+      stale_days: 5
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -13122,7 +13122,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-11-03T22:27:07.759Z
       pulled_at: 2026-11-03T22:27:07.759Z
-      stale_days: 4
+      stale_days: 6
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -13201,7 +13201,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-11-01T21:19:59.194Z
       pulled_at: 2026-11-01T21:19:59.194Z
-      stale_days: 6
+      stale_days: 8
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -13372,7 +13372,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-11-01T21:19:59.194Z
       pulled_at: 2026-11-01T21:19:59.194Z
-      stale_days: 6
+      stale_days: 8
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -13451,7 +13451,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-10-31T20:33:54.046Z
       pulled_at: 2026-10-31T20:33:54.046Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -13530,7 +13530,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-10-30T21:40:03.606Z
       pulled_at: 2026-10-30T21:40:03.606Z
-      stale_days: 8
+      stale_days: 10
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -13609,7 +13609,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 10
+      stale_days: 12
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -13652,7 +13652,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-10-28T21:49:24.706Z
       pulled_at: 2026-10-28T21:49:24.706Z
-      stale_days: 10
+      stale_days: 12
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -13731,7 +13731,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 12
+      stale_days: 14
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -13820,7 +13820,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-10-26T21:45:35.255Z
       pulled_at: 2026-10-26T21:45:35.255Z
-      stale_days: 12
+      stale_days: 14
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -13899,7 +13899,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-10-25T19:50:56.807Z
       pulled_at: 2026-10-25T19:50:56.807Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -13978,7 +13978,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-10-24T19:38:21.560Z
       pulled_at: 2026-10-24T19:38:21.560Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -14057,7 +14057,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-10-23T20:34:40.811Z
       pulled_at: 2026-10-23T20:34:40.811Z
-      stale_days: 16
+      stale_days: 17
       is_stale: false
     - source: greenhouse
       source_note: ""
@@ -14136,7 +14136,7 @@ buckets:
       bucket_id: video_editing
       fetched_at: 2026-10-11T21:03:47.567Z
       pulled_at: 2026-10-11T21:03:47.567Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
 archive:
   marketing_general: []
@@ -14153,7 +14153,7 @@ meta:
     smartrecruiters_companies: 40
     teamtailor_companies: 0
     recruitee_companies: 87
-    ashby_organizations: 480
+    ashby_organizations: 484
     stepstone_feeds: 0
     arbeitnow: 1
     remotive: 1
@@ -14174,5 +14174,5 @@ meta:
     digital_marketing: 0
     video_editing: 0
   timings_ms:
-    fetch: 209200
-    total: 235922
+    fetch: 240006
+    total: 240288
