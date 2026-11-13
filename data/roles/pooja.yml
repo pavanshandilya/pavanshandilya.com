@@ -1,9 +1,133 @@
 schema_version: roles.v1
 profile_id: pooja
 profile_name: Pooja - product/scrum now, EM later
-generated_at: 2026-11-12T22:54:53.093Z
+generated_at: 2026-11-13T22:49:46.346Z
 buckets:
   pm_product:
+    - source: arbeitnow
+      source_note: ""
+      company: Soda Data Nv
+      title: Senior Growth Product Manager
+      location: Berlin, Germany
+      url: https://www.arbeitnow.com/jobs/companies/soda-data-nv/remote-senior-growth-product-manager-berlin-242902
+      updated_at: 1794604810
+      description: "Data quality is the bottleneck of the AI era. Every Fortune 500 is
+        trying to solve it. We're the team they call. Soda is the data quality
+        layer for Disney, Ralph Lauren, CBRE, HelloFresh, 2K Games, and Nubank.
+        Our open-source engine, Soda Core, is used by companies like Tesla,
+        Slack, Adyen, Walmart, and JPMC. The category is growing fast because AI
+        doesn't work on bad data, and we're hiring a Senior Growth Product
+        Manager to get customers using Soda faster and on more of their data.
+        About Us Soda's mission is to monitor the world's decisions. We're
+        building the first Data &amp; AI performance monitoring platform that
+        spans data collection to automated decision-making. Soda helps customers
+        find, understand, and fix data quality issues by combining automated
+        post-production monitoring with pre-production pipeline data testing.
+        Soda was founded in 2019 by Maarten (employee #5 at Collibra) and Tom
+        (creator of multiple open-source projects generating hundreds of
+        millions in value). We commercialize through Soda Cloud and we're
+        well-funded, with investors like Point 9 Capital, Hummingbird, Singular,
+        and Eurazeo. The Role You'll lead our adoption team, a small group of
+        frontend, full-stack, and AI engineers. The team works on onboarding and
+        activation, on keeping workflows coherent across the product, on
+        customer-facing dashboards, and on AI features that save users work.
+        Most of our roadmap is driven by what customers and prospects ask for.
+        This team's work is driven by adoption metrics, because customers rarely
+        ask for the things that would make them use Soda more. You'll start from
+        a hypothesis, for example that changing a flow will get 20% more data
+        contracts created, ship the change, and check whether it worked. We sell
+        to enterprises, so sample sizes are small and A/B tests rarely reach
+        significance. You'll use product analytics, session replays, and
+        conversations with users, and you'll often have to decide with
+        incomplete data. This is a product role. If most of your growth
+        experience is in paid acquisition or lifecycle email, it's probably the
+        wrong fit. You'll also work closely with our Growth team, which is led
+        by a co-founder, on launches and messaging. What You'll Do Own the
+        adoption metrics for Soda Cloud: time to first verified contract for new
+        accounts, data coverage (datasets with contracts and monitors), weekly
+        active datasets and users, and usage of AI features. You'll define them,
+        make sure we can measure them, and improve them. Own the UX of workflows
+        across the product and keep them coherent for our two kinds of users:
+        data engineers, and business users such as data stewards and governance
+        leads. Find where customers get stuck between signing the contract and
+        running Soda on most of their data, and decide what to fix first. Design
+        and ship onboarding flows that get a new team to first value within
+        days, including self-serve paths for technical teams that want to
+        evaluate Soda on their own. Put AI to work on adoption: decide which
+        steps an agent should do for the user, ship them with the team, and
+        measure whether people keep using them. Work with Growth on launches and
+        product marketing, and with our customer engineers on whatever is
+        blocking rollouts at customers. Hiring Process Application: your CV,
+        plus a short answer about one metric you moved (what it was, what you
+        shipped, what happened, and what didn't work) 15-minute phone screen
+        First interview (60 min): a deep dive into product growth work you've
+        done. Part of it is showing us something you shipped that you'd still be
+        proud to demo. Second interview (60 min): a working session on a real
+        Soda adoption problem Culture fit (45 min) We answer every application,
+        and every candidate hears back within 3–5 days of each step. If it's not
+        a hell yes, it's a no, and we'll tell you quickly and kindly.
+        Requirements You Should Have 5+ years in product, including at least 2
+        owning growth, activation, onboarding, or adoption in B2B SaaS : you
+        were accountable for a metric for long enough to see whether your
+        changes worked. In your application, tell us which metric it was, where
+        it started and where it ended, what you shipped, and what didn't work.
+        Product craft and taste : you love software and have used a lot of it
+        yourself, so you know what a good product feels like. You keep scope
+        small, work in short cycles with engineers and designers, run your own
+        customer calls, and have well-reasoned opinions about UX. An AI-native
+        way of working and building : you've shipped an AI-powered feature and
+        measured whether people use it, you prototype with coding agents (Claude
+        Code, Codex, etc.), and you're happy to open a small PR yourself for
+        something like a copy change. You do your own analysis : you write SQL,
+        build funnels yourself, and know when a sample is too small to conclude
+        anything. Experience with technical products : you've built for
+        engineers or data teams and are comfortable talking about pipelines,
+        warehouses, and APIs. Clear writing and comfort working async : we're a
+        distributed team across 12+ countries, and most decisions happen in
+        writing, in English. The five years don't all have to be in a PM role.
+        If you were a product engineer or a founder and owned a growth metric,
+        please apply. Good to Have Data quality, data observability, data
+        governance, or data infrastructure experience. Experience with
+        product-led growth at a company that also sells to enterprises.
+        Experience with Shape Up or another fixed-time, variable-scope way of
+        working. Benefits What We Offer Compensation €120,000–140,000/year +
+        equity. Outside Belgium, this is a contractor position. Fully remote
+        (EU-based), with a Belgian office available if you want one. In-person
+        kickoffs every two months in cool locations across Europe, three days
+        with the whole product and engineering team. All the tokens you need,
+        across all frontier models. Real ownership, real impact, no
+        micromanagement. A senior team that ships, across 12+ countries. Our
+        Values We value freedom with responsibility, transparency, and a growth
+        mindset. We avoid politics, have no tolerance for dishonesty, and value
+        open and direct communication without judgment. We proactively bring up
+        and address potential issues before they become critical, and we
+        overcommunicate frequently. Working at Soda, you will have full autonomy
+        to make impactful product and roadmap decisions. ❤️ Why you will love to
+        join Soda You own the adoption metrics : you decide how we measure
+        adoption and what we do to improve it. Lots of room to improve : we
+        already have enterprise customers and usage data, and we've done very
+        little growth work so far. Your own engineering team : you'll work with
+        dedicated engineers who build agentically, so your ideas get shipped
+        quickly. Be part of a transformation : data quality is having its
+        moment, and we're at the front of it. Work on your own terms : fully
+        remote, flexible hours, colleagues in 12+ countries. 😡 What you might
+        not love Rapidly changing priorities : our roadmap can pivot quickly.
+        It's a fast-paced environment with a LOT of work to be done. Small
+        numbers : we have relatively few accounts and feedback is slow. If
+        you're used to deciding from consumer-scale data, you may find that
+        frustrating. No playbook : this is the first dedicated growth PM role at
+        Soda. Find more English Speaking Jobs in Germany on Arbeitnow"
+      job_types:
+        - Full time
+        - mid-senior
+      remote: true
+      score: 74
+      skill_hits: 1
+      bucket_id: pm_product
+      fetched_at: 2026-11-13T22:49:46.346Z
+      pulled_at: 2026-11-13T22:49:46.346Z
+      stale_days: 0
+      is_stale: false
     - source: arbeitnow
       source_note: ""
       company: Peoplecert
@@ -122,7 +246,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-11T23:38:08.449Z
       pulled_at: 2026-11-11T23:38:08.449Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -193,7 +317,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-10T22:31:46.334Z
       pulled_at: 2026-11-10T22:31:46.334Z
-      stale_days: 2
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -241,7 +365,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-07T21:05:28.683Z
       pulled_at: 2026-11-07T21:05:28.683Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -275,7 +399,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-07T21:05:28.683Z
       pulled_at: 2026-11-07T21:05:28.683Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -318,7 +442,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-07T21:05:28.683Z
       pulled_at: 2026-11-07T21:05:28.683Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -339,7 +463,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-07T21:05:28.683Z
       pulled_at: 2026-11-07T21:05:28.683Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -387,7 +511,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-04T22:49:21.707Z
       pulled_at: 2026-11-04T22:49:21.707Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -421,7 +545,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-04T22:49:21.707Z
       pulled_at: 2026-11-04T22:49:21.707Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -464,7 +588,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-04T22:49:21.707Z
       pulled_at: 2026-11-04T22:49:21.707Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -652,7 +776,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-04T22:49:21.707Z
       pulled_at: 2026-11-04T22:49:21.707Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -673,7 +797,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-04T22:49:21.707Z
       pulled_at: 2026-11-04T22:49:21.707Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -721,7 +845,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-03T22:30:09.130Z
       pulled_at: 2026-11-03T22:30:09.130Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -755,7 +879,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-03T22:30:09.130Z
       pulled_at: 2026-11-03T22:30:09.130Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -798,7 +922,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-03T22:30:09.130Z
       pulled_at: 2026-11-03T22:30:09.130Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -946,7 +1070,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-03T22:30:09.130Z
       pulled_at: 2026-11-03T22:30:09.130Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -967,7 +1091,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-03T22:30:09.130Z
       pulled_at: 2026-11-03T22:30:09.130Z
-      stale_days: 9
+      stale_days: 10
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1175,7 +1299,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-01T21:23:26.114Z
       pulled_at: 2026-11-01T21:23:26.114Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1383,7 +1507,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-01T21:23:26.114Z
       pulled_at: 2026-11-01T21:23:26.114Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1475,7 +1599,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-01T21:23:26.114Z
       pulled_at: 2026-11-01T21:23:26.114Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1659,7 +1783,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-01T21:23:26.114Z
       pulled_at: 2026-11-01T21:23:26.114Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1718,7 +1842,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-31T20:36:52.691Z
       pulled_at: 2026-10-31T20:36:52.691Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1823,7 +1947,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-31T20:36:52.691Z
       pulled_at: 2026-10-31T20:36:52.691Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1844,7 +1968,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-31T20:36:52.691Z
       pulled_at: 2026-10-31T20:36:52.691Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2137,7 +2261,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-30T21:43:02.097Z
       pulled_at: 2026-10-30T21:43:02.097Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2196,7 +2320,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-30T21:43:02.097Z
       pulled_at: 2026-10-30T21:43:02.097Z
-      stale_days: 13
+      stale_days: 14
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2244,7 +2368,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-29T22:01:06.957Z
       pulled_at: 2026-10-29T22:01:06.957Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2278,7 +2402,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-29T22:01:06.957Z
       pulled_at: 2026-10-29T22:01:06.957Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2411,7 +2535,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-29T22:01:06.957Z
       pulled_at: 2026-10-29T22:01:06.957Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2454,7 +2578,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-29T22:01:06.957Z
       pulled_at: 2026-10-29T22:01:06.957Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2729,7 +2853,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-29T22:01:06.957Z
       pulled_at: 2026-10-29T22:01:06.957Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2750,7 +2874,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-29T22:01:06.957Z
       pulled_at: 2026-10-29T22:01:06.957Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2798,7 +2922,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-28T21:52:48.367Z
       pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2832,7 +2956,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-28T21:52:48.367Z
       pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2875,7 +2999,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-28T21:52:48.367Z
       pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2934,7 +3058,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-28T21:52:48.367Z
       pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2955,7 +3079,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-28T21:52:48.367Z
       pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3003,7 +3127,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3037,7 +3161,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3080,7 +3204,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3170,7 +3294,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3260,7 +3384,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3281,7 +3405,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3368,7 +3492,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3416,8 +3540,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-23T20:37:43.569Z
       pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: TransPerfect
@@ -3450,8 +3574,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-23T20:37:43.569Z
       pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: TransPerfect
@@ -3493,8 +3617,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-23T20:37:43.569Z
       pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: Consultport
@@ -3514,8 +3638,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-23T20:37:43.569Z
       pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: arbeitnow
       source_note: ""
       company: Quantumdiamonds
@@ -3627,8 +3751,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-23T20:37:43.569Z
       pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: TransPerfect
@@ -3675,7 +3799,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-21T20:51:32.768Z
       pulled_at: 2026-10-21T20:51:32.768Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3709,7 +3833,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-21T20:51:32.768Z
       pulled_at: 2026-10-21T20:51:32.768Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -3871,7 +3995,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-21T20:51:32.768Z
       pulled_at: 2026-10-21T20:51:32.768Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3914,7 +4038,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-21T20:51:32.768Z
       pulled_at: 2026-10-21T20:51:32.768Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3935,7 +4059,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-21T20:51:32.768Z
       pulled_at: 2026-10-21T20:51:32.768Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3983,7 +4107,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4017,7 +4141,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4060,7 +4184,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -4129,7 +4253,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -4200,7 +4324,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -4271,7 +4395,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -4342,7 +4466,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -4411,7 +4535,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -4482,7 +4606,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -4551,7 +4675,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -4620,7 +4744,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: jobicy
       source_note: ""
@@ -4702,7 +4826,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4723,7 +4847,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-18T19:37:42.063Z
       pulled_at: 2026-10-18T19:37:42.063Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4771,7 +4895,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4805,7 +4929,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4848,7 +4972,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: jobicy
       source_note: ""
@@ -5019,7 +5143,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -5040,7 +5164,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -5148,7 +5272,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-15T20:32:55.699Z
       pulled_at: 2026-10-15T20:32:55.699Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
   scrum_agile:
     - source: arbeitnow
@@ -5262,7 +5386,7 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-10-31T20:36:52.691Z
       pulled_at: 2026-10-31T20:36:52.691Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -5432,9 +5556,134 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-10-28T21:52:48.367Z
       pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
   program_management:
+    - source: arbeitnow
+      source_note: ""
+      company: autoscout24
+      title: Senior Commercial Program Manager (m/f/d)
+      location: ""
+      url: https://www.arbeitnow.com/jobs/companies/autoscout24/senior-commercial-program-manager-3154
+      updated_at: 1794606940
+      description: "&lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;As a
+        Commercial Strategy &amp;amp; Program Manager in our Sales Strategy
+        &amp;amp; Operations team, you’ll manage the commercial go-to-market for
+        on-top products across our international markets. With a particular
+        focus on new product launches, you’ll build the business case, define
+        the commercial approach and lead cross-functional execution from launch
+        preparation through adoption and scaling.&lt;/span&gt;&lt;span
+        data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;You’ll be the
+        central commercial point of contact for your assigned products, working
+        closely with Product, Product Marketing, local sales leadership,
+        Pricing, Finance and Analytics. You’ll turn analysis into decisions and
+        strategy, align teams around measurable objectives and drive action when
+        performance falls short.&amp;nbsp;&lt;/span&gt;&lt;span
+        data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;This role is ideal
+        for someone with a consulting or commercial strategy background who
+        wants to combine analytical depth with hands-on responsibility for
+        product commercialization.&lt;/span&gt;&lt;span
+        data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;What
+        you’ll do:&lt;/span&gt;&lt;/strong&gt;&lt;span
+        data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+        &lt;ul&gt; &lt;li&gt;&lt;strong&gt;&lt;span
+        data-contrast=&quot;auto&quot;&gt;Own go-to-market
+        plans:&lt;/span&gt;&lt;/strong&gt;&lt;span
+        data-contrast=&quot;auto&quot;&gt; Define target customers, sales
+        motions, market sequencing and launch priorities for on-top products.
+        Drive execution against clear milestones and
+        responsibilities.&lt;/span&gt;&lt;span
+        data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Build
+        and challenge business cases:&lt;/span&gt;&lt;/strong&gt;&lt;span
+        data-contrast=&quot;auto&quot;&gt; Quantify revenue potential, expected
+        uptake and commercial costs. Test assumptions and make clear
+        recommendations on launch and scaling
+        opportunities.&lt;/span&gt;&lt;span
+        data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Shape
+        the commercial proposition:&lt;/span&gt;&lt;/strong&gt;&lt;span
+        data-contrast=&quot;auto&quot;&gt; Work with Product Marketing, Pricing
+        and local markets to translate dealer value into a compelling commercial
+        offer, customer targeting and sales approach.&lt;/span&gt;&lt;span
+        data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Drive
+        cross-functional launch readiness:&lt;/span&gt;&lt;/strong&gt;&lt;span
+        data-contrast=&quot;auto&quot;&gt; Evaluate commercial preparation,
+        recommend market rollout sequencing and present risks, trade-offs and
+        recommendations to leadership&lt;/span&gt;&lt;span
+        data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;&lt;span
+        data-contrast=&quot;auto&quot;&gt;Manage commercial
+        performance:&lt;/span&gt;&lt;/strong&gt;&lt;span
+        data-contrast=&quot;auto&quot;&gt; Agree KPIs, targets and reporting
+        requirements before launch. Analyze adoption, usage, sales conversion
+        and revenue contribution to identify what drives or limits
+        growth.&lt;/span&gt;&lt;span
+        data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Turn
+        performance insights into
+        improvements:&lt;/span&gt;&lt;/strong&gt;&lt;span
+        data-contrast=&quot;auto&quot;&gt; Lead structured performance reviews
+        and coordinate action plans with clear owners and timelines, escalating
+        unresolved dependencies where needed.&lt;/span&gt;&lt;span
+        data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;&lt;span
+        data-contrast=&quot;auto&quot;&gt;Strengthen commercialization
+        practices:&lt;/span&gt;&lt;/strong&gt;&lt;span
+        data-contrast=&quot;auto&quot;&gt; Develop reusable business case and
+        performance-management frameworks, capture lessons learned and ensure a
+        clear handover to ongoing owners.&lt;/span&gt;&lt;span
+        data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+        &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;&lt;span
+        data-contrast=&quot;auto&quot;&gt;What you’ll
+        bring:&lt;/span&gt;&lt;/strong&gt;&lt;span
+        data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+        &lt;ul&gt; &lt;li&gt;&lt;span data-contrast=&quot;auto&quot;&gt;4+ years
+        of experience in management consulting, commercial strategy, sales
+        strategy and operations, or a similarly analytical business
+        role.&lt;/span&gt;&lt;span
+        data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Experience building
+        business cases, financial models and performance analyses, with the
+        ability to test assumptions and explain their business
+        implications.&lt;/span&gt;&lt;span
+        data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;span data-contrast=&quot;auto&quot;&gt;A track record of
+        leading cross-functional initiatives from recommendation through
+        implementation, ideally involving product launches or commercial
+        growth.&lt;/span&gt;&lt;span
+        data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Sound commercial
+        judgment and an understanding of how customer value, pricing and sales
+        execution translate into adoption and revenue.&lt;/span&gt;&lt;span
+        data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;span data-contrast=&quot;auto&quot;&gt;The ability to
+        structure complex problems, present clear recommendations and influence
+        senior stakeholders without direct reporting
+        authority.&lt;/span&gt;&lt;span
+        data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;span data-contrast=&quot;auto&quot;&gt;A pragmatic,
+        collaborative approach, with the drive to resolve obstacles and follow
+        through on results.&lt;/span&gt;&lt;span
+        data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Excellent
+        communication skills in English; German is a big
+        plus.&lt;/span&gt;&lt;span
+        data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+        &lt;/ul&gt; Find Jobs in Germany on Arbeitnow"
+      job_types: []
+      remote: false
+      score: 70
+      skill_hits: 0
+      bucket_id: program_management
+      fetched_at: 2026-11-13T22:49:46.346Z
+      pulled_at: 2026-11-13T22:49:46.346Z
+      stale_days: 0
+      is_stale: false
     - source: arbeitnow
       source_note: ""
       company: Orbem
@@ -5545,7 +5794,7 @@ buckets:
       bucket_id: program_management
       fetched_at: 2026-10-31T20:36:52.691Z
       pulled_at: 2026-10-31T20:36:52.691Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -5715,7 +5964,7 @@ buckets:
       bucket_id: program_management
       fetched_at: 2026-10-28T21:52:48.367Z
       pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
 archive:
   pm_product: []
@@ -5745,7 +5994,7 @@ meta:
     official_career_pages: 20
     search_queries: 20
   stale_counts:
-    pm_product: 24
+    pm_product: 29
     scrum_agile: 0
     program_management: 0
   inactive_counts:
@@ -5753,5 +6002,5 @@ meta:
     scrum_agile: 0
     program_management: 0
   timings_ms:
-    fetch: 240008
-    total: 240204
+    fetch: 180951
+    total: 201613
