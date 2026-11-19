@@ -1,7 +1,7 @@
 schema_version: roles.v1
 profile_id: pooja
 profile_name: Pooja - product/scrum now, EM later
-generated_at: 2026-11-18T23:29:30.447Z
+generated_at: 2026-11-19T23:41:17.999Z
 buckets:
   pm_product:
     - source: recruitee
@@ -59,9 +59,168 @@ buckets:
       score: 78
       skill_hits: 2
       bucket_id: pm_product
+      fetched_at: 2026-11-19T23:41:17.999Z
+      pulled_at: 2026-11-19T23:41:17.999Z
+      stale_days: 0
+      is_stale: false
+    - source: arbeitnow
+      source_note: ""
+      company: Kolibrigames
+      title: Senior Product Manager, LiveOps – Idle Bank Tycoon (f/m/d)
+      location: Berlin, Germany
+      url: https://www.arbeitnow.com/jobs/companies/kolibrigames/senior-product-manager-liveops-idle-bank-tycoon-berlin-germany-32035
+      updated_at: 1795123688
+      description: "We are Kolibri Games - a mobile games developer from Berlin. We
+        believe that with the best people, we can make games that players will
+        enjoy for years to come. Our games have defined the idle genre, and
+        bring enjoyment to hundreds of millions of players all around the world.
+        This is possible due to the talented people who make us who we are.
+        ‘Kolibris’, as we call ourselves, are on a mission to continue making
+        great games and we're looking for new talent to join our team. We strive
+        to offer you a fair recruitment process and a great candidate
+        experience, as well as a friendly environment to work in, with plenty of
+        opportunities to learn and grow. Senior Product Manager, LiveOps – Idle
+        Bank Tycoon (f/m/d) Idle Bank Tycoon (IBT) lets players around the world
+        build their own banking empire, one upgrade at a time. As Senior Product
+        Manager, you’llown the Live side of Idle Bank Tycoon (IBT), from
+        strategy to execution, and you’ll be responsible for the game’s Live
+        performance. Our Lead Designer owns feature design and the macro
+        economy. You and your team own the numbers behind it: you set the costs
+        and rewards of every game element, in both soft and hard currency, and
+        keep them well-tuned for as long as the game runs. You’ll report to the
+        Head of Game and work closely with the Producer and the Lead Designer.
+        You’ll bring the right data into every conversation so the team can make
+        good choices together. Responsibilities Manage and grow the Live squad
+        of Idle Bank Tycoon, a cross-functional team that includes a game
+        economy designer and an analyst Shape the Live strategy and roadmap
+        (events, offers, economy tuning). Set the LiveOps vision and goals with
+        your team, and take Live events and offers from idea to launch Be
+        responsible for the Live economy and its balancing. Define and fine-tune
+        the costs, rewards and prices of all game elements (features, upgrades,
+        events, offers) in soft and hard currency, from launch values to ongoing
+        balancing, and set up Live events and offers in our live content tool
+        Turn each new feature’s design into concrete cost and reward values that
+        fit the economy and the Live roadmap Keep a close eye on game metrics,
+        dig into KPIs and recommend improvements that support long-term LTV. Get
+        to know different player audiences and build segments with tailored
+        balancing and offers Run A/B and multivariate tests on the economy,
+        events and offers to improve retention, conversion and monetization
+        while reducing friction Collaborate on KPI dashboards, and help us work
+        out which tools and systems we need to build or improve so we can make
+        the best in-game choices Study the economies and live operations of
+        games in relevant subgenres, and share practical insights with senior
+        stakeholders and the wider team Required Skills 5+ years in mobile F2P
+        product, including at least one Live game at scale Experience shaping
+        the Live strategy of a similar mobile F2P game, ideally in the idle /
+        tycoon genre Hands-on experience running a LiveOps / event calendar,
+        from planning to performance review Experience managing a
+        cross-functional Live team (economy design, analytics) and delivering
+        improvements step by step, together Experience A/B testing economy,
+        event and offer assumptions to improve KPIs Hands-on experience with BI
+        and experimentation tools (e.g. Looker, Amplitude), and turning complex
+        data into clear, practical recommendations that grow revenue Strong
+        communication skills and a collaborative way of working Desirable Skills
+        Familiarity with tools such as Jira, Confluence, Google Play Console and
+        App Store Connect Experience with economy design in hybrid monetization
+        (IAP and Ads), ideally for idle or tycoon games Kolibri Games is an
+        equal opportunity employer. We come from 40 different countries and many
+        different backgrounds. We celebrate diversity and we are committed to
+        creating an inclusive environment for all employees, regardless of their
+        age, gender identity, sexual orientation, ethnicity, religion, physical
+        appearance or disability. We are an international studio, so don’t
+        forget to send in your application in English. Although it is not
+        mandatory, we always appreciate a cover letter stating your motivation
+        to join us. We look forward to hearing from you! Your Benefits – We’re
+        game to support you Competitive Salary - We believe that top performers
+        should receive top payment Learning Budget - We believe in learning. A
+        generous personal learning budget to spend on learning and development,
+        including books, workshops and attending conferences. We also offer
+        in-house training such as coding and German classes Flexible Working
+        Hours and Home Office – We believe in a good work-life balance Equipment
+        - State-of-the-art technical equipment, including laptops and phones,
+        which may also be used in your free time Kolicard - We offer you a
+        monthly flexible budget of 50 euros that you can use for a gym
+        membership, transportation, shopping etc. Mobility budget - We offer a
+        monthly budget that will make your commuting to work easier Relocation -
+        Relocation support to help you move to Berlin Pension - Opportunity to
+        save for your pension tax-free Bonus Level – We love to have a good
+        time, too Food and Drinks - Fresh fruits to keep you healthy and fresh
+        coffee to keep you alert. We also have a fully stocked fridge with
+        Smoothies, Coke, Club Mate, beer etc Parties and Team Events - Apart
+        from our regular parties, BBQs and movie nights we also have a team
+        event budget you can use to buy games or sports equipment to make
+        working here even more fun Company Holidays - Every year we go on an
+        amazing company holiday to relax and bond as a team Friday Celebrations
+        - Company-provided dinner and drinks on Friday afternoons Find more
+        English Speaking Jobs in Germany on Arbeitnow"
+      job_types:
+        - Full-Time
+      remote: false
+      score: 78
+      skill_hits: 2
+      bucket_id: pm_product
+      fetched_at: 2026-11-19T23:41:17.999Z
+      pulled_at: 2026-11-19T23:41:17.999Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: rebuy
+      title: Product Manager – Operations Systems (m/f/x)
+      location: Rudow, Berlin, Germany, Rudow, Germany
+      url: https://rebuy.recruitee.com/o/product-manager-operations-systems-mfx
+      updated_at: 2026-11-18 13:41:34 UTC
+      description: "Ready to become part of the most important mission on this planet?
+        We are rebuy, pioneers in the sustainable reuse of electronics and
+        media, and we are looking for you! Our mission: to make circular living
+        accessible to all, one transaction at a time. By giving products a
+        second chance, we reduce resource consumption and avoid unnecessary
+        e-waste. Our global team of 500 drives things forward collaboratively,
+        takes personal responsibility, values constructive critical thinking,
+        and is dedicated to serving our customers and planet. The Role We are
+        looking for a Product Manager to join our Product team and own the
+        internal, backend-heavy products behind our operations. Every item rebuy
+        sells has been through our hands. Before a pre-owned book, DVD, or game
+        reaches a customer, it has been bought in, received, identified, tested,
+        graded, stored, picked, packed, and shipped. The systems that run this
+        flow are the focus of this team, and the users are the hundreds of
+        colleagues in our operations teams. You will own the tools and services
+        behind inbound processing, grading and quality control, fulfillment, and
+        returns. Your users are warehouse operators, graders, pickers, and
+        operations leads. Your customers are, in the end, every rebuy buyer and
+        seller who relies on the condition and delivery promise we make. For
+        this role we need someone who is genuinely detail-oriented, who reads
+        the data before forming an opinion, who understands systems and data
+        flows end-to-end, and who can translate operational reality into precise
+        requirements and measurable outcomes. As a Product Manager you work hand
+        in hand with operations leadership, team leads, engineering, and data to
+        deliver measurable efficiency and quality improvements. You will spend
+        time on the floor with the people who use your products, translate their
+        goals and constraints into a roadmap you own, build the business case
+        with unit economics together with operations and finance, and negotiate
+        scope and timing with engineering. Improvements are co-created with the
+        people who run the operation, not handed to them. Key Responsibilities:
+        Drive domain product roadmap: Translate ops strategy (throughput, unit
+        cost, quality, lead time) into a 6–12 month roadmap with the Strategy
+        Manager and Ops Product Lead. Make and document trade-off decisions with
+        ops leaders Understand operational reality: Spend time at the warehouse
+        mapping processes and data flows end-to-end to uncover system gaps and
+        unmet needs early Drive data-backed decisions: Analyze KPIs, pull data,
+        avoid measurement traps, and connect feature changes to unit economics
+        improvements Write precise requirements: Specify business rules, edge
+        cases, data models, state transitions, integrations, and failure modes
+        for engineering Ship iteratively without disruption: Sequence releases
+        safely using pilots, feature flags, parallel runs, change management,
+        and pre-defined metrics Collaborate across teams: Engage in technical
+        discussions and manage scope, time, and urgency trade-offs with tech and
+        ops leads Build stakeholder buy-in: Align ops, CS, tech, finance, and
+        leadership on shared metrics via clear written communication"
+      score: 78
+      skill_hits: 2
+      bucket_id: pm_product
       fetched_at: 2026-11-18T23:29:30.447Z
       pulled_at: 2026-11-18T23:29:30.447Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -109,7 +268,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-17T00:56:01.013Z
       pulled_at: 2026-11-17T00:56:01.013Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -143,7 +302,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-17T00:56:01.013Z
       pulled_at: 2026-11-17T00:56:01.013Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -186,7 +345,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-17T00:56:01.013Z
       pulled_at: 2026-11-17T00:56:01.013Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -207,7 +366,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-17T00:56:01.013Z
       pulled_at: 2026-11-17T00:56:01.013Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -369,7 +528,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-15T22:01:14.767Z
       pulled_at: 2026-11-15T22:01:14.767Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -515,7 +674,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-15T22:01:14.767Z
       pulled_at: 2026-11-15T22:01:14.767Z
-      stale_days: 3
+      stale_days: 4
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -563,7 +722,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-14T21:41:19.020Z
       pulled_at: 2026-11-14T21:41:19.020Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -597,7 +756,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-14T21:41:19.020Z
       pulled_at: 2026-11-14T21:41:19.020Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -640,7 +799,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-14T21:41:19.020Z
       pulled_at: 2026-11-14T21:41:19.020Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -733,7 +892,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-14T21:41:19.020Z
       pulled_at: 2026-11-14T21:41:19.020Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -754,7 +913,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-14T21:41:19.020Z
       pulled_at: 2026-11-14T21:41:19.020Z
-      stale_days: 4
+      stale_days: 5
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -878,7 +1037,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-13T22:49:46.346Z
       pulled_at: 2026-11-13T22:49:46.346Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -998,7 +1157,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-11T23:38:08.449Z
       pulled_at: 2026-11-11T23:38:08.449Z
-      stale_days: 6
+      stale_days: 8
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1069,7 +1228,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-10T22:31:46.334Z
       pulled_at: 2026-11-10T22:31:46.334Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1117,7 +1276,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-07T21:05:28.683Z
       pulled_at: 2026-11-07T21:05:28.683Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1151,7 +1310,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-07T21:05:28.683Z
       pulled_at: 2026-11-07T21:05:28.683Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1194,7 +1353,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-07T21:05:28.683Z
       pulled_at: 2026-11-07T21:05:28.683Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1215,7 +1374,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-07T21:05:28.683Z
       pulled_at: 2026-11-07T21:05:28.683Z
-      stale_days: 11
+      stale_days: 12
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1263,7 +1422,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-04T22:49:21.707Z
       pulled_at: 2026-11-04T22:49:21.707Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1297,7 +1456,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-04T22:49:21.707Z
       pulled_at: 2026-11-04T22:49:21.707Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1340,7 +1499,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-04T22:49:21.707Z
       pulled_at: 2026-11-04T22:49:21.707Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1528,7 +1687,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-04T22:49:21.707Z
       pulled_at: 2026-11-04T22:49:21.707Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1549,7 +1708,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-04T22:49:21.707Z
       pulled_at: 2026-11-04T22:49:21.707Z
-      stale_days: 14
+      stale_days: 15
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1597,7 +1756,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-03T22:30:09.130Z
       pulled_at: 2026-11-03T22:30:09.130Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1631,7 +1790,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-03T22:30:09.130Z
       pulled_at: 2026-11-03T22:30:09.130Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1674,7 +1833,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-03T22:30:09.130Z
       pulled_at: 2026-11-03T22:30:09.130Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1822,7 +1981,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-03T22:30:09.130Z
       pulled_at: 2026-11-03T22:30:09.130Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1843,7 +2002,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-03T22:30:09.130Z
       pulled_at: 2026-11-03T22:30:09.130Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2051,7 +2210,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-01T21:23:26.114Z
       pulled_at: 2026-11-01T21:23:26.114Z
-      stale_days: 17
+      stale_days: 18
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2259,7 +2418,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-01T21:23:26.114Z
       pulled_at: 2026-11-01T21:23:26.114Z
-      stale_days: 17
+      stale_days: 18
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2351,7 +2510,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-01T21:23:26.114Z
       pulled_at: 2026-11-01T21:23:26.114Z
-      stale_days: 17
+      stale_days: 18
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2535,7 +2694,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-01T21:23:26.114Z
       pulled_at: 2026-11-01T21:23:26.114Z
-      stale_days: 17
+      stale_days: 18
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2594,7 +2753,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-31T20:36:52.691Z
       pulled_at: 2026-10-31T20:36:52.691Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2699,7 +2858,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-31T20:36:52.691Z
       pulled_at: 2026-10-31T20:36:52.691Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2720,7 +2879,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-31T20:36:52.691Z
       pulled_at: 2026-10-31T20:36:52.691Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3013,7 +3172,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-30T21:43:02.097Z
       pulled_at: 2026-10-30T21:43:02.097Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3072,7 +3231,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-30T21:43:02.097Z
       pulled_at: 2026-10-30T21:43:02.097Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -3120,8 +3279,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-29T22:01:06.957Z
       pulled_at: 2026-10-29T22:01:06.957Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: TransPerfect
@@ -3154,8 +3313,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-29T22:01:06.957Z
       pulled_at: 2026-10-29T22:01:06.957Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: arbeitnow
       source_note: ""
       company: sumup
@@ -3287,8 +3446,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-29T22:01:06.957Z
       pulled_at: 2026-10-29T22:01:06.957Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: TransPerfect
@@ -3330,8 +3489,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-29T22:01:06.957Z
       pulled_at: 2026-10-29T22:01:06.957Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: arbeitnow
       source_note: ""
       company: leasingmarkt
@@ -3605,8 +3764,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-29T22:01:06.957Z
       pulled_at: 2026-10-29T22:01:06.957Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: Consultport
@@ -3626,8 +3785,8 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-29T22:01:06.957Z
       pulled_at: 2026-10-29T22:01:06.957Z
-      stale_days: 20
-      is_stale: false
+      stale_days: 21
+      is_stale: true
     - source: recruitee
       source_note: ""
       company: TransPerfect
@@ -3674,7 +3833,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-28T21:52:48.367Z
       pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3708,7 +3867,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-28T21:52:48.367Z
       pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3751,7 +3910,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-28T21:52:48.367Z
       pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -3810,7 +3969,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-28T21:52:48.367Z
       pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3831,7 +3990,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-28T21:52:48.367Z
       pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3879,7 +4038,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3913,7 +4072,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3956,7 +4115,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -4046,7 +4205,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -4136,7 +4295,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4157,7 +4316,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -4244,7 +4403,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4292,7 +4451,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-23T20:37:43.569Z
       pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 26
+      stale_days: 27
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4326,7 +4485,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-23T20:37:43.569Z
       pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 26
+      stale_days: 27
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4369,7 +4528,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-23T20:37:43.569Z
       pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 26
+      stale_days: 27
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4390,7 +4549,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-23T20:37:43.569Z
       pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 26
+      stale_days: 27
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -4503,7 +4662,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-23T20:37:43.569Z
       pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 26
+      stale_days: 27
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4551,7 +4710,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-21T20:51:32.768Z
       pulled_at: 2026-10-21T20:51:32.768Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4585,7 +4744,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-21T20:51:32.768Z
       pulled_at: 2026-10-21T20:51:32.768Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -4747,7 +4906,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-21T20:51:32.768Z
       pulled_at: 2026-10-21T20:51:32.768Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4790,7 +4949,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-21T20:51:32.768Z
       pulled_at: 2026-10-21T20:51:32.768Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4811,7 +4970,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-21T20:51:32.768Z
       pulled_at: 2026-10-21T20:51:32.768Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
   scrum_agile:
     - source: jobicy
@@ -4934,7 +5093,7 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-11-17T23:56:38.017Z
       pulled_at: 2026-11-17T23:56:38.017Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -5078,7 +5237,7 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-11-17T23:56:38.017Z
       pulled_at: 2026-11-17T23:56:38.017Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: smartrecruiters
       source_note: ""
@@ -5093,7 +5252,7 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-11-17T23:56:38.017Z
       pulled_at: 2026-11-17T23:56:38.017Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -5206,7 +5365,7 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-10-31T20:36:52.691Z
       pulled_at: 2026-10-31T20:36:52.691Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -5376,7 +5535,7 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-10-28T21:52:48.367Z
       pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
   program_management:
     - source: jobicy
@@ -5499,7 +5658,7 @@ buckets:
       bucket_id: program_management
       fetched_at: 2026-11-17T23:56:38.017Z
       pulled_at: 2026-11-17T23:56:38.017Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -5624,7 +5783,7 @@ buckets:
       bucket_id: program_management
       fetched_at: 2026-11-13T22:49:46.346Z
       pulled_at: 2026-11-13T22:49:46.346Z
-      stale_days: 5
+      stale_days: 6
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -5736,7 +5895,7 @@ buckets:
       bucket_id: program_management
       fetched_at: 2026-10-31T20:36:52.691Z
       pulled_at: 2026-10-31T20:36:52.691Z
-      stale_days: 18
+      stale_days: 19
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -5906,7 +6065,7 @@ buckets:
       bucket_id: program_management
       fetched_at: 2026-10-28T21:52:48.367Z
       pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
 archive:
   pm_product: []
@@ -5923,7 +6082,7 @@ meta:
     smartrecruiters_companies: 41
     teamtailor_companies: 0
     recruitee_companies: 84
-    ashby_organizations: 521
+    ashby_organizations: 524
     stepstone_feeds: 0
     arbeitnow: 1
     remotive: 1
@@ -5936,7 +6095,7 @@ meta:
     official_career_pages: 20
     search_queries: 20
   stale_counts:
-    pm_product: 22
+    pm_product: 28
     scrum_agile: 1
     program_management: 1
   inactive_counts:
@@ -5944,5 +6103,5 @@ meta:
     scrum_agile: 0
     program_management: 0
   timings_ms:
-    fetch: 46199
-    total: 68092
+    fetch: 17740
+    total: 38901
