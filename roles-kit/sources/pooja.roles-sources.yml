@@ -1,4 +1,4 @@
-generated_at: 2026-11-19T23:41:17.999Z
+generated_at: 2026-11-20T23:15:47.285Z
 explicit:
   company_names:
     - SAP
@@ -1147,6 +1147,9 @@ discovered:
     - vega
     - bereal
     - nabla
+    - rhoda-ai
+    - fal-ai
+    - coderabbit
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -2797,6 +2800,9 @@ discovered:
     - vega
     - bereal
     - nabla
+    - rhoda-ai
+    - fal-ai
+    - coderabbit
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
