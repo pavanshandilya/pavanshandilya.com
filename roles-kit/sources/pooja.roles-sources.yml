@@ -1,4 +1,4 @@
-generated_at: 2026-11-20T23:15:47.285Z
+generated_at: 2026-11-21T22:17:33.568Z
 explicit:
   company_names:
     - SAP
@@ -1150,6 +1150,12 @@ discovered:
     - rhoda-ai
     - fal-ai
     - coderabbit
+    - scape
+    - yazio
+    - getyourguide
+    - atominvest
+    - dedale-intelligence
+    - tandem-health
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -2803,6 +2809,12 @@ discovered:
     - rhoda-ai
     - fal-ai
     - coderabbit
+    - scape
+    - yazio
+    - getyourguide
+    - atominvest
+    - dedale-intelligence
+    - tandem-health
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
