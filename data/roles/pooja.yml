@@ -1,7 +1,7 @@
 schema_version: roles.v1
 profile_id: pooja
 profile_name: Pooja - product/scrum now, EM later
-generated_at: 2026-11-22T22:38:39.820Z
+generated_at: 2026-11-24T03:25:54.823Z
 buckets:
   pm_product:
     - source: recruitee
@@ -48,9 +48,225 @@ buckets:
       score: 92
       skill_hits: 5
       bucket_id: pm_product
+      fetched_at: 2026-11-24T03:25:54.823Z
+      pulled_at: 2026-11-24T03:25:54.823Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: TransPerfect
+      title: Associate Product Manager
+      location: Pune, Mahārāshtra, India, Pune, India
+      url: https://transperfect.com/o/associate-product-manager-1
+      updated_at: 2026-07-30 23:25:59 UTC
+      description: OVERVIEW
+        TransPerfect&nbsp;helps&nbsp;organizations&nbsp;navigate&nbsp;the&nbsp;global&nbsp;marketplace.&nbsp;It&nbsp;remains&nbsp;founder-led&nbsp;–&nbsp;and&nbsp;has&nbsp;striven&nbsp;to&nbsp;maintain&nbsp;the&nbsp;ethos&nbsp;and&nbsp;drive&nbsp;that&nbsp;led&nbsp;them&nbsp;to&nbsp;grow&nbsp;organically&nbsp;year-on-year&nbsp;for&nbsp;the&nbsp;past&nbsp;30&nbsp;years.&nbsp;Starting&nbsp;in&nbsp;an&nbsp;NYU&nbsp;dorm&nbsp;room&nbsp;in&nbsp;the&nbsp;early&nbsp;1990s,&nbsp;TransPerfect&nbsp;is&nbsp;today&nbsp;recognized&nbsp;as&nbsp;the&nbsp;largest&nbsp;translation&nbsp;and&nbsp;language&nbsp;services&nbsp;company&nbsp;in&nbsp;the&nbsp;world&nbsp;with&nbsp;thousands&nbsp;of&nbsp;employees&nbsp;located&nbsp;in&nbsp;100+&nbsp;offices&nbsp;around&nbsp;the&nbsp;world&nbsp;–&nbsp;and&nbsp;over&nbsp;$1&nbsp;billion&nbsp;in&nbsp;revenue&nbsp;in&nbsp;2023.
+        The&nbsp;TransPerfect&nbsp;TechOps&nbsp;team&nbsp;has&nbsp;been&nbsp;a&nbsp;vital&nbsp;part&nbsp;of&nbsp;the&nbsp;company’s&nbsp;success&nbsp;since&nbsp;its&nbsp;formation&nbsp;10&nbsp;years&nbsp;ago&nbsp;–&nbsp;delivering&nbsp;technology&nbsp;and&nbsp;services&nbsp;that&nbsp;have&nbsp;drastically&nbsp;simplified&nbsp;the&nbsp;lives&nbsp;of&nbsp;our&nbsp;clients&nbsp;and&nbsp;colleagues&nbsp;–&nbsp;from&nbsp;workflow&nbsp;improvements&nbsp;for&nbsp;colleagues,&nbsp;to&nbsp;core&nbsp;services&nbsp;that&nbsp;form&nbsp;the&nbsp;basis&nbsp;of&nbsp;the&nbsp;company’s&nbsp;GlobalLink&nbsp;platform,&nbsp;to&nbsp;creating&nbsp;scalable&nbsp;client&nbsp;interfaces&nbsp;that&nbsp;allow&nbsp;novice&nbsp;users&nbsp;to&nbsp;navigate&nbsp;complex&nbsp;ecosystems.
+        DESCRIPTION
+        Work&nbsp;closely&nbsp;with&nbsp;the&nbsp;Product&nbsp;Manager&nbsp;to&nbsp;align&nbsp;on&nbsp;product&nbsp;strategy&nbsp;and&nbsp;roadmap
+        Support&nbsp;the&nbsp;product&nbsp;roadmap&nbsp;that&nbsp;meets&nbsp;user&nbsp;needs&nbsp;and&nbsp;corporate&nbsp;goals
+        Write&nbsp;detailed&nbsp;user&nbsp;stories&nbsp;and&nbsp;acceptance&nbsp;criteria
+        Prioritize&nbsp;and&nbsp;groom&nbsp;the&nbsp;product&nbsp;backlog
+        Support&nbsp;the&nbsp;product&nbsp;lifecycle&nbsp;from&nbsp;planning&nbsp;to&nbsp;release
+        Participate&nbsp;in&nbsp;daily/weekly&nbsp;(agile/scrum)&nbsp;software&nbsp;development&nbsp;process&nbsp;meetings
+        Support&nbsp;delivery&nbsp;schedules&nbsp;and&nbsp;coordinate&nbsp;across&nbsp;cross-functional&nbsp;teams&nbsp;comprised&nbsp;of&nbsp;product,&nbsp;design,&nbsp;development&nbsp;and&nbsp;QA,&nbsp;to&nbsp;deliver&nbsp;functional&nbsp;solutions
+        Communicate&nbsp;daily&nbsp;with&nbsp;the&nbsp;cross-functional&nbsp;team&nbsp;to&nbsp;clarify&nbsp;any&nbsp;questions&nbsp;and&nbsp;remove&nbsp;roadblocks
+        Support&nbsp;and&nbsp;evaluate&nbsp;product&nbsp;progress&nbsp;at&nbsp;each&nbsp;stage&nbsp;of&nbsp;the&nbsp;software&nbsp;development&nbsp;process
+        Perform&nbsp;any&nbsp;other&nbsp;special&nbsp;tasks&nbsp;that&nbsp;are&nbsp;deemed&nbsp;appropriate&nbsp;for&nbsp;this&nbsp;role&nbsp;as&nbsp;assigned&nbsp;by&nbsp;the&nbsp;manager/supervisor
+        REQUIRED&nbsp;SKILLS
+        Minimum&nbsp;Bachelor’s&nbsp;degree&nbsp;or&nbsp;its&nbsp;equivalent
+        1-2&nbsp;years&nbsp;of&nbsp;related&nbsp;experience&nbsp;in&nbsp;working&nbsp;in&nbsp;an&nbsp;agile&nbsp;development&nbsp;environment
+        A&nbsp;solid&nbsp;working&nbsp;knowledge&nbsp;of&nbsp;the&nbsp;product&nbsp;management&nbsp;lifecycle&nbsp;and&nbsp;an&nbsp;understanding&nbsp;of&nbsp;the&nbsp;tenets&nbsp;of&nbsp;software&nbsp;development&nbsp;using&nbsp;Agile&nbsp;methodologies
+        Experience&nbsp;managing&nbsp;products&nbsp;or&nbsp;projects&nbsp;using&nbsp;project&nbsp;management&nbsp;tools&nbsp;such&nbsp;as&nbsp;Jira,&nbsp;Azure&nbsp;DevOps&nbsp;Server,&nbsp;Confluence,&nbsp;Trello,&nbsp;etc.&nbsp;
+        Expert&nbsp;communication&nbsp;skills:&nbsp;ability&nbsp;to&nbsp;manage&nbsp;stakeholders’&nbsp;expectations,&nbsp;be&nbsp;prepared&nbsp;to&nbsp;justify&nbsp;delays&nbsp;or&nbsp;scope&nbsp;changes,&nbsp;and&nbsp;communicate&nbsp;technical&nbsp;information&nbsp;to&nbsp;business&nbsp;stakeholders&nbsp;in&nbsp;an&nbsp;easy&nbsp;to&nbsp;understand&nbsp;way
+      score: 90
+      skill_hits: 5
+      bucket_id: pm_product
+      fetched_at: 2026-11-24T03:25:54.823Z
+      pulled_at: 2026-11-24T03:25:54.823Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: TransPerfect
+      title: Technical Product Manager
+      location: Pune, Mahārāshtra, India, Pune, India
+      url: https://transperfect.com/o/technical-product-manager
+      updated_at: 2026-07-30 15:08:53 UTC
+      description: "OVERVIEW TransPerfect helps the world's leading brands thrive in
+        the global marketplace by offering a full range of solutions to ensure
+        the success of digital and mobile initiatives. Working in 170+
+        languages, our services include website and software localization, QA
+        and testing, international SEO/SEM, customer service and call center
+        solutions, multicultural marketing, multimedia services, and more.
+        RESPOSIBILITES: TransPerfect is seeking a Technical Product Manager to
+        manage and own the product lifecycle for integration frameworks for CMS
+        &amp; e-commerce systems. This position will work with internal
+        development and QA teams and vendor partners to build integrations into
+        GlobalLink - our flagship cloud-based translation management platform.
+        We are looking for forward-thinking professionals who are more
+        interested in how things could become and who can thrive in an evolving
+        and fast-paced environment. Manage the entire product life cycle which
+        includes: Manage professional services engagements and prepare SOWs for
+        all existing customers Explore product functionality and recommend best
+        strategy to integrate Evaluate APIs and GraphQL endpoints and devise an
+        integration approach Individually carry out product deliveries from
+        inception to product roll out Design/create detailed technical
+        specifications for functional requirements Closely monitor development
+        and QA progress for ontime deliverables Do active review of test
+        strategy Planning continuous upgrades for new features Collaborate with
+        multiple teams in multiple time zones including product managers,
+        engineers, solutions engineers, QA and customers for product strategy
+        &amp; roadmap. Participate in UI/UX design. Review Documentation updates
+        Analyze application logs and debug technical issues to identify root
+        causes in collaboration with engineering teams Perform competitor
+        analysis and benchmarks and ensure that your product is always ahead of
+        the curve"
+      score: 80
+      skill_hits: 2
+      bucket_id: pm_product
+      fetched_at: 2026-11-24T03:25:54.823Z
+      pulled_at: 2026-11-24T03:25:54.823Z
+      stale_days: 0
+      is_stale: false
+    - source: jobicy
+      source_note: ""
+      company: BJAK
+      title: Product Manager - AI Finance
+      location: Germany
+      url: https://jobicy.com/jobs/163965-product-manager-ai-finance
+      updated_at: 2026-11-23T12:50:01+00:00
+      description: "About BJAK The original mission of BJAK is we believe people
+        deserve smarter ways to plan, save and grow their money. This is the
+        origin of our name. Started in 2019, we built the first mobile-first,
+        insurance platform, enabling insurance to be accessible online by
+        millions in the region. Today, its the leading insurance platform in
+        Southeast Asia. Today, we are expanding ways to help people in the
+        region — this includes spending, saving, investing, exchanging,
+        travelling, and more. Our mission is help people get more from their
+        money every day. We have teams working around the world, with over 20
+        nationalities from our offices and remotely, who truly enjoys their
+        work. We are looking for the most talented and driven people we can
+        find. We are looking for people who work for their passion, not counting
+        hours. Who loves building great next-generation products, not status
+        quo. Who cares about redefining how everyone around us can get the best
+        financial applications, not for an exclusive few. If you're this person,
+        we'd love to talk to you. The Role We are looking for product managers
+        to own product areas within BJAK's AI Finance. This role is for builders
+        who can understand users, define product direction, work with
+        engineering and design, launch fast and keep improving after release.
+        What You'll Own Own product areas across insurance, payments, savings,
+        investing, travel or other financial services. Define user problems,
+        product scope, success metrics, roadmap and launch plans. Work with
+        engineering, design, data, operations, compliance and business teams.
+        Turn complex financial products into simple, usable customer journeys.
+        Use data, feedback, research and production issues to improve product
+        decisions. Launch features, monitor performance and drive iterations.
+        Make trade-offs between speed, user experience, business impact,
+        compliance and operational complexity. What We're Looking For Experience
+        as Product Manager, Product Owner, founder, growth/product operator or
+        similar role. Strong product sense and ability to simplify complex
+        workflows. Able to work with engineers and designers to ship real
+        products. Comfortable with metrics, user feedback, experiments and
+        post-launch learning. Strong writing, prioritization and stakeholder
+        management. High ownership and ability to drive work with limited
+        guidance. Experience in fintech, insurance, payments, consumer apps or
+        high-growth products is a strong advantage. The Kind of Builder We Want
+        Starts from user problems, not feature lists. Can make decisions with
+        incomplete information. Knows how to ship quickly and learn after
+        launch. Works well with engineering without hiding behind process.
+        Honest about what changed because of their work versus wider team
+        effort. This Role Is Not For People who only write decks and do not
+        drive execution. PMs who cannot work deeply with engineering. Candidates
+        who need perfect data before making decisions. People who launch
+        features and then stop caring. PMs who exaggerate business impact
+        without understanding attribution. Location This role is remote, but
+        candidates must be based in Germany. We are hiring specifically for this
+        market, so applicants should already be based in Germany. Language
+        English is our main working language across global teams. Strong English
+        communication is required. Interview Process Our process is designed to
+        move fast: 1. Online assessment or practical task 2. Role-specific
+        interview 3. CEO / final round For strong candidates, we aim to complete
+        the process and make an offer within 1 week from the start of the
+        interview process. Candidates who complete assessments quickly will be
+        prioritized."
+      remote: true
+      score: 80
+      skill_hits: 2
+      bucket_id: pm_product
+      fetched_at: 2026-11-24T03:25:54.823Z
+      pulled_at: 2026-11-24T03:25:54.823Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: Consultport
+      title: (Senior) Product Manager, AI-first (m/w/d), Berlin on-site
+      location: Berlin, Berlin, Germany, Berlin, Germany
+      url: https://consultport.recruitee.com/o/senior-product-manager-ai-first-mwd-berlin-on-site
+      updated_at: 2026-11-18 09:28:53 UTC
+      description: "Consultport is the leading digital platform that connects some of
+        the world’s most iconic brands with world-class consultants and digital
+        experts. We’re scaling hard, and we are looking for a PM obsessed with
+        three things: building a beloved product, product-led growth, and acting
+        AI-first . This role is not about babysitting a roadmap but turning the
+        product itself into our best sales channel: removing friction, driving
+        activation, and making users fall in love before they even talk to
+        sales."
+      score: 74
+      skill_hits: 1
+      bucket_id: pm_product
+      fetched_at: 2026-11-24T03:25:54.823Z
+      pulled_at: 2026-11-24T03:25:54.823Z
+      stale_days: 0
+      is_stale: false
+    - source: recruitee
+      source_note: ""
+      company: TransPerfect
+      title: Associate Product Manager
+      location: Pune, Mahārāshtra, India, Pune, India
+      url: https://transperfect.com/o/associate-product-manager
+      updated_at: 2026-08-05 06:02:31 UTC
+      description: OVERVIEW TransPerfect helps organizations navigate the global
+        marketplace. It remains founder-led – and has striven to maintain the
+        ethos and drive that led them to grow organically year-on-year for the
+        past 30 years. Starting in an NYU dorm room in the early 1990s,
+        TransPerfect is today recognized as the largest translation and language
+        services company in the world with thousands of employees located in
+        100+ offices around the world – and over $1 billion in revenue in 2023.
+        &nbsp; The TransPerfect TechOps team has been a vital part of the
+        company’s success since its formation 10 years ago – delivering
+        technology and services that have drastically simplified the lives of
+        our clients and colleagues – from workflow improvements for colleagues,
+        to core services that form the basis of the company’s GlobalLink
+        platform, to creating scalable client interfaces that allow novice users
+        to navigate complex ecosystems. DESCRIPTION
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Work closely with the Product
+        Manager to align on product strategy and roadmap
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support the product roadmap that
+        meets user needs and corporate goals
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Write detailed user stories and
+        acceptance criteria ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prioritize and
+        groom the product backlog ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support
+        the product lifecycle from planning to release
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Participate in daily/weekly
+        (agile/scrum) software development process meetings
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support delivery schedules and
+        coordinate across cross-functional teams comprised of product, design,
+        development and QA, to deliver functional solutions
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Communicate daily with the
+        cross-functional team to clarify any questions and remove roadblocks
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support and evaluate product
+        progress at each stage of the software development process
+        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Perform any other special tasks
+        that are deemed appropriate for this role as assigned by the
+        manager/supervisor
+      score: 92
+      skill_hits: 5
+      bucket_id: pm_product
       fetched_at: 2026-11-22T22:38:39.820Z
       pulled_at: 2026-11-22T22:38:39.820Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -84,7 +300,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-22T22:38:39.820Z
       pulled_at: 2026-11-22T22:38:39.820Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -127,7 +343,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-22T22:38:39.820Z
       pulled_at: 2026-11-22T22:38:39.820Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -269,7 +485,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-22T22:38:39.820Z
       pulled_at: 2026-11-22T22:38:39.820Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -291,7 +507,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-22T22:38:39.820Z
       pulled_at: 2026-11-22T22:38:39.820Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -376,7 +592,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-22T22:38:39.820Z
       pulled_at: 2026-11-22T22:38:39.820Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -463,7 +679,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-22T22:38:39.820Z
       pulled_at: 2026-11-22T22:38:39.820Z
-      stale_days: 0
+      stale_days: 1
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -511,7 +727,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-21T22:17:33.568Z
       pulled_at: 2026-11-21T22:17:33.568Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -545,7 +761,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-21T22:17:33.568Z
       pulled_at: 2026-11-21T22:17:33.568Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -588,7 +804,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-21T22:17:33.568Z
       pulled_at: 2026-11-21T22:17:33.568Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -647,7 +863,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-21T22:17:33.568Z
       pulled_at: 2026-11-21T22:17:33.568Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -669,7 +885,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-21T22:17:33.568Z
       pulled_at: 2026-11-21T22:17:33.568Z
-      stale_days: 1
+      stale_days: 2
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -717,7 +933,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-20T23:15:47.285Z
       pulled_at: 2026-11-20T23:15:47.285Z
-      stale_days: 1
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -751,7 +967,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-20T23:15:47.285Z
       pulled_at: 2026-11-20T23:15:47.285Z
-      stale_days: 1
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -794,7 +1010,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-20T23:15:47.285Z
       pulled_at: 2026-11-20T23:15:47.285Z
-      stale_days: 1
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -853,7 +1069,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-20T23:15:47.285Z
       pulled_at: 2026-11-20T23:15:47.285Z
-      stale_days: 1
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -875,7 +1091,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-20T23:15:47.285Z
       pulled_at: 2026-11-20T23:15:47.285Z
-      stale_days: 1
+      stale_days: 3
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -934,7 +1150,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-19T23:41:17.999Z
       pulled_at: 2026-11-19T23:41:17.999Z
-      stale_days: 2
+      stale_days: 4
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1034,7 +1250,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-19T23:41:17.999Z
       pulled_at: 2026-11-19T23:41:17.999Z
-      stale_days: 2
+      stale_days: 4
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1093,7 +1309,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-18T23:29:30.447Z
       pulled_at: 2026-11-18T23:29:30.447Z
-      stale_days: 3
+      stale_days: 5
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1141,7 +1357,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-17T00:56:01.013Z
       pulled_at: 2026-11-17T00:56:01.013Z
-      stale_days: 5
+      stale_days: 7
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1175,7 +1391,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-17T00:56:01.013Z
       pulled_at: 2026-11-17T00:56:01.013Z
-      stale_days: 5
+      stale_days: 7
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1218,7 +1434,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-17T00:56:01.013Z
       pulled_at: 2026-11-17T00:56:01.013Z
-      stale_days: 5
+      stale_days: 7
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1239,7 +1455,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-17T00:56:01.013Z
       pulled_at: 2026-11-17T00:56:01.013Z
-      stale_days: 5
+      stale_days: 7
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1401,7 +1617,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-15T22:01:14.767Z
       pulled_at: 2026-11-15T22:01:14.767Z
-      stale_days: 7
+      stale_days: 8
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1547,7 +1763,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-15T22:01:14.767Z
       pulled_at: 2026-11-15T22:01:14.767Z
-      stale_days: 7
+      stale_days: 8
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1595,7 +1811,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-14T21:41:19.020Z
       pulled_at: 2026-11-14T21:41:19.020Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1629,7 +1845,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-14T21:41:19.020Z
       pulled_at: 2026-11-14T21:41:19.020Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1672,7 +1888,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-14T21:41:19.020Z
       pulled_at: 2026-11-14T21:41:19.020Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1765,7 +1981,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-14T21:41:19.020Z
       pulled_at: 2026-11-14T21:41:19.020Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -1786,7 +2002,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-14T21:41:19.020Z
       pulled_at: 2026-11-14T21:41:19.020Z
-      stale_days: 8
+      stale_days: 9
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -1910,7 +2126,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-13T22:49:46.346Z
       pulled_at: 2026-11-13T22:49:46.346Z
-      stale_days: 8
+      stale_days: 10
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2030,7 +2246,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-11T23:38:08.449Z
       pulled_at: 2026-11-11T23:38:08.449Z
-      stale_days: 10
+      stale_days: 12
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2101,7 +2317,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-10T22:31:46.334Z
       pulled_at: 2026-11-10T22:31:46.334Z
-      stale_days: 12
+      stale_days: 13
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2149,7 +2365,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-07T21:05:28.683Z
       pulled_at: 2026-11-07T21:05:28.683Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2183,7 +2399,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-07T21:05:28.683Z
       pulled_at: 2026-11-07T21:05:28.683Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2226,7 +2442,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-07T21:05:28.683Z
       pulled_at: 2026-11-07T21:05:28.683Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2247,7 +2463,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-07T21:05:28.683Z
       pulled_at: 2026-11-07T21:05:28.683Z
-      stale_days: 15
+      stale_days: 16
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2295,7 +2511,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-04T22:49:21.707Z
       pulled_at: 2026-11-04T22:49:21.707Z
-      stale_days: 17
+      stale_days: 19
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2329,7 +2545,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-04T22:49:21.707Z
       pulled_at: 2026-11-04T22:49:21.707Z
-      stale_days: 17
+      stale_days: 19
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2372,7 +2588,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-04T22:49:21.707Z
       pulled_at: 2026-11-04T22:49:21.707Z
-      stale_days: 17
+      stale_days: 19
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2560,7 +2776,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-04T22:49:21.707Z
       pulled_at: 2026-11-04T22:49:21.707Z
-      stale_days: 17
+      stale_days: 19
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2581,7 +2797,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-04T22:49:21.707Z
       pulled_at: 2026-11-04T22:49:21.707Z
-      stale_days: 17
+      stale_days: 19
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2629,7 +2845,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-03T22:30:09.130Z
       pulled_at: 2026-11-03T22:30:09.130Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2663,7 +2879,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-03T22:30:09.130Z
       pulled_at: 2026-11-03T22:30:09.130Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2706,7 +2922,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-03T22:30:09.130Z
       pulled_at: 2026-11-03T22:30:09.130Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -2854,7 +3070,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-03T22:30:09.130Z
       pulled_at: 2026-11-03T22:30:09.130Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: recruitee
       source_note: ""
@@ -2875,7 +3091,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-03T22:30:09.130Z
       pulled_at: 2026-11-03T22:30:09.130Z
-      stale_days: 19
+      stale_days: 20
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -3083,7 +3299,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-01T21:23:26.114Z
       pulled_at: 2026-11-01T21:23:26.114Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -3291,7 +3507,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-01T21:23:26.114Z
       pulled_at: 2026-11-01T21:23:26.114Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -3383,7 +3599,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-01T21:23:26.114Z
       pulled_at: 2026-11-01T21:23:26.114Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -3567,7 +3783,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-11-01T21:23:26.114Z
       pulled_at: 2026-11-01T21:23:26.114Z
-      stale_days: 21
+      stale_days: 22
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3626,7 +3842,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-31T20:36:52.691Z
       pulled_at: 2026-10-31T20:36:52.691Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -3731,7 +3947,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-31T20:36:52.691Z
       pulled_at: 2026-10-31T20:36:52.691Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -3752,7 +3968,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-31T20:36:52.691Z
       pulled_at: 2026-10-31T20:36:52.691Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -4045,7 +4261,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-30T21:43:02.097Z
       pulled_at: 2026-10-30T21:43:02.097Z
-      stale_days: 23
+      stale_days: 24
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4104,7 +4320,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-30T21:43:02.097Z
       pulled_at: 2026-10-30T21:43:02.097Z
-      stale_days: 23
+      stale_days: 24
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4152,7 +4368,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-29T22:01:06.957Z
       pulled_at: 2026-10-29T22:01:06.957Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4186,7 +4402,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-29T22:01:06.957Z
       pulled_at: 2026-10-29T22:01:06.957Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -4319,7 +4535,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-29T22:01:06.957Z
       pulled_at: 2026-10-29T22:01:06.957Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4362,7 +4578,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-29T22:01:06.957Z
       pulled_at: 2026-10-29T22:01:06.957Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -4637,7 +4853,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-29T22:01:06.957Z
       pulled_at: 2026-10-29T22:01:06.957Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4658,7 +4874,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-29T22:01:06.957Z
       pulled_at: 2026-10-29T22:01:06.957Z
-      stale_days: 24
+      stale_days: 25
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4706,7 +4922,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-28T21:52:48.367Z
       pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4740,7 +4956,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-28T21:52:48.367Z
       pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4783,7 +4999,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-28T21:52:48.367Z
       pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -4842,7 +5058,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-28T21:52:48.367Z
       pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4863,7 +5079,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-28T21:52:48.367Z
       pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4911,7 +5127,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4945,7 +5161,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -4988,7 +5204,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -5078,7 +5294,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -5168,7 +5384,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: recruitee
       source_note: ""
@@ -5189,7 +5405,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -5276,7 +5492,7 @@ buckets:
       bucket_id: pm_product
       fetched_at: 2026-10-25T20:00:02.522Z
       pulled_at: 2026-10-25T20:00:02.522Z
-      stale_days: 28
+      stale_days: 29
       is_stale: true
   scrum_agile:
     - source: jobicy
@@ -5399,7 +5615,7 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-11-17T23:56:38.017Z
       pulled_at: 2026-11-17T23:56:38.017Z
-      stale_days: 4
+      stale_days: 6
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -5543,7 +5759,7 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-11-17T23:56:38.017Z
       pulled_at: 2026-11-17T23:56:38.017Z
-      stale_days: 4
+      stale_days: 6
       is_stale: false
     - source: smartrecruiters
       source_note: ""
@@ -5558,7 +5774,7 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-11-17T23:56:38.017Z
       pulled_at: 2026-11-17T23:56:38.017Z
-      stale_days: 4
+      stale_days: 6
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -5671,7 +5887,7 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-10-31T20:36:52.691Z
       pulled_at: 2026-10-31T20:36:52.691Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -5841,7 +6057,7 @@ buckets:
       bucket_id: scrum_agile
       fetched_at: 2026-10-28T21:52:48.367Z
       pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
   program_management:
     - source: jobicy
@@ -5964,7 +6180,7 @@ buckets:
       bucket_id: program_management
       fetched_at: 2026-11-17T23:56:38.017Z
       pulled_at: 2026-11-17T23:56:38.017Z
-      stale_days: 4
+      stale_days: 6
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -6089,7 +6305,7 @@ buckets:
       bucket_id: program_management
       fetched_at: 2026-11-13T22:49:46.346Z
       pulled_at: 2026-11-13T22:49:46.346Z
-      stale_days: 8
+      stale_days: 10
       is_stale: false
     - source: arbeitnow
       source_note: ""
@@ -6201,7 +6417,7 @@ buckets:
       bucket_id: program_management
       fetched_at: 2026-10-31T20:36:52.691Z
       pulled_at: 2026-10-31T20:36:52.691Z
-      stale_days: 22
+      stale_days: 23
       is_stale: true
     - source: arbeitnow
       source_note: ""
@@ -6371,269 +6587,10 @@ buckets:
       bucket_id: program_management
       fetched_at: 2026-10-28T21:52:48.367Z
       pulled_at: 2026-10-28T21:52:48.367Z
-      stale_days: 25
+      stale_days: 26
       is_stale: true
 archive:
-  pm_product:
-    - source: recruitee
-      source_note: ""
-      company: TransPerfect
-      title: Associate Product Manager
-      location: Pune, Mahārāshtra, India, Pune, India
-      url: https://transperfect.com/o/associate-product-manager
-      updated_at: 2026-08-05 06:02:31 UTC
-      description: OVERVIEW TransPerfect helps organizations navigate the global
-        marketplace. It remains founder-led – and has striven to maintain the
-        ethos and drive that led them to grow organically year-on-year for the
-        past 30 years. Starting in an NYU dorm room in the early 1990s,
-        TransPerfect is today recognized as the largest translation and language
-        services company in the world with thousands of employees located in
-        100+ offices around the world – and over $1 billion in revenue in 2023.
-        &nbsp; The TransPerfect TechOps team has been a vital part of the
-        company’s success since its formation 10 years ago – delivering
-        technology and services that have drastically simplified the lives of
-        our clients and colleagues – from workflow improvements for colleagues,
-        to core services that form the basis of the company’s GlobalLink
-        platform, to creating scalable client interfaces that allow novice users
-        to navigate complex ecosystems. DESCRIPTION
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Work closely with the Product
-        Manager to align on product strategy and roadmap
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support the product roadmap that
-        meets user needs and corporate goals
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Write detailed user stories and
-        acceptance criteria ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prioritize and
-        groom the product backlog ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support
-        the product lifecycle from planning to release
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Participate in daily/weekly
-        (agile/scrum) software development process meetings
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support delivery schedules and
-        coordinate across cross-functional teams comprised of product, design,
-        development and QA, to deliver functional solutions
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Communicate daily with the
-        cross-functional team to clarify any questions and remove roadblocks
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support and evaluate product
-        progress at each stage of the software development process
-        ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Perform any other special tasks
-        that are deemed appropriate for this role as assigned by the
-        manager/supervisor
-      score: 92
-      skill_hits: 5
-      bucket_id: pm_product
-      fetched_at: 2026-10-23T20:37:43.569Z
-      pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 30
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: TransPerfect
-      title: Associate Product Manager
-      location: Pune, Mahārāshtra, India, Pune, India
-      url: https://transperfect.com/o/associate-product-manager-1
-      updated_at: 2026-07-30 23:25:59 UTC
-      description: OVERVIEW
-        TransPerfect&nbsp;helps&nbsp;organizations&nbsp;navigate&nbsp;the&nbsp;global&nbsp;marketplace.&nbsp;It&nbsp;remains&nbsp;founder-led&nbsp;–&nbsp;and&nbsp;has&nbsp;striven&nbsp;to&nbsp;maintain&nbsp;the&nbsp;ethos&nbsp;and&nbsp;drive&nbsp;that&nbsp;led&nbsp;them&nbsp;to&nbsp;grow&nbsp;organically&nbsp;year-on-year&nbsp;for&nbsp;the&nbsp;past&nbsp;30&nbsp;years.&nbsp;Starting&nbsp;in&nbsp;an&nbsp;NYU&nbsp;dorm&nbsp;room&nbsp;in&nbsp;the&nbsp;early&nbsp;1990s,&nbsp;TransPerfect&nbsp;is&nbsp;today&nbsp;recognized&nbsp;as&nbsp;the&nbsp;largest&nbsp;translation&nbsp;and&nbsp;language&nbsp;services&nbsp;company&nbsp;in&nbsp;the&nbsp;world&nbsp;with&nbsp;thousands&nbsp;of&nbsp;employees&nbsp;located&nbsp;in&nbsp;100+&nbsp;offices&nbsp;around&nbsp;the&nbsp;world&nbsp;–&nbsp;and&nbsp;over&nbsp;$1&nbsp;billion&nbsp;in&nbsp;revenue&nbsp;in&nbsp;2023.
-        The&nbsp;TransPerfect&nbsp;TechOps&nbsp;team&nbsp;has&nbsp;been&nbsp;a&nbsp;vital&nbsp;part&nbsp;of&nbsp;the&nbsp;company’s&nbsp;success&nbsp;since&nbsp;its&nbsp;formation&nbsp;10&nbsp;years&nbsp;ago&nbsp;–&nbsp;delivering&nbsp;technology&nbsp;and&nbsp;services&nbsp;that&nbsp;have&nbsp;drastically&nbsp;simplified&nbsp;the&nbsp;lives&nbsp;of&nbsp;our&nbsp;clients&nbsp;and&nbsp;colleagues&nbsp;–&nbsp;from&nbsp;workflow&nbsp;improvements&nbsp;for&nbsp;colleagues,&nbsp;to&nbsp;core&nbsp;services&nbsp;that&nbsp;form&nbsp;the&nbsp;basis&nbsp;of&nbsp;the&nbsp;company’s&nbsp;GlobalLink&nbsp;platform,&nbsp;to&nbsp;creating&nbsp;scalable&nbsp;client&nbsp;interfaces&nbsp;that&nbsp;allow&nbsp;novice&nbsp;users&nbsp;to&nbsp;navigate&nbsp;complex&nbsp;ecosystems.
-        DESCRIPTION
-        Work&nbsp;closely&nbsp;with&nbsp;the&nbsp;Product&nbsp;Manager&nbsp;to&nbsp;align&nbsp;on&nbsp;product&nbsp;strategy&nbsp;and&nbsp;roadmap
-        Support&nbsp;the&nbsp;product&nbsp;roadmap&nbsp;that&nbsp;meets&nbsp;user&nbsp;needs&nbsp;and&nbsp;corporate&nbsp;goals
-        Write&nbsp;detailed&nbsp;user&nbsp;stories&nbsp;and&nbsp;acceptance&nbsp;criteria
-        Prioritize&nbsp;and&nbsp;groom&nbsp;the&nbsp;product&nbsp;backlog
-        Support&nbsp;the&nbsp;product&nbsp;lifecycle&nbsp;from&nbsp;planning&nbsp;to&nbsp;release
-        Participate&nbsp;in&nbsp;daily/weekly&nbsp;(agile/scrum)&nbsp;software&nbsp;development&nbsp;process&nbsp;meetings
-        Support&nbsp;delivery&nbsp;schedules&nbsp;and&nbsp;coordinate&nbsp;across&nbsp;cross-functional&nbsp;teams&nbsp;comprised&nbsp;of&nbsp;product,&nbsp;design,&nbsp;development&nbsp;and&nbsp;QA,&nbsp;to&nbsp;deliver&nbsp;functional&nbsp;solutions
-        Communicate&nbsp;daily&nbsp;with&nbsp;the&nbsp;cross-functional&nbsp;team&nbsp;to&nbsp;clarify&nbsp;any&nbsp;questions&nbsp;and&nbsp;remove&nbsp;roadblocks
-        Support&nbsp;and&nbsp;evaluate&nbsp;product&nbsp;progress&nbsp;at&nbsp;each&nbsp;stage&nbsp;of&nbsp;the&nbsp;software&nbsp;development&nbsp;process
-        Perform&nbsp;any&nbsp;other&nbsp;special&nbsp;tasks&nbsp;that&nbsp;are&nbsp;deemed&nbsp;appropriate&nbsp;for&nbsp;this&nbsp;role&nbsp;as&nbsp;assigned&nbsp;by&nbsp;the&nbsp;manager/supervisor
-        REQUIRED&nbsp;SKILLS
-        Minimum&nbsp;Bachelor’s&nbsp;degree&nbsp;or&nbsp;its&nbsp;equivalent
-        1-2&nbsp;years&nbsp;of&nbsp;related&nbsp;experience&nbsp;in&nbsp;working&nbsp;in&nbsp;an&nbsp;agile&nbsp;development&nbsp;environment
-        A&nbsp;solid&nbsp;working&nbsp;knowledge&nbsp;of&nbsp;the&nbsp;product&nbsp;management&nbsp;lifecycle&nbsp;and&nbsp;an&nbsp;understanding&nbsp;of&nbsp;the&nbsp;tenets&nbsp;of&nbsp;software&nbsp;development&nbsp;using&nbsp;Agile&nbsp;methodologies
-        Experience&nbsp;managing&nbsp;products&nbsp;or&nbsp;projects&nbsp;using&nbsp;project&nbsp;management&nbsp;tools&nbsp;such&nbsp;as&nbsp;Jira,&nbsp;Azure&nbsp;DevOps&nbsp;Server,&nbsp;Confluence,&nbsp;Trello,&nbsp;etc.&nbsp;
-        Expert&nbsp;communication&nbsp;skills:&nbsp;ability&nbsp;to&nbsp;manage&nbsp;stakeholders’&nbsp;expectations,&nbsp;be&nbsp;prepared&nbsp;to&nbsp;justify&nbsp;delays&nbsp;or&nbsp;scope&nbsp;changes,&nbsp;and&nbsp;communicate&nbsp;technical&nbsp;information&nbsp;to&nbsp;business&nbsp;stakeholders&nbsp;in&nbsp;an&nbsp;easy&nbsp;to&nbsp;understand&nbsp;way
-      score: 90
-      skill_hits: 5
-      bucket_id: pm_product
-      fetched_at: 2026-10-23T20:37:43.569Z
-      pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 30
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: TransPerfect
-      title: Technical Product Manager
-      location: Pune, Mahārāshtra, India, Pune, India
-      url: https://transperfect.com/o/technical-product-manager
-      updated_at: 2026-07-30 15:08:53 UTC
-      description: "OVERVIEW TransPerfect helps the world's leading brands thrive in
-        the global marketplace by offering a full range of solutions to ensure
-        the success of digital and mobile initiatives. Working in 170+
-        languages, our services include website and software localization, QA
-        and testing, international SEO/SEM, customer service and call center
-        solutions, multicultural marketing, multimedia services, and more.
-        RESPOSIBILITES: TransPerfect is seeking a Technical Product Manager to
-        manage and own the product lifecycle for integration frameworks for CMS
-        &amp; e-commerce systems. This position will work with internal
-        development and QA teams and vendor partners to build integrations into
-        GlobalLink - our flagship cloud-based translation management platform.
-        We are looking for forward-thinking professionals who are more
-        interested in how things could become and who can thrive in an evolving
-        and fast-paced environment. Manage the entire product life cycle which
-        includes: Manage professional services engagements and prepare SOWs for
-        all existing customers Explore product functionality and recommend best
-        strategy to integrate Evaluate APIs and GraphQL endpoints and devise an
-        integration approach Individually carry out product deliveries from
-        inception to product roll out Design/create detailed technical
-        specifications for functional requirements Closely monitor development
-        and QA progress for ontime deliverables Do active review of test
-        strategy Planning continuous upgrades for new features Collaborate with
-        multiple teams in multiple time zones including product managers,
-        engineers, solutions engineers, QA and customers for product strategy
-        &amp; roadmap. Participate in UI/UX design. Review Documentation updates
-        Analyze application logs and debug technical issues to identify root
-        causes in collaboration with engineering teams Perform competitor
-        analysis and benchmarks and ensure that your product is always ahead of
-        the curve"
-      score: 80
-      skill_hits: 2
-      bucket_id: pm_product
-      fetched_at: 2026-10-23T20:37:43.569Z
-      pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 30
-      is_stale: true
-    - source: recruitee
-      source_note: ""
-      company: Consultport
-      title: Product Manager (m/f/d)
-      location: Berlin, Berlin, Germany, Berlin, Germany
-      url: https://consultport.recruitee.com/o/product-manager-mfd
-      updated_at: 2026-09-15 08:12:42 UTC
-      description: Consultport is the leading digital platform that connects some of
-        the world's most iconic brands with world-class consultants. We're
-        scaling hard, and we need a PM obsessed with product-led growth (PLG).
-        This role is not about babysitting a roadmap but turning the product
-        itself into our best sales channel — removing friction, driving
-        activation, and making users fall in love before they ever talk to
-        sales.
-      score: 74
-      skill_hits: 1
-      bucket_id: pm_product
-      fetched_at: 2026-10-23T20:37:43.569Z
-      pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 30
-      is_stale: true
-    - source: arbeitnow
-      source_note: ""
-      company: Quantumdiamonds
-      title: Product Manager (f/m/d)
-      location: Munich HQ
-      url: https://www.arbeitnow.com/jobs/companies/quantumdiamonds/product-manager-munich-21822
-      updated_at: 1792777217
-      description: "Description We are seeking a product manager to own the \"what\"
-        and \"why\" of our quantum sensing measurement systems. You turn
-        customer and market needs into clear product requirements that
-        engineering can turn into specifications, and you own the roadmap for
-        the QDm product line, starting with QDm.1. You sit between our customers
-        (foundries, IDMs, OSATs and failure analysis labs) and every engineering
-        discipline, and you make sure we build the right product in the right
-        order. Who we are Founded in 2022 as a spin-off of TU Munich, QD
-        leverages quantum sensors to rapidly capture three-dimensional current
-        maps within multi-layer chips. Our strong, international team of over
-        70, including physicists, engineers, data scientists, and other experts,
-        works side by side with major semiconductor manufacturers, supporting
-        chip debugging and accelerating yield analysis. Backed by top-tier deep
-        tech investors, semiconductor experts, and strategic public programs, we
-        have ensured long-term stability, shifting from breakthrough to scale -
-        and shaping the next chapter in chip testing. Why join QuantumDiamonds?
-        Picture this: Quantum sensors that see inside the most advanced chips on
-        Earth, right where two frontier fields collide. Nobel-Prize physics
-        aimed at real customers with real problems, in production now, not
-        someday. Physicists, data scientists, and engineers building side by
-        side, turning deep science into tools the industry actually runs on. An
-        international team that runs at hard problems for fun, where knowledge
-        moves fast and so do you. Still unsure about why joining us? You'll get
-        to build a company together with a brilliant and welcoming team on a
-        product that has never been done before. From Day 1, you'll own your own
-        topics end to end and see the direct impact of your work on how the
-        world sees QuantumDiamonds. Our technology is the cutting edge of
-        tomorrow, starting today and not in 10 years. You’ll be part of a
-        high-growth company backed by top-tier investors. Let’s make the
-        invisible visible! What will you do Own the product requirements: gather
-        needs from customers, the field, the market, and internal stakeholders
-        (serviceability, modularity and product configuration,
-        manufacturability, and cost targets), and turn them into clear,
-        prioritized, solution-neutral requirements. Establish our requirements
-        engineering tooling and workflow: select and set up how we capture,
-        trace, and maintain requirements, from customer need through
-        specification to verification, including change control across releases.
-        This is a foundational task in your first months. Own and maintain the
-        QDm.1 roadmap: propose what gets built and in what order, make the
-        trade-offs explicit, and align decisions with the management team. Work
-        with the applications team on customer interactions and evaluations with
-        fabs, IDMs, OSATs and failure analysis labs, and translate what you
-        learn into requirements. For each requirement, define acceptance
-        criteria from the customer's point of view so it is clear and testable
-        when the need is met, and link them to customer evaluation and
-        qualification plans. Align with the Product Development department on
-        scope and timing, and hand solution-neutral requirements into
-        engineering: state the need and the why, and leave the how to the
-        disciplines. Support go-to-market: give input on positioning, pricing,
-        launch readiness, and documentation scope together with the
-        applications, operations, and product development teams. What is
-        expected of you Several years in product management for complex hardware
-        or capital equipment, ideally in semiconductor, metrology, or a
-        comparable deep-tech environment. A track record of writing clear
-        product requirements that engineering can actually build from. The
-        ability to talk to both customers and engineers and to translate between
-        them. Enough technical depth to hold a credible conversation with the
-        people designing the product, across mechanics, optics, electronics/RF,
-        and software. Structured prioritization: you make trade-offs explicit
-        and back them with reasoning. We hire for demonstrated skill rather than
-        a specific degree; a technical or scientific background is typical. The
-        working language is English. Additional experience we value:
-        Semiconductor industry knowledge (fabs, IDMs, OSATs, inspection,
-        metrology, or failure analysis). Familiarity with SEMI standards and fab
-        tool integration (for example, S2/S8, E10, SECS/GEM). Experience
-        selecting or setting up a requirements management tool (for example,
-        Jama, Polarion, or CodeBeamer). A working understanding of quantum
-        sensing, optics, or precision instrumentation. Our benefits Mission: At
-        QD, we’re driven by more than just building great products - we aim to
-        make a lasting difference. Joining us means contributing to meaningful
-        work that goes beyond business as usual. Impact &amp; growth: This is an
-        exciting stage of our journey, and your voice matters. You’ll have the
-        chance to shape our culture, influence key decisions, and grow alongside
-        a company that’s scaling fast. Health &amp; fitness: With a
-        company-sponsored Wellpass membership, you’ll have access to countless
-        gyms, classes, and wellness offers across Germany to stay healthy and
-        active. Team &amp; culture: We believe the best ideas come when we
-        connect outside the office. From regular off-sites to team events,
-        you’ll be part of a collaborative and supportive environment. Well-being
-        &amp; balance: We value rest and recovery. That’s why you’ll enjoy 30
-        vacation days plus public holidays to recharge and return inspired.
-        Learning &amp; development: Your growth is our priority. We provide an
-        annual budget dedicated to courses, conferences, or any resources that
-        help you expand your skills. Ownership &amp; participation: As part of
-        our equity program, you’ll directly share in our success and the value
-        we create together. About us QuantumDiamonds GmbH, headquartered in
-        Munich, Germany, develops and manufactures semiconductor inspection
-        systems based on quantum sensing. Spun out of the Technical University
-        of Munich in 2022, the company uses nitrogen-vacancy centers in diamond
-        to map electrical current with micrometer precision inside advanced 2.5D
-        and 3D chip architectures. Nine of the world's ten largest semiconductor
-        manufacturers are engaged with QuantumDiamonds, with systems deployed
-        across Europe, the United States, and Asia. The company is investing
-        €152 million to build the world's first production facility for quantum
-        sensing-based semiconductor inspection tools, supported under the
-        European Chips Act. Find Jobs in Germany on Arbeitnow"
-      job_types:
-        - Full Time
-      remote: false
-      score: 74
-      skill_hits: 1
-      bucket_id: pm_product
-      fetched_at: 2026-10-23T20:37:43.569Z
-      pulled_at: 2026-10-23T20:37:43.569Z
-      stale_days: 30
-      is_stale: true
+  pm_product: []
   scrum_agile: []
   program_management: []
 meta:
@@ -6646,7 +6603,7 @@ meta:
     personio_xml_feeds: 986
     smartrecruiters_companies: 41
     teamtailor_companies: 0
-    recruitee_companies: 84
+    recruitee_companies: 85
     ashby_organizations: 543
     stepstone_feeds: 0
     arbeitnow: 1
@@ -6664,9 +6621,9 @@ meta:
     scrum_agile: 2
     program_management: 2
   inactive_counts:
-    pm_product: 5
+    pm_product: 0
     scrum_agile: 0
     program_management: 0
   timings_ms:
-    fetch: 30468
-    total: 49417
+    fetch: 46081
+    total: 74878
