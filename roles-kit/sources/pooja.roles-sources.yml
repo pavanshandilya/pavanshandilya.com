@@ -1,4 +1,4 @@
-generated_at: 2026-11-24T03:25:54.823Z
+generated_at: 2026-11-25T01:31:17.290Z
 explicit:
   company_names:
     - SAP
@@ -1159,6 +1159,16 @@ discovered:
     - joivy
     - tipico
     - beamery
+    - patronus
+    - immersivelabs
+    - skin-analytics
+    - runa
+    - dataro
+    - headout
+    - agon
+    - verint
+    - tldraw
+    - lucis
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -2822,6 +2832,16 @@ discovered:
     - dedale-intelligence
     - tandem-health
     - beamery
+    - patronus
+    - immersivelabs
+    - skin-analytics
+    - runa
+    - dataro
+    - headout
+    - agon
+    - verint
+    - tldraw
+    - lucis
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
