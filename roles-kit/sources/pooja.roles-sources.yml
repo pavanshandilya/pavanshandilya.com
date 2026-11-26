@@ -1,4 +1,4 @@
-generated_at: 2026-11-25T01:31:17.290Z
+generated_at: 2026-11-26T01:05:05.615Z
 explicit:
   company_names:
     - SAP
@@ -1169,6 +1169,12 @@ discovered:
     - verint
     - tldraw
     - lucis
+    - augustus
+    - whoop
+    - wizz
+    - pur
+    - prelude
+    - harmattan-ai
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -2287,6 +2293,7 @@ discovered:
     - peripass
     - fastned
     - joivy
+    - pur
   ashby_organizations:
     - telus-digital
     - a-team
@@ -2842,6 +2849,11 @@ discovered:
     - verint
     - tldraw
     - lucis
+    - augustus
+    - whoop
+    - wizz
+    - prelude
+    - harmattan-ai
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
