@@ -1,4 +1,4 @@
-generated_at: 2026-11-26T01:05:05.615Z
+generated_at: 2026-11-27T01:05:51.979Z
 explicit:
   company_names:
     - SAP
@@ -1175,6 +1175,9 @@ discovered:
     - pur
     - prelude
     - harmattan-ai
+    - scaleops
+    - deepjudge
+    - blitzy
   personio_xml_feeds:
     - https://parte-verwaltung-gmbh.jobs.personio.de/xml
     - https://parte-verwaltung-gmbh.jobs.personio.com/xml
@@ -2206,6 +2209,7 @@ discovered:
     - instructure
     - tipico
     - beamery
+    - scaleops
   teamtailor_companies: []
   recruitee_companies:
     - sendcloud
@@ -2854,6 +2858,8 @@ discovered:
     - wizz
     - prelude
     - harmattan-ai
+    - deepjudge
+    - blitzy
   stepstone_feeds: []
   official_career_pages:
     - https://sap.com/careers
